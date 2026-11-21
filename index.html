@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Annotationes · The Spiritual Exercises in the Twentieth Century</title>
+<meta name="description" content="A research apparatus on the modern reception of the Spiritual Exercises of Ignatius of Loyola: the text paragraph by paragraph at the centre, the commentaries, translations, papal documents, journals and literary readings of the twentieth century in the margin, sorted by language, decade, genre and access.">
+<script>
+  // Decide the theme before first paint: stored choice, else the system setting.
+  (function () {
+    var t = null;
+    try { t = localStorage.getItem("annTheme"); } catch (e) {}
+    if (!t) t = (window.matchMedia && matchMedia("(prefers-color-scheme: light)").matches) ? "light" : "dark";
+    document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="#/"><strong>Annotationes</strong><span>The Spiritual Exercises in the twentieth century</span></a>
+  <nav class="nav" id="nav">
+    <a href="#/spex/23" data-r="spex">Reader</a>
+    <a href="#/book" data-r="book">The book as a whole</a>
+    <a href="#/works" data-r="works">Works</a>
+    <a href="#/method" data-r="method">Method</a>
+  </nav>
+  <button class="iconbtn" id="themeBtn" type="button" aria-label="Switch colour theme">◐</button>
+</header>
+<main id="view" tabindex="-1"></main>
+<footer>
+  Annotationes · a research apparatus in the orbit of
+  <a href="https://ignatian-research.netlify.app/" target="_blank" rel="noopener">Ignatiana</a> ·
+  <a href="#/method">Method and rights</a> · <a href="#/imprint">Legal notice</a> · <a href="#/privacy">Privacy</a>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>
