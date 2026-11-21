@@ -15,12 +15,12 @@
       "note": "Not on the Internet Archive. HathiTrust serves the scan behind a bot check; extraction has to go through the browser." },
 
     { "id": "feder-1922", "author": "Alfred Feder, SJ (1872–1927)", "title": "Ignatius von Loyola, Geistliche Übungen. Nach dem spanischen Urtext übertragen, eingeleitet und mit Anmerkungen versehen",
-      "year": 1922, "lang": "de", "genre": "translation", "tier": "A", "status": "source located; re-OCR and segmentation pending",
+      "year": 1922, "lang": "de", "genre": "translation", "tier": "A", "status": "in the apparatus: German layer of the centre text, paragraph-exact on [1]–[370]",
       "imprint": "2nd, improved and enlarged edition (3rd–5th thousand). Regensburg: Verlagsanstalt vorm. G. J. Manz, 1922",
       "rights": "US public domain (published 1922); public domain in Germany as well, the translator having died in 1927.",
       "sources": [ { "label": "Internet Archive MN5044ucmf_5 (University of Chicago microfilm)", "url": "https://archive.org/details/MN5044ucmf_5" },
                    { "label": "Herder edition 1939 (lending only)", "url": "https://archive.org/details/ignatiusvonloyol0000alfr" } ],
-      "note": "Published for the fourth centenary of the book (1522/23); the preface says a new edition was needed within barely six months. Planned as the German layer of the centre column. The microfilm OCR is poor and has to be redone from the page images." },
+      "note": "Published for the fourth centenary of the book (1522/23); the preface says a new edition was needed within barely six months. The German layer of the centre column (language button 'de'). The text is the Internet Archive's ABBYY reading of the microfilm, rebuilt into paragraphs without running heads and footnotes (tools/feder_extract.py), corrected against a German dictionary with every change logged and some 250 forms read in context (tools/feder_fix.py), and put on the 1928 grid by an editorial anchor table compiled by reading Feder beside the Spanish (tools/feder_anchors.json, checked by tools/feder_check.py). Residual reading errors remain; Feder's italics, which mark words he supplied, are not reproduced; his footnotes and endnotes are left out. Some mystery headings were lost in the scan." },
 
     { "id": "pius11-1922", "author": "Pius XI", "title": "Constitutio apostolica Summorum Pontificum: S. Ignatius de Loyola caelestis Exercitiorum spiritualium patronus declaratur",
       "year": 1922, "lang": "la", "genre": "magisterium", "tier": "A", "status": "in the apparatus (key passages)",

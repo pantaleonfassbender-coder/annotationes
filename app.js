@@ -150,7 +150,7 @@ function viewReader(n) {
     <div class="textcol">
       <div class="toolbar">
         <div class="seg" role="group" aria-label="Language of the text">
-          ${["es", "la", "en", "de", "all"].map(l => `<button type="button" data-l="${l}" ${l === "de" ? 'disabled title="Feder 1922: re-OCR and segmentation pending"' : ""}>${l === "all" ? "all" : l}</button>`).join("")}
+          ${["es", "la", "en", "de", "all"].map(l => `<button type="button" data-l="${l}" ${l === "de" ? 'title="German: Feder 1922"' : ""}>${l === "all" ? "all" : l}</button>`).join("")}
         </div>
         <div class="secnav">
           ${si > 0 ? `<a href="#/spex/${D.sections[si - 1].von}">← ${esc(short(D.sections[si - 1]))}</a>` : ""}
@@ -161,6 +161,9 @@ function viewReader(n) {
       <div class="secrange">[${sec.von}]–[${sec.bis}] · ${esc(sec.titel_es)}</div>
       <div class="paras"></div>
       <p class="fine" style="margin-top:1.5rem">${esc(D.ex.nummerierung)} ${esc(D.ex.vorlage_status)}</p>
+      ${(exLang === "de" || exLang === "all") && D.feder ? `<p class="fine">German: ${esc(D.feder.quelle)} ${esc(D.feder.vorlage_status)} ${esc(D.feder.hinweis)}
+        Its paragraphs were put on the 1928 grid with the editorial anchor table in <span class="mono">tools/feder_anchors.json</span>.
+        <a href="#/works/feder-1922">About this translation</a>.</p>` : ""}
     </div>
     <aside class="margin" aria-label="Glosses"></aside>
   </div>`);
@@ -170,6 +173,13 @@ function viewReader(n) {
     b.classList.toggle("on", b.dataset.l === exLang);
     b.onclick = () => { exLang = b.dataset.l; store("annLang", exLang); route(); };
   });
+  // The German layer is a separate file, loaded the first time it is asked for.
+  if ((exLang === "de" || exLang === "all") && !D.feder) {
+    getJSON("data/feder.json").then(f => {
+      D.feder = f; D.federUnits = {}; f.units.forEach(u => D.federUnits[u.n] = u);
+      if (location.hash.startsWith("#/spex")) route();
+    }).catch(() => {});
+  }
 
   const paras = wrap.querySelector(".paras");
   for (const p of sec.units) {
@@ -187,13 +197,21 @@ function viewReader(n) {
 }
 const short = s => s.titel_en.split(/[,:;]/)[0].slice(0, 34);
 function paraText(p) {
+  const de = () => {
+    if (!D.federUnits) return `<span class="fine">Loading the German…</span>`;
+    const u = D.federUnits[p.n];
+    if (!u || !u.de) return `<span class="fine">Not in Feder's text as scanned.</span>`;
+    const pg = u.pages.length > 1 ? `pp. ${u.pages[0]}–${u.pages[u.pages.length - 1]}` : `p. ${u.pages[0]}`;
+    return esc(u.de) + ` <span class="fine">(Feder 1922, ${pg})</span>`;
+  };
   const one = l => {
+    if (l === "de") return de();
     const t = p[l] || "", L = p["label_" + l];
     const norm = s => s.toLowerCase().replace(/[^a-záéíóúñ0-9]/g, "");
     const lab = L && !norm(t).startsWith(norm(L)) ? `<span class="plabel">${esc(L)}</span>` : "";
     return lab + esc(t);
   };
-  if (exLang === "all") return ["es", "la", "en"].map(l => `<span class="lang">${l}</span>${one(l)}`).join("");
+  if (exLang === "all") return ["es", "la", "en", "de"].map(l => `<span class="lang">${l}</span>${one(l)}`).join("");
   return one(exLang);
 }
 function select(n) {
@@ -394,8 +412,12 @@ function viewMethod() {
     <div class="panel"><h2>The centre text</h2>
       <p class="readable">The Exercises are taken over from Ignatiana: the Spanish autograph and the Latin Vulgate of
       1548 from Monumenta Ignatiana (Madrid 1919), and Elder Mullan's English of 1914, all three in the US public
-      domain, segmented onto the paragraph grid [1]–[370]. A German layer from Alfred Feder's translation (Regensburg
-      1922) is in preparation; Feder died in 1927, so it is free in Germany as well.</p>
+      domain, segmented onto the paragraph grid [1]–[370]. The German layer is Alfred Feder's translation from the
+      autograph (Regensburg 1922), free in the United States and, Feder having died in 1927, in Germany as well. It was
+      read by machine from a microfilm, cleaned and corrected against a dictionary (every change is logged), and put
+      on the grid by an anchor table compiled by reading Feder beside the Spanish; a length check against the Spanish
+      flags five paragraphs, all explained (mystery headings lost in the scan, short apparitions). Residual reading
+      errors remain, and Feder's italics, which mark the words he supplied, are not reproduced.</p>
       <p class="readable">The grid itself dates from 1928. Works written before it (Rickaby 1915, Longridge 1919,
       Feder 1922) are mapped onto it editorially; their own divisions are kept as labels.</p></div>
     <div class="panel"><h2>Access tiers</h2><table class="plain"><tr><th></th><th>Tier</th><th>What it means here</th></tr>${tierRows}</table>
@@ -419,7 +441,8 @@ function viewMethod() {
         <em>Deus semper maior</em> by its table of contents; journal articles from the free archives of the
         <em>Zeitschrift für Aszese und Mystik</em> (1926–1944) and <em>Geist und Leben</em> (1947–1978), assigned from
         their titles.</li>
-        <li>Pending: Feder 1922 as German layer (re-OCR and segmentation); Rickaby 1915 (HathiTrust); the articles of
+        <li>In since stage 1b: Feder 1922 as German layer of the centre text, paragraph-exact.</li>
+        <li>Pending: Rickaby 1915 (HathiTrust); Feder's endnotes as a commentary layer; the articles of
         the <em>Revue d'ascétique et de mystique</em> vols. 1–4; <em>Studies in the Spirituality of Jesuits</em>; page
         anchor tables for the tier-C works, Przywara first; the Jung passages, which have been located but not yet
         read.</li>

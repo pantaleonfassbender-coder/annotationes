@@ -11,6 +11,11 @@ Stage 1 of the build. The design document is [DESIGN.md](DESIGN.md).
 ## What is in
 
 - The trilingual text (Spanish autograph, Vulgate 1548, Mullan 1914), taken over from Ignatiana.
+- A German layer: Alfred Feder's translation (Regensburg 1922), public domain in the US and in Germany,
+  paragraph-exact on [1]–[370] (`data/feder.json`). Pipeline: `tools/feder_extract.py` (ABBYY OCR of the
+  microfilm → paragraphs without running heads and footnotes), `tools/feder_fix.py` (dictionary-checked
+  corrections, log in `data/src/feder_corrections.json`), `tools/feder_align.py` with the editorial anchor
+  table `tools/feder_anchors.json`, and `tools/feder_check.py` (length check against the Spanish).
 - Longridge 1919 as a commentary layer (taken over from Ignatiana; text loaded on demand).
 - Joyce, *A Portrait of the Artist as a Young Man* (1916), the retreat chapter: four passages.
 - Pius XI, *Summorum Pontificum* (1922) and *Mens nostra* (1929): key passages from the Acta

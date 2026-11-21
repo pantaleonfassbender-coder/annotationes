@@ -245,8 +245,9 @@ gloss index) CC0; public-domain texts as such. No copyrighted text in the reposi
 ## 11. Open questions
 
 - End date 1978 or 2000?
-- German translation layer: settled, Feder 1922 (translator d. 1927). Open is only the quality of the
-  microfilm scan; a better copy of the 1921/22 editions would help.
+- German translation layer: done (stage 1b, 21 November 2026), Feder 1922, paragraph-exact. Open: the
+  residual reading errors of the microfilm OCR (a better scan of the 1921/22 editions would help), Feder's
+  italics (translator's additions) and his endnotes as a commentary layer.
 - Should the 1928 numbering be told as its own story (who introduced it, in which edition)? It would
   make claim 2 of §1 checkable.
 - Name: *Annotationes* is a working title.
