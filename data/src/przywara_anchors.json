@@ -1,5 +1,5 @@
 {
- "_note": "Anchor table for Erich Przywara, Deus semper maior (Freiburg: Herder, 1938-40): where each part of the Exercises is treated, by volume and page, read from the tables of contents of the volumes as scanned at the Internet Archive (borrowed copies, read on 21 November 2026). Derived data without text (CC0). 'what' is my own English description, not Przywara's heading. Volumes II and III still carry only the coarse assignment of glosses_curated.json.",
+ "_note": "Anchor table for Erich Przywara, Deus semper maior (Freiburg: Herder, 1938-40): where each part of the Exercises is treated, by volume and page, read from the tables of contents of the volumes as scanned at the Internet Archive (borrowed copies, read on 21 November 2026). Derived data without text (CC0). 'what' is my own English description, not Przywara's heading. Volume II read the same way on 22 November 2026 (repetitions and applications of the senses after the first day are left out so as not to smear the density strip). Volume III still carries only the coarse assignment of glosses_curated.json.",
  "edition": "Herder 1938-1940, first edition",
  "anchors": [
   {
@@ -490,6 +490,738 @@
     327
    ],
    "what": "The enemy's wiles"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    3,
+    5
+   ],
+   "spex": [
+    91,
+    189
+   ],
+   "what": "Second Week: introduction"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    6,
+    9
+   ],
+   "spex": [
+    91,
+    100
+   ],
+   "what": "The Call: introduction"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    9,
+    14
+   ],
+   "spex": [
+    91,
+    94
+   ],
+   "what": "The call of the temporal king: invitation and following"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    14,
+    19
+   ],
+   "spex": [
+    95,
+    98
+   ],
+   "what": "Applied to Christ our Lord, with the offering"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    20,
+    21
+   ],
+   "spex": [
+    101,
+    101
+   ],
+   "what": "First day: introduction (the first five days as a lived election)"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    21,
+    28
+   ],
+   "spex": [
+    101,
+    109
+   ],
+   "what": "The Incarnation: seeing, hearing, watching what they do; colloquy"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    28,
+    31
+   ],
+   "spex": [
+    263,
+    263
+   ],
+   "what": "The Visitation (second exercise of Przywara's first day)"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    32,
+    33
+   ],
+   "spex": [
+    118,
+    120
+   ],
+   "what": "Repetitions of the first day"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    34,
+    35
+   ],
+   "spex": [
+    121,
+    126
+   ],
+   "what": "Application of the senses, first day"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    36,
+    41
+   ],
+   "spex": [
+    110,
+    117
+   ],
+   "what": "Second day: the Nativity"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    41,
+    44
+   ],
+   "spex": [
+    265,
+    265
+   ],
+   "what": "The shepherds"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    48,
+    53
+   ],
+   "spex": [
+    266,
+    266
+   ],
+   "what": "Third day: the Circumcision"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    53,
+    57
+   ],
+   "spex": [
+    267,
+    267
+   ],
+   "what": "The Magi"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    64,
+    65
+   ],
+   "spex": [
+    132,
+    132
+   ],
+   "what": "Fourth day: introduction (Ignatius's second day)"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    65,
+    71
+   ],
+   "spex": [
+    268,
+    268
+   ],
+   "what": "The Presentation in the Temple"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    71,
+    78
+   ],
+   "spex": [
+    269,
+    270
+   ],
+   "what": "The flight into Egypt and the return"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    83,
+    85
+   ],
+   "spex": [
+    135,
+    135
+   ],
+   "what": "Fifth day: introduction, the two states of life"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    85,
+    90
+   ],
+   "spex": [
+    271,
+    271
+   ],
+   "what": "Nazareth"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    90,
+    96
+   ],
+   "spex": [
+    272,
+    272
+   ],
+   "what": "The twelve-year-old in the Temple"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    102,
+    105
+   ],
+   "spex": [
+    136,
+    136
+   ],
+   "what": "Sixth day, the day of election: introduction"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    105,
+    108
+   ],
+   "spex": [
+    136,
+    139
+   ],
+   "what": "Two Standards: introduction and preludes"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    108,
+    110
+   ],
+   "spex": [
+    140,
+    140
+   ],
+   "what": "Lucifer's place"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    110,
+    112
+   ],
+   "spex": [
+    141,
+    141
+   ],
+   "what": "Lucifer's summons"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    112,
+    114
+   ],
+   "spex": [
+    142,
+    142
+   ],
+   "what": "Lucifer's discourse"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    115,
+    117
+   ],
+   "spex": [
+    143,
+    143
+   ],
+   "what": "Christ's place"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    117,
+    119
+   ],
+   "spex": [
+    144,
+    144
+   ],
+   "what": "Christ's choosing and sending"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    119,
+    124
+   ],
+   "spex": [
+    145,
+    145
+   ],
+   "what": "Christ's discourse"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    124,
+    126
+   ],
+   "spex": [
+    146,
+    148
+   ],
+   "what": "The three colloquies"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    126,
+    129
+   ],
+   "spex": [
+    149,
+    152
+   ],
+   "what": "Three Classes of Men: introduction and preludes"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    129,
+    130
+   ],
+   "spex": [
+    153,
+    153
+   ],
+   "what": "The first class"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    130,
+    132
+   ],
+   "spex": [
+    154,
+    154
+   ],
+   "what": "The second class"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    132,
+    136
+   ],
+   "spex": [
+    155,
+    155
+   ],
+   "what": "The third class"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    136,
+    137
+   ],
+   "spex": [
+    156,
+    157
+   ],
+   "what": "The three colloquies and the note"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    138,
+    139
+   ],
+   "spex": [
+    328,
+    328
+   ],
+   "what": "Rules for discernment, second set: their place on the sixth day"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    139,
+    142
+   ],
+   "spex": [
+    329,
+    330
+   ],
+   "what": "The immediate in religious life: consolation from God alone"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    142,
+    148
+   ],
+   "spex": [
+    331,
+    336
+   ],
+   "what": "The mediate in religious life: consolation with cause, the angel of light"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    149,
+    152
+   ],
+   "spex": [
+    158,
+    161
+   ],
+   "what": "Seventh day: introduction"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    152,
+    158
+   ],
+   "spex": [
+    273,
+    273
+   ],
+   "what": "The Baptism of Christ"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    158,
+    163
+   ],
+   "spex": [
+    274,
+    274
+   ],
+   "what": "The Temptation of Christ"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    169,
+    170
+   ],
+   "spex": [
+    169,
+    169
+   ],
+   "what": "Election: introduction"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    170,
+    173
+   ],
+   "spex": [
+    164,
+    165
+   ],
+   "what": "Three kinds of humility as the inner form of election: introduction"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    173,
+    176
+   ],
+   "spex": [
+    165,
+    165
+   ],
+   "what": "The first kind of humility"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    176,
+    180
+   ],
+   "spex": [
+    166,
+    166
+   ],
+   "what": "The second kind of humility"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    180,
+    185
+   ],
+   "spex": [
+    167,
+    168
+   ],
+   "what": "The third kind of humility"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    185,
+    192
+   ],
+   "spex": [
+    169,
+    189
+   ],
+   "what": "The carrying out of the election: form, matter, way"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    193,
+    196
+   ],
+   "spex": [
+    161,
+    161
+   ],
+   "what": "Eighth day: introduction"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    196,
+    209
+   ],
+   "spex": [
+    275,
+    275
+   ],
+   "what": "The call of the apostles"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    209,
+    214
+   ],
+   "spex": [
+    276,
+    276
+   ],
+   "what": "The wedding at Cana"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    220,
+    227
+   ],
+   "spex": [
+    277,
+    277
+   ],
+   "what": "Ninth day: the cleansing of the Temple"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    227,
+    239
+   ],
+   "spex": [
+    278,
+    278
+   ],
+   "what": "The Sermon on the Mount"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    245,
+    251
+   ],
+   "spex": [
+    279,
+    279
+   ],
+   "what": "Tenth day: the storm at sea"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    251,
+    257
+   ],
+   "spex": [
+    280,
+    280
+   ],
+   "what": "Walking on the sea"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    263,
+    264
+   ],
+   "spex": [
+    161,
+    161
+   ],
+   "what": "Eleventh day: introduction (the third kind of humility as spirit of mission)"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    264,
+    270
+   ],
+   "spex": [
+    281,
+    281
+   ],
+   "what": "The sending of the apostles"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    270,
+    278
+   ],
+   "spex": [
+    282,
+    282
+   ],
+   "what": "Mary Magdalen"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    286,
+    292
+   ],
+   "spex": [
+    283,
+    283
+   ],
+   "what": "Twelfth day: the feeding of the five thousand"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    292,
+    300
+   ],
+   "spex": [
+    284,
+    284
+   ],
+   "what": "The Transfiguration"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    309,
+    317
+   ],
+   "spex": [
+    285,
+    285
+   ],
+   "what": "Thirteenth day: the raising of Lazarus"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    317,
+    323
+   ],
+   "spex": [
+    286,
+    286
+   ],
+   "what": "The supper at Bethany"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    336,
+    342
+   ],
+   "spex": [
+    287,
+    287
+   ],
+   "what": "Fourteenth day: Palm Sunday"
+  },
+  {
+   "vol": 2,
+   "pp": [
+    342,
+    350
+   ],
+   "spex": [
+    288,
+    288
+   ],
+   "what": "The preaching in the Temple"
   }
  ]
 }
