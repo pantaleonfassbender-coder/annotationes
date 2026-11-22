@@ -352,7 +352,12 @@
    "status": "in the apparatus: 28 passages read and placed (paragraph numbers from the page); Jung quotes the Exercises in Rickaby's second edition, 1923",
    "imprint": "Bollingen Series XX, 1953–1979; cited by volume and paragraph",
    "rights": "Protected.",
-   "sources": [],
+   "sources": [
+    {
+     "label": "Collected Works apparatus (volume pages; full text only on the reader's own copy)",
+     "url": "https://analysis-works-jung.netlify.app/"
+    }
+   ],
    "note": "A word search of the Complete Digital Edition finds Ignatius, Loyola, Exercitia or 'Spiritual Exercises' in about forty places across twelve volumes, index pages excluded; main stations CW 8 §395, CW 9i §232–238, CW 11 §779–958, CW 13 §293, CW 18 §1536–1549. They become glosses once read; the year given is that of the first volume."
   },
   {

@@ -20,7 +20,7 @@ data/works.json, and stops on any error.
 
 Usage: python tools/build_glosses.py
 """
-import json, os, sys
+import json, os, re, sys
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D = lambda *p: os.path.join(REPO, 'data', *p)
@@ -87,7 +87,12 @@ for i, a in enumerate(PZ['anchors']):
     })
 
 out += load(D('src', 'glosses_curated.json'))['glosses']
-out += load(D('src', 'jung_cw.json'))['glosses']
+# Jung: each passage links to its volume in the operator's Collected Works apparatus, which
+# has no paragraph address (its deepest route is #/volumes/{n}).
+JUNG_SITE = 'https://analysis-works-jung.netlify.app/#/volumes/'
+for g in load(D('src', 'jung_cw.json'))['glosses']:
+    vol = re.match(r'CW (\w+)', g['loc']).group(1)
+    out.append({**g, 'url': JUNG_SITE + vol, 'linkLabel': f'CW {vol} in the Collected Works apparatus'})
 if os.path.exists(D('src', 'journals.json')):
     out += load(D('src', 'journals.json'))['glosses']
 

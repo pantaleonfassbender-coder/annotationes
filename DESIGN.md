@@ -223,9 +223,8 @@ Two layers, both linked rather than reproduced:
    second edition (1923) throughout (CW 9ii, 13, 14); the stations cluster on the Foundation [23],
    the colloquy [53–54], the hell meditation and the senses [65–71, 121–126, 247–248], and, by way
    of the serpent vision of the Autobiography, on discernment. The operator's Jung site is the Netlify
-   project `analysis-works-jung` (repo `collected-works`); it was disabled on Netlify as of 22 November
-   2026, so the glosses carry no link yet. Its router has no paragraph address; the deepest link is
-   `#/volumes/{n}`.
+   project `analysis-works-jung` (repo `collected-works`). Its router has no paragraph address, so each
+   Jung gloss links to its volume page (`#/volumes/{n}`); the paragraph stays in the gloss's locator.
 2. **ETH lectures 1939–40** (Liebscher 2023), tier C. Like Przywara's first volume, they take up the
    *Anima Christi*; whether Jung knew Przywara's work is to be checked in Liebscher's apparatus.
    No copy is available to the operator (22 November 2026), so this layer stays a bibliographic
