@@ -139,7 +139,7 @@
    "lang": "fr",
    "genre": "journal",
    "tier": "A",
-   "status": "volumes 1–4 located, articles not yet indexed",
+   "status": "volumes 1–4 (1920–1923) searched; seven articles and reviews on the Exercises linked to their pages",
    "imprint": "Toulouse, from 1920",
    "rights": "Volumes published before 1931 are in the US public domain.",
    "sources": [
@@ -152,7 +152,7 @@
      "url": "https://archive.org/details/revuedasctique03toul"
     }
    ],
-   "note": "The Jesuit review of Toulouse, founded in the same years as the Dominican La Vie spirituelle; the forum of the debate on 'Ignatian mysticism'."
+   "note": "The Jesuit review of Toulouse, founded in the same years as the Dominican La Vie spirituelle; the forum of the debate on 'Ignatian mysticism'. Indexed from the general tables of volumes 1–4; each article is linked to its first page in the scan."
   },
   {
    "id": "zam",
@@ -201,16 +201,20 @@
    "lang": "en",
    "genre": "journal",
    "tier": "B",
-   "status": "archive confirmed open; articles not yet assigned",
+   "status": "linked, issue by issue (1969–1978: eight essays on the Exercises, discernment, election and thinking with the Church)",
    "imprint": "St. Louis, later Boston College, from 1969",
    "rights": "Open access; read on the publisher's site.",
    "sources": [
     {
      "label": "Jesuit Sources Digital",
      "url": "https://jesuitsourcesdigital.bc.edu/"
+    },
+    {
+     "label": "Jesuit Studies Digital Collection, index of Studies",
+     "url": "https://jsdc.bc.edu/?p=386"
     }
    ],
-   "note": "Complete archive open without an account."
+   "note": "Each issue is one essay. The early issues are linked as PDFs at web.bc.edu/jsdc/jsl/ (ssj_YYYYMMDD.pdf; the older sjs_ addresses return 404). Essays are assigned from their titles; the communal discernment essays of 1971–73 are placed on the election, whose method they turn to a community."
   },
   {
    "id": "theway",

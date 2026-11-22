@@ -104,6 +104,208 @@
    "loc": "Geist und Leben 66 (1993), pp. 208–227",
    "url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-66-1993/heft-3-mai-juni-16/abhandlungen-eva-maria-faber-deus-semper-maior-erich-przywaras-theologie-der-exerzitien-208%E2%88%92227/",
    "note": "The German introduction to Przywara's commentary. Later scholarship, linked for orientation."
+  },
+  {
+   "id": "ram-1920-marchetti",
+   "work": "ram",
+   "spex": [
+    1,
+    1
+   ],
+   "basis": "read",
+   "author": "O. Marchetti",
+   "title": "Le seuil de l'ascétique",
+   "year": 1920,
+   "loc": "Revue d'ascétique et de mystique 1 (1920), pp. 40–41 (article pp. 36–47)",
+   "url": "https://archive.org/details/revuedasctique01toul/page/n45",
+   "note": "Against readers who take the Exercises, or at least the First Week, for exercises of conversion: the first Annotation names their aim as finding the will of God for one's life once disordered affections are removed, and such affections are found in the just as well.",
+   "quote": "le but principal est de chercher et trouver la volonté de Dieu, pour s'y conformer dans la disposition de sa vie."
+  },
+  {
+   "id": "ram-1920-debuchy",
+   "work": "ram",
+   "spex": null,
+   "basis": "title",
+   "author": "P. Debuchy",
+   "title": "Review of Monumenta Historica S.J., Exercitia spiritualia (Madrid 1919)",
+   "year": 1920,
+   "loc": "Revue d'ascétique et de mystique 1 (1920), pp. 87–91",
+   "url": "https://archive.org/details/revuedasctique01toul/page/n92",
+   "note": "The French Jesuit review greets the critical edition of the Exercises from which this apparatus takes its Spanish and Latin text."
+  },
+  {
+   "id": "ram-1921-prat",
+   "work": "ram",
+   "spex": [
+    165,
+    168
+   ],
+   "basis": "title",
+   "author": "F. Prat",
+   "title": "Sur les « trois degrés d'humilité » d'après S. Ignace",
+   "year": 1921,
+   "loc": "Revue d'ascétique et de mystique 2 (1921), pp. 248–255",
+   "url": "https://archive.org/details/revuedasctique01toul/page/n673",
+   "note": ""
+  },
+  {
+   "id": "ram-1922-watrigant",
+   "work": "ram",
+   "spex": null,
+   "basis": "title",
+   "author": "H. Watrigant",
+   "title": "La méditation méthodique et l'école des Frères de la vie commune",
+   "year": 1922,
+   "loc": "Revue d'ascétique et de mystique 3 (1922), pp. 134–155",
+   "url": "https://archive.org/details/revuedasctique03toul/page/n139",
+   "note": "The editor of the Bibliothèque des Exercices on the late-medieval sources of methodical meditation."
+  },
+  {
+   "id": "ram-1922-cavallera",
+   "work": "ram",
+   "spex": null,
+   "basis": "title",
+   "author": "F. Cavallera",
+   "title": "La spiritualité des Exercices",
+   "year": 1922,
+   "loc": "Revue d'ascétique et de mystique 3 (1922), pp. 357–380",
+   "url": "https://archive.org/details/revuedasctique03toul/page/n362",
+   "note": ""
+  },
+  {
+   "id": "ram-1922-bremond",
+   "work": "ram",
+   "spex": null,
+   "basis": "title",
+   "author": "H. Bremond and F. Cavallera",
+   "title": "École ignatienne et école bérullienne",
+   "year": 1922,
+   "loc": "Revue d'ascétique et de mystique 3 (1922), pp. 420–431",
+   "url": "https://archive.org/details/revuedasctique03toul/page/n425",
+   "note": "Henri Bremond and Ferdinand Cavallera on the Ignatian and the Bérullian school, in the Jesuits' own review: a piece of the 'ascetical or mystical' debate of the 1920s. Chastonay's article on Bremond's view of the Exercises (Zeitschrift für Aszese und Mystik, 1929) answers from the German side."
+  },
+  {
+   "id": "ram-1923-watrigant",
+   "work": "ram",
+   "spex": null,
+   "basis": "title",
+   "author": "H. Watrigant",
+   "title": "La méditation méthodique et Jean Mauburnus",
+   "year": 1923,
+   "loc": "Revue d'ascétique et de mystique 4 (1923), pp. 12 ff.",
+   "url": "https://archive.org/details/revuedasctique03toul/page/n489",
+   "note": "Continues the inquiry into the sources of Ignatian method in the Devotio moderna."
+  },
+  {
+   "id": "ssj-1-2-0",
+   "work": "studies",
+   "spex": null,
+   "basis": "title",
+   "author": "George E. Ganss",
+   "title": "The Authentic Spiritual Exercises of St. Ignatius: Some Facts of History and Terminology Basic to Their Functional Efficacy Today",
+   "year": 1969,
+   "loc": "Studies in the Spirituality of Jesuits I/2 (November 1969)",
+   "url": "https://web.bc.edu/jsdc/jsl/ssj_19691101.pdf",
+   "note": "Ganss on the full Exercises against their reduction to preached retreats: history and terminology."
+  },
+  {
+   "id": "ssj-2-2-1",
+   "work": "studies",
+   "spex": [
+    313,
+    336
+   ],
+   "basis": "title",
+   "author": "John Carroll Futrell",
+   "title": "Ignatian Discernment",
+   "year": 1970,
+   "loc": "Studies in the Spirituality of Jesuits II/2 (April 1970)",
+   "url": "https://web.bc.edu/jsdc/jsl/ssj_19700401.pdf",
+   "note": ""
+  },
+  {
+   "id": "ssj-3-4-2",
+   "work": "studies",
+   "spex": [
+    169,
+    189
+   ],
+   "basis": "title",
+   "author": "Jules J. Toner",
+   "title": "A Method for Communal Discernment of God’s Will",
+   "year": 1971,
+   "loc": "Studies in the Spirituality of Jesuits III/4 (September 1971)",
+   "url": "https://web.bc.edu/jsdc/jsl/ssj_19710901.pdf",
+   "note": "The election methods turned to a community deciding together."
+  },
+  {
+   "id": "ssj-4-5-3",
+   "work": "studies",
+   "spex": [
+    169,
+    189
+   ],
+   "basis": "title",
+   "author": "John Carroll Futrell",
+   "title": "Communal Discernment: Reflections on Experience",
+   "year": 1972,
+   "loc": "Studies in the Spirituality of Jesuits IV/5 (November 1972)",
+   "url": "https://web.bc.edu/jsdc/jsl/ssj_19721101.pdf",
+   "note": "The election methods turned to a community deciding together."
+  },
+  {
+   "id": "ssj-5-5-4",
+   "work": "studies",
+   "spex": [
+    169,
+    189
+   ],
+   "basis": "title",
+   "author": "Ladislas Orsy",
+   "title": "Toward a Theological Evaluation of Communal Discernment",
+   "year": 1973,
+   "loc": "Studies in the Spirituality of Jesuits V/5 (October 1973)",
+   "url": "https://web.bc.edu/jsdc/jsl/ssj_19731001.pdf",
+   "note": "The election methods turned to a community deciding together."
+  },
+  {
+   "id": "ssj-6-5-5",
+   "work": "studies",
+   "spex": null,
+   "basis": "title",
+   "author": "Robert L. Schmitt",
+   "title": "The Christ-Experience and Relationship Fostered in the Spiritual Exercises of St. Ignatius of Loyola",
+   "year": 1974,
+   "loc": "Studies in the Spirituality of Jesuits VI/5 (October 1974)",
+   "url": "https://web.bc.edu/jsdc/jsl/ssj_19741001.pdf",
+   "note": ""
+  },
+  {
+   "id": "ssj-7-1-6",
+   "work": "studies",
+   "spex": [
+    352,
+    370
+   ],
+   "basis": "title",
+   "author": "John H. Wright, George E. Ganss, and Ladislas Orsy",
+   "title": "On Thinking with the Church Today",
+   "year": 1975,
+   "loc": "Studies in the Spirituality of Jesuits VII/1 (January 1975)",
+   "url": "https://web.bc.edu/jsdc/jsl/ssj_19750101.pdf",
+   "note": ""
+  },
+  {
+   "id": "ssj-10-5-7",
+   "work": "studies",
+   "spex": null,
+   "basis": "title",
+   "author": "John W. Padberg",
+   "title": "Personal Experience and the Spiritual Exercises: The Example of Saint Ignatius",
+   "year": 1978,
+   "loc": "Studies in the Spirituality of Jesuits X/5 (November 1978)",
+   "url": "https://web.bc.edu/jsdc/jsl/ssj_19781101.pdf",
+   "note": ""
   }
  ]
 }

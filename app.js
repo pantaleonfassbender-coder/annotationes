@@ -304,7 +304,7 @@ function glossCard(g, opts = {}) {
     ${g.label && g.label !== g.loc ? `<p class="note"><em>${esc(g.label)}</em></p>` : ""}
     ${g.note ? `<p class="note">${esc(g.note)}</p>` : ""}
     ${g.quote ? `<blockquote>${esc(g.quote)}</blockquote>` : ""}
-    ${g.url ? `<p class="note"><a href="${esc(g.url)}" target="_blank" rel="noopener">Read on the publisher's site ↗</a></p>` : ""}
+    ${g.url ? `<p class="note"><a href="${esc(g.url)}" target="_blank" rel="noopener">${w.tier === "A" ? "Read the scan" : "Read on the publisher's site"} ↗</a></p>` : ""}
     ${g.ref ? `<button type="button" class="more">${esc(moreLabel(g))}</button><div class="body" hidden></div>` : ""}
   </article>`);
   const more = card.querySelector(".more");
