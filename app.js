@@ -589,9 +589,9 @@ function viewMethod() {
         own subject index, Torti's Italian commentary (1909) by its section heads, and Benjamín Marcos, <em>San Ignacio
         de Loyola</em> (1923), read in full in Project Gutenberg; Rickaby's English translation as a second English
         text in the reader ("en · Rickaby"), cut onto the grid between the openings found in his Spanish column, with
-        Mullan's English steering the cuts (machine-read, cuts can be off by a clause); four articles of the
-        <em>Zeitschrift für Aszese und Mystik</em> on the Christ-King meditation (Sierp 1930 and 1933, Schuster 1937,
-        Zeiger 1942) read in full and summarized, for the path on the King 1929–1942; Przywara's own index of the numbers
+        Mullan's English steering the cuts (machine-read, cuts can be off by a clause); twelve articles of the
+        <em>Zeitschrift für Aszese und Mystik</em> and <em>Geist und Leben</em> read in full and summarized, among them
+        six on the Christ-King meditation for the path on the King 1929–1942; Przywara's own index of the numbers
         of the Exercises (vol. III, pp. 438–440), transcribed by hand: 281 entries, of which the 130 that send a paragraph
         beyond the sections his tables of contents give it stand as glosses of their own.</li>
         <li>Pending: Spanish and Italian work after 1930 (Casanovas, Calveras, Iparraguirre,

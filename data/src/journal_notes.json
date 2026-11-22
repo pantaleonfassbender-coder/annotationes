@@ -1,5 +1,5 @@
 {
- "_note": "Notes for journal articles that have been read (Zeitschrift für Aszese und Mystik, Geist und Leben), laid over the title-only records of data/src/journals.json by tools/build_glosses.py. The articles are protected (tier B): summaries and phrases of a few words only, no quote field. Read on 22 November 2026 in the PDFs of the free archive at geist-und-leben.de. Notes CC BY 4.0.",
+ "_note": "Notes for journal articles that have been read (Zeitschrift für Aszese und Mystik, Geist und Leben), laid over the title-only records of data/src/journals.json by tools/build_glosses.py. The articles are protected (tier B): summaries and phrases of a few words only, no quote field. Read on 22 November 2026 (twelve articles) in the PDFs of the free archive at geist-und-leben.de. Notes CC BY 4.0.",
  "notes": {
   "zam-1930-abhandlungen-walter-sierp-einige-gedanken-zur-christk-c3-b6n": {
    "basis": "read",
@@ -11,13 +11,67 @@
   },
   "zam-1937-abhandlungen-joh-b-schuster-das-menschenbild-der-christ-k-c3": {
    "basis": "read",
-   "spex": [91, 100],
+   "spex": [
+    91,
+    100
+   ],
    "note": "The agere contra of [97] defended against the charge of hostility to life through a 'heroic' image of man: loyalty, the 'Reichsgedanke Christi', readiness for battle. The decisive offering, Schuster insists, is not forced or commanded but given in free love."
   },
   "zam-1942-abhandlungen-ivo-zeiger-gefolgschaft-des-herrn-ein-rechtsges": {
    "basis": "read",
-   "spex": [91, 100],
+   "spex": [
+    91,
+    100
+   ],
    "note": "Written in Rome by a canon lawyer: the parable of the King [91]-[100] explained by medieval legal history as Germanic 'Gefolgschaft', in the vocabulary of the time ('Führereid', 'germanisch') and with v. Schwerin's Germanische Rechtsgeschichte (1936) among its sources. Its conclusions run the other way: following Christ means free choice, mutual loyalty and friendship, 'Freiheit, nicht Zwang', and is far removed from drill and soldiery. In the archive's PDF the article is followed by a printed appeal for the wartime Winterhilfswerk."
+  },
+  "zam-1932-abhandlungen-paul-kellerwessel-geschichtliches-zur-k-c3-b6ni": {
+   "basis": "read",
+   "spex": [
+    91,
+    100
+   ],
+   "note": "What did the parable owe to books, and what to its time? Literary antecedents (Basil, Anselm, Werner, John Climacus' call to a spiritual 'Gefolgschaft', scattered places in Ludolph, and after Leturia 1928 the prologue of the Flos Sanctorum) give suggestions at most; the parable is Ignatius' own. Stronger is the living ideal of his years: the crusade, the fall of Granada, Leo X's crusade plan of 1518, taken from an article by Hungerford Pollen in the Woodstock Letters (1916). The present, 'die Zeit des Christkönigsfestes und der Katholischen Aktion', needs above all the second part."
+  },
+  "zam-1932-kleine-beitr-c3-a4ge-hubert-kroppenberg-nochmals-geschichtli": {
+   "basis": "read",
+   "spex": [
+    91,
+    100
+   ],
+   "note": "A reply to Kellerwessel. The Spanish nobleman's duty to follow his king to war explains the 'oblationes majoris aestimationis' of [97]. In 'unserer demokratischen Zeit' the parable is hard to give: the retreat-giver may be taken for a disguised recruiter for political monarchy, and women retreatants find the soldier less near than the bride. Yet most people, the young above all, are 'Monarchisten' at heart, and the king of their heart may be called 'Hitler, Lenin oder Johann Wolfgang von Goethe'. Nostitz-Rieneck is quoted: today Ignatius might speak of a great social leader who carries the masses with him."
+  },
+  "zam-1930-abhandlungen-heinrich-bleienstein-das-exerzitien-rundschreib": {
+   "basis": "read",
+   "note": "Introduction to the encyclical Mens nostra and its German translation (pp. 103-120). Pius XI is given a first place in the 'Führergeschichte der Exerzitienbewegung', his study of 1910 on Charles Borromeo and the Exercises is retold, and the retreat is commended to the Catholic associations, the youth above all; the workers' retreats serve to win back the working world 'für Christus und sein Reich'."
+  },
+  "zam-1930-kleine-beitr-c3-a4ge-viktor-cathrein-die-anleitung-zur-demut": {
+   "basis": "read",
+   "note": "Humility in three steps through the whole book: reverence before the Creator in the Foundation, self-knowledge in the meditations on sin, and the crucified Christ, whose way of contempt the third kind of humility [167] chooses."
+  },
+  "zam-1937-abhandlungen-karl-rahner-die-ignatianische-mystik-der-weltfr": {
+   "basis": "read",
+   "note": "A lecture given in Vienna. Ignatian 'Weltfreudigkeit' is no naive optimism; it grows out of a mysticism of the cross and of indifference that seeks God alone and therefore finds him everywhere, 'in actione contemplativus'. The close turns to the present: the cross in personal life and 'im Geschick unseres Volkes', when it looks as if evening were falling over the West."
+  },
+  "zam-1934-abhandlungen-wilhelm-bernhardt-die-maior-dei-gloria-im-exerz": {
+   "basis": "read",
+   "spex": [
+    23,
+    23
+   ],
+   "note": "The 'maior Dei gloria' read through the biblical doxa, from Exodus and Ezekiel to John and Paul. The 'more' at the end of the Foundation and the Contemplation to Attain Love lead to the border of asceticism and mysticism, where the doxa is the 'Durchbruchstelle'. Placed on the Foundation (editorial)."
+  },
+  "gul-1969-abhandlungen-erhard-kunz-die-drei-weisen-der-demut-in-den-ex": {
+   "basis": "read",
+   "spex": [
+    164,
+    168
+   ],
+   "note": "The first two kinds of humility restate the attitude of the Foundation; the third [167] sums up what the Exercises have made of it: the believing acceptance of God's revelation in Jesus' death and resurrection, a dying with Christ to be carried out in prayer, 'nicht in dem Vorsatz', which gives the freedom for the election."
+  },
+  "gul-1971-abhandlungen-josef-neuner-die-kirchliche-dimension-der-ignat": {
+   "basis": "read",
+   "note": "Written from Poona after the Council. The Church belongs to the act of faith itself and is not added to it; in the traditional Exercises it appears 'nur am Ende und am Rande', in the rules for thinking with the Church. Neuner wants it practised inside the retreat, in shared prayer and the exchange of experience, though not in discussions of issues."
   }
  }
 }

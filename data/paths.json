@@ -184,6 +184,10 @@
      "why": "Jung (1957) ascribes to Ignatius the maxim that the end sanctifies the means and sets it beside the Marxist state; the maxim is not in the book."
     },
     {
+     "gloss": "gul-1971-abhandlungen-josef-neuner-die-kirchliche-dimension-der-ignat",
+     "why": "Neuner (1971), writing from India after the Council, objects that in the Exercises as usually given the Church comes only at the end, in these rules, and wants it inside every step."
+    },
+    {
      "gloss": "ssj-7-1-6",
      "why": "Studies in the Spirituality of Jesuits (1975): Wright, Ganss and Orsy on thinking with the Church after the Council."
     }
@@ -282,7 +286,7 @@
    "id": "king",
    "title": "The King and his following, 1929–1942",
    "question": "What happens to the call of the King when the words for king, leader and following belong to the state?",
-   "intro": "The parable of the earthly king [91]–[100] speaks of a ruler, a call and those who follow. Between Pius XI's encyclical on retreats and the middle of the war, German Jesuits in the Zeitschrift für Aszese und Mystik return to it again and again, and the vocabulary of their years enters the reading: Führer, Gefolgschaft, Reich, the heroic man. The path shows the words and what the authors make of them. Whether their insistence on freedom was meant as an answer to the state, the texts do not say, and the path does not claim it.",
+   "intro": "The parable of the earthly king [91]–[100] speaks of a ruler, a call and those who follow. Between Pius XI's encyclical on retreats and the middle of the war, German Jesuits in the Zeitschrift für Aszese und Mystik return to it again and again, and the vocabulary of their years enters the reading: Führer, Gefolgschaft, Reich, the heroic man. The path shows the words and what the authors make of them; once, in 1932, a reply in the same journal names the leaders of the day. Whether their insistence on freedom was meant as an answer to the state, the texts do not say, and the path does not claim it.",
    "stations": [
     {
      "gloss": "pius11-1929-a",
@@ -290,11 +294,19 @@
     },
     {
      "gloss": "zam-1930-abhandlungen-heinrich-bleienstein-das-exerzitien-rundschreib",
-     "why": "The encyclical reaches German retreat-givers in the Zeitschrift's own translation and commentary (1930). Listed by title only."
+     "why": "The encyclical reaches German retreat-givers in the Zeitschrift's own translation (1930), introduced with the pope's place in the 'Führergeschichte' of the retreat movement and a call to win the working world 'für Christus und sein Reich'."
     },
     {
      "gloss": "zam-1930-abhandlungen-walter-sierp-einige-gedanken-zur-christk-c3-b6n",
      "why": "Walter Sierp (1930) sets the eternal King before today's Rome, Berlin and Cologne: the Kingdom as the present Church, with no politics in it."
+    },
+    {
+     "gloss": "zam-1932-abhandlungen-paul-kellerwessel-geschichtliches-zur-k-c3-b6ni",
+     "why": "Kellerwessel (1932) explains the parable from the crusading ideal of Ignatius' years and ends in the present, 'die Zeit des Christkönigsfestes und der Katholischen Aktion'."
+    },
+    {
+     "gloss": "zam-1932-kleine-beitr-c3-a4ge-hubert-kroppenberg-nochmals-geschichtli",
+     "why": "Kroppenberg's reply the same year is the only text here that names the politics of its day: a 'democratic' age suspicious of kings, and young people whose king of the heart may be called Hitler, Lenin or Goethe."
     },
     {
      "gloss": "zam-1933-abhandlungen-walter-sierp-die-christk-c3-b6nigs-betrachtung",

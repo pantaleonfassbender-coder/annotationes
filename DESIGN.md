@@ -211,8 +211,11 @@ a rights check before anything beyond tier D (UK rule for works first published 
   Schuster 1937, Zeiger 1942; summaries in `data/src/journal_notes.json`), and they make a narrower path,
   "The King and his following, 1929–1942": the vocabulary of the years (Führer, Gefolgschaft, Reich, the
   heroic man) enters the reading of [91]–[100], while the authors insist on free offering against command.
-  Whether that was meant as an answer to the state is left open. Not read: Kellerwessel and Kroppenberg
-  1932, Bleienstein 1930. The rest of path 4 and path 5 wait for their material. The introduction essay
+  Whether that was meant as an answer to the state is left open. Read the same day and added: Kellerwessel
+  and Kroppenberg 1932 (Kroppenberg names 'Hitler, Lenin oder ... Goethe' as kings of the heart, the one
+  explicit reference to the politics of the day), Bleienstein 1930; and, beyond the path, Cathrein 1930,
+  Bernhardt 1934, Karl Rahner 1937, Kunz 1969, Neuner 1971 (Neuner also on the path on thinking with the
+  Church). Twelve journal articles are now read. The rest of path 4 and path 5 wait for their material. The introduction essay
   (`#/intro`) reports what the margin shows so far, including where it contradicts claim 1 of §1: outside
   the running commentaries the Two Standards, the Three Classes and the thirteenth rule are thinly glossed.
 - **Plates from the start** (public domain): title pages of the Vulgate 1548, Rickaby 1915, Longridge
