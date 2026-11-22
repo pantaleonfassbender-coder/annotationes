@@ -198,7 +198,8 @@ a rights check before anything beyond tier D (UK rule for works first published 
   5. Two commentaries on the *Anima Christi*, 1938–39: Przywara and Jung.
   Built (22 November 2026, `data/paths.json`, `#/paths`): the Foundation; hell through the five senses;
   the colloquy; discernment between theology and psychology; the thirteenth rule; the retreat as an
-  institution 1916–1929. Paths 4 and 5 of the drafts wait for their material. The introduction essay
+  institution 1916–1929; and (same day) the sources debate 1909–1956, from the Spanish layer, with Torti added
+  to the discernment path. Paths 4 and 5 of the drafts wait for their material. The introduction essay
   (`#/intro`) reports what the margin shows so far, including where it contradicts claim 1 of §1: outside
   the running commentaries the Two Standards, the Three Classes and the thirteenth rule are thinly glossed.
 - **Plates from the start** (public domain): title pages of the Vulgate 1548, Rickaby 1915, Longridge

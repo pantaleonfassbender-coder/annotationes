@@ -55,6 +55,7 @@
    "stations": [
     {"gloss": "longridge-disc-1", "why": "Longridge's commentary on the rules for the Second Week."},
     {"gloss": "rickaby-21-0", "why": "Rickaby's notes on [328]–[336]."},
+    {"gloss": "torti-1909-disc", "why": "Torti's Italian commentary (1909) sets the rules beside a recent case, the conversion of the poet Adolphe Retté (1906), as their 'historical counterpart'."},
     {"gloss": "feder-note-93", "why": "Feder (1922) explains the image of [332]: the enemy enters by stirring apparently pious intentions that suit the soul's mood, and leaves with his own."},
     {"gloss": "przywara-a76", "why": "Przywara (vol. II) reads the same rules as the mediate in religious life: consolation with a cause, the angel of light."},
     {"gloss": "jung-cw-8-395", "why": "Jung (1947) on the serpent vision of the Autobiography: a light full of eyes, first consoling, then known as an evil spirit."},
@@ -88,6 +89,26 @@
     {"gloss": "joyce-1916-d", "why": "The preacher names his method, the composition of place, and its founder."},
     {"gloss": "pius11-1922-a", "why": "Pius XI declares Ignatius patron of all spiritual exercises (1922)."},
     {"gloss": "pius11-1929-b", "why": "Mens nostra (1929) praises the book's ease of adaptation to every state of life: the papal reading of Annotations 18–20."}
+   ]
+  },
+  {
+   "id": "sources",
+   "title": "Where does the book come from? The sources debate, 1909–1956",
+   "question": "Did Ignatius write the Exercises out of his own experience at Manresa, or did he put them together from books he had read?",
+   "intro": "Ignatius read Ludolph of Saxony's Life of Christ and a book of saints' lives at Loyola, and García de Cisneros' Ejercitatorio was printed at Montserrat, where he stopped in 1522. In the first decades of the century these facts become a scholarly question: which parts of the book have literary antecedents, which belong to Manresa and which to later years. In this apparatus the question is argued most fully in Spanish, in Razón y Fe, and the path follows it from there to a survey of the state of research in 1956.",
+   "stations": [
+    {"gloss": "ryf-1909-martinez", "why": "The starting point: Henri Watrigant's library of the Exercises at Enghien, reported in Spain in 1909. The book has become an object of historical scholarship."},
+    {"gloss": "ryf-1915-codina-a", "why": "Arturo Codina takes up the claim that the Two Standards came from a pseudo-Bernardine parable read at Loyola."},
+    {"gloss": "ryf-1915-codina-b", "why": "The sequel weighs a second candidate, Werner of St Blasien, and asks whether the meditation was made at Manresa or in Paris. Where the Two Standards is glossed outside the commentaries in this apparatus, it is for its sources."},
+    {"gloss": "ryf-1917-codina", "why": "The largest claim: Dom Besse and Dom Pierdet derive the Exercises from Cisneros' Ejercitatorio. Codina answers in three articles. That Ignatius read the book he grants as probable; that the book depends on it he does not."},
+    {"gloss": "ryf-1917-codina-47", "why": "The method of the argument in one example: two supposed borrowings are traced to a different work of Cisneros."},
+    {"gloss": "ram-1920-debuchy", "why": "The critical edition of the Exercises in the Monumenta (1919) gives every later comparison a common text."},
+    {"gloss": "feder-note-50", "why": "Feder's translation (1922) notes a borrowing in passing: details of the Nativity taken from the saints' legends and from Ludolph (OCR damaged)."},
+    {"gloss": "ram-1922-watrigant", "why": "Watrigant himself looks further back, to the methodical meditation of the Brothers of the Common Life."},
+    {"gloss": "codina-1926-3", "why": "Codina's book of 1926 lists examens in Mauburnus under the particular examen: the same Devotio moderna author Watrigant had written on in 1923."},
+    {"gloss": "codina-1926-cisneros", "why": "An appendix gives Cisneros' own summary of his book and examines Besse's parallels once more."},
+    {"gloss": "zam-1942-abhandlungen-hugo-rahner-ignatius-von-loyola-und-die-aszetis", "why": "Hugo Rahner (1942) carries the question back to the Church Fathers. Listed by title only."},
+    {"gloss": "gul-1956-abhandlungen-heinrich-bacht-der-heutige-stand-der-forschung", "why": "By 1956 the genesis of the book has a literature of its own, and Geist und Leben prints a survey of the state of research. Listed by title only."}
    ]
   }
  ]

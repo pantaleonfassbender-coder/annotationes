@@ -480,7 +480,8 @@ function viewIntro() {
       Foundation [23], the First Week with its meditation on hell [65]–[71], the annotations, the Kingdom [91]–[100],
       the Contemplation to Attain Love [230]–[237] and the rules for discernment [313]–[336]. Most journal articles,
       in the <em>Zeitschrift für Aszese und Mystik</em> from 1926 and in <em>Geist und Leben</em> from 1947, address
-      the book as a whole or its method rather than a passage. The thirteenth rule [365], the sentence of the book most
+      the book as a whole or its method rather than a passage. The Two Standards [136]–[148], outside the
+      commentaries, is glossed for its sources, in two Spanish articles of 1915 on where Ignatius found it. The thirteenth rule [365], the sentence of the book most
       quoted outside the Church, is glossed less than one would expect: the debates that made it notorious lie
       largely after 1978 or are not yet in the apparatus.</p>
       <h2>Outside the Church</h2>
