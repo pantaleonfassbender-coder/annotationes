@@ -6,7 +6,7 @@ the centre, paragraph by paragraph on the grid [1]–[370]; the twentieth centur
 translations, papal documents, journal articles and literary readings stand in the margin, each where
 it touches the book, filterable by language, decade, genre and access.
 
-Stage 1 of the build. The design document is [DESIGN.md](DESIGN.md).
+Live at <https://annotationes.netlify.app/> (deployed from `main`). The design document is [DESIGN.md](DESIGN.md).
 
 ## What is in
 
