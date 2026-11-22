@@ -196,6 +196,11 @@ a rights check before anything beyond tier D (UK rule for works first published 
   3. Discernment between theology and psychology (Jung, the Rahners, Meissner later).
   4. Exercises and politics, 1930–1975 (Spain in the 1930s, *Mens nostra*, Arrupe, GC 32).
   5. Two commentaries on the *Anima Christi*, 1938–39: Przywara and Jung.
+  Built (22 November 2026, `data/paths.json`, `#/paths`): the Foundation; hell through the five senses;
+  the colloquy; discernment between theology and psychology; the thirteenth rule; the retreat as an
+  institution 1916–1929. Paths 4 and 5 of the drafts wait for their material. The introduction essay
+  (`#/intro`) reports what the margin shows so far, including where it contradicts claim 1 of §1: outside
+  the running commentaries the Two Standards, the Three Classes and the thirteenth rule are thinly glossed.
 - **Plates from the start** (public domain): title pages of the Vulgate 1548, Rickaby 1915, Longridge
   1919, Joyce 1916; AAS pages of 1922 and 1929; retreat houses before 1931 (verify images).
 - **Data download** as one archive with manifest, as in Ignatiana.

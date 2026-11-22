@@ -16,6 +16,8 @@ Stage 1 of the build. The design document is [DESIGN.md](DESIGN.md).
   microfilm → paragraphs without running heads and footnotes), `tools/feder_fix.py` (dictionary-checked
   corrections, log in `data/src/feder_corrections.json`), `tools/feder_align.py` with the editorial anchor
   table `tools/feder_anchors.json`, and `tools/feder_check.py` (length check against the Spanish).
+  Feder's 108 endnotes (pp. 164–185) as a German commentary layer, placed by the page of each call
+  (`tools/feder_notes.py` → `data/feder_notes.json`).
 - Longridge 1919 as a commentary layer (taken over from Ignatiana; text loaded on demand).
 - Rickaby's notes (*Spanish and English, with a Continuous Commentary*, 2nd ed. 1923; first ed. 1915) as a
   second English commentary layer (`data/rickaby_exx.json`), built by `tools/rickaby_extract.py` from the
@@ -24,9 +26,15 @@ Stage 1 of the build. The design document is [DESIGN.md](DESIGN.md).
 - Joyce, *A Portrait of the Artist as a Young Man* (1916), the retreat chapter: four passages.
 - Pius XI, *Summorum Pontificum* (1922) and *Mens nostra* (1929): key passages from the Acta
   Apostolicae Sedis.
-- Przywara, *Deus semper maior* (1938–40), by its table of contents.
+- Przywara, *Deus semper maior* (1938–40): a page anchor table for all three volumes, 148 anchors,
+  read in the lending scans (`data/src/przywara_anchors.json`).
+- Jung, *Collected Works*: 28 passages on Ignatius and the Exercises, read and placed by paragraph,
+  summaries only (`data/src/jung_cw.json`). Jung quotes the Exercises in Rickaby's second edition.
 - 75 articles of the *Zeitschrift für Aszese und Mystik* (1926–1944) and *Geist und Leben*
-  (1947–1978) from the publisher's free chronological archive, linked and assigned from their titles.
+  (1947–1978) from the publisher's free chronological archive, linked and assigned from their titles;
+  selected articles of the *Revue d'ascétique et de mystique* (1920–23) and of *Studies in the
+  Spirituality of Jesuits* (1969–78).
+- Six reading paths (`data/paths.json`, `#/paths`) and an introduction essay (`#/intro`).
 - Bibliographic records of the protected core of the century (Rahner, Fessard, Balthasar, Barthes,
   Certeau, Jung and others), marked as such.
 - Public-domain plates.

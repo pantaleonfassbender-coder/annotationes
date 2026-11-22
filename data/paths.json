@@ -1,0 +1,94 @@
+{
+ "_note": "Reading paths: editorial texts, CC BY 4.0. Each station is a gloss of the apparatus (data/glosses.json); the reason says why it stands here, not what the work says. Built only from glosses that are in the index; paths for which the material is not yet in (the Anima Christi in Przywara and Jung, the Exercises and politics 1930-1975) are left for later.",
+ "paths": [
+  {
+   "id": "foundation",
+   "title": "The Foundation [23] in the twentieth century",
+   "question": "Is the Foundation a premise to be understood or a meditation to be made, and who in the century reads it as something else again?",
+   "intro": "The most glossed paragraph of the book, and one that stands apart from the rest: as Feder notes, Ignatius gave it no preludes and no points. The century then reads it in three registers: as doctrine on the end of man, as a programme for the whole retreat, and, with Jung, as a statement about the ego.",
+   "stations": [
+    {"gloss": "longridge-note-B", "why": "An Anglican translator in 1919 needs a separate additional note to explain the Foundation, beside six commentary blocks on the one paragraph."},
+    {"gloss": "feder-note-17", "why": "Feder (1922) says it outright: Ignatius gave the Foundation no preludes and no points, so it is to be weighed rather than contemplated, though nothing prevents making it a meditation."},
+    {"gloss": "rickaby-2-0", "why": "Rickaby's notes on [23] in the edition Jung would later quote from."},
+    {"gloss": "zam-1926-abhandlungen-johann-b-umberg-exerzitienfundament-und-taufe-1", "why": "In its first year (1926) the Zeitschrift für Aszese und Mystik reads the Foundation against baptism."},
+    {"gloss": "zam-1927-abhandlungen-walter-sierp-das-fundament-der-ignatianischen-e", "why": "First of Walter Sierp's four articles on the Foundation in the same journal, 1927–28: one paragraph carries a series."},
+    {"gloss": "przywara-a6", "why": "Przywara gives the Foundation nearly a hundred pages of his first volume (1938): the largest single anchor in his table."},
+    {"gloss": "jung-cw-9ii-252", "why": "Jung quotes the Foundation in Latin in Aion (1951) and hears in it the relation of the ego to the self."},
+    {"gloss": "jung-cw-11-391", "why": "And in the essay on the Mass he calls 'Homo creatus est' half of the psychological truth."}
+   ]
+  },
+  {
+   "id": "hell-senses",
+   "title": "Hell through the five senses",
+   "question": "What happens to the meditation on hell when it is read as rhetoric, as theology and as a technique of imagination?",
+   "intro": "The fifth exercise of the First Week [65]–[71] asks the exercitant to see, hear, smell, taste and touch hell. It is the passage of the book that travelled furthest outside the retreat house: into a novel in 1916 and into Jung's alchemical studies.",
+   "stations": [
+    {"gloss": "longridge-note-G", "why": "Longridge's additional note on the fifth exercise: the commentator's reading before the century's others."},
+    {"gloss": "rickaby-6-0", "why": "Rickaby's notes on [64]–[71]. His page 41, with the senses in hell, is the page Jung cites twice."},
+    {"gloss": "feder-note-40", "why": "Feder's note is a list of authorities on the fire of hell, Augustine to Aquinas: the commentator secures the doctrine."},
+    {"gloss": "joyce-1916-c", "why": "Joyce's two hell sermons in A Portrait of the Artist follow the five senses of the exercise, worm of conscience included: the meditation turned into rhetoric aimed at a boy."},
+    {"gloss": "przywara-a33", "why": "Przywara treats hell through the senses as a section of its own (1938)."},
+    {"gloss": "jung-cw-13-201", "why": "Jung reads the exercise as active imagination and points to Rickaby, pp. 40ff., the meditation on hell."},
+    {"gloss": "jung-cw-14-255", "why": "In Mysterium Coniunctionis the fourth point, the taste of bitter things, is set beside the hell exercise of Izquierdo (1686)."},
+    {"gloss": "jung-cw-14-283a", "why": "And the senses of the exercise become the model of a total 'realization' of what is contemplated."},
+    {"gloss": "jung-cw-11-937", "why": "The application of the senses [121]–[126] carries the same technique into the life of Christ; Jung compares the yogi."}
+   ]
+  },
+  {
+   "id": "colloquy",
+   "title": "The colloquy: talking with Christ, talking with the unconscious",
+   "question": "Who is answering in the colloquy?",
+   "intro": "The first exercise ends in a colloquy with Christ on the cross, 'as one friend speaks to another' [53]–[54]. The commentaries treat it as a form of prayer; Jung treats it as the one place where the book admits an inner dialogue, and notes what it leaves out.",
+   "stations": [
+    {"gloss": "longridge-note-D", "why": "Longridge's note on the first exercise, colloquy included."},
+    {"gloss": "rickaby-3-0", "why": "Rickaby's notes on [45]–[54]."},
+    {"gloss": "przywara-a22", "why": "Przywara's section on the colloquy with Christ crucified (1938)."},
+    {"gloss": "jung-cw-9i-236", "why": "Jung (1940): the colloquy admitted, but only the meditant may speak; the answers from within are set aside."},
+    {"gloss": "jung-cw-12-390", "why": "Jung (1944): the alchemist's meditatio as inner dialogue with an unseen other, very close to the colloquy of the Exercises."}
+   ]
+  },
+  {
+   "id": "discernment",
+   "title": "Discernment between theology and psychology",
+   "question": "When a consolation turns out to come from the enemy, is that a fact about spirits or about interpretation?",
+   "intro": "The second set of rules for discernment [328]–[336] deals with the enemy who comes as an angel of light. Jung never cites these rules, but he returns four times to a scene from the Autobiography that they describe: a vision that consoled Ignatius and was later recognized as evil.",
+   "stations": [
+    {"gloss": "longridge-disc-1", "why": "Longridge's commentary on the rules for the Second Week."},
+    {"gloss": "rickaby-21-0", "why": "Rickaby's notes on [328]–[336]."},
+    {"gloss": "feder-note-93", "why": "Feder (1922) explains the image of [332]: the enemy enters by stirring apparently pious intentions that suit the soul's mood, and leaves with his own."},
+    {"gloss": "przywara-a76", "why": "Przywara (vol. II) reads the same rules as the mediate in religious life: consolation with a cause, the angel of light."},
+    {"gloss": "jung-cw-8-395", "why": "Jung (1947) on the serpent vision of the Autobiography: a light full of eyes, first consoling, then known as an evil spirit."},
+    {"gloss": "jung-cw-18-1538", "why": "Jung to Père Lachat (1954): nothing guarantees that the spirit is not the devil."},
+    {"gloss": "jung-cw-13-293", "why": "And the conflict of light and darkness made felt through drastic exercises, with a note to Rickaby's pages on the first set of rules."},
+    {"gloss": "ssj-2-2-1", "why": "In 1970 Studies in the Spirituality of Jesuits takes up Ignatian discernment; its papers on communal discernment follow in 1971–73."}
+   ]
+  },
+  {
+   "id": "church",
+   "title": "Thinking with the Church: the thirteenth rule and its readers",
+   "question": "What does the century do with 'what seems to me white, I will believe black'?",
+   "intro": "The rules for thinking with the Church [352]–[370] close the book, and the thirteenth [365] became its most quoted sentence outside the Church. In this apparatus so far it is glossed less than one would expect; the path shows who does take it up.",
+   "stations": [
+    {"gloss": "longridge-rules-2", "why": "Longridge's commentary on the rules, 1919."},
+    {"gloss": "feder-note-104", "why": "Feder's note on the rule gives the reason in a clause: because the Church is infallible, while our understanding can err (OCR damaged)."},
+    {"gloss": "rickaby-37-0", "why": "Rickaby's notes on [357]–[370]."},
+    {"gloss": "przywara-a136", "why": "Przywara (vol. III) reads the closing rules, the thirteenth among them, as the Church as office of consolation in the Holy Spirit."},
+    {"gloss": "jung-cw-10-522", "why": "Jung (1957) ascribes to Ignatius the maxim that the end sanctifies the means and sets it beside the Marxist state; the maxim is not in the book."},
+    {"gloss": "ssj-7-1-6", "why": "Studies in the Spirituality of Jesuits (1975): Wright, Ganss and Orsy on thinking with the Church after the Council."}
+   ]
+  },
+  {
+   "id": "retreat",
+   "title": "The retreat as an institution, 1916–1929",
+   "question": "What did the book look like from the pews, before the commentaries and the encyclicals tidied it?",
+   "intro": "Between Joyce's school retreat and Pius XI's encyclical on retreats, the Exercises are an institution: preached, adapted, put under a patron. The path runs from a novel to the Acta Apostolicae Sedis.",
+   "stations": [
+    {"gloss": "joyce-1916-a", "why": "Joyce: a three-day school retreat, announced by the rector, the preacher defining a retreat as withdrawal, the condition Annotation 20 sets."},
+    {"gloss": "joyce-1916-b", "why": "The retreat preached on the four last things."},
+    {"gloss": "joyce-1916-d", "why": "The preacher names his method, the composition of place, and its founder."},
+    {"gloss": "pius11-1922-a", "why": "Pius XI declares Ignatius patron of all spiritual exercises (1922)."},
+    {"gloss": "pius11-1929-b", "why": "Mens nostra (1929) praises the book's ease of adaptation to every state of life: the papal reading of Annotations 18–20."}
+   ]
+  }
+ ]
+}

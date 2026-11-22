@@ -83,6 +83,7 @@ function route() {
   document.querySelectorAll("#nav a").forEach(x => x.classList.toggle("on", x.dataset.r === (r || "home")));
   view.innerHTML = "";
   const fn = { "": viewHome, spex: () => viewReader(+a || 23), book: viewBook, works: () => a ? viewWork(decodeURIComponent(a)) : viewWorks,
+    paths: () => viewPaths(a && decodeURIComponent(a)), intro: viewIntro,
     method: viewMethod, imprint: viewImprint, privacy: viewPrivacy }[r];
   if (!fn) { viewHome(); return; }
   const res = fn();
@@ -107,7 +108,8 @@ function viewHome() {
         whole book, where the glosses gather under the current filters; click anywhere on it to jump.</p>
         <p><a href="#/spex/23">Principle and Foundation [23]</a> · <a href="#/spex/65">Meditation on hell [65]</a> ·
         <a href="#/spex/313">Rules for discernment [313]</a> · <a href="#/spex/365">The thirteenth rule [365]</a></p>
-        <p><a href="#/book">Glosses on the book as a whole</a> · <a href="#/works">All works</a></p>
+        <p><a href="#/intro">Introduction</a> · <a href="#/paths">Reading paths</a> ·
+        <a href="#/book">Glosses on the book as a whole</a> · <a href="#/works">All works</a></p>
       </div>
       <div class="panel"><h2>What is here</h2>
         <p><span class="stat">${D.works.length}</span> works &nbsp; <span class="stat">${D.glosses.length}</span> glosses
@@ -118,9 +120,9 @@ function viewHome() {
     </div>
     <div class="panel"><h2>Three things the margin is meant to show</h2>
       <ol class="readable">
-        <li><strong>The century read the book unevenly.</strong> Reception gathers on a few paragraphs: the Foundation,
-        the Two Standards, the Three Classes, the Contemplation to Attain Love, the rules for discernment and the rules
-        for thinking with the Church.</li>
+        <li><strong>The century read the book unevenly.</strong> Outside the running commentaries, reception gathers on
+        a few places: the Foundation, the meditation on hell, the Kingdom, the Contemplation to Attain Love and the
+        rules for discernment. See the <a href="#/intro">introduction</a>.</li>
         <li><strong>The citation grid is itself a twentieth-century artefact.</strong> The numbers [1]–[370] that every
         modern commentary cites date from 1928. Longridge (1919) and Feder (1922) wrote before them; their sections are
         mapped onto the grid here by hand.</li>
@@ -407,6 +409,105 @@ function viewWork(id) {
 }
 
 /* ============================================================ METHOD */
+/* ============================================================ PATHS */
+async function paths() {
+  if (!D.paths) D.paths = (await getJSON("data/paths.json")).paths;
+  return D.paths;
+}
+function viewPaths(id) {
+  view.append(el(`<p class="fine">Loading…</p>`));
+  paths().then(P => {
+    view.innerHTML = "";
+    const p = id && P.find(x => x.id === id);
+    if (!p) {
+      view.append(el(`<div>
+        <div class="viewhead"><span class="tag">Reading paths</span><h1>Paths through the margin</h1>
+          <p class="lede">Each path follows one passage of the book through the century, station by station. A station
+          is a gloss of the apparatus; the line above it says why it stands there.</p></div>
+        <div class="pathlist">${P.map(x => `<a class="panel pathcard" href="#/paths/${esc(x.id)}">
+          <h2>${esc(x.title)}</h2><p class="readable">${esc(x.question)}</p>
+          <p class="fine">${x.stations.length} stations</p></a>`).join("")}</div>
+        <p class="fine">Paths still to come, once their material is in: the <em>Anima Christi</em> in Przywara (1938) and in
+        Jung's ETH lectures (1939); the Exercises and politics, 1930–1975.</p></div>`));
+      return;
+    }
+    const i = P.indexOf(p);
+    const wrap = el(`<div>
+      <div class="viewhead"><span class="tag"><a href="#/paths">Reading paths</a> · ${i + 1} of ${P.length}</span>
+        <h1>${esc(p.title)}</h1><p class="lede">${esc(p.question)}</p></div>
+      <div class="panel"><p class="readable">${esc(p.intro)}</p></div>
+      <ol class="stations"></ol>
+      <p class="fine">${i > 0 ? `← <a href="#/paths/${esc(P[i - 1].id)}">${esc(P[i - 1].title)}</a>` : ""}
+        ${i < P.length - 1 ? ` &nbsp; <a href="#/paths/${esc(P[i + 1].id)}">${esc(P[i + 1].title)}</a> →` : ""}</p></div>`);
+    const ol = wrap.querySelector(".stations");
+    p.stations.forEach(s => {
+      const g = D.glosses.find(x => x.id === s.gloss);
+      if (!g) return;
+      const li = el(`<li class="station"><p class="why">${esc(s.why)}
+        ${g.spex ? `<a href="#/spex/${g.spex[0]}">Read ${esc(range(g.spex))} →</a>` : ""}</p></li>`);
+      li.append(glossCard(g, { showRange: true }));
+      ol.append(li);
+    });
+    view.append(wrap);
+  }).catch(e => { view.innerHTML = `<div class="panel"><p>${esc(e.message)}</p></div>`; });
+}
+
+/* ============================================================ INTRODUCTION */
+function viewIntro() {
+  view.append(el(`<div>
+    <div class="viewhead"><span class="tag">Introduction</span><h1>A book and its century</h1>
+      <p class="lede">What the margin of this apparatus shows so far, and how to read it.</p></div>
+    <div class="panel essay readable">
+      <p>The <em>Spiritual Exercises</em> were not written to be read. They are directions for the one who gives a
+      retreat: twenty annotations, a set of examinations, meditations and contemplations for four weeks, rules and
+      notes, in a fixed order. The twentieth century read them all the same, more widely than any century before, and
+      in more ways: as a manual, as a doctrine, as a set piece in a novel, as a psychological technique. Annotationes
+      keeps the book at the centre of the screen and lets those readings collect in the margin, each where it touches
+      the text.</p>
+      <h2>A grid the century made</h2>
+      <p>To place a reading on a paragraph one needs paragraphs. The numbers [1]–[370] that every modern commentary
+      cites date from 1928. The three oldest commentaries here, Rickaby (1915, second edition 1923), Longridge (1919)
+      and Feder (1922), were written without them, and two of the commentators rebuild the book as they go. Rickaby
+      moves the rules into the weeks they belong to and the mysteries of the life of Christ into the days of the
+      Second Week. Przywara's three volumes (1938–1940) follow the days of the retreat, so that the rules for eating,
+      alms and scruples fall on the first day of the Third Week and the rules for thinking with the Church at the end
+      of the Fourth. Mapping such works onto the grid is an editorial act, and every gloss says on what basis it was
+      placed: a section read, a table of contents, an article title, a page, a match of the Spanish text.</p>
+      <h2>Where the century looks</h2>
+      <p>Counting glosses is a crude measure, and the running commentaries weigh heavily because they gloss
+      everything. Set them aside, and the readings that pick out a passage gather on a few places: the Principle and
+      Foundation [23], the First Week with its meditation on hell [65]–[71], the annotations, the Kingdom [91]–[100],
+      the Contemplation to Attain Love [230]–[237] and the rules for discernment [313]–[336]. Most journal articles,
+      in the <em>Zeitschrift für Aszese und Mystik</em> from 1926 and in <em>Geist und Leben</em> from 1947, address
+      the book as a whole or its method rather than a passage. The thirteenth rule [365], the sentence of the book most
+      quoted outside the Church, is glossed less than one would expect: the debates that made it notorious lie
+      largely after 1978 or are not yet in the apparatus.</p>
+      <h2>Outside the Church</h2>
+      <p>Two readers from outside the commentaries run through the margin. Joyce's <em>Portrait of the Artist</em>
+      (1916) puts a school retreat at its centre, and its two sermons on hell follow the fifth exercise through the
+      five senses. Jung returns to the Exercises in some thirty places of his <em>Collected Works</em> between 1935
+      and 1957, besides the ETH lectures of 1939–40. He quotes the book in Rickaby's second edition, so that his
+      reading and Rickaby's notes can be laid side by side on the same paragraph. His stations are the Foundation,
+      the colloquy, the senses in the meditation on hell and in the application of the senses, and a scene that is
+      not in the book at all: the serpent-like vision of the <em>Autobiography</em>, first consoling, later known as
+      evil. The apparatus places it on the rules for the enemy who comes as an angel of light and says that the
+      placement is its own.</p>
+      <h2>Languages and access</h2>
+      <p>The margin is strongest so far in German (Feder's translation and notes, Przywara, the two journals) and in
+      English (Rickaby, Longridge, Joyce, Jung, <em>Studies in the Spirituality of Jesuits</em>, <em>The Way</em>),
+      with French from the <em>Revue d'ascétique et de mystique</em> and Latin from the <em>Acta Apostolicae
+      Sedis</em>. Spanish and Italian are still thin. What can be shown depends on rights: works in the public domain
+      are shown (tier A), freely available ones are linked (B), protected works are read in a copy and represented by
+      anchors and summaries only (C), and the rest is recorded for reference (D).</p>
+      <h2>How to use it</h2>
+      <p>Open the <a href="#/spex/23">reader</a> on any paragraph and look to the margin; the strip beside the text shows
+      where glosses gather under the current filters, and the decade filter shows attention moving through the book.
+      The <a href="#/paths">reading paths</a> follow single passages through the century. The <a href="#/works">works
+      list</a> gives each work's record, rights and coverage, and the <a href="#/method">method page</a> says how the
+      apparatus was built and where it is uncertain.</p>
+    </div></div>`));
+}
+
 function viewMethod() {
   const tierRows = Object.keys(TIERS).map(t => `<tr><td><span class="tier ${t}">${t}</span></td><td>${esc(TIERS[t])}</td><td>${{
     A: "The text is public domain in the United States (published before 1931) and is shown here: in full, or as the passages a gloss quotes.",
