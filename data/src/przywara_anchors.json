@@ -1,5 +1,5 @@
 {
- "_note": "Anchor table for Erich Przywara, Deus semper maior (Freiburg: Herder, 1938-40): where each part of the Exercises is treated, by volume and page, read from the tables of contents of the volumes as scanned at the Internet Archive (borrowed copies, read on 21 November 2026). Derived data without text (CC0). 'what' is my own English description, not Przywara's heading. Volume II read the same way on 22 November 2026 (repetitions and applications of the senses after the first day are left out so as not to smear the density strip). Volume III still carries only the coarse assignment of glosses_curated.json.",
+ "_note": "Anchor table for Erich Przywara, Deus semper maior (Freiburg: Herder, 1938-40): where each part of the Exercises is treated, by volume and page, read from the tables of contents of the three volumes as scanned at the Internet Archive (borrowed copies, read on 21 and 22 November 2026). Derived data without text (CC0). 'what' is my own English description, not Przywara's heading. Repetitions and applications of the senses after the first day of a Week are not anchored, so as not to smear the density strip. Checked against Przywara's own index of the numbers of the Exercises (vol. III, pp. 438-440), which uses the 1928 numbering: [136] II 105, [190] III 10, [210]-[217] III 38 ff., [218]-[220] III 172-181, [235] III 393-398 agree. That index would allow a finer table; its OCR is unusable, so it would have to be transcribed by hand.",
  "edition": "Herder 1938-1940, first edition",
  "anchors": [
   {
@@ -1222,6 +1222,552 @@
     288
    ],
    "what": "The preaching in the Temple"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    3,
+    8
+   ],
+   "spex": [
+    190,
+    217
+   ],
+   "what": "Third Week: introduction"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    9,
+    10
+   ],
+   "spex": [
+    190,
+    190
+   ],
+   "what": "First day: introduction"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    10,
+    18
+   ],
+   "spex": [
+    190,
+    199
+   ],
+   "what": "From Bethany to the Last Supper: paschal meal, washing of the feet, Eucharist"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    10,
+    18
+   ],
+   "spex": [
+    289,
+    289
+   ],
+   "what": "The Last Supper among the mysteries"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    18,
+    27
+   ],
+   "spex": [
+    200,
+    203
+   ],
+   "what": "From the Supper to the Garden: agony and sweat of blood"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    18,
+    27
+   ],
+   "spex": [
+    290,
+    290
+   ],
+   "what": "From the Supper to the Garden among the mysteries"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    38,
+    40
+   ],
+   "spex": [
+    210,
+    217
+   ],
+   "what": "Rules on eating, alms and scruples, placed on the first day of the Third Week: introduction"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    40,
+    42
+   ],
+   "spex": [
+    210,
+    217
+   ],
+   "what": "Rules for eating"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    42,
+    45
+   ],
+   "spex": [
+    337,
+    344
+   ],
+   "what": "Rules for distributing alms"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    45,
+    47
+   ],
+   "spex": [
+    345,
+    351
+   ],
+   "what": "Notes on scruples"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    48,
+    55
+   ],
+   "spex": [
+    291,
+    291
+   ],
+   "what": "Second day: from the Garden to the house of Annas"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    55,
+    62
+   ],
+   "spex": [
+    292,
+    292
+   ],
+   "what": "From Annas to Caiaphas"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    69,
+    77
+   ],
+   "spex": [
+    293,
+    293
+   ],
+   "what": "Third day: from Caiaphas to Pilate"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    77,
+    83
+   ],
+   "spex": [
+    294,
+    294
+   ],
+   "what": "From Pilate to Herod"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    92,
+    100
+   ],
+   "spex": [
+    295,
+    295
+   ],
+   "what": "Fourth day: from Herod back to Pilate"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    112,
+    120
+   ],
+   "spex": [
+    296,
+    296
+   ],
+   "what": "Fifth day: from Pilate to the crucifixion"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    120,
+    130
+   ],
+   "spex": [
+    297,
+    297
+   ],
+   "what": "On the Cross: the seven words and the signs"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    140,
+    145
+   ],
+   "spex": [
+    298,
+    298
+   ],
+   "what": "Sixth day: from the Cross to the sepulchre"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    153,
+    161
+   ],
+   "spex": [
+    208,
+    209
+   ],
+   "what": "Seventh day: the whole Passion; the shortening and lengthening of the Third Week"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    165,
+    170
+   ],
+   "spex": [
+    218,
+    229
+   ],
+   "what": "Fourth Week: introduction"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    172,
+    181
+   ],
+   "spex": [
+    218,
+    225
+   ],
+   "what": "First day: Christ appears to Our Lady"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    172,
+    181
+   ],
+   "spex": [
+    299,
+    299
+   ],
+   "what": "The first apparition among the mysteries"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    181,
+    187
+   ],
+   "spex": [
+    300,
+    300
+   ],
+   "what": "The apparition to Mary Magdalen"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    200,
+    205
+   ],
+   "spex": [
+    301,
+    301
+   ],
+   "what": "Second day: the apparition to the Marys"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    205,
+    211
+   ],
+   "spex": [
+    302,
+    302
+   ],
+   "what": "The apparition to Peter"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    219,
+    224
+   ],
+   "spex": [
+    303,
+    303
+   ],
+   "what": "Third day: Emmaus"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    224,
+    232
+   ],
+   "spex": [
+    304,
+    305
+   ],
+   "what": "The apparitions to the apostles, without and with Thomas"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    241,
+    255
+   ],
+   "spex": [
+    306,
+    306
+   ],
+   "what": "Fourth day: the apparition at the lake"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    255,
+    268
+   ],
+   "spex": [
+    307,
+    307
+   ],
+   "what": "The apparition on the mountain"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    292,
+    311
+   ],
+   "spex": [
+    308,
+    311
+   ],
+   "what": "Fifth day: the tenth to thirteenth apparitions"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    311,
+    322
+   ],
+   "spex": [
+    312,
+    312
+   ],
+   "what": "The Ascension"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    337,
+    342
+   ],
+   "spex": [
+    352,
+    352
+   ],
+   "what": "Rules for thinking with the Church, placed at the end of the Fourth Week: the Church as fulfilment"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    342,
+    345
+   ],
+   "spex": [
+    353,
+    353
+   ],
+   "what": "The formal attitude: obedience and praise"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    346,
+    353
+   ],
+   "spex": [
+    354,
+    363
+   ],
+   "what": "The picture of the Church: sacraments, orders, vows, relics, fasts, buildings, precepts, doctrine"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    353,
+    360
+   ],
+   "spex": [
+    364,
+    370
+   ],
+   "what": "The Church as the office of consolation in the Holy Spirit (including the thirteenth rule)"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    363,
+    368
+   ],
+   "spex": [
+    230,
+    230
+   ],
+   "what": "Contemplation to Attain Love: introduction, gathering up the Foundation and the Anima Christi"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    369,
+    372
+   ],
+   "spex": [
+    230,
+    230
+   ],
+   "what": "The title: love as contemplation and action"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    372,
+    380
+   ],
+   "spex": [
+    230,
+    231
+   ],
+   "what": "The two notes: love in deeds, love as exchange"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    380,
+    385
+   ],
+   "spex": [
+    232,
+    233
+   ],
+   "what": "The preludes"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    386,
+    388
+   ],
+   "spex": [
+    234,
+    237
+   ],
+   "what": "Giving, dwelling, labouring, descending: introduction"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    389,
+    393
+   ],
+   "spex": [
+    234,
+    234
+   ],
+   "what": "First point: giving (with the Take, Lord)"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    393,
+    398
+   ],
+   "spex": [
+    235,
+    235
+   ],
+   "what": "Second point: dwelling"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    398,
+    402
+   ],
+   "spex": [
+    236,
+    236
+   ],
+   "what": "Third point: labouring"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    402,
+    407
+   ],
+   "spex": [
+    237,
+    237
+   ],
+   "what": "Fourth point: descending"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    411,
+    428
+   ],
+   "spex": null,
+   "what": "Epilogue: God in all things"
+  },
+  {
+   "vol": 3,
+   "pp": [
+    438,
+    440
+   ],
+   "spex": null,
+   "what": "Przywara's own index of the numbers of the Exercises (all three volumes)"
   }
  ]
 }

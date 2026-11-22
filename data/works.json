@@ -240,7 +240,7 @@
    "lang": "de",
    "genre": "commentary",
    "tier": "C",
-   "status": "volumes I and II anchored page by page from their tables of contents (102 anchors); volume III by its part titles only",
+   "status": "all three volumes anchored page by page from their tables of contents (148 anchors)",
    "imprint": "3 vols. Freiburg im Breisgau: Herder, 1938–1940; 2nd ed. Wien/München: Herold, 1964",
    "rights": "Protected: in Germany until the end of 2042 (author d. 1972), in the US until 2033–2035.",
    "sources": [
@@ -261,7 +261,7 @@
      "url": "https://kuleuven.limo.libis.be/discovery/fulldisplay?docid=alma9916871850101488&context=L&vid=32KUL_KUL:KULeuven"
     }
    ],
-   "note": "The first tier-C work with a page anchor table (data/src/przywara_anchors.json): where each part of the Exercises is treated, by volume and page, read from the table of contents of the borrowed Internet Archive scan and checked at three places in the text (scan leaf = printed page + 22 in volume I). The table carries no text of Przywara's; the descriptions are mine. Like Rickaby, Przywara rearranges: he treats the rules for discernment of the First Week inside the First Week (vol. I, pp. 245-256), and he places the Additions and the forms of prayer before the five exercises; in volume II the Second Week runs over fourteen days of mysteries, the second rules for discernment stand on the sixth day (the day of the Two Standards and the Three Classes), and the three kinds of humility and the election come after the seventh day. The Internet Archive scan without a volume field (deussempermaiort0000eric) is volume II, as its title page shows."
+   "note": "The first tier-C work with a page anchor table (data/src/przywara_anchors.json): where each part of the Exercises is treated, by volume and page, read from the table of contents of the borrowed Internet Archive scan and checked at three places in the text (scan leaf = printed page + 22 in volume I). The table carries no text of Przywara's; the descriptions are mine. Like Rickaby, Przywara rearranges: he treats the rules for discernment of the First Week inside the First Week (vol. I, pp. 245-256), and he places the Additions and the forms of prayer before the five exercises; in volume II the Second Week runs over fourteen days of mysteries, the second rules for discernment stand on the sixth day (the day of the Two Standards and the Three Classes), and the three kinds of humility and the election come after the seventh day; in volume III the rules on eating, alms and scruples stand on the first day of the Third Week and the rules for thinking with the Church at the end of the Fourth Week, before the Contemplation to Attain Love. Volume III ends with Przywara's own index of the numbers of the Exercises (pp. 438-440), in the 1928 numbering; several anchors were checked against it. The Internet Archive scan without a volume field (deussempermaiort0000eric) is volume II, as its title page shows."
   },
   {
    "id": "przywara-1925",
