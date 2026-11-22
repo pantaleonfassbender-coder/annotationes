@@ -88,6 +88,52 @@ tor('scruples', [345, 351], 423, "§ 2: scruples and 'two kindred serpentine per
 tor('election', [169, 189], 426, "§ 3: on making a sound election, opening with a Latin text.")
 tor('church', [352, 370], 440, "Translation of the rules for alms and for 'thinking sincerely with the Catholic Church'.")
 
-json.dump({'_note': "Spanish and Italian reception before 1931 (tier A): Razón y Fe 1904-1919 (articles found by searching vols. 1-61 for the Exercises; authors from signatures and indexes; pages from the scans' running heads); Codina 1926 by its own subject index; Torti 1909 by its section heads. Links go to the first page in the Internet Archive scan. Notes CC BY 4.0.",
+# Benjamín Marcos, San Ignacio de Loyola (Madrid 1923), Project Gutenberg 63359. Read in full; pages from the
+# page anchors of the Gutenberg HTML edition, which the links target.
+MU = 'https://www.gutenberg.org/files/63359/63359-h/63359-h.htm#page_'
+def mar(i, spex, pp, first, note, quote=None, basis='read'):
+    g = {'id': f'marcos-1923-{i}', 'work': 'marcos-1923', 'spex': spex, 'basis': basis, 'loc': pp,
+         'url': MU + str(first), 'linkLabel': 'Read in Project Gutenberg', 'note': note}
+    if quote: g['quote'] = quote
+    G.append(g)
+mar('philosopher', None, 'pp. 145–280', 166,
+    "The book belongs to a series on 'the great Spanish philosophers', after a first volume on Francisco Valles, and its thesis is that the Exercises hold the true philosophy against the materialism of the age: Ignatius is a philosopher because the book treats God as creator, the world in the creatures and man in his end. Its third chapter ends with Menéndez Pelayo's praise of Ignatius as the most living embodiment of the Spanish spirit.",
+    "bien puede incluírsele entre las obras de los más esclarecidos, de los más grandes filósofos españoles")
+mar('nexus', None, 'pp. 36–42', 36,
+    "The book read as any well-written book: preface (the annotations), body (the four weeks), appendices (the methods of prayer, the mysteries, the rules). Its doctrine, Marcos says, is as old as the Church; what Ignatius did was to select it and give it a fixed plan.",
+    "Lo que hizo San Ignacio fué seleccionar, escoger, adoptar estas doctrinas y acoplarlas para dar unidad, cohesión y viabilidad a la forma en que habían de hacerse los ejercicios")
+mar('inner', None, 'pp. 66–76', 66,
+    "The 'inner sources': the illumination by the Cardoner, quoted from the Autobiography, and the witnesses who call the book the work of divine instruction. On the tradition that the Virgin dictated it at Manresa he reports, citing the Monumenta, that it is held probable but not certain, and prints an engraving of the scene (p. 73).",
+    "San Ignacio escribió los Ejercicios en Manresa, teniendo cierta ilustración sobrenatural")
+mar('vita', [261, 312], 'pp. 77–98', 83,
+    "The outer sources named as the Vita Christi, the Imitation, the Flos Sanctorum and the Bible. Montesino's Spanish Vita Christi is then printed in two columns beside the texts of the mysteries, from the Annunciation to the appearances after the Resurrection, and the proof is waived at once: the agreement is that of two books following the Gospels.",
+    "nadie, al tratar de la vida y misterios de N. S. Jesucristo, puede alterar, en gran manera, el texto de los cuatro Evangelistas")
+mar('cisneros', None, 'pp. 98–104', 98,
+    "Cisneros' Ejercitatorio: the Montserrat witnesses for it, the Benedictine claim from Cayetano (1641) to Besse and Albers. His answer is that the Foundation, the particular examen, the Kingdom, the Three Classes and the rules for the election are not in the Ejercitatorio, which is a book for masters, not for exercitants. He ends by saying that Ignatius had read hardly a book and could not borrow from books he had not seen.",
+    "mal podía tomar pasajes, ideas, pensamientos, sentencias, etc., de libros que no vió, como se le quiere atribuír")
+mar('humility', [165, 168], 'p. 103', 103,
+    "In the middle of the Benedictine dossier, a sentence derives the three kinds of humility from the twelve degrees of humility in the Rule of St Benedict, without a source.",
+    "reduciendo a tres los doce que constituyen, según el Patriarca de los monjes de Occidente, toda la escala de la perfección")
+mar('foundation', [23, 23], 'pp. 166–168, 218, 222–223', 166,
+    "The Foundation as Ignatius' philosophy of God, world and man, and as the refutation of every school that puts man's end in pleasure. The words Marcos quotes under 'Principle and Foundation, point 1' ('Dios sacó todas las cosas de la nada…') are not in Ignatius' text: he is quoting a retreat book divided into points.",
+    "él estudia a Dios como criador, al mundo, cuando habla de las criaturas, y al hombre, cuando analiza su fin")
+mar('indifference', [23, 23], 'pp. 248–249', 248,
+    "Indifference explained with a passage from Roothaan: created things are of themselves adiaphora, neither good nor bad, but not where God's law commands or forbids.",
+    "Todas las cosas criadas de suyo son indiferentes, puesto que todas pueden igualmente o desayudar o ayudar a la consecución del fin del hombre.")
+mar('powers', [45, 54], 'pp. 183–186, 238–239', 183,
+    "The meditation on the three sins as a chain of comparison, judgment and conclusion, and the exercise of memory, understanding and will as proof of the unity and substance of the soul against those who reduce it to a series of phenomena; the scholastic axiom that nothing is in the intellect that was not first in the senses is ascribed to the method.",
+    "nihil est in intellectu quod prius non fuerit in sensu")
+mar('hell', [65, 71], 'pp. 223–225', 223,
+    "Against the Cyrenaics, the lament of the damned soul, with the Ergo erravimus of Wisdom 5, quoted as Ignatius' words. The footnotes cite meditations called 'Hell of the soul', 'Death', 'Particular judgment' and 'Universal judgment': the retreat-manual form of the First Week, not the book. Placed on the hell exercise (editorial).",
+    "Me he condenado por cosas que nunca satisficieron la sed de mi alma")
+mar('kingdom', [91, 100], 'pp. 196–197', 196,
+    "The call of the eternal King quoted at length in an expanded wording ('second part, point two' of a manual meditation), several times the length of the call in [95].",
+    "Hijos míos: seguidme todos en esta empresa y conquista del Reino de los Cielos")
+mar('standards', [136, 148], 'p. 264', 264,
+    "The two standards as a providential division of mankind: those who follow Christ go to his Kingdom; those who leave him enlist under Lucifer, and still serve the ends of Providence without knowing it.",
+    "los que se apartan de sus celestiales enseñanzas, es que se alistan en la “bandera de Lucifer, mortal enemigo de nuestra naturaleza humana”")
+mar('bibliography', None, 'pp. 107–143', 107, "Lists of biographers of Ignatius, editions of the Exercises in Spanish and Latin, commentators and other writers on him, by the book's table of contents.", basis='toc')
+
+json.dump({'_note': "Spanish and Italian reception before 1931 (tier A): Razón y Fe 1904-1919 (articles found by searching vols. 1-61 for the Exercises; authors from signatures and indexes; pages from the scans' running heads); Codina 1926 by its own subject index; Torti 1909 by its section heads; Marcos 1923 read in full in Project Gutenberg. Links go to the first page in the Internet Archive scan or the Gutenberg page anchor. Notes CC BY 4.0.",
            'glosses': G}, open(sys.argv[1], 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 print(len(G))

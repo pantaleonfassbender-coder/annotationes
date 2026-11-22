@@ -263,8 +263,13 @@ Noguer 1908), the Festugière controversy (1914, Astrain 1916), and the sources 
 Codina on the Two Standards 1915 and on Cisneros' *Ejercitatorio* 1917; Bover on the Kingdom 1914 and
 the Foundation 1919). Codina's *Los orígenes de los Ejercicios* (1926) is placed by its own subject index
 (new basis `index`), Torti's *Esercizi spirituali* (1909) by its section heads. Not yet searched: the
-review *Manresa*, *La Civiltà Cattolica* (not on the Internet Archive for these years), Casanovas, and
-Benjamín Marcos, *San Ignacio de Loyola* (1922, Project Gutenberg 63359; the site was down).
+review *Manresa*, *La Civiltà Cattolica* (not on the Internet Archive for these years), Casanovas.
+Benjamín Marcos, *San Ignacio de Loyola* (Madrid 1923, not 1922 as first recorded; Project Gutenberg
+63359) was read in full on 22 November 2026, from the Project Gutenberg mirror at gutenberg.pglaf.org while
+www.gutenberg.org was in maintenance: 13 glosses by page, linked to the page anchors of the HTML edition
+(`63359-h.htm#page_N`, the same file on www.gutenberg.org). A lay apology for Ignatius as a Spanish
+philosopher; it quotes the Exercises in the form of a retreat manual (meditations on death and judgment,
+points that are not Ignatius' text), which the glosses say where it matters.
 
 ## 11. Open questions
 

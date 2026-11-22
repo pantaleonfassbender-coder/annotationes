@@ -1,5 +1,5 @@
 {
- "_note": "Spanish and Italian reception before 1931 (tier A): Razón y Fe 1904-1919 (articles found by searching vols. 1-61 for the Exercises; authors from signatures and indexes; pages from the scans' running heads); Codina 1926 by its own subject index; Torti 1909 by its section heads. Links go to the first page in the Internet Archive scan. Notes CC BY 4.0.",
+ "_note": "Spanish and Italian reception before 1931 (tier A): Razón y Fe 1904-1919 (articles found by searching vols. 1-61 for the Exercises; authors from signatures and indexes; pages from the scans' running heads); Codina 1926 by its own subject index; Torti 1909 by its section heads; Marcos 1923 read in full in Project Gutenberg. Links go to the first page in the Internet Archive scan or the Gutenberg page anchor. Notes CC BY 4.0.",
  "glosses": [
   {
    "id": "ryf-1904-codina",
@@ -588,6 +588,172 @@
    "loc": "p. 440",
    "url": "https://archive.org/details/esercizispiritua0000pcar/page/440",
    "note": "Translation of the rules for alms and for 'thinking sincerely with the Catholic Church'."
+  },
+  {
+   "id": "marcos-1923-philosopher",
+   "work": "marcos-1923",
+   "spex": null,
+   "basis": "read",
+   "loc": "pp. 145–280",
+   "url": "https://www.gutenberg.org/files/63359/63359-h/63359-h.htm#page_166",
+   "linkLabel": "Read in Project Gutenberg",
+   "note": "The book belongs to a series on 'the great Spanish philosophers', after a first volume on Francisco Valles, and its thesis is that the Exercises hold the true philosophy against the materialism of the age: Ignatius is a philosopher because the book treats God as creator, the world in the creatures and man in his end. Its third chapter ends with Menéndez Pelayo's praise of Ignatius as the most living embodiment of the Spanish spirit.",
+   "quote": "bien puede incluírsele entre las obras de los más esclarecidos, de los más grandes filósofos españoles"
+  },
+  {
+   "id": "marcos-1923-nexus",
+   "work": "marcos-1923",
+   "spex": null,
+   "basis": "read",
+   "loc": "pp. 36–42",
+   "url": "https://www.gutenberg.org/files/63359/63359-h/63359-h.htm#page_36",
+   "linkLabel": "Read in Project Gutenberg",
+   "note": "The book read as any well-written book: preface (the annotations), body (the four weeks), appendices (the methods of prayer, the mysteries, the rules). Its doctrine, Marcos says, is as old as the Church; what Ignatius did was to select it and give it a fixed plan.",
+   "quote": "Lo que hizo San Ignacio fué seleccionar, escoger, adoptar estas doctrinas y acoplarlas para dar unidad, cohesión y viabilidad a la forma en que habían de hacerse los ejercicios"
+  },
+  {
+   "id": "marcos-1923-inner",
+   "work": "marcos-1923",
+   "spex": null,
+   "basis": "read",
+   "loc": "pp. 66–76",
+   "url": "https://www.gutenberg.org/files/63359/63359-h/63359-h.htm#page_66",
+   "linkLabel": "Read in Project Gutenberg",
+   "note": "The 'inner sources': the illumination by the Cardoner, quoted from the Autobiography, and the witnesses who call the book the work of divine instruction. On the tradition that the Virgin dictated it at Manresa he reports, citing the Monumenta, that it is held probable but not certain, and prints an engraving of the scene (p. 73).",
+   "quote": "San Ignacio escribió los Ejercicios en Manresa, teniendo cierta ilustración sobrenatural"
+  },
+  {
+   "id": "marcos-1923-vita",
+   "work": "marcos-1923",
+   "spex": [
+    261,
+    312
+   ],
+   "basis": "read",
+   "loc": "pp. 77–98",
+   "url": "https://www.gutenberg.org/files/63359/63359-h/63359-h.htm#page_83",
+   "linkLabel": "Read in Project Gutenberg",
+   "note": "The outer sources named as the Vita Christi, the Imitation, the Flos Sanctorum and the Bible. Montesino's Spanish Vita Christi is then printed in two columns beside the texts of the mysteries, from the Annunciation to the appearances after the Resurrection, and the proof is waived at once: the agreement is that of two books following the Gospels.",
+   "quote": "nadie, al tratar de la vida y misterios de N. S. Jesucristo, puede alterar, en gran manera, el texto de los cuatro Evangelistas"
+  },
+  {
+   "id": "marcos-1923-cisneros",
+   "work": "marcos-1923",
+   "spex": null,
+   "basis": "read",
+   "loc": "pp. 98–104",
+   "url": "https://www.gutenberg.org/files/63359/63359-h/63359-h.htm#page_98",
+   "linkLabel": "Read in Project Gutenberg",
+   "note": "Cisneros' Ejercitatorio: the Montserrat witnesses for it, the Benedictine claim from Cayetano (1641) to Besse and Albers. His answer is that the Foundation, the particular examen, the Kingdom, the Three Classes and the rules for the election are not in the Ejercitatorio, which is a book for masters, not for exercitants. He ends by saying that Ignatius had read hardly a book and could not borrow from books he had not seen.",
+   "quote": "mal podía tomar pasajes, ideas, pensamientos, sentencias, etc., de libros que no vió, como se le quiere atribuír"
+  },
+  {
+   "id": "marcos-1923-humility",
+   "work": "marcos-1923",
+   "spex": [
+    165,
+    168
+   ],
+   "basis": "read",
+   "loc": "p. 103",
+   "url": "https://www.gutenberg.org/files/63359/63359-h/63359-h.htm#page_103",
+   "linkLabel": "Read in Project Gutenberg",
+   "note": "In the middle of the Benedictine dossier, a sentence derives the three kinds of humility from the twelve degrees of humility in the Rule of St Benedict, without a source.",
+   "quote": "reduciendo a tres los doce que constituyen, según el Patriarca de los monjes de Occidente, toda la escala de la perfección"
+  },
+  {
+   "id": "marcos-1923-foundation",
+   "work": "marcos-1923",
+   "spex": [
+    23,
+    23
+   ],
+   "basis": "read",
+   "loc": "pp. 166–168, 218, 222–223",
+   "url": "https://www.gutenberg.org/files/63359/63359-h/63359-h.htm#page_166",
+   "linkLabel": "Read in Project Gutenberg",
+   "note": "The Foundation as Ignatius' philosophy of God, world and man, and as the refutation of every school that puts man's end in pleasure. The words Marcos quotes under 'Principle and Foundation, point 1' ('Dios sacó todas las cosas de la nada…') are not in Ignatius' text: he is quoting a retreat book divided into points.",
+   "quote": "él estudia a Dios como criador, al mundo, cuando habla de las criaturas, y al hombre, cuando analiza su fin"
+  },
+  {
+   "id": "marcos-1923-indifference",
+   "work": "marcos-1923",
+   "spex": [
+    23,
+    23
+   ],
+   "basis": "read",
+   "loc": "pp. 248–249",
+   "url": "https://www.gutenberg.org/files/63359/63359-h/63359-h.htm#page_248",
+   "linkLabel": "Read in Project Gutenberg",
+   "note": "Indifference explained with a passage from Roothaan: created things are of themselves adiaphora, neither good nor bad, but not where God's law commands or forbids.",
+   "quote": "Todas las cosas criadas de suyo son indiferentes, puesto que todas pueden igualmente o desayudar o ayudar a la consecución del fin del hombre."
+  },
+  {
+   "id": "marcos-1923-powers",
+   "work": "marcos-1923",
+   "spex": [
+    45,
+    54
+   ],
+   "basis": "read",
+   "loc": "pp. 183–186, 238–239",
+   "url": "https://www.gutenberg.org/files/63359/63359-h/63359-h.htm#page_183",
+   "linkLabel": "Read in Project Gutenberg",
+   "note": "The meditation on the three sins as a chain of comparison, judgment and conclusion, and the exercise of memory, understanding and will as proof of the unity and substance of the soul against those who reduce it to a series of phenomena; the scholastic axiom that nothing is in the intellect that was not first in the senses is ascribed to the method.",
+   "quote": "nihil est in intellectu quod prius non fuerit in sensu"
+  },
+  {
+   "id": "marcos-1923-hell",
+   "work": "marcos-1923",
+   "spex": [
+    65,
+    71
+   ],
+   "basis": "read",
+   "loc": "pp. 223–225",
+   "url": "https://www.gutenberg.org/files/63359/63359-h/63359-h.htm#page_223",
+   "linkLabel": "Read in Project Gutenberg",
+   "note": "Against the Cyrenaics, the lament of the damned soul, with the Ergo erravimus of Wisdom 5, quoted as Ignatius' words. The footnotes cite meditations called 'Hell of the soul', 'Death', 'Particular judgment' and 'Universal judgment': the retreat-manual form of the First Week, not the book. Placed on the hell exercise (editorial).",
+   "quote": "Me he condenado por cosas que nunca satisficieron la sed de mi alma"
+  },
+  {
+   "id": "marcos-1923-kingdom",
+   "work": "marcos-1923",
+   "spex": [
+    91,
+    100
+   ],
+   "basis": "read",
+   "loc": "pp. 196–197",
+   "url": "https://www.gutenberg.org/files/63359/63359-h/63359-h.htm#page_196",
+   "linkLabel": "Read in Project Gutenberg",
+   "note": "The call of the eternal King quoted at length in an expanded wording ('second part, point two' of a manual meditation), several times the length of the call in [95].",
+   "quote": "Hijos míos: seguidme todos en esta empresa y conquista del Reino de los Cielos"
+  },
+  {
+   "id": "marcos-1923-standards",
+   "work": "marcos-1923",
+   "spex": [
+    136,
+    148
+   ],
+   "basis": "read",
+   "loc": "p. 264",
+   "url": "https://www.gutenberg.org/files/63359/63359-h/63359-h.htm#page_264",
+   "linkLabel": "Read in Project Gutenberg",
+   "note": "The two standards as a providential division of mankind: those who follow Christ go to his Kingdom; those who leave him enlist under Lucifer, and still serve the ends of Providence without knowing it.",
+   "quote": "los que se apartan de sus celestiales enseñanzas, es que se alistan en la “bandera de Lucifer, mortal enemigo de nuestra naturaleza humana”"
+  },
+  {
+   "id": "marcos-1923-bibliography",
+   "work": "marcos-1923",
+   "spex": null,
+   "basis": "toc",
+   "loc": "pp. 107–143",
+   "url": "https://www.gutenberg.org/files/63359/63359-h/63359-h.htm#page_107",
+   "linkLabel": "Read in Project Gutenberg",
+   "note": "Lists of biographers of Ignatius, editions of the Exercises in Spanish and Latin, commentators and other writers on him, by the book's table of contents."
   }
  ]
 }

@@ -499,7 +499,8 @@ function viewIntro() {
       English (Rickaby, Longridge, Joyce, Jung, <em>Studies in the Spirituality of Jesuits</em>, <em>The Way</em>),
       with French from the <em>Revue d'ascétique et de mystique</em> and Latin from the <em>Acta Apostolicae
       Sedis</em>. Spanish comes so far from before 1931: eleven articles in <em>Razón y Fe</em> (1904–1919), where the
-      sources of the book were fought over, and Codina's study of its origins (1926); Italian from Torti's eight-day
+      sources of the book were fought over, Codina's study of its origins (1926), and Benjamín Marcos's lay apology of 1923, which claims Ignatius for
+      Spanish philosophy and quotes the book in the form of a retreat manual; Italian from Torti's eight-day
       commentary (1909). The protected Spanish and Italian work after 1930 is not yet in. What can be shown depends on rights: works in the public domain
       are shown (tier A), freely available ones are linked (B), protected works are read in a copy and represented by
       anchors and summaries only (C), and the rest is recorded for reference (D).</p>
@@ -563,7 +564,8 @@ function viewMethod() {
         Jung's <em>Collected Works</em>, read and placed by paragraph (summaries only; Jung quotes the Exercises
         in Rickaby's second edition); Spanish and Italian before 1931: eleven articles of <em>Razón y Fe</em>
         (1904–1919, found by searching vols. 1–61), Codina's <em>Los orígenes de los Ejercicios</em> (1926) by its
-        own subject index, and Torti's Italian commentary (1909) by its section heads.</li>
+        own subject index, Torti's Italian commentary (1909) by its section heads, and Benjamín Marcos, <em>San Ignacio
+        de Loyola</em> (1923), read in full in Project Gutenberg.</li>
         <li>Pending: Rickaby's translation; Spanish and Italian work after 1930 (Casanovas, Calveras, Iparraguirre,
         the review <em>Manresa</em>), still to be searched; a hand transcription of Przywara's own index of Exercises numbers
         (vol. III, pp. 438–440).</li>

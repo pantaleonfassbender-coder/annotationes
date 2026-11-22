@@ -37,7 +37,7 @@ Live at <https://annotationes.netlify.app/> (deployed from `main`). The design d
 - Spanish and Italian before 1931 (`tools/es_it.py` → `data/src/es_it.json`): eleven articles of *Razón y
   Fe* (1904–1919, found by searching vols. 1–61 in the Internet Archive), Arturo Codina, *Los orígenes de
   los Ejercicios* (1926), placed by its own subject index, and Carlo Torti's Italian commentary (1909),
-  placed by its section heads.
+  placed by its section heads; Benjamín Marcos, *San Ignacio de Loyola* (1923, Project Gutenberg), read in full.
 - Seven reading paths (`data/paths.json`, `#/paths`) and an introduction essay (`#/intro`).
 - Bibliographic records of the protected core of the century (Rahner, Fessard, Balthasar, Barthes,
   Certeau, Jung and others), marked as such.

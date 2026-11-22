@@ -554,6 +554,25 @@
     }
    ],
    "note": "An Italian commentary that turns the four weeks into an eight-day retreat, exercise by exercise, with the text of the book translated after each week. It adds meditations on venial sin, death, judgment and conversion, and illustrates the rules for discernment with the conversion of Adolphe Retté (1906)."
+  },
+  {
+   "id": "marcos-1923",
+   "author": "Benjamín Marcos",
+   "title": "San Ignacio de Loyola. Biografía, bibliografía, su doctrina filosófica expuesta en los «Ejercicios espirituales», influencia de ésta en el mundo",
+   "year": 1923,
+   "lang": "es",
+   "genre": "philosophy",
+   "tier": "A",
+   "status": "read in full; 13 glosses by page",
+   "imprint": "Madrid: Imprenta de Caro Raggio, 1923 (Biblioteca filosófica: Los grandes filósofos españoles); prologue by Enrique Vázquez Camarasa",
+   "rights": "US public domain (published 1923).",
+   "sources": [
+    {
+     "label": "Project Gutenberg 63359 (HTML with page anchors)",
+     "url": "https://www.gutenberg.org/ebooks/63359"
+    }
+   ],
+   "note": "A lay apologetic of 1923 that claims Ignatius for Spanish philosophy against materialism. It takes up the sources question for a general readership: the Vita Christi set beside the mysteries in two columns, Cisneros answered with a list of what the Ejercitatorio lacks, the tradition of the Virgin's dictation reported as probable. It quotes the Exercises largely in the form of a retreat manual, with meditations on death and judgment that are not in the book."
   }
  ]
 }
