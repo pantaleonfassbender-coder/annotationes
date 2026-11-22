@@ -447,7 +447,7 @@ function viewPaths(id) {
           <h2>${esc(x.title)}</h2><p class="readable">${esc(x.question)}</p>
           <p class="fine">${x.stations.length} stations</p></a>`).join("")}</div>
         <p class="fine">Paths still to come, once their material is in: the <em>Anima Christi</em> in Przywara (1938) and in
-        Jung's ETH lectures (1939); the Exercises and politics, 1930–1975.</p></div>`));
+        Jung's ETH lectures (1939); the Exercises and politics after 1945 and in Spain in the 1930s.</p></div>`));
       return;
     }
     const i = P.indexOf(p);
@@ -499,7 +499,10 @@ function viewIntro() {
       the Contemplation to Attain Love [230]–[237] and the rules for discernment [313]–[336]. Most journal articles,
       in the <em>Zeitschrift für Aszese und Mystik</em> from 1926 and in <em>Geist und Leben</em> from 1947, address
       the book as a whole or its method rather than a passage. The Two Standards [136]–[148], outside the
-      commentaries, is glossed for its sources, in two Spanish articles of 1915 on where Ignatius found it. The thirteenth rule [365], the sentence of the book most
+      commentaries, is glossed for its sources, in two Spanish articles of 1915 on where Ignatius found it. The Kingdom
+      [91]–[100] is the passage the 1930s articles of the <em>Zeitschrift für Aszese und Mystik</em> address most often, and
+      the vocabulary of those years, leader and following, enters its reading (a <a href="#/paths/king">reading path</a>
+      follows it). The thirteenth rule [365], the sentence of the book most
       quoted outside the Church, is glossed less than one would expect: the debates that made it notorious lie
       largely after 1978 or are not yet in the apparatus.</p>
       <h2>Outside the Church</h2>
@@ -585,7 +588,9 @@ function viewMethod() {
         own subject index, Torti's Italian commentary (1909) by its section heads, and Benjamín Marcos, <em>San Ignacio
         de Loyola</em> (1923), read in full in Project Gutenberg; Rickaby's English translation as a second English
         text in the reader ("en · Rickaby"), cut onto the grid between the openings found in his Spanish column, with
-        Mullan's English steering the cuts (machine-read, cuts can be off by a clause); Przywara's own index of the numbers
+        Mullan's English steering the cuts (machine-read, cuts can be off by a clause); four articles of the
+        <em>Zeitschrift für Aszese und Mystik</em> on the Christ-King meditation (Sierp 1930 and 1933, Schuster 1937,
+        Zeiger 1942) read in full and summarized, for the path on the King 1929–1942; Przywara's own index of the numbers
         of the Exercises (vol. III, pp. 438–440), transcribed by hand: 281 entries, of which the 130 that send a paragraph
         beyond the sections his tables of contents give it stand as glosses of their own.</li>
         <li>Pending: Spanish and Italian work after 1930 (Casanovas, Calveras, Iparraguirre,

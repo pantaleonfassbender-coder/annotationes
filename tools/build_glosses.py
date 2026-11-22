@@ -133,7 +133,13 @@ for g in load(D('src', 'jung_cw.json'))['glosses']:
     vol = re.match(r'CW (\w+)', g['loc']).group(1)
     out.append({**g, 'url': JUNG_SITE + vol, 'linkLabel': f'CW {vol} in the Collected Works apparatus'})
 if os.path.exists(D('src', 'journals.json')):
-    out += load(D('src', 'journals.json'))['glosses']
+    # notes for articles that have been read are laid over the title-only records
+    JN = load(D('src', 'journal_notes.json'))['notes'] if os.path.exists(D('src', 'journal_notes.json')) else {}
+    for g in load(D('src', 'journals.json'))['glosses']:
+        out.append({**g, **JN.get(g['id'], {})})
+    missing = set(JN) - {g['id'] for g in out}
+    if missing:
+        sys.exit(f'journal_notes.json names unknown glosses: {sorted(missing)}')
 
 seen = set()
 for g in out:

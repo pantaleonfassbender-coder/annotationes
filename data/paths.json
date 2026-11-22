@@ -1,5 +1,5 @@
 {
- "_note": "Reading paths: editorial texts, CC BY 4.0. Each station is a gloss of the apparatus (data/glosses.json); the reason says why it stands here, not what the work says. Built only from glosses that are in the index; paths for which the material is not yet in (the Anima Christi in Przywara and Jung, the Exercises and politics 1930-1975) are left for later.",
+ "_note": "Reading paths: editorial texts, CC BY 4.0. Each station is a gloss of the apparatus (data/glosses.json); the reason says why it stands here, not what the work says. Built only from glosses that are in the index; paths for which the material is not yet in (the Anima Christi in Przywara and Jung, the Exercises and politics after 1945, Spain in the 1930s) are left for later; the path on the King 1929-1942 rests on four articles read in full.",
  "paths": [
   {
    "id": "foundation",
@@ -7,14 +7,38 @@
    "question": "Is the Foundation a premise to be understood or a meditation to be made, and who in the century reads it as something else again?",
    "intro": "The most glossed paragraph of the book, and one that stands apart from the rest: as Feder notes, Ignatius gave it no preludes and no points. The century then reads it in three registers: as doctrine on the end of man, as a programme for the whole retreat, and, with Jung, as a statement about the ego.",
    "stations": [
-    {"gloss": "longridge-note-B", "why": "An Anglican translator in 1919 needs a separate additional note to explain the Foundation, beside six commentary blocks on the one paragraph."},
-    {"gloss": "feder-note-17", "why": "Feder (1922) says it outright: Ignatius gave the Foundation no preludes and no points, so it is to be weighed rather than contemplated, though nothing prevents making it a meditation."},
-    {"gloss": "rickaby-2-0", "why": "Rickaby's notes on [23] in the edition Jung would later quote from."},
-    {"gloss": "zam-1926-abhandlungen-johann-b-umberg-exerzitienfundament-und-taufe-1", "why": "In its first year (1926) the Zeitschrift für Aszese und Mystik reads the Foundation against baptism."},
-    {"gloss": "zam-1927-abhandlungen-walter-sierp-das-fundament-der-ignatianischen-e", "why": "First of Walter Sierp's four articles on the Foundation in the same journal, 1927–28: one paragraph carries a series."},
-    {"gloss": "przywara-a6", "why": "Przywara gives the Foundation nearly a hundred pages of his first volume (1938): the largest single anchor in his table."},
-    {"gloss": "jung-cw-9ii-252", "why": "Jung quotes the Foundation in Latin in Aion (1951) and hears in it the relation of the ego to the self."},
-    {"gloss": "jung-cw-11-391", "why": "And in the essay on the Mass he calls 'Homo creatus est' half of the psychological truth."}
+    {
+     "gloss": "longridge-note-B",
+     "why": "An Anglican translator in 1919 needs a separate additional note to explain the Foundation, beside six commentary blocks on the one paragraph."
+    },
+    {
+     "gloss": "feder-note-17",
+     "why": "Feder (1922) says it outright: Ignatius gave the Foundation no preludes and no points, so it is to be weighed rather than contemplated, though nothing prevents making it a meditation."
+    },
+    {
+     "gloss": "rickaby-2-0",
+     "why": "Rickaby's notes on [23] in the edition Jung would later quote from."
+    },
+    {
+     "gloss": "zam-1926-abhandlungen-johann-b-umberg-exerzitienfundament-und-taufe-1",
+     "why": "In its first year (1926) the Zeitschrift für Aszese und Mystik reads the Foundation against baptism."
+    },
+    {
+     "gloss": "zam-1927-abhandlungen-walter-sierp-das-fundament-der-ignatianischen-e",
+     "why": "First of Walter Sierp's four articles on the Foundation in the same journal, 1927–28: one paragraph carries a series."
+    },
+    {
+     "gloss": "przywara-a6",
+     "why": "Przywara gives the Foundation nearly a hundred pages of his first volume (1938): the largest single anchor in his table."
+    },
+    {
+     "gloss": "jung-cw-9ii-252",
+     "why": "Jung quotes the Foundation in Latin in Aion (1951) and hears in it the relation of the ego to the self."
+    },
+    {
+     "gloss": "jung-cw-11-391",
+     "why": "And in the essay on the Mass he calls 'Homo creatus est' half of the psychological truth."
+    }
    ]
   },
   {
@@ -23,15 +47,42 @@
    "question": "What happens to the meditation on hell when it is read as rhetoric, as theology and as a technique of imagination?",
    "intro": "The fifth exercise of the First Week [65]–[71] asks the exercitant to see, hear, smell, taste and touch hell. It is the passage of the book that travelled furthest outside the retreat house: into a novel in 1916 and into Jung's alchemical studies.",
    "stations": [
-    {"gloss": "longridge-note-G", "why": "Longridge's additional note on the fifth exercise: the commentator's reading before the century's others."},
-    {"gloss": "rickaby-6-0", "why": "Rickaby's notes on [64]–[71]. His page 41, with the senses in hell, is the page Jung cites twice."},
-    {"gloss": "feder-note-40", "why": "Feder's note is a list of authorities on the fire of hell, Augustine to Aquinas: the commentator secures the doctrine."},
-    {"gloss": "joyce-1916-c", "why": "Joyce's two hell sermons in A Portrait of the Artist follow the five senses of the exercise, worm of conscience included: the meditation turned into rhetoric aimed at a boy."},
-    {"gloss": "przywara-a33", "why": "Przywara treats hell through the senses as a section of its own (1938)."},
-    {"gloss": "jung-cw-13-201", "why": "Jung reads the exercise as active imagination and points to Rickaby, pp. 40ff., the meditation on hell."},
-    {"gloss": "jung-cw-14-255", "why": "In Mysterium Coniunctionis the fourth point, the taste of bitter things, is set beside the hell exercise of Izquierdo (1686)."},
-    {"gloss": "jung-cw-14-283a", "why": "And the senses of the exercise become the model of a total 'realization' of what is contemplated."},
-    {"gloss": "jung-cw-11-937", "why": "The application of the senses [121]–[126] carries the same technique into the life of Christ; Jung compares the yogi."}
+    {
+     "gloss": "longridge-note-G",
+     "why": "Longridge's additional note on the fifth exercise: the commentator's reading before the century's others."
+    },
+    {
+     "gloss": "rickaby-6-0",
+     "why": "Rickaby's notes on [64]–[71]. His page 41, with the senses in hell, is the page Jung cites twice."
+    },
+    {
+     "gloss": "feder-note-40",
+     "why": "Feder's note is a list of authorities on the fire of hell, Augustine to Aquinas: the commentator secures the doctrine."
+    },
+    {
+     "gloss": "joyce-1916-c",
+     "why": "Joyce's two hell sermons in A Portrait of the Artist follow the five senses of the exercise, worm of conscience included: the meditation turned into rhetoric aimed at a boy."
+    },
+    {
+     "gloss": "przywara-a33",
+     "why": "Przywara treats hell through the senses as a section of its own (1938)."
+    },
+    {
+     "gloss": "jung-cw-13-201",
+     "why": "Jung reads the exercise as active imagination and points to Rickaby, pp. 40ff., the meditation on hell."
+    },
+    {
+     "gloss": "jung-cw-14-255",
+     "why": "In Mysterium Coniunctionis the fourth point, the taste of bitter things, is set beside the hell exercise of Izquierdo (1686)."
+    },
+    {
+     "gloss": "jung-cw-14-283a",
+     "why": "And the senses of the exercise become the model of a total 'realization' of what is contemplated."
+    },
+    {
+     "gloss": "jung-cw-11-937",
+     "why": "The application of the senses [121]–[126] carries the same technique into the life of Christ; Jung compares the yogi."
+    }
    ]
   },
   {
@@ -40,11 +91,26 @@
    "question": "Who is answering in the colloquy?",
    "intro": "The first exercise ends in a colloquy with Christ on the cross, 'as one friend speaks to another' [53]–[54]. The commentaries treat it as a form of prayer; Jung treats it as the one place where the book admits an inner dialogue, and notes what it leaves out.",
    "stations": [
-    {"gloss": "longridge-note-D", "why": "Longridge's note on the first exercise, colloquy included."},
-    {"gloss": "rickaby-3-0", "why": "Rickaby's notes on [45]–[54]."},
-    {"gloss": "przywara-a22", "why": "Przywara's section on the colloquy with Christ crucified (1938)."},
-    {"gloss": "jung-cw-9i-236", "why": "Jung (1940): the colloquy admitted, but only the meditant may speak; the answers from within are set aside."},
-    {"gloss": "jung-cw-12-390", "why": "Jung (1944): the alchemist's meditatio as inner dialogue with an unseen other, very close to the colloquy of the Exercises."}
+    {
+     "gloss": "longridge-note-D",
+     "why": "Longridge's note on the first exercise, colloquy included."
+    },
+    {
+     "gloss": "rickaby-3-0",
+     "why": "Rickaby's notes on [45]–[54]."
+    },
+    {
+     "gloss": "przywara-a22",
+     "why": "Przywara's section on the colloquy with Christ crucified (1938)."
+    },
+    {
+     "gloss": "jung-cw-9i-236",
+     "why": "Jung (1940): the colloquy admitted, but only the meditant may speak; the answers from within are set aside."
+    },
+    {
+     "gloss": "jung-cw-12-390",
+     "why": "Jung (1944): the alchemist's meditatio as inner dialogue with an unseen other, very close to the colloquy of the Exercises."
+    }
    ]
   },
   {
@@ -53,15 +119,42 @@
    "question": "When a consolation turns out to come from the enemy, is that a fact about spirits or about interpretation?",
    "intro": "The second set of rules for discernment [328]–[336] deals with the enemy who comes as an angel of light. Jung never cites these rules, but he returns four times to a scene from the Autobiography that they describe: a vision that consoled Ignatius and was later recognized as evil.",
    "stations": [
-    {"gloss": "longridge-disc-1", "why": "Longridge's commentary on the rules for the Second Week."},
-    {"gloss": "rickaby-21-0", "why": "Rickaby's notes on [328]–[336]."},
-    {"gloss": "torti-1909-disc", "why": "Torti's Italian commentary (1909) sets the rules beside a recent case, the conversion of the poet Adolphe Retté (1906), as their 'historical counterpart'."},
-    {"gloss": "feder-note-93", "why": "Feder (1922) explains the image of [332]: the enemy enters by stirring apparently pious intentions that suit the soul's mood, and leaves with his own."},
-    {"gloss": "przywara-a76", "why": "Przywara (vol. II) reads the same rules as the mediate in religious life: consolation with a cause, the angel of light."},
-    {"gloss": "jung-cw-8-395", "why": "Jung (1947) on the serpent vision of the Autobiography: a light full of eyes, first consoling, then known as an evil spirit."},
-    {"gloss": "jung-cw-18-1538", "why": "Jung to Père Lachat (1954): nothing guarantees that the spirit is not the devil."},
-    {"gloss": "jung-cw-13-293", "why": "And the conflict of light and darkness made felt through drastic exercises, with a note to Rickaby's pages on the first set of rules."},
-    {"gloss": "ssj-2-2-1", "why": "In 1970 Studies in the Spirituality of Jesuits takes up Ignatian discernment; its papers on communal discernment follow in 1971–73."}
+    {
+     "gloss": "longridge-disc-1",
+     "why": "Longridge's commentary on the rules for the Second Week."
+    },
+    {
+     "gloss": "rickaby-21-0",
+     "why": "Rickaby's notes on [328]–[336]."
+    },
+    {
+     "gloss": "torti-1909-disc",
+     "why": "Torti's Italian commentary (1909) sets the rules beside a recent case, the conversion of the poet Adolphe Retté (1906), as their 'historical counterpart'."
+    },
+    {
+     "gloss": "feder-note-93",
+     "why": "Feder (1922) explains the image of [332]: the enemy enters by stirring apparently pious intentions that suit the soul's mood, and leaves with his own."
+    },
+    {
+     "gloss": "przywara-a76",
+     "why": "Przywara (vol. II) reads the same rules as the mediate in religious life: consolation with a cause, the angel of light."
+    },
+    {
+     "gloss": "jung-cw-8-395",
+     "why": "Jung (1947) on the serpent vision of the Autobiography: a light full of eyes, first consoling, then known as an evil spirit."
+    },
+    {
+     "gloss": "jung-cw-18-1538",
+     "why": "Jung to Père Lachat (1954): nothing guarantees that the spirit is not the devil."
+    },
+    {
+     "gloss": "jung-cw-13-293",
+     "why": "And the conflict of light and darkness made felt through drastic exercises, with a note to Rickaby's pages on the first set of rules."
+    },
+    {
+     "gloss": "ssj-2-2-1",
+     "why": "In 1970 Studies in the Spirituality of Jesuits takes up Ignatian discernment; its papers on communal discernment follow in 1971–73."
+    }
    ]
   },
   {
@@ -70,12 +163,30 @@
    "question": "What does the century do with 'what seems to me white, I will believe black'?",
    "intro": "The rules for thinking with the Church [352]–[370] close the book, and the thirteenth [365] became its most quoted sentence outside the Church. In this apparatus so far it is glossed less than one would expect; the path shows who does take it up.",
    "stations": [
-    {"gloss": "longridge-rules-2", "why": "Longridge's commentary on the rules, 1919."},
-    {"gloss": "feder-note-104", "why": "Feder's note on the rule gives the reason in a clause: because the Church is infallible, while our understanding can err (OCR damaged)."},
-    {"gloss": "rickaby-37-0", "why": "Rickaby's notes on [357]–[370]."},
-    {"gloss": "przywara-a136", "why": "Przywara (vol. III) reads the closing rules, the thirteenth among them, as the Church as office of consolation in the Holy Spirit."},
-    {"gloss": "jung-cw-10-522", "why": "Jung (1957) ascribes to Ignatius the maxim that the end sanctifies the means and sets it beside the Marxist state; the maxim is not in the book."},
-    {"gloss": "ssj-7-1-6", "why": "Studies in the Spirituality of Jesuits (1975): Wright, Ganss and Orsy on thinking with the Church after the Council."}
+    {
+     "gloss": "longridge-rules-2",
+     "why": "Longridge's commentary on the rules, 1919."
+    },
+    {
+     "gloss": "feder-note-104",
+     "why": "Feder's note on the rule gives the reason in a clause: because the Church is infallible, while our understanding can err (OCR damaged)."
+    },
+    {
+     "gloss": "rickaby-37-0",
+     "why": "Rickaby's notes on [357]–[370]."
+    },
+    {
+     "gloss": "przywara-a136",
+     "why": "Przywara (vol. III) reads the closing rules, the thirteenth among them, as the Church as office of consolation in the Holy Spirit."
+    },
+    {
+     "gloss": "jung-cw-10-522",
+     "why": "Jung (1957) ascribes to Ignatius the maxim that the end sanctifies the means and sets it beside the Marxist state; the maxim is not in the book."
+    },
+    {
+     "gloss": "ssj-7-1-6",
+     "why": "Studies in the Spirituality of Jesuits (1975): Wright, Ganss and Orsy on thinking with the Church after the Council."
+    }
    ]
   },
   {
@@ -84,11 +195,26 @@
    "question": "What did the book look like from the pews, before the commentaries and the encyclicals tidied it?",
    "intro": "Between Joyce's school retreat and Pius XI's encyclical on retreats, the Exercises are an institution: preached, adapted, put under a patron. The path runs from a novel to the Acta Apostolicae Sedis.",
    "stations": [
-    {"gloss": "joyce-1916-a", "why": "Joyce: a three-day school retreat, announced by the rector, the preacher defining a retreat as withdrawal, the condition Annotation 20 sets."},
-    {"gloss": "joyce-1916-b", "why": "The retreat preached on the four last things."},
-    {"gloss": "joyce-1916-d", "why": "The preacher names his method, the composition of place, and its founder."},
-    {"gloss": "pius11-1922-a", "why": "Pius XI declares Ignatius patron of all spiritual exercises (1922)."},
-    {"gloss": "pius11-1929-b", "why": "Mens nostra (1929) praises the book's ease of adaptation to every state of life: the papal reading of Annotations 18–20."}
+    {
+     "gloss": "joyce-1916-a",
+     "why": "Joyce: a three-day school retreat, announced by the rector, the preacher defining a retreat as withdrawal, the condition Annotation 20 sets."
+    },
+    {
+     "gloss": "joyce-1916-b",
+     "why": "The retreat preached on the four last things."
+    },
+    {
+     "gloss": "joyce-1916-d",
+     "why": "The preacher names his method, the composition of place, and its founder."
+    },
+    {
+     "gloss": "pius11-1922-a",
+     "why": "Pius XI declares Ignatius patron of all spiritual exercises (1922)."
+    },
+    {
+     "gloss": "pius11-1929-b",
+     "why": "Mens nostra (1929) praises the book's ease of adaptation to every state of life: the papal reading of Annotations 18–20."
+    }
    ]
   },
   {
@@ -97,19 +223,94 @@
    "question": "Did Ignatius write the Exercises out of his own experience at Manresa, or did he put them together from books he had read?",
    "intro": "Ignatius read Ludolph of Saxony's Life of Christ and a book of saints' lives at Loyola, and García de Cisneros' Ejercitatorio was printed at Montserrat, where he stopped in 1522. In the first decades of the century these facts become a scholarly question: which parts of the book have literary antecedents, which belong to Manresa and which to later years. In this apparatus the question is argued most fully in Spanish, in Razón y Fe, and the path follows it from there to a survey of the state of research in 1956.",
    "stations": [
-    {"gloss": "ryf-1909-martinez", "why": "The starting point: Henri Watrigant's library of the Exercises at Enghien, reported in Spain in 1909. The book has become an object of historical scholarship."},
-    {"gloss": "ryf-1915-codina-a", "why": "Arturo Codina takes up the claim that the Two Standards came from a pseudo-Bernardine parable read at Loyola."},
-    {"gloss": "ryf-1915-codina-b", "why": "The sequel weighs a second candidate, Werner of St Blasien, and asks whether the meditation was made at Manresa or in Paris. Where the Two Standards is glossed outside the commentaries in this apparatus, it is for its sources."},
-    {"gloss": "ryf-1917-codina", "why": "The largest claim: Dom Besse and Dom Pierdet derive the Exercises from Cisneros' Ejercitatorio. Codina answers in three articles. That Ignatius read the book he grants as probable; that the book depends on it he does not."},
-    {"gloss": "ryf-1917-codina-47", "why": "The method of the argument in one example: two supposed borrowings are traced to a different work of Cisneros."},
-    {"gloss": "ram-1920-debuchy", "why": "The critical edition of the Exercises in the Monumenta (1919) gives every later comparison a common text."},
-    {"gloss": "feder-note-50", "why": "Feder's translation (1922) notes a borrowing in passing: details of the Nativity taken from the saints' legends and from Ludolph (OCR damaged)."},
-    {"gloss": "ram-1922-watrigant", "why": "Watrigant himself looks further back, to the methodical meditation of the Brothers of the Common Life."},
-    {"gloss": "marcos-1923-cisneros", "why": "The debate reaches a general Spanish readership in 1923: a lay apology lists what the Ejercitatorio lacks, doubts that Ignatius took anything from books, and ascribes the book to a supernatural illumination, elsewhere (p. 208) to the Virgin's inspiration."},
-    {"gloss": "codina-1926-3", "why": "Codina's book of 1926 lists examens in Mauburnus under the particular examen: the same Devotio moderna author Watrigant had written on in 1923."},
-    {"gloss": "codina-1926-cisneros", "why": "An appendix gives Cisneros' own summary of his book and examines Besse's parallels once more."},
-    {"gloss": "zam-1942-abhandlungen-hugo-rahner-ignatius-von-loyola-und-die-aszetis", "why": "Hugo Rahner (1942) carries the question back to the Church Fathers. Listed by title only."},
-    {"gloss": "gul-1956-abhandlungen-heinrich-bacht-der-heutige-stand-der-forschung", "why": "By 1956 the genesis of the book has a literature of its own, and Geist und Leben prints a survey of the state of research. Listed by title only."}
+    {
+     "gloss": "ryf-1909-martinez",
+     "why": "The starting point: Henri Watrigant's library of the Exercises at Enghien, reported in Spain in 1909. The book has become an object of historical scholarship."
+    },
+    {
+     "gloss": "ryf-1915-codina-a",
+     "why": "Arturo Codina takes up the claim that the Two Standards came from a pseudo-Bernardine parable read at Loyola."
+    },
+    {
+     "gloss": "ryf-1915-codina-b",
+     "why": "The sequel weighs a second candidate, Werner of St Blasien, and asks whether the meditation was made at Manresa or in Paris. Where the Two Standards is glossed outside the commentaries in this apparatus, it is for its sources."
+    },
+    {
+     "gloss": "ryf-1917-codina",
+     "why": "The largest claim: Dom Besse and Dom Pierdet derive the Exercises from Cisneros' Ejercitatorio. Codina answers in three articles. That Ignatius read the book he grants as probable; that the book depends on it he does not."
+    },
+    {
+     "gloss": "ryf-1917-codina-47",
+     "why": "The method of the argument in one example: two supposed borrowings are traced to a different work of Cisneros."
+    },
+    {
+     "gloss": "ram-1920-debuchy",
+     "why": "The critical edition of the Exercises in the Monumenta (1919) gives every later comparison a common text."
+    },
+    {
+     "gloss": "feder-note-50",
+     "why": "Feder's translation (1922) notes a borrowing in passing: details of the Nativity taken from the saints' legends and from Ludolph (OCR damaged)."
+    },
+    {
+     "gloss": "ram-1922-watrigant",
+     "why": "Watrigant himself looks further back, to the methodical meditation of the Brothers of the Common Life."
+    },
+    {
+     "gloss": "marcos-1923-cisneros",
+     "why": "The debate reaches a general Spanish readership in 1923: a lay apology lists what the Ejercitatorio lacks, doubts that Ignatius took anything from books, and ascribes the book to a supernatural illumination, elsewhere (p. 208) to the Virgin's inspiration."
+    },
+    {
+     "gloss": "codina-1926-3",
+     "why": "Codina's book of 1926 lists examens in Mauburnus under the particular examen: the same Devotio moderna author Watrigant had written on in 1923."
+    },
+    {
+     "gloss": "codina-1926-cisneros",
+     "why": "An appendix gives Cisneros' own summary of his book and examines Besse's parallels once more."
+    },
+    {
+     "gloss": "zam-1942-abhandlungen-hugo-rahner-ignatius-von-loyola-und-die-aszetis",
+     "why": "Hugo Rahner (1942) carries the question back to the Church Fathers. Listed by title only."
+    },
+    {
+     "gloss": "gul-1956-abhandlungen-heinrich-bacht-der-heutige-stand-der-forschung",
+     "why": "By 1956 the genesis of the book has a literature of its own, and Geist und Leben prints a survey of the state of research. Listed by title only."
+    }
+   ]
+  },
+  {
+   "id": "king",
+   "title": "The King and his following, 1929–1942",
+   "question": "What happens to the call of the King when the words for king, leader and following belong to the state?",
+   "intro": "The parable of the earthly king [91]–[100] speaks of a ruler, a call and those who follow. Between Pius XI's encyclical on retreats and the middle of the war, German Jesuits in the Zeitschrift für Aszese und Mystik return to it again and again, and the vocabulary of their years enters the reading: Führer, Gefolgschaft, Reich, the heroic man. The path shows the words and what the authors make of them. Whether their insistence on freedom was meant as an answer to the state, the texts do not say, and the path does not claim it.",
+   "stations": [
+    {
+     "gloss": "pius11-1929-a",
+     "why": "The starting point: the encyclical on retreats (1929) of the pope who had instituted the feast of Christ the King in 1925 and made Catholic Action his programme."
+    },
+    {
+     "gloss": "zam-1930-abhandlungen-heinrich-bleienstein-das-exerzitien-rundschreib",
+     "why": "The encyclical reaches German retreat-givers in the Zeitschrift's own translation and commentary (1930). Listed by title only."
+    },
+    {
+     "gloss": "zam-1930-abhandlungen-walter-sierp-einige-gedanken-zur-christk-c3-b6n",
+     "why": "Walter Sierp (1930) sets the eternal King before today's Rome, Berlin and Cologne: the Kingdom as the present Church, with no politics in it."
+    },
+    {
+     "gloss": "zam-1933-abhandlungen-walter-sierp-die-christk-c3-b6nigs-betrachtung",
+     "why": "The same author in 1933: Christ as 'Führer', owed 'Gefolgschaft', the Kingdom as the Church in the struggle of the time and the root of Catholic Action. The words have moved; the subject has not."
+    },
+    {
+     "gloss": "zam-1937-abhandlungen-joh-b-schuster-das-menschenbild-der-christ-k-c3",
+     "why": "Schuster (1937) answers the charge that Christian self-denial is hostile to life with a 'heroic' image of man, and holds at the same time that the offering of [97] cannot be commanded."
+    },
+    {
+     "gloss": "zam-1942-abhandlungen-ivo-zeiger-gefolgschaft-des-herrn-ein-rechtsges",
+     "why": "Zeiger (1942) takes the parable furthest into the language of the day, Germanic following and the leader's oath, and draws from it freedom, mutual loyalty and friendship, against drill and command. The war is present on the printed page."
+    },
+    {
+     "gloss": "jung-cw-10-522",
+     "why": "Epilogue from outside the Church (1957): Jung sets the obedience he ascribes to Ignatius beside the Marxist state, with a maxim that is not in the book."
+    }
    ]
   }
  ]

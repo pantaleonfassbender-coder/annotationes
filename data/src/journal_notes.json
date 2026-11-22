@@ -1,0 +1,23 @@
+{
+ "_note": "Notes for journal articles that have been read (Zeitschrift für Aszese und Mystik, Geist und Leben), laid over the title-only records of data/src/journals.json by tools/build_glosses.py. The articles are protected (tier B): summaries and phrases of a few words only, no quote field. Read on 22 November 2026 in the PDFs of the free archive at geist-und-leben.de. Notes CC BY 4.0.",
+ "notes": {
+  "zam-1930-abhandlungen-walter-sierp-einige-gedanken-zur-christk-c3-b6n": {
+   "basis": "read",
+   "note": "The Kingdom read as the call of the Christ who lives on in his Church: the world before the eternal King is not Palestine but the present, 'das heutige Rom und heutige Berlin und heutige Köln'. A theological reading, with no political reference."
+  },
+  "zam-1933-abhandlungen-walter-sierp-die-christk-c3-b6nigs-betrachtung": {
+   "basis": "read",
+   "note": "Three years later the same author's vocabulary has changed. Christ is 'Haupt und Führer', owed 'treueste Gefolgschaft'; the kingdom of the parable is the Catholic world Church 'im Kampf der Zeit', and Catholic Action grows 'organisch' out of the meditation. Neither the state nor the party is named."
+  },
+  "zam-1937-abhandlungen-joh-b-schuster-das-menschenbild-der-christ-k-c3": {
+   "basis": "read",
+   "spex": [91, 100],
+   "note": "The agere contra of [97] defended against the charge of hostility to life through a 'heroic' image of man: loyalty, the 'Reichsgedanke Christi', readiness for battle. The decisive offering, Schuster insists, is not forced or commanded but given in free love."
+  },
+  "zam-1942-abhandlungen-ivo-zeiger-gefolgschaft-des-herrn-ein-rechtsges": {
+   "basis": "read",
+   "spex": [91, 100],
+   "note": "Written in Rome by a canon lawyer: the parable of the King [91]-[100] explained by medieval legal history as Germanic 'Gefolgschaft', in the vocabulary of the time ('Führereid', 'germanisch') and with v. Schwerin's Germanische Rechtsgeschichte (1936) among its sources. Its conclusions run the other way: following Christ means free choice, mutual loyalty and friendship, 'Freiheit, nicht Zwang', and is far removed from drill and soldiery. In the archive's PDF the article is followed by a printed appeal for the wartime Winterhilfswerk."
+  }
+ }
+}

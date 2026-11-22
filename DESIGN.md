@@ -204,7 +204,15 @@ a rights check before anything beyond tier D (UK rule for works first published 
   Built (22 November 2026, `data/paths.json`, `#/paths`): the Foundation; hell through the five senses;
   the colloquy; discernment between theology and psychology; the thirteenth rule; the retreat as an
   institution 1916–1929; and (same day) the sources debate 1909–1956, from the Spanish layer, with Torti added
-  to the discernment path. Paths 4 and 5 of the drafts wait for their material. The introduction essay
+  to the discernment path. Path 4 of the drafts was checked on 22 November 2026: the apparatus does not
+  carry the Exercises and politics 1930–1975 (no Spanish material after 1921, nothing on Arrupe or the
+  32nd General Congregation). What it does carry is a cluster of articles on the Christ-King meditation in
+  the Zeitschrift für Aszese und Mystik; four were read in the archive's PDFs (Sierp 1930 and 1933,
+  Schuster 1937, Zeiger 1942; summaries in `data/src/journal_notes.json`), and they make a narrower path,
+  "The King and his following, 1929–1942": the vocabulary of the years (Führer, Gefolgschaft, Reich, the
+  heroic man) enters the reading of [91]–[100], while the authors insist on free offering against command.
+  Whether that was meant as an answer to the state is left open. Not read: Kellerwessel and Kroppenberg
+  1932, Bleienstein 1930. The rest of path 4 and path 5 wait for their material. The introduction essay
   (`#/intro`) reports what the margin shows so far, including where it contradicts claim 1 of §1: outside
   the running commentaries the Two Standards, the Three Classes and the thirteenth rule are thinly glossed.
 - **Plates from the start** (public domain): title pages of the Vulgate 1548, Rickaby 1915, Longridge
