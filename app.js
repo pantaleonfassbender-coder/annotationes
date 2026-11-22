@@ -26,6 +26,7 @@ const BASIS = {
   matched: "placed by matching the author's Spanish text to the autograph",
   page: "placed by the page that carries the note's call (page-exact, not paragraph-exact)",
   toc: "assigned from the table of contents",
+  index: "assigned from the book's own subject index",
   title: "assigned from the article title",
 };
 
@@ -496,7 +497,9 @@ function viewIntro() {
       <p>The margin is strongest so far in German (Feder's translation and notes, Przywara, the two journals) and in
       English (Rickaby, Longridge, Joyce, Jung, <em>Studies in the Spirituality of Jesuits</em>, <em>The Way</em>),
       with French from the <em>Revue d'ascétique et de mystique</em> and Latin from the <em>Acta Apostolicae
-      Sedis</em>. Spanish and Italian are still thin. What can be shown depends on rights: works in the public domain
+      Sedis</em>. Spanish comes so far from before 1931: eleven articles in <em>Razón y Fe</em> (1904–1919), where the
+      sources of the book were fought over, and Codina's study of its origins (1926); Italian from Torti's eight-day
+      commentary (1909). The protected Spanish and Italian work after 1930 is not yet in. What can be shown depends on rights: works in the public domain
       are shown (tier A), freely available ones are linked (B), protected works are read in a copy and represented by
       anchors and summaries only (C), and the rest is recorded for reference (D).</p>
       <h2>How to use it</h2>
@@ -557,8 +560,11 @@ function viewMethod() {
         (148 anchors, read in the lending scans); selected articles of the <em>Revue d'ascétique et de mystique</em>
         vols. 1–4 and of <em>Studies in the Spirituality of Jesuits</em>, read and assigned; 28 passages of
         Jung's <em>Collected Works</em>, read and placed by paragraph (summaries only; Jung quotes the Exercises
-        in Rickaby's second edition).</li>
-        <li>Pending: Rickaby's translation; a hand transcription of Przywara's own index of Exercises numbers
+        in Rickaby's second edition); Spanish and Italian before 1931: eleven articles of <em>Razón y Fe</em>
+        (1904–1919, found by searching vols. 1–61), Codina's <em>Los orígenes de los Ejercicios</em> (1926) by its
+        own subject index, and Torti's Italian commentary (1909) by its section heads.</li>
+        <li>Pending: Rickaby's translation; Spanish and Italian work after 1930 (Casanovas, Calveras, Iparraguirre,
+        the review <em>Manresa</em>), still to be searched; a hand transcription of Przywara's own index of Exercises numbers
         (vol. III, pp. 438–440).</li>
       </ul></div>
     <div class="panel"><h2>Licences and data</h2>

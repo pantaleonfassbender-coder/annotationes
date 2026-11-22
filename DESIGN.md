@@ -254,6 +254,17 @@ gloss index) CC0; public-domain texts as such. No copyrighted text in the reposi
 3. **Jung module:** Collected Works stations and ETH lectures.
 4. Translation atlas, network, reading paths, introduction essay.
 
+### Spanish and Italian (22 November 2026)
+
+Before 1931, free: *Razón y Fe* vols. 1–61 (1901–1921, Internet Archive, Toronto copies) were searched
+for the Exercises; eleven articles, 1904–1919, in three groups: retreats for workers (Codina 1904,
+Noguer 1908), the Festugière controversy (1914, Astrain 1916), and the sources of the book (Arturo
+Codina on the Two Standards 1915 and on Cisneros' *Ejercitatorio* 1917; Bover on the Kingdom 1914 and
+the Foundation 1919). Codina's *Los orígenes de los Ejercicios* (1926) is placed by its own subject index
+(new basis `index`), Torti's *Esercizi spirituali* (1909) by its section heads. Not yet searched: the
+review *Manresa*, *La Civiltà Cattolica* (not on the Internet Archive for these years), Casanovas, and
+Benjamín Marcos, *San Ignacio de Loyola* (1922, Project Gutenberg 63359; the site was down).
+
 ## 11. Open questions
 
 - End date 1978 or 2000?

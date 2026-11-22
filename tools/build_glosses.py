@@ -87,6 +87,7 @@ for i, a in enumerate(PZ['anchors']):
     })
 
 out += load(D('src', 'glosses_curated.json'))['glosses']
+out += load(D('src', 'es_it.json'))['glosses']   # Spanish and Italian, before 1931 (tools/es_it.py)
 # Jung: each passage links to its volume in the operator's Collected Works apparatus, which
 # has no paragraph address (its deepest route is #/volumes/{n}).
 JUNG_SITE = 'https://analysis-works-jung.netlify.app/#/volumes/'

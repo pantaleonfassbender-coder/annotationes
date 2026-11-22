@@ -1,0 +1,593 @@
+{
+ "_note": "Spanish and Italian reception before 1931 (tier A): Razón y Fe 1904-1919 (articles found by searching vols. 1-61 for the Exercises; authors from signatures and indexes; pages from the scans' running heads); Codina 1926 by its own subject index; Torti 1909 by its section heads. Links go to the first page in the Internet Archive scan. Notes CC BY 4.0.",
+ "glosses": [
+  {
+   "id": "ryf-1904-codina",
+   "work": "ryf",
+   "spex": null,
+   "basis": "read",
+   "author": "Matías Codina",
+   "title": "Una solución del problema social",
+   "year": 1904,
+   "loc": "Razón y Fe 9 (1904), pp. 426–442",
+   "url": "https://archive.org/details/raznyfe09madruoft/raznyfe09madruoft/page/n431",
+   "note": "Closed retreats for workers as an answer to the social question, on the Belgian model of the retreat house at Fayt-lez-Manage in the mining district: the Exercises as Catholic social action."
+  },
+  {
+   "id": "ryf-1908-noguer",
+   "work": "ryf",
+   "spex": null,
+   "basis": "read",
+   "author": "Narciso Noguer",
+   "title": "Casas de Ejercicios para obreros en España",
+   "year": 1908,
+   "loc": "Razón y Fe 21 (1908), pp. 197–200",
+   "url": "https://archive.org/details/raznyfe21madruoft/raznyfe21madruoft/page/n200",
+   "note": "A survey of the retreat houses for workers in Spain, ending on Loyola and Manresa as the places of the Exercises."
+  },
+  {
+   "id": "ryf-1909-martinez",
+   "work": "ryf",
+   "spex": null,
+   "basis": "read",
+   "author": "Juan Antonio Martínez",
+   "title": "La Biblioteca de los Ejercicios de San Ignacio de Loyola",
+   "year": 1909,
+   "loc": "Razón y Fe 24 (1909), pp. 277–288",
+   "url": "https://archive.org/details/raznyfe24madruoft/raznyfe24madruoft/page/n282",
+   "note": "On Henri Watrigant's library of the Exercises at Enghien, the house of studies of the French Jesuits in Belgian exile: the Exercises as an object of historical scholarship."
+  },
+  {
+   "id": "ryf-1914-ataques",
+   "work": "ryf",
+   "spex": null,
+   "basis": "read",
+   "author": "unsigned",
+   "title": "Nuevos ataques a los «Ejercicios espirituales» de San Ignacio",
+   "year": 1914,
+   "loc": "Razón y Fe 39 (1914), pp. 280–297",
+   "url": "https://archive.org/details/raznyfe39madruoft/raznyfe39madruoft/page/n285",
+   "note": "The Spanish echo of the Festugière controversy: Dom Maur Festugière's liturgical critique of Ignatian meditation, answered with the help of the Carmelite Fr María José del Sagrado Corazón and of Peeters; the method defended as freedom of spirit, not much knowing but feeling and tasting [2]."
+  },
+  {
+   "id": "ryf-1914-bover",
+   "work": "ryf",
+   "spex": [
+    91,
+    100
+   ],
+   "basis": "read",
+   "author": "José M. Bover",
+   "title": "El Reino de Dios y el Reino de Cristo, o el Evangelio y los Ejercicios de San Ignacio",
+   "year": 1914,
+   "loc": "Razón y Fe 39 (1914), pp. 433–442",
+   "url": "https://archive.org/details/raznyfe39madruoft/raznyfe39madruoft/page/n440",
+   "note": "The Kingdom of God of the Gospels set beside the call of the King: the Kingdom of Christ as 'cipher and key' of the Exercises, which are a practice of the Gospel as the Gospel is the Kingdom of God."
+  },
+  {
+   "id": "ryf-1915-codina-a",
+   "work": "ryf",
+   "spex": [
+    136,
+    148
+   ],
+   "basis": "read",
+   "author": "Arturo Codina",
+   "title": "¿La meditación de «Dos Banderas» es de San Ignacio o de un anónimo?",
+   "year": 1915,
+   "loc": "Razón y Fe 41 (1915), pp. 474–487",
+   "url": "https://archive.org/details/raznyfe41madruoft/raznyfe41madruoft/page/n479",
+   "note": "Taking up Van Ortroy's article in the Analecta Bollandiana (1913) and the thesis that Ignatius took the Two Standards from the pseudo-Bernardine parable De conflictu vitiorum et virtutum read at Loyola. The author is named from his own reference in the sequel."
+  },
+  {
+   "id": "ryf-1915-codina-b",
+   "work": "ryf",
+   "spex": [
+    136,
+    148
+   ],
+   "basis": "read",
+   "author": "Arturo Codina",
+   "title": "¿En Manresa o en París?",
+   "year": 1915,
+   "loc": "Razón y Fe 43 (1915), pp. 202–219 and 340–348",
+   "url": "https://archive.org/details/raznyfe43madruoft/raznyfe43madruoft/page/n207",
+   "note": "Sequel: Tournier's thesis (Études, 1910) that the Two Standards depends on Werner of St Blasien's De duobus dominis and on Augustine, and the question whether the meditation was made at Manresa or in Paris; the second part reads its fruit with Meschler and Suárez as perfection in any state, not a call to apostolic life."
+  },
+  {
+   "id": "ryf-1916-astrain",
+   "work": "ryf",
+   "spex": null,
+   "basis": "read",
+   "author": "Antonio Astrain",
+   "title": "San Ignacio de Loyola y la Liturgia",
+   "year": 1916,
+   "loc": "Razón y Fe 44 (1916), pp. 35–46, 173–186, 291–305",
+   "url": "https://archive.org/details/raznyfe44madruoft/raznyfe44madruoft/page/n40",
+   "note": "The historian of the Spanish Jesuits answers Dom Festugière's La Liturgie catholique (1913) in three articles: Ignatius' own practice of the liturgy, the charge of individualism, and the 'spirit and method' of the Exercises."
+  },
+  {
+   "id": "ryf-1917-codina",
+   "work": "ryf",
+   "spex": null,
+   "basis": "read",
+   "author": "Arturo Codina",
+   "title": "Los «Ejercicios» de San Ignacio y el «Ejercitatorio» de Cisneros",
+   "year": 1917,
+   "loc": "Razón y Fe 48 (1917), vol. 48, pp. 286–299 and 426–439; vol. 49, pp. 16–29",
+   "url": "https://archive.org/details/raznyfe48madruoft/raznyfe48madruoft/page/n291",
+   "note": "Against Dom Besse and Dom Pierdet of Silos (Revista Eclesiástica, 1916–17), who derived the Exercises from García de Cisneros' Ejercitatorio (Montserrat, 1500): the claimed parallels are weighed one by one; that Ignatius read the Ejercitatorio is granted as probable, a dependence of the book is not proven."
+  },
+  {
+   "id": "ryf-1917-codina-47",
+   "work": "ryf",
+   "spex": [
+    47,
+    47
+   ],
+   "basis": "read",
+   "author": "Arturo Codina",
+   "title": "Los «Ejercicios» de San Ignacio y el «Ejercitatorio» de Cisneros (conclusion)",
+   "year": 1917,
+   "loc": "Razón y Fe 49 (1917), pp. 16–29",
+   "url": "https://archive.org/details/raznyfe49madruoft/raznyfe49madruoft/page/n21",
+   "note": "The composition of place and the examen after prayer are struck from the list of borrowings: they are not in the Ejercitatorio but in Cisneros' separate Directorio de las horas canónicas."
+  },
+  {
+   "id": "ryf-1918-manresa",
+   "work": "ryf",
+   "spex": null,
+   "basis": "read",
+   "author": "F. de Manresa",
+   "title": "Suárez, asceta: Suárez y el libro de los «Ejercicios»",
+   "year": 1918,
+   "loc": "Razón y Fe 51 (1918), pp. 277–290 and 454–459",
+   "url": "https://archive.org/details/raznyfe51madruoft/raznyfe51madruoft/page/n282",
+   "note": "Suárez's defence of the Exercises in De religione Societatis Iesu, book IX, presented as the theology of a rough stone from the quarry of Manresa: an instrument of perfection, universal and safe."
+  },
+  {
+   "id": "ryf-1919-bover",
+   "work": "ryf",
+   "spex": [
+    23,
+    23
+   ],
+   "basis": "read",
+   "author": "José M. Bover",
+   "title": "El «Principio y Fundamento» de los «Ejercicios» a la luz de las Epístolas de San Pablo",
+   "year": 1919,
+   "loc": "Razón y Fe 54 (1919), pp. 343–355",
+   "url": "https://archive.org/details/raznyfe54madruoft/raznyfe54madruoft/page/n350",
+   "note": "The Foundation read through Paul: the source from which all the Exercises flow and on which they rest, and the paradox that, giving and bearing everything, it does not of itself finish anything."
+  },
+  {
+   "id": "codina-1926-1",
+   "work": "codina-1926",
+   "spex": [
+    1,
+    20
+   ],
+   "basis": "index",
+   "loc": "pp. 45, 101, 224",
+   "url": "https://archive.org/details/losorigenesdelos0000part/page/45",
+   "note": "The annotations: later than Manresa; their origin and the corrections in the autograph; compared with Ludolph's Vita Christi."
+  },
+  {
+   "id": "codina-1926-2",
+   "work": "codina-1926",
+   "spex": [
+    23,
+    23
+   ],
+   "basis": "index",
+   "loc": "pp. 45–46, 146, 158–159, 184",
+   "url": "https://archive.org/details/losorigenesdelos0000part/page/45",
+   "note": "The Foundation dated to Manresa; its antecedents in Ludolph's Vita Christi and in the Imitation of Christ."
+  },
+  {
+   "id": "codina-1926-3",
+   "work": "codina-1926",
+   "spex": [
+    24,
+    31
+   ],
+   "basis": "index",
+   "loc": "pp. 46–47, 65",
+   "url": "https://archive.org/details/losorigenesdelos0000part/page/46",
+   "note": "The particular examen: whether it dates from Manresa; examens in Mauburnus; it did not always stand at the head of the book."
+  },
+  {
+   "id": "codina-1926-4",
+   "work": "codina-1926",
+   "spex": [
+    32,
+    43
+   ],
+   "basis": "index",
+   "loc": "p. 47",
+   "url": "https://archive.org/details/losorigenesdelos0000part/page/47",
+   "note": "How the general examen is made."
+  },
+  {
+   "id": "codina-1926-5",
+   "work": "codina-1926",
+   "spex": [
+    65,
+    71
+   ],
+   "basis": "index",
+   "loc": "pp. 105–106, 159, 270–271",
+   "url": "https://archive.org/details/losorigenesdelos0000part/page/105",
+   "note": "The meditation on hell founded on Scripture; the tenderness of its petition; its text compared with Cisneros'."
+  },
+  {
+   "id": "codina-1926-6",
+   "work": "codina-1926",
+   "spex": [
+    73,
+    90
+   ],
+   "basis": "index",
+   "loc": "pp. 49, 115–116",
+   "url": "https://archive.org/details/losorigenesdelos0000part/page/49",
+   "note": "The additions: their origin and meaning."
+  },
+  {
+   "id": "codina-1926-7",
+   "work": "codina-1926",
+   "spex": [
+    91,
+    100
+   ],
+   "basis": "index",
+   "loc": "pp. 9, 14, 100, 193–195, 212–214",
+   "url": "https://archive.org/details/losorigenesdelos0000part/page/193",
+   "note": "The Kingdom dated to Manresa; an autograph correction; the text of its second part; Anselm on the kingdom of Christ among its antecedents."
+  },
+  {
+   "id": "codina-1926-8",
+   "work": "codina-1926",
+   "spex": [
+    136,
+    148
+   ],
+   "basis": "index",
+   "loc": "pp. 14, 196–199, 227–229",
+   "url": "https://archive.org/details/losorigenesdelos0000part/page/196",
+   "note": "The Two Standards as part of the method of election; exposition; the example of Christ; the text compared with Ludolph."
+  },
+  {
+   "id": "codina-1926-9",
+   "work": "codina-1926",
+   "spex": [
+    149,
+    157
+   ],
+   "basis": "index",
+   "loc": "pp. 3, 102–104",
+   "url": "https://archive.org/details/losorigenesdelos0000part/page/102",
+   "note": "The Three Classes: their end, their link with Annotation 16, their origin."
+  },
+  {
+   "id": "codina-1926-10",
+   "work": "codina-1926",
+   "spex": [
+    165,
+    168
+   ],
+   "basis": "index",
+   "loc": "pp. 3, 161, 203",
+   "url": "https://archive.org/details/losorigenesdelos0000part/page/203",
+   "note": "The three kinds of humility: the third, and the foundation of all three."
+  },
+  {
+   "id": "codina-1926-11",
+   "work": "codina-1926",
+   "spex": [
+    169,
+    189
+   ],
+   "basis": "index",
+   "loc": "pp. 3, 14, 50, 118–119",
+   "url": "https://archive.org/details/losorigenesdelos0000part/page/50",
+   "note": "The election: its place in the book, its date (Manresa), its last preparation."
+  },
+  {
+   "id": "codina-1926-12",
+   "work": "codina-1926",
+   "spex": [
+    210,
+    217
+   ],
+   "basis": "index",
+   "loc": "pp. 51–52, 222, 236–237",
+   "url": "https://archive.org/details/losorigenesdelos0000part/page/51",
+   "note": "The rules for eating: their origin, with Brettle's view of it."
+  },
+  {
+   "id": "codina-1926-13",
+   "work": "codina-1926",
+   "spex": [
+    230,
+    237
+   ],
+   "basis": "index",
+   "loc": "pp. 52–53",
+   "url": "https://archive.org/details/losorigenesdelos0000part/page/52",
+   "note": "The Contemplation to Attain Love: origin."
+  },
+  {
+   "id": "codina-1926-14",
+   "work": "codina-1926",
+   "spex": [
+    238,
+    260
+   ],
+   "basis": "index",
+   "loc": "p. 53",
+   "url": "https://archive.org/details/losorigenesdelos0000part/page/53",
+   "note": "The three methods of prayer: origin."
+  },
+  {
+   "id": "codina-1926-15",
+   "work": "codina-1926",
+   "spex": [
+    313,
+    336
+   ],
+   "basis": "index",
+   "loc": "pp. 50, 56, 161–163, 280",
+   "url": "https://archive.org/details/losorigenesdelos0000part/page/50",
+   "note": "The rules for discernment: origin; the remedies for desolation."
+  },
+  {
+   "id": "codina-1926-16",
+   "work": "codina-1926",
+   "spex": [
+    337,
+    344
+   ],
+   "basis": "index",
+   "loc": "pp. 56–57, 241",
+   "url": "https://archive.org/details/losorigenesdelos0000part/page/56",
+   "note": "The rules for alms: origin and their link with Manresa."
+  },
+  {
+   "id": "codina-1926-17",
+   "work": "codina-1926",
+   "spex": [
+    352,
+    370
+   ],
+   "basis": "index",
+   "loc": "pp. 58, 101, 204–207",
+   "url": "https://archive.org/details/losorigenesdelos0000part/page/204",
+   "note": "The rules for thinking with the Church: origin, an autograph correction, the Church as mother."
+  },
+  {
+   "id": "codina-1926-cisneros",
+   "work": "codina-1926",
+   "spex": null,
+   "basis": "index",
+   "loc": "Appendix III, pp. 261–281",
+   "url": "https://archive.org/details/losorigenesdelos0000part/page/261",
+   "note": "Cisneros' own summary of his Ejercitatorio and its chapter list, then Dom Besse's parallels examined (pp. 265–281): the question of the author's articles in Razón y Fe (1917) taken up again."
+  },
+  {
+   "id": "torti-1909-ann",
+   "work": "torti-1909",
+   "spex": [
+    1,
+    20
+   ],
+   "basis": "toc",
+   "loc": "p. 25",
+   "url": "https://archive.org/details/esercizispiritua0000pcar/page/25",
+   "note": "Fascicle 3: the annotations, translated, as introduction."
+  },
+  {
+   "id": "torti-1909-fund",
+   "work": "torti-1909",
+   "spex": [
+    23,
+    23
+   ],
+   "basis": "toc",
+   "loc": "p. 33",
+   "url": "https://archive.org/details/esercizispiritua0000pcar/page/33",
+   "note": "Day 1, exercises I–III: three considerations on the Foundation, the third on indifference before every election."
+  },
+  {
+   "id": "torti-1909-sins",
+   "work": "torti-1909",
+   "spex": [
+    45,
+    54
+   ],
+   "basis": "toc",
+   "loc": "p. 59",
+   "url": "https://archive.org/details/esercizispiritua0000pcar/page/59",
+   "note": "Day 2, exercise IV: the threefold sin."
+  },
+  {
+   "id": "torti-1909-own",
+   "work": "torti-1909",
+   "spex": [
+    55,
+    61
+   ],
+   "basis": "toc",
+   "loc": "p. 71",
+   "url": "https://archive.org/details/esercizispiritua0000pcar/page/71",
+   "note": "Exercise V: one's own sins, followed by an added meditation on venial sins."
+  },
+  {
+   "id": "torti-1909-hell",
+   "work": "torti-1909",
+   "spex": [
+    65,
+    71
+   ],
+   "basis": "toc",
+   "loc": "p. 87",
+   "url": "https://archive.org/details/esercizispiritua0000pcar/page/87",
+   "note": "Exercise VII: hell. Day 3 adds death, the particular judgment and 'perfect conversion', for which the book leaves room in [71]."
+  },
+  {
+   "id": "torti-1909-king",
+   "work": "torti-1909",
+   "spex": [
+    91,
+    100
+   ],
+   "basis": "toc",
+   "loc": "p. 133",
+   "url": "https://archive.org/details/esercizispiritua0000pcar/page/133",
+   "note": "Exercises XI–XII: the Kingdom of Jesus Christ and its repetition, on the evening of day 3."
+  },
+  {
+   "id": "torti-1909-inc",
+   "work": "torti-1909",
+   "spex": [
+    101,
+    117
+   ],
+   "basis": "toc",
+   "loc": "p. 153",
+   "url": "https://archive.org/details/esercizispiritua0000pcar/page/153",
+   "note": "Day 4: contemplation I joins the Incarnation and the Nativity, as Torti says he joins exercises the book keeps apart; then the Presentation, the flight into Egypt and the hidden life."
+  },
+  {
+   "id": "torti-1909-senses",
+   "work": "torti-1909",
+   "spex": [
+    121,
+    126
+   ],
+   "basis": "toc",
+   "loc": "p. 177",
+   "url": "https://archive.org/details/esercizispiritua0000pcar/page/177",
+   "note": "Exercise XVI: application of the senses to the mysteries of the day."
+  },
+  {
+   "id": "torti-1909-stand",
+   "work": "torti-1909",
+   "spex": [
+    136,
+    148
+   ],
+   "basis": "toc",
+   "loc": "p. 185",
+   "url": "https://archive.org/details/esercizispiritua0000pcar/page/185",
+   "note": "Day 5, exercises XVII–XVIII: the Two Standards and its repetition."
+  },
+  {
+   "id": "torti-1909-classes",
+   "work": "torti-1909",
+   "spex": [
+    149,
+    157
+   ],
+   "basis": "toc",
+   "loc": "p. 201",
+   "url": "https://archive.org/details/esercizispiritua0000pcar/page/201",
+   "note": "Exercise XIX: the three classes of men."
+  },
+  {
+   "id": "torti-1909-humility",
+   "work": "torti-1909",
+   "spex": [
+    165,
+    168
+   ],
+   "basis": "toc",
+   "loc": "p. 209",
+   "url": "https://archive.org/details/esercizispiritua0000pcar/page/209",
+   "note": "Exercise XX: the three degrees of humility, 'the sum of Christian perfection'."
+  },
+  {
+   "id": "torti-1909-third",
+   "work": "torti-1909",
+   "spex": [
+    190,
+    209
+   ],
+   "basis": "toc",
+   "loc": "p. 297",
+   "url": "https://archive.org/details/esercizispiritua0000pcar/page/297",
+   "note": "Day 7: four contemplations of the Passion, ending in a summary of the whole Passion."
+  },
+  {
+   "id": "torti-1909-fourth",
+   "work": "torti-1909",
+   "spex": [
+    218,
+    229
+   ],
+   "basis": "toc",
+   "loc": "p. 337",
+   "url": "https://archive.org/details/esercizispiritua0000pcar/page/337",
+   "note": "Day 8: the Resurrection and the apparition to Our Lady, the appearances, the Ascension."
+  },
+  {
+   "id": "torti-1909-love",
+   "work": "torti-1909",
+   "spex": [
+    230,
+    237
+   ],
+   "basis": "toc",
+   "loc": "p. 385",
+   "url": "https://archive.org/details/esercizispiritua0000pcar/page/385",
+   "note": "Exercise XXXII: 'divine love stirs in us a love without measure', the Contemplation to Attain Love."
+  },
+  {
+   "id": "torti-1909-disc",
+   "work": "torti-1909",
+   "spex": [
+    313,
+    336
+   ],
+   "basis": "toc",
+   "loc": "p. 409",
+   "url": "https://archive.org/details/esercizispiritua0000pcar/page/409",
+   "note": "Fascicle 43, § 1: rules for discernment, with a 'historical counterpart' (pp. 414–423): the conversion of the poet Adolphe Retté (1906), told as a living instance of the rules."
+  },
+  {
+   "id": "torti-1909-scruples",
+   "work": "torti-1909",
+   "spex": [
+    345,
+    351
+   ],
+   "basis": "toc",
+   "loc": "p. 423",
+   "url": "https://archive.org/details/esercizispiritua0000pcar/page/423",
+   "note": "§ 2: scruples and 'two kindred serpentine persuasions'."
+  },
+  {
+   "id": "torti-1909-election",
+   "work": "torti-1909",
+   "spex": [
+    169,
+    189
+   ],
+   "basis": "toc",
+   "loc": "p. 426",
+   "url": "https://archive.org/details/esercizispiritua0000pcar/page/426",
+   "note": "§ 3: on making a sound election, opening with a Latin text."
+  },
+  {
+   "id": "torti-1909-church",
+   "work": "torti-1909",
+   "spex": [
+    352,
+    370
+   ],
+   "basis": "toc",
+   "loc": "p. 440",
+   "url": "https://archive.org/details/esercizispiritua0000pcar/page/440",
+   "note": "Translation of the rules for alms and for 'thinking sincerely with the Catholic Church'."
+  }
+ ]
+}

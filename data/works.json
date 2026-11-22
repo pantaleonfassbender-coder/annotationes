@@ -497,6 +497,63 @@
    "rights": "Posthumous first publication: check the UK rule for works unpublished at the author's death before reproducing anything.",
    "sources": [],
    "note": "Nineteenth-century writing that entered the twentieth century only in 1959."
+  },
+  {
+   "id": "ryf",
+   "author": "Jesuits of the Spanish provinces (eds.)",
+   "title": "Razón y Fe",
+   "year": 1901,
+   "lang": "es",
+   "genre": "journal",
+   "tier": "A",
+   "status": "volumes 1–61 (1901–1921) searched; eleven articles on the Exercises, 1904–1919, linked to their first page",
+   "imprint": "Madrid, monthly, from 1901 (three volumes a year)",
+   "rights": "Volumes published before 1931 are in the US public domain.",
+   "sources": [
+    {
+     "label": "Vols. 1–61, Internet Archive (University of Toronto copies), e.g. vol. 39",
+     "url": "https://archive.org/details/raznyfe39madruoft"
+    }
+   ],
+   "note": "The review of the Spanish Jesuits. Its articles on the Exercises fall into three groups: retreats for workers as Catholic social action (1904, 1908); the defence of the method in the Festugière controversy (1914, 1916); and the question of sources, the Two Standards (1915) and Cisneros' Ejercitatorio (1917), where Arturo Codina writes against Benedictine critics. José M. Bover reads the Kingdom (1914) and the Foundation (1919) through the New Testament."
+  },
+  {
+   "id": "codina-1926",
+   "author": "Arturo Codina, SJ",
+   "title": "Los orígenes de los Ejercicios espirituales de San Ignacio de Loyola. Estudio histórico",
+   "year": 1926,
+   "lang": "es",
+   "genre": "history",
+   "tier": "A",
+   "status": "in the apparatus by the book's own subject index (18 anchors)",
+   "imprint": "Barcelona: Biblioteca Balmes, 1926 (its historical library, vol. 1)",
+   "rights": "US public domain (published 1926).",
+   "sources": [
+    {
+     "label": "Internet Archive losorigenesdelos0000part (Graduate Theological Union copy)",
+     "url": "https://archive.org/details/losorigenesdelos0000part"
+    }
+   ],
+   "note": "The editor of the Exercises in the Monumenta (1919) on how the book came to be: what it contained at Manresa, what was added later, and what it owes to Ludolph, the Imitation and Cisneros. Its subject index dates and sources the parts of the book one by one, which is how it is placed here."
+  },
+  {
+   "id": "torti-1909",
+   "author": "Carlo Torti, SJ",
+   "title": "Esercizi spirituali di Sant'Ignazio di Loiola ristretti nello spazio di otto giorni, dichiarati e brevemente commentati",
+   "year": 1909,
+   "lang": "it",
+   "genre": "commentary",
+   "tier": "A",
+   "status": "in the apparatus by its section heads (18 anchors)",
+   "imprint": "Issued in fascicles, 1909 (licence of the Turin province, 29 June 1909; imprimatur Turin, 10 July 1909)",
+   "rights": "US public domain (published 1909).",
+   "sources": [
+    {
+     "label": "Internet Archive esercizispiritua0000pcar (Graduate Theological Union copy)",
+     "url": "https://archive.org/details/esercizispiritua0000pcar"
+    }
+   ],
+   "note": "An Italian commentary that turns the four weeks into an eight-day retreat, exercise by exercise, with the text of the book translated after each week. It adds meditations on venial sin, death, judgment and conversion, and illustrates the rules for discernment with the conversion of Adolphe Retté (1906)."
   }
  ]
 }
