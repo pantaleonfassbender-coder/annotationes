@@ -1,0 +1,2967 @@
+{
+"titel": "Rickaby 1923: translation",
+"quelle": "Joseph Rickaby, S.J., The Spiritual Exercises of St. Ignatius Loyola: Spanish and English, with a Continuous Commentary. Second edition. London: Burns Oates & Washbourne, 1923 (first edition 1915). Google Books F7kHAQAAIAAJ (Stanford copy), text layer as delivered by Google. US public domain; Rickaby died in 1932.",
+"hinweis": "Machine-read text, not corrected by hand. Rickaby's English column carries no paragraph numbers: it was cut onto the grid by matching his Spanish column to the autograph and dividing the English between those openings by its word overlap with Mullan 1914 (tools/rickaby_text.py). Cuts can be off by a clause, and where Rickaby divides a paragraph of the book (the days of the Third Week in [208], for example), a part may stand with a neighbouring paragraph. Page ranges are those of the run of text the paragraph stands in, 1923 edition; where Rickaby moves a paragraph, it appears in his order, not the book's.",
+"units": [
+{
+"n": 1,
+"en": "ANNOTATIONS for obtaining some understanding of the following Spiritual Exercises, that both he who is to give them and he who is to receive them may be assisted. The first Annotation is that by this name of Spiritual Exercises is understood any, method of examining one's conscience, meditating, contemplating, praying vocally and mentally, and other spiritual operations, as shall afterwards be told; because as walking, going, and running are bodily exercises, in like manner all methods of preparing and disposing the soul to remove from herself all disorderly attachments, and, after their removal, to seek and find the divine will in the laying out of one's life to the salvation of one's soul, are called Spiritual Exercises.",
+"pages": [
+3,
+14
+]
+},
+{
+"n": 2,
+"en": "The second is that thel person who gives to another a method and order of meditating or contemplating ought faithfully to narrate the history for such contemplation or meditation, merely running through the chief heads of it with a brief summary statement; because the person who contemplates, by taking the true foundation of the history, by reflecting and reasoning for himself, and by finding something that makes the history a little plainer and that brings it more home to him, be it by his own reasoning or inasmuch as his understanding is enlightened by divine grace, derives greater spiritual relish and profit than if the giver of the Exercises had discoursed at great length and dilated upon the meaning of the history for it is not abundance of knowledge that fills and satisfies the soul, but the inward sense and taste of things.",
+"pages": [
+3,
+14
+]
+},
+{
+"n": 3,
+"en": "The third: whereas in all the following Spiritual Exercises we use acts of the understanding in reasoning, and acts of the will in stirring the affections, let us bear in mind that in acts of the will, when we are speaking vocally or mentally with God our Lord, or with His Saints, there is required on our part greater reverence than when we are using the intellect for understanding.",
+"pages": [
+3,
+14
+]
+},
+{
+"n": 4,
+"en": "The fourth though for the following Exercises there are allotted four Weeks, corresponding to the four parts into which the Exercises are divided, that is to say, the first is the consideration and contemplation of sins; the second is the life of Christ our Lord as far as Palm Sunday inclusive; the third is the Passion of Christ our Lord; the fourth is His Resurrection and Ascension, with the addition of three Methods of Prayer, neverthe- less let it not be understood that any given Week should necessarily consist of seven or eight days, as it happens sometimes that in the first Week some are slower than others in finding what they seek, to wit, contrition, grief, tears for their sins; likewise since some are more diligent than others, and more agitated or tried by various spirits; it is requisite sometimes to shorten the Week, at other times to lengthen it; and so in all the other following Weeks, searching things according to the subject matter. However they will finish within 30 thirty days, more or less.",
+"pages": [
+3,
+14
+]
+},
+{
+"n": 5,
+"en": "daye The fifth: it is very profitable for him who receives the Exercises to enter into them with hearty good will and liberality towards his Creator and Lord, offering Him all his will and liberty, that His Divine Majesty may dispose of his person and of all that he has according to His own most holy, will.",
+"pages": [
+3,
+14
+]
+},
+{
+"n": 6,
+"en": "The sixth when he who gives the Exercises perceives that the exercitant experiences no spiritual stirrings in the soul, such as consolations and desolations, nor is troubled by various spirits, he should carefully interrogate him concerning the Exercises, whether he is doing them at the appointed time, and how; also concerning the Additions, whether he observes them diligently, questioning him particularly on each of these points.",
+"pages": [
+3,
+14
+]
+},
+{
+"n": 7,
+"en": "The seventh if the giver of the Exercises sees that he who receives them is desolate or tempted, let him not be hard or harsh with him, but bland and suave, giving him courage and strength for the future, and detecting for him the wiles of the enemy of human nature, and making him prepare and 'dispose himself for consolation to come.",
+"pages": [
+3,
+14
+]
+},
+{
+"n": 8,
+"en": "The eighth according to the need which the giver of the Exercises shall perceive in the receiver of them in regard to desolation and to the artifices of the enemy, as also in point of consolation, be may instruct him in the Rules of the First and Second Week respecting the discernment of various spirits.",
+"pages": [
+3,
+14
+]
+},
+{
+"n": 9,
+"en": "The ninth: it should be observed that when the exercitant is engaged in the Exercises of the First Week, if he is a person not versed in spiritual things, and SO is tempted grossly and openly, as by a display of obstacles to his further advancement in the service of God our Lord, such as labours, shame and fear on the point of worldly honour, etc.,-then the giver of the Exercises should not instruct him in the Rules for diverse spirits proper to the Second Week, because the Rules of the Second Week will do him as much harm as the Rules of the First Week are likely to do him good, and that because the matter is too subtle and sublime for his comprehension.",
+"pages": [
+3,
+14
+]
+},
+{
+"n": 10,
+"en": "The tenth: when the giver of the Exercises perceives that the receiver of them is being assailed and tempted under the appearance of good, then it is well to speak to him of the Rules of the Second Week above-mentioned, because the enemy, of human nature usually tempts more under the appearance ofgood when a man is exercising himself in the illuminative life, corresponding to the Exercises of the Second Week, and not so much in the purgative life, corresponding to the Exercises of the First Week.",
+"pages": [
+3,
+14
+]
+},
+{
+"n": 11,
+"en": "The eleventh: it is desirable that one who is going through the Exercises of the First Week should know nothing of what he is to do in the Second Week, but that he should so labour to obtain what he seeks in the First Week as though he had nothing to look forward to in the second.",
+"pages": [
+3,
+14
+]
+},
+{
+"n": 12,
+"en": "The twelfth: the giver of the Exercises should carefully, warn the exercitant that as he has to devote one hour to each of the five exercises or meditations to be made each day, he should always thoroughly satisfy himself that he has spent a full hour at the Exercise, and in fact more rather than less; because the enemy is often wont to try and curtail the hour for this contemplation, meditation or prayer.",
+"pages": [
+3,
+14
+]
+},
+{
+"n": 13,
+"en": "The thirteenth it is also to be observed that as in time of consolation it is a light and easy thing to remain in contemplation for a whole hour, so in time of desolation it is very difficult to complete the hour. Therefore the exercitant, by, way of acting against the desolation and overcoming temptations, ought always to hold on a little beyond the complete hour, because he thus accustoms himself not only to resist the adversary, but also to overthrow him.",
+"pages": [
+3,
+14
+]
+},
+{
+"n": 14,
+"en": "The fourteenth: if the giver of the Exercises sees that he who receives them is going through them in consolation and with much fervour, he should forewarn him to make До promise nor vow inconsiderately and hastily; and the more he observes him to be of a fickle and unstable disposition, the more seriously should he forewarn and admonish him. For though one may rightly move another to embrace the religious state, in which it is understood that one makes vow of obedience, poverty, and chastity; and though a good work done with a vow is more meritorious than one done without vow; still much regard must be had for the peculiar circumstances and character of the person concerned, and for the assistance or opposition that he is likely to encounter in accomplishing the thing that he wishes to promise.",
+"pages": [
+3,
+14
+]
+},
+{
+"n": 15,
+"en": "The fifteenth: the giver of the Exercises ought not to move the receiver rather to poverty or promise of any such thing than to the opposites, nor to one state or mode of living rather than to another; because, though apart from the Exercises we may lawfully and meritoriously urge all, who are probably fitted for it, to choose continence, virginity, religious life, and all manner of evangelical perfection, nevertheless in such Spiritual Exercises it is more suitable and much better in seeking the divine will, that the Creator and Lord Himself should impart Himself to His devout soul, embracing her to His love and praise, and disposing her for the way in which she can better hereafter serve Him. Thus the giver of the Exercises should not lean nor incline himself either to one side or to the other, but keeping steady midway, like a beam of a balance, should allow the Creator to work directly with the creature and the creature with her Creator and Lord.",
+"pages": [
+3,
+14
+]
+},
+{
+"n": 16,
+"en": "The sixteenth: for the which reason, that is to say, to the end that the Creator and Lord may more surely work in His creature, if peradventure the soul in question has any inordinate attachment and inclination to any object, it is very advantageous for her to bestir herself and strive with all her might to come to the contrary of that towards which she is evilly drawn. Thus if the soul is drawn to seek and possess some office or benefice, not for the honour and glory of God our Lord, nor for the spiritual salvation of souls, but for her own private conveniences and temporal advantages; she ought to turn her affections to the contrary, being instant in prayers and other spiritual exercises, and asking the contrary of God our Lord,-that is to say, that she wills to have no such office, or benefice, nor aught else, unless the Divine Majesty, shall have reduced her desires to order, and SO changed her first affection as that the motive for desiring and holding one or other of these things shall be solely the service, honour and glory, of His Divine Majesty.",
+"pages": [
+3,
+14
+]
+},
+{
+"n": 17,
+"en": "The seventeenth: it is very helpful for the giver of the Exercises, while not intending to enquire into or know the private thoughts and sins of him who receives them, to be faithfully informed of the various agitations and thoughts which the various spirits move himto; because according to his greater or less advancement he can deliver to him sundry spiritual exercises proper and conformable to the need of a soul thus agitated.",
+"pages": [
+3,
+14
+]
+},
+{
+"n": 18,
+"en": "The eighteenth: according to the disposition of the persons desirous of making Spiritual Exercises, that is to say, I I. according to their age, education or talent, the said Exercises must be adapted, lest to one who is illiterate or of weak constitution there be given subjects which he cannot without inconvenience bear and profit thereby. Thus to each according as he seeks to dispose himself there should be given that whereby he may better help himself and make profit. Wherefore, to one who desires to be helped to get instruction and to attain to a certain degree of contentment of soul, there may be given the particular examen and subsc- V quently the general examen, together with the method of prayer on the commandments, deadly sins, etc., for a half-anhour in the morning, recommending him to confess his sins every week, and receive Communion if possible every fortnight, or, better still, every week if he so desires. This method is more suitable for those who are poorly educated or illiterate: each commandment should be explained to them, and so too each of the mortal sins, the commandments of the Church, the five senses, and the works of mercy. In like manner, if he who gives the Exercises sees that he who receives them is a poor subject or one of slender natural capacity, from whom there is not much fruit to be looked for, it is more suitable to deliver to him some of these lighter exercises, till he makes his confession of sins; and then to give him some examinations of conscience and a plan of confessing more frequently than he has been wont, so that he may keep himself in the good that he has gained, but not to go further into the matters of Election, nor into any other exercises beyond those of the First Week, especially when greater profit may be made in others, time not sufficing for all.",
+"pages": [
+3,
+14
+]
+},
+{
+"n": 19,
+"en": "The nineteenth: a man engaged in public affairs or necessary business matters, or connected with letters or industry, by devoting one hour and a half a day to the Exercises, may have explained to him the end for which man was created: he may also be given the Particular Examen for half an hour and afterwards the General Examen, and a method of confessing and receiving the Blessed Sacrament. He may make for three days every morning the meditation on the first, second, and third Sins: then at the same hour on three other days to the meditation on the Indictment of Sins, and afterwards at the same hour on three other days let him meditate on the Punishments due to sins. In all three meditations he should be given the Ten Additions. In meditating on the Mysteries of Christ our Lord he should observe the same method that is explained hereinafter at length in the body of the Exercises.",
+"pages": [
+3,
+14
+]
+},
+{
+"n": 20,
+"en": "The twentieth: to one who is more at liberty, and who desires to benefit in every possible way, all the Spiritual Exercises should be given in the order in which they are set out. In these, as an ordinary rule, the Exercitant will benefit all the more, the more he secludes himself from all friends and acquaintances and from all earthly solicitude, for example, by moving from the house in which he dwelt, and taking another house or room, that there he may abide in all possible privacy; so that he, may be free to go daily to Mass and Vespers, without any fear of his acquaintances getting in his way. From this seclusion there follow three principal advantages, among many others: the first is that a man by severing himself from a crowd of friends and acquaintances, and likewise from many distracting concerns, to serve and praise God our Lord, merits not a little before His Divine Majesty. The second is that, being thus set apart, not having. his mind divided about many things, but putting all his care and interest in one thing only, to wit, the serving of his Creator and the benefiting of his own soul, he comes to use his natural faculties more freely in diligently searching for that he so much desires. The third is that the more the soul finds herself alone and apart from men, the fitter she renders herself to approach and attain to her Creator and Lord; and the more she is thus united to Him, the more she 'disposes herself to receive graces and gifts from His Divine and Sovereign Goodness.",
+"pages": [
+3,
+14
+]
+},
+{
+"n": 21,
+"en": "ENGLISH PREFACE Spiritual Exercises for overcoming oneself and for regulating one's life without being swayed by any inordinate attachment.",
+"pages": [
+1,
+1
+]
+},
+{
+"n": 22,
+"en": "In order that both he who gives and he who receives the Spiritual Exercises may derive greater help and profit from them, it must be presupposed that every good Christian should be readier to excuse than to condemn a proposition advanced by his neighbour; and if he cannot justify it; let him enquire into the meaning of the author: if the latter be in error, correct him lovingly; should that not suffice, then let him employ every suitable means, so that his neighbour, rightly understanding it, may be saved from error.",
+"pages": [
+1,
+1
+]
+},
+{
+"n": 23,
+"en": "PRINCIPLE AND FOUNDATION Man was created to praise, do reverence to and serve God our Lord, and thereby to save his soul. And the other things on the face of the earth were created for man's sake, and to help him in the following out of the end for which he was created. Hence it follows that man should make use of creatures so far as they do help him towards his end, and should withdraw from them so far as they are a hindrance to him in regard of that end. Wherefore it is necessary to make ourselves detached in regard of all created things,-in all that is left to the liberty of our free will, and is not forbidden it,— so that we on our part should not wish for health rather than sickness, for riches rather than poverty, for honour rather than ignominy, for a long life rather, than a short life, and so in all other matters, solely desiring and choosing those things which may better lead us to the end for which we were created.",
+"pages": [
+18,
+19
+]
+},
+{
+"n": 24,
+"en": "Examen particular and daily, contains in itself three times, and an examination of oneself to be made twice. The first time is that in the morning, as soon as the man rises, he ought to purpose to be carefully on his guard against that particular sin, or defect, of which he wishes to correct and amend himself.",
+"pages": [
+52,
+54
+]
+},
+{
+"n": 25,
+"en": "The second, after dinner, the man ought to beg of God what he wants, to wit, grace to remember how often he has fallen into that particular sin or defect, and to amend himself in future; and thereupon let him make the first examen, taking account of his soul of that particular thing proposed, whereof he wishes to correct and amend himself, ranging through the time hour by hour, or period by period, beginning from the hour that he rose even to the hour and moment of the present examen; and let him score on the top line of the figure as many dots as are the times that he has fallen into that particular sin or defect; and afterwards let him purpose anew to amend himself until the next examen that he shall make.",
+"pages": [
+52,
+54
+]
+},
+{
+"n": 26,
+"en": "The third time, after supper, the second examen shall be made also from hour to hour, beginning from the first examen until the present second examen; and let him score on the second line of the same figure as many dots as shall answer to the times that he has fallen into that particular sin or defect.",
+"pages": [
+52,
+54
+]
+},
+{
+"n": 27,
+"en": "Here follow four Additions for the speedier removal of that sin or particular defect. The first Addition is that, as often as the man falls into that sin or particular defect, he put his hand to his breast, grieving that he has fallen,-which may be done even in presence of company without their noticing what he is doing.",
+"pages": [
+52,
+54
+]
+},
+{
+"n": 28,
+"en": "The second, since the first line of the figure represents the first examen, and the second the second examen, let him observe at night whether there is any improvement from the first line to the second, that is, from the first examen to the second.",
+"pages": [
+52,
+54
+]
+},
+{
+"n": 29,
+"en": "The third; to compare the second day, with the first, that is, the two examens of the second day with the other two of the day previous, and see whether from the one day to the other there has been improvement.",
+"pages": [
+52,
+54
+]
+},
+{
+"n": 30,
+"en": "The fourth Addition; to compare one week with another, and see whether there has been improvement in the present week upon the former that is past.",
+"pages": [
+52,
+54
+]
+},
+{
+"n": 31,
+"en": "We must observe that the first great which follows signifies Sunday; the second smaller signifies Monday; the third Tuesday, and so of the rest.",
+"pages": [
+52,
+54
+]
+},
+{
+"n": 32,
+"en": "The General Examination of Conscience in order to purify oneself and confess better. I presuppose that there are three thoughts in me; to wit, one my own that arises out of my sheer liberty and will; and two other that come from without, one that comes of the good spirit and the other of the evil.",
+"pages": [
+56,
+62
+]
+},
+{
+"n": 33,
+"en": "Of thought. There are two modes of meriting over a bad thought that comes from without. For example, there comes a thought of committing a mortal sin, the which thought I promptly resist, and it is permanently overcome.",
+"pages": [
+56,
+62
+]
+},
+{
+"n": 34,
+"en": "The second mode of meriting is when there comes to me that same evil thought, and I resist it, and it returns to me again and again, and I always resist, until the thought goes away beaten;",
+"pages": [
+56,
+62
+]
+},
+{
+"n": 35,
+"en": "and this second mode is of greater merit than the first. It is a venial sin when the same thought of sinning mortally comes, and the man lends ear to it, making some little delay, or receiving some delight of sense, or where there is some negligence in rejecting such a thought.",
+"pages": [
+56,
+62
+]
+},
+{
+"n": 36,
+"en": "There are two modes of sinning ning mortally. mortally. The first is when the man gives consent to the evil thought to act afterwards according as he has consented, or to carry the thought out in act if he could.",
+"pages": [
+56,
+62
+]
+},
+{
+"n": 37,
+"en": "The second mode of sinning mortally is when the sin is accomplished in act; and this is more grievous for three reasons: first, for the longer time that it takes; secondly, for the greater intensity of consent; thirdly, for the greater hurt of the two parties concerned.",
+"pages": [
+56,
+62
+]
+},
+{
+"n": 38,
+"en": "Of Word. One must not swear, neither by Creator nor by creature, unless it be with truth, necessity, and reverence. I take it to be a case of necessity, not whenever any truth whatever is affirmed on oath, but when the truth is of some moment regarding the profit of soul or body or temporal goods. I take it to be reverence, when in naming his Creator and Lord the man observes with consideration that honour and reverence which is due.",
+"pages": [
+56,
+62
+]
+},
+{
+"n": 39,
+"en": "It is to be noticed that though in a vain and idle oath we sin more grievously in swearing by the Creator than by the creature, yet it is more difficult to swear with due conditions, with truth, necessity, and reverence, when we swear by the creature than when we swear by the Creator, and that for the following reasons. The first reason is that, when we have a mind to swear by some creature, the wish to name the creature does not render us so attentive and careful to speak the truth, or to affirm it only under necessity, as would the wish to name the Lord and Creator of all things. The second reason is that in swearing by a creature it is not so easy to pay reverence and honour to the Creator as in swearing by and naming the Creator and Lord Himself: for the wish to name God our Lord carries with it greater reverence and veneration than the wish to name a created thing. Therefore it is more permissible for the perfect to swear by a creature than for the imperfect, because the perfect, by dint of assiduous contemplation and illumination of the understanding, do better consider, meditate, and contemplate the fact that God our Lord is in every creature by His own essence, presence, and power; and thus in swearing by the creature they are better fitted and disposed to pay honour and reverence to their Creator and Lord than are the imperfect. The third reason is that in swearing constantly by a creature idolatry is more to be feared in the imperfect than in the perfect.",
+"pages": [
+56,
+62
+]
+},
+{
+"n": 40,
+"en": "Not to say an idle word [Matt. xii. 36]: by which I mean when it does no good to me, nor to another, nor is directed to such a purpose. Thus in speaking to any profitable effect, or with the intention of profiting one's own soul, or one's neighbour's soul, or body, or temporal goods, it never is an idle word, not even for the fact of one's speaking of matters that are beyond one's state, as if a religious were to speak of wars or wares. But in all things that are said, there is merit in well ordering, and sin in ill directing, or in speaking to no purpose.",
+"pages": [
+56,
+62
+]
+},
+{
+"n": 41,
+"en": "Not to say anything in the way of defamation or backbiting because if I discover a mortal sin that is not public, I sin mortally; if a venial sin, venially; and if a defect, our own proper defect. But if the intention is sound, there are two ways in which one may speak of the sin or fault of another. First, when the sin is public, as in the case of a common prostitute, or of a sentence pronounced in court, or of a public error that affects the souls of those with whom the person converses. Secondly, when the secret sin is discovered to any person that he may help him who is in sin to raise him up, -on condition however that one has some well-founded conjectures or reasons for thinking that the person will be able to help him.",
+"pages": [
+56,
+62
+]
+},
+{
+"n": 42,
+"en": "Of deed. Taking for matter of examination the ten commandments, and the precepts of the Church, and the ordinances of Superiors, whatever one does by deed against any of these three particulars is a greater or less sin according to the greater or less quality. I mean by ' ordinances of Superiors,' for instance, Bulla Cruciatas and other indults, such as those for obtaining peace, given on condition of confession and reception of the Most Holy Sacrament: because it is no slight sin then when one gives occasion to others to act, or himself acts, against such pious injunctions and ordinances of those in authority, over us.",
+"pages": [
+56,
+62
+]
+},
+{
+"n": 43,
+"en": "Method of making the Genera! Examen, and it contains in itself five points. The first point is to return thanks to God our Lord for the benefits received. The second, to ask grace to know the sins and cast them out. The third, to demand of the soul an account from the hour of rising to the present examen, taking hour by hour or period by period; and first of thought, then of word, and afterwards of deed, in the same order that has been mentioned for the Particular Examen. The fourth, to ask pardon of God our Lord for the faults. The fifth, to purpose amendment with His grace. Our Father.",
+"pages": [
+56,
+62
+]
+},
+{
+"n": 44,
+"en": "General Confession with Communion. In the general confession, for him who wishes to make one as a matter of devotion, there will be found at this stage of the Exercises three advantages among many others. The first is that though he who confesses every year is not bound to make a general confession, yet by making one there is secured greater profit and merit, on account of the penitent's greater present sorrow for all the sins and wickednesses of his whole life. The second is that whereas in such spiritual exercises sins and the malice thereof are more inwardly realised than at the time when the man was not so devoting himself to interior things, greater profit and merit will be secured than was secured before, by his now getting greater knowledge and sorrow for his sins. The third follows upon the other two, and is this, that when one is better confessed and disposed, one is found more fit and more prepared to receive the Most Holy Sacrament, the reception whereof is not only a help against falling into sin, but also towards preserving the soul in increase of grace. This general confession will be better made immediately after the exercises of the First Week.",
+"pages": [
+56,
+62
+]
+},
+{
+"n": 45,
+"en": "FIRST WEEK THE FIRST EXERCISE is a meditation, with the three powers, upon the First, Second, and Third Sin. It contains in itself, after a preparatòry prayer and two preludes, three main points and one colloquy.",
+"pages": [
+23,
+26
+]
+},
+{
+"n": 46,
+"en": "The preparatory prayer is to ask grace of God our Lord that all my intentions, actions, and operations may be directed purely to the service and praise of His Divine Majesty.",
+"pages": [
+23,
+26
+]
+},
+{
+"n": 47,
+"en": "The first prelude is a composition, seeing the place. Here it is to be observed that in contemplation, or visible meditation [i.e., meditation on a visible thing], as contemplating Christ our Lord, who is visible, the composition will be to see withthe eye of the imagination the corporeal place where there is found the object which I wish to contemplate. By, corporeal place I mean, for instance, a temple or mountain where Jesus Christ is found, or our Lady, according as I wish to contemplate. In meditation of the invisible, as here of sins, the composition will be to see with the eye of the imagination and consider my soul imprisoned in this corruptible body, and my whole compound self in this vale of tears as in banishment among brute animals. I mean the whole compound of soul and body.",
+"pages": [
+23,
+26
+]
+},
+{
+"n": 48,
+"en": "The second prelude is to ask of God our Lord that which I wish and desire. The petition ought to be according to the subject matter; that is to say, if the contemplation is on the Resurrection, to ask for joy, with Christ rejoicing: if it is on the Passion, to ask for pains, tears and torment with Christ tormented. Here it will be to ask for shame and confusion at myself, seeing how many have been damned for one mortal sin, and how often I have deserved to be damned eternally for those many sins of mine.",
+"pages": [
+23,
+26
+]
+},
+{
+"n": 49,
+"en": "Before all contemplations and meditations there ought always to be made the preparatory prayer without change, and the two above-mentioned preludes, changing them from time to time according to the subject matter.",
+"pages": [
+23,
+26
+]
+},
+{
+"n": 50,
+"en": "The first point will be to carry the memory over the first sin, which was that of the Angels, and then the understanding over the same, reasoning; then the will, seeking to remember and understand it all, that I may the more blush and be confounded, bringing into comparison with the one sin of the Angels those many sins of mine; and seeing that they for one sin have gone to hell, how often I have deserved it for so many. I say, to bring into memory the sin of the Angels, how having been created in grace, and then refusing to help themselves by the aid of their liberty to pay reverence and obedience to their Creator and Lord, coming to pride, they were changed from grace to malice, and cast down from heaven to hell;",
+"pages": [
+23,
+26
+]
+},
+{
+"n": 51,
+"en": "and so consequently to discourse more in detail with the understanding, and thereupon more to stir the affections by the will. The second, to do as much again, that is to say, to carry the three powers over the sin of Adam and Eve, bringing into memory how for that sin they did such long penance, and what great corruption has come over mankind, so many men going to hell. I say, to bring into memory the second sin, that of our parents; how after Adam had been created in the plain of Damascus and placed in the earthly paradise, and Eve had been formed from his rib, being forbidden to eat of the tree of knowledge, they ate and thereby sinned; and afterwards, clad in frocks of skins and cast out of Paradise, they lived without the original justice which they had lost, all their life in many travails and much penance; and thereupon to discourse with the understanding more in detail, and use the will, as has been said.",
+"pages": [
+23,
+26
+]
+},
+{
+"n": 52,
+"en": "The third, in like manner to 'do as much again over the third particular sin, of one indi- vidual, who for one mortal sin has gone to hell; and many, others without number for fewer sins than I have committed. I say, to do as much again over the third particular sin, bringing into memory the grievousness and malice of that sin against the man's Creator and Lord; to discourse with the understanding how in sinning and acting against Infinite Goodness he has justly been condemned for ever; and to conclude with acts of the will, as has been said.",
+"pages": [
+23,
+26
+]
+},
+{
+"n": 53,
+"en": "Colloquy. Imagining Christ our Lord present and placed on the Cross, to make a colloquy, how of being Creator He has come to make Himself man, and pass from eternal life to temporal death, and so to die for my sins. In like manner, looking at myself, what I have done for Christ, what I am doing for Christ, what I ought to do for Christ; and so seeing Him in such condition and so fastened on the Cross, to think over what shall occur.",
+"pages": [
+23,
+26
+]
+},
+{
+"n": 54,
+"en": "The colloquy is made, properly speaking, just as one friend speaks to another, or a servant to his master, now asking for some favour, now reproaching oneself for some evil done, now telling out one's affairs and seeking counsel in them. And say one Our",
+"pages": [
+23,
+26
+]
+},
+{
+"n": 55,
+"en": "THE SECOND EXERCISE K is a meditation on sins, and contains in itself, after the preparatory prayer and two preludes, five points and one colloquy. Let the preparatory prayer be the same. The first prelude will be the 2 same composition of place. The second is to ask for what I want: it will be here to 3 ask for a swollen and intense sorrow and tears for my sins.",
+"pages": [
+33,
+35
+]
+},
+{
+"n": 56,
+"en": "The first point is the indictment of sins, that is to say, to bring to mind all the sins of my life, looking through it year by year or period by period. To this purpose three things are helpful: the first, to look at the place and house where I have lived; the second, at the dealings I have had with others; the third, at the calling in which I have lived.",
+"pages": [
+33,
+35
+]
+},
+{
+"n": 57,
+"en": "The second point is to weigh the sins, looking at the foulness and malice that any mortal sin committed has in itself, even though it were not forbidden.",
+"pages": [
+33,
+35
+]
+},
+{
+"n": 58,
+"en": "The third, to see who I am, belittling myself by examples: first, what am I in comparison with all mankind; secondly, what are all mankind in comparison with all the Angels and Saints of paradise; thirdly, to see what all creation is in comparison with God, therefore \"of myself alone, what can I be? fourthly, to see all my corruption and foulness of body; fifthly, to look upon myself as a sort of ulcer and abscess, whence have sprung so many sins, and so many wickednesses and such most hideous venom.",
+"pages": [
+33,
+35
+]
+},
+{
+"n": 59,
+"en": "The fourth, to consider who God is against whom I have sinned, according to His attributes, comparing them with their contraries in me, His wisdom with my ignorance, His omnipotence with my weakness, His justice with my iniquity, His goodness with my, malice.",
+"pages": [
+33,
+35
+]
+},
+{
+"n": 60,
+"en": "The fifth, a cry of wonder with a flood of emotion, ranging in thought through all creatures, how they have suffered me to live and have preserved me in life,-how the 'Angels, being the sword of divine justice, have borne with me and guarded and prayed for me, how the Saints have been interceding and praying for me,— and the heavens, sun, moon, stars and elements, fruits, birds, fishes, and animals... -and the earth, how it has not opened to swallow me up, creating new hells for my eternal torment therein.",
+"pages": [
+33,
+35
+]
+},
+{
+"n": 61,
+"en": "To conclude with a colloquy, of mercy, casting a reckoning and giving thanks to God that He has granted me life hitherto, proposing amendment for the time to come with His grace. Our Father.",
+"pages": [
+33,
+35
+]
+},
+{
+"n": 62,
+"en": "THE THIRD EXERCISE is a repetition of the first and second Exercise, making three colloquies. After the preparatory prayer and the two preludes, it will be my part to repeat the first and the second Exercise, noting and dwelling upon those points on which I have felt greater consolation, or desolation, or greater spiritual relish. After which I will make three colloquies in the following manner.",
+"pages": [
+37,
+38
+]
+},
+{
+"n": 63,
+"en": "The first colloquy with our Lady, that she may obtain for me grace from her Son and Lord for three things: the first, that I may feel an inward knowledge of my sins and abhorrence of them; the second, that I may feel the disorder of my actions, that I may abhor it and amend myself and order myself aright; the third, to ask for a knowledge of the world, so that abhorring it I may put away from myself worldly and vain things. And therewith one Hail Mary. The second, the same with the Son, that He may obtain bip for me from the Father. And therewith the Anima Christi. The third, the same with the Father, that the same Eternal Lord may, grant it me. And therewith one Our Father.",
+"pages": [
+37,
+38
+]
+},
+{
+"n": 64,
+"en": "THE FOURTH EXERCISE is a recapitulation of this same third. I have said recapitulation, in order that the understanding without wandering away may range assiduously over the recollection of the things contemplated in the previous Exercises; then making the same three colloquies.",
+"pages": [
+37,
+38
+]
+},
+{
+"n": 65,
+"en": "THE FIFTH EXERCISE is a meditation on hell: it contains, after the preparatory prayer and two preludes, five points and one colloquy. Let the preparatory prayer be as usual. The first prelude, a composi- ✓ tion, which is here to see with the eye of the imagination the length, breadth, and depth of hell. The second, to ask for what I want: it will be here to ask for an intimate sense of the pain that the damned suffer, so that, if through my faults I become forgetful of the love of the Eternal Lord, at least the fear of pains and penalties may be an aid to me not to give way, to sin.",
+"pages": [
+40,
+42
+]
+},
+{
+"n": 66,
+"en": "The first point will be to see with the eye of the imagination those great fires, and those souls as it were in bodies of fire.",
+"pages": [
+40,
+42
+]
+},
+{
+"n": 67,
+"en": "The second, to hear with the ears lamentations, howlings, cries, blasphemies against Christ our Lord and against all His Saints.",
+"pages": [
+40,
+42
+]
+},
+{
+"n": 68,
+"en": "The third, with the sense of smell, to smell smoke, brimstone, refuse and rottenness.",
+"pages": [
+40,
+42
+]
+},
+{
+"n": 69,
+"en": "The fourth, to taste with the taste bitter things, as tears, sadness, and the worm of conscience.",
+"pages": [
+40,
+42
+]
+},
+{
+"n": 70,
+"en": "The fifth, to feel with the sense of touch how those fires 'do touch and burn souls.",
+"pages": [
+40,
+42
+]
+},
+{
+"n": 71,
+"en": "Making one colloquy with Christ our Lord, to bring to memory the souls that are in hell, some because they did not believe in the Coming, others because, while believing, they did not work according to His commandments; making three classes, the first, before the к Coming; the second during His life-time; the third since His life in this world; and at the same time to give Him thanks for not having allowed me to fall into any of these classes by bringing my life to an end. Likewise how up to this He has ever shown such kindness and mercy, towards me. Ending with an Our Father.",
+"pages": [
+40,
+42
+]
+},
+{
+"n": 72,
+"en": "The first Exercise shall be made at midnight; the second immediately on rising in the morning; the third before or after Mass, anyhow before dinner; the fourth at the hour of Vespers; the fifth one hour before supper. This repetition of hours, more or less, I always presume in all the four Weeks, so far as age, disposition and constitution enable the Exercitant to make the five Exercises or fewer.",
+"pages": [
+40,
+42
+]
+},
+{
+"n": 73,
+"en": "ADDITIONS for the better making of the Exercises, and the better finding of what the Exercitant desires. The first Addition is, after going to bed, when I am composing myself to sleep, for the interval of one Hail Mary to think of the hour at which I ought to rise, and to what purpose, recapitulating the Exer- Icise which I have to make.",
+"pages": [
+45,
+50
+]
+},
+{
+"n": 74,
+"en": "The second, when I awake, not giving place to these or those thoughts, immediately to advert to what I am about to contemplate in the first Exercise at midnight, moving myself to confusion over those many sins of mine, proposing examples, as if some knight were being arraigned before his King and his full assembled Court, stricken with shame and confusion at having grievously offended him of whom he had heretofore received many gifts and many favours. Likewise in the second Exercise, accounting myself a great sinner and bound in chains, that is to say, that I am going as one made fast in chains to appear before the supreme Eternal Judge, taking for example the thought how prisoners, chained, and worthy of death, appear before their temporal judge; and occupied with' these thoughts to dress myself, or with other thoughts according to the subject matter.",
+"pages": [
+45,
+50
+]
+},
+{
+"n": 75,
+"en": "The third, one or two steps before the place in which I am to make my contemplation or meditation, I will stand for the space of one Our Father, with my mind lifted up, reflecting how God our Lord is looking at me, and make a reverence or gesture of self-abasement.",
+"pages": [
+45,
+50
+]
+},
+{
+"n": 76,
+"en": "The fourth, to enter upon the contemplation, now kneeling, now prostrate on the ground, now lying back with uplifted face, now sitting, now standing, aiming ever at seeking what I want. We will observe two things: the first is, if I find what I want kneeling, I will not proceed to any further posture; and if when prostrate, in like manner, etc.; the second is, in the point in which I find what I want, there I will rest, without anxiety to advance further till I am satisfied.",
+"pages": [
+45,
+50
+]
+},
+{
+"n": 77,
+"en": "The fifth, after the Exercise is finished, for about a quarter of an hour, whether sitting or walking, I will look and see what success I have had in my contemplation or meditation; and if it has gone badly, I will look into the cause whence the failure proceeds, and so having looked into it I will be sorry, purposing amendment for the future; and if it has gone well, I will return thanks to God' our Lord, and another time I will act in the same manner.",
+"pages": [
+45,
+50
+]
+},
+{
+"n": 78,
+"en": "The sixth, to avoid thinking of agreeable and joyful subjects, as of Glory, Resurrection, etc., because the feeling of pain, grief, and tears over our sins is hindered by any consideration of joy and gladness; but to keep before me my purpose of grieving and feeling pain, bringing rather into memory Death and Judgment.",
+"pages": [
+45,
+50
+]
+},
+{
+"n": 79,
+"en": "The seventh, to deprive myself of all bright light to the same effect, shutting shutters and doors during the time that I am in the room, except for reciting prayers, reading, and taking food.",
+"pages": [
+45,
+50
+]
+},
+{
+"n": 80,
+"en": "The eighth, not to laugh, nor say anything to provoke laughter.",
+"pages": [
+45,
+50
+]
+},
+{
+"n": 81,
+"en": "The ninth, to restrain my eyes except in receiving or dismissing him him with whom I speak.",
+"pages": [
+45,
+50
+]
+},
+{
+"n": 82,
+"en": "K The tenth Addition is penance, which is divided into interior and exterior. Interior penance is to grieve over one's sins, with a firm purpose of not committing the same nor any other. Exterior penance, being the fruit of the former, is chastisement for sins committed, and this is taken chiefly, in three ways.",
+"pages": [
+45,
+50
+]
+},
+{
+"n": 83,
+"en": "The first regards food: that is to say, when we take away superfluities, it is not penance but temperance: penance is when we take off from what it is fitting that we should have; and the more and more, the greater and better the penance, provided the constitution be not impaired nor notable infirmity ensue.",
+"pages": [
+45,
+50
+]
+},
+{
+"n": 84,
+"en": "The second way regards our amount of sleep; and in like manner it is not penance to take away superfluity of things delicate or soft, but it is penance when, in the measure of sleep that we allow ourselves, something is taken off from what is fitting; and the more and more the better, provided the constitution be not impaired, nor notable infirmity ensue. Nothing, however, is to be retrenched from the due amount of sleep unless perchance one has the vicious habit of sleeping too much, and then it may be done by way of arriving at the mean.",
+"pages": [
+45,
+50
+]
+},
+{
+"n": 85,
+"en": "The third way is to chastise the flesh, to wit, by putting it to sensible pain, which is inflicted by wearing hair-shirts, or cords, or iron chains on the bare flesh, by scourging oneself, or wounding oneself, and by other modes of austerities.",
+"pages": [
+45,
+50
+]
+},
+{
+"n": 86,
+"en": "What seems the more suitable and safer thing in penance is for the pain to be sensible in the flesh, without penetrating to the bones, so as to cause pain and not infirmity. Wherefore it seems more fitting to scourge oneself with minute cords, which cause pain externally, rather than in any other way which might cause serious internal injury.",
+"pages": [
+45,
+50
+]
+},
+{
+"n": 87,
+"en": "The first observation is that exterior penances are performed chiefly to three effects: first, as satisfaction for past sins; secondly, to overcome oneself to the end that the sensual appetite may obey reason, and all the lower parts be more subject to the higher; thirdly, to seek and find some grace or gift which the man wishes and desires,-as for instance if he desires to have an inward contrition for his sins, or to weep much over them, or over the pains and griefs that Christ our Lord endured in His Passion, or for the solution of some doubt in which the man is placed.",
+"pages": [
+45,
+50
+]
+},
+{
+"n": 88,
+"en": "The second observation is that the first and second Additions ought to be performed for the Exercises of midnight and at break of day, and not for those that are done at other times; and the fourth Addition shall never be performed in church before others, but only in private at home.",
+"pages": [
+45,
+50
+]
+},
+{
+"n": 89,
+"en": "Thirdly, be it observed that when the Exercitant still fails to find what he desires, as tears, consolations, etc., it is often useful to make an alteration in diet, in sleep, and in other modes of doing penance, so as to alternate, doing penance for two or three days, and for other two or three not doing it, because it befits some to do more penance, and others less; and also because we often fail to do penance through love of what soothes our senses, and through an erroneous. judgment that the human con- stitution cannot bear it without notable infirmity; and sometimes on the contrary we do too much, thinking that the body can endure it; and since God our Lord knows our nature infinitely better than we do, often in such changes He gives the individual to understand what suits him.",
+"pages": [
+45,
+50
+]
+},
+{
+"n": 90,
+"en": "Fourth observation: let the particular examen be made on the removal of defects and negligences regarding the Exercises and the Additions, and so in the second, third, and fourth week.",
+"pages": [
+45,
+50
+]
+},
+{
+"n": 91,
+"en": "SECOND WEEK The call of the temporal King helps to contemplate the life of the Eternal King. Let the preparatory prayer be as usual. The first prelude is the composition, seeing the place. It will be here to see with the eye of the imagination the synagogues, towns and country places through which Christ our Lord preached.",
+"pages": [
+77,
+79
+]
+},
+{
+"n": 92,
+"en": "The second, to ask the grace which I want. It will be here to ask grace of our Lord that I be not deaf to His call, but prompt and diligent to fulfil His most holy will.",
+"pages": [
+77,
+79
+]
+},
+{
+"n": 93,
+"en": "The first point is to put be-| fore my eyes a human King, chosen by God our Lord Himself, to whom all Christian princes and all Christian men. pay reverence and obedience.",
+"pages": [
+77,
+79
+]
+},
+{
+"n": 94,
+"en": "The second, to mark how this King addresses all his people, saying: ' My will is to conquer the whole land of the infidels: therefore whoever shall wish to come with me must be content to eat as I do, and so to drink and dress, etc., as I do. In like manner he must labour as I do by day, and watch at night, etc., so that in like manner afterwards he may share with me in the victory as he shall have shared in the labours.'",
+"pages": [
+77,
+79
+]
+},
+{
+"n": 95,
+"en": "The third, to consider what should be the answer of good subjects to a King so generous, such a man indeed; and consequently, if any one would not accept the request of such a King, how worthy he would be of being scouted by the whole world, and reckoned a recreant knight, no gentleman, but a ' skulker.'",
+"pages": [
+77,
+79
+]
+},
+{
+"n": 96,
+"en": "The second part of this Exercise consists in applying the aforesaid example of a temporal King to Christ our Lord according to the said three points. And touching the first point, if we pay regard to such a call of a temporal King upon his subjects, how much more is it a thing worthy of consideration to see Christ our Lord, the eternal King, and before Him the whole world, to which and to every man in particular He cries and says: ' My will is to conquer the whole world and all mine enemies, and so to enter into the glory of my Father: therefore he who shall wish to come with me must labour with me, that following me in hardship he may likewise follow me in glory.'",
+"pages": [
+77,
+79
+]
+},
+{
+"n": 97,
+"en": "The second, to consider that all who have judgment and reason will offer their whole persons to labour.",
+"pages": [
+77,
+79
+]
+},
+{
+"n": 98,
+"en": "The third: they who shall be more desirous to show affection and signalise themselves in entire service of their Eternal King and Universal Lord, will not only offer their persons to labour, but also acting against their love of creature-comforts, and their love of their own, flesh and blood, and their love of the world, will make offerings of greater esteem and greater moment, saying: Eternal Lord of all things, I make my offering with Thy favour and aid, before Thine infinite Goodness, and before Thy glorious Mother and all the Saints, men and women, of the heavenly Court, to the effect that it is my wish and desire and is my deliberate determination, provided it Thy greater service and Thy praise, to imitate Thee in bearing all injuries, and all reproach, and all poverty, as well actual as spiritual, if Thy Most Sacred Majesty shall wish to choose and receive me to such a life and state.'",
+"pages": [
+77,
+79
+]
+},
+{
+"n": 99,
+"en": "This Exercise shall be made twice in the day, that is to say, in the morning at rising, and one hour before dinner or supper.",
+"pages": [
+77,
+79
+]
+},
+{
+"n": 100,
+"en": "For the Second Week and thereafter it is very profitable to read at times from the books of the Imitation of Christ, and of the Gospels and Lives of the Saints.",
+"pages": [
+77,
+79
+]
+},
+{
+"n": 101,
+"en": "The first day and the First Contemplation is of the Incarnation, and contains in itself a preparatory prayer, three preludes and three points, and one colloquy. The usual preparatory prayer.",
+"pages": [
+85,
+87
+]
+},
+{
+"n": 102,
+"en": "The first prelude is to bring up the history of the thing which I have to contemplate, which is here how the three Divine Persons were looking down upon the whole flat or round of the whole world, full of men; and how, seeing that all were going down to hell, it was decreed in their eternity that the Second Person should become man to save the human race. And so it was done,when the fulness of time came, by sending the angel Saint Gabriel to our Lady.",
+"pages": [
+85,
+87
+]
+},
+{
+"n": 103,
+"en": "The second, the composition, seeing the place. Here it will be to see the great room and round of the world, where dwell so many and such diverse nations. In like manner afterwards in particular the house and apartments of our Lady, in the city of Nazareth, in the province of Galilee.",
+"pages": [
+85,
+87
+]
+},
+{
+"n": 104,
+"en": "The third, to ask for what I want. It will be here to ask for an intimate knowledge of the Lord who was made man for me, that I may love Him more and follow Him.",
+"pages": [
+85,
+87
+]
+},
+{
+"n": 105,
+"en": "It is well here to observe that this same preparatory, prayer, without change, as was laid down in the beginning, and the same three preludes, are to be made in this Week and in the remaining Weeks that follow, changing the form according to the subject matter.",
+"pages": [
+85,
+87
+]
+},
+{
+"n": 106,
+"en": "The first point is to see the persons, each and all of them; and first those on the face of the earth, in such variety both in dress and mien, some white and others black, some in peace and others at war, some weeping and other laughing, some healthy, others sick, some just born and others dying, etc. Secondly, to see and consider the three Divine Persons, as on the royal seat or throne of the Divine Majesty, how they regard the whole face and circuit of the earth, and all nations in such blindness, and how they are dying and going down to hell. Thirdly, to see our Lady. and the angel who salutes her, and to reflect how I may gather fruit from such a sight.",
+"pages": [
+85,
+87
+]
+},
+{
+"n": 107,
+"en": "The second point, to hear what the persons on the face of the earth are saying, to wit, how they talk to one another, how they swear and blaspheme, etc. In like manner what the Divine Persons are saying, to wit: ' Let us work the redemption of mankind ': and afterwards what our Lady and the angel are saying; and then to reflect so as to gather fruit from their words.",
+"pages": [
+85,
+87
+]
+},
+{
+"n": 108,
+"en": "The third, then to study what the persons on the face of the earth are doing, to wit, smiting, slaying, going to hell, etc.: likewise what the Divine Persons are doing, namely, working the most holy Incarnation, etc.; and in like manner what the angel and our Lady, are doing, to wit, the angel doing his office of Ambassador, and our Lady humbling herself and returning thanks to the Divine Majesty; and afterwards to reflect so as to gather some fruit from each of these things.",
+"pages": [
+85,
+87
+]
+},
+{
+"n": 109,
+"en": "At the end a colloquy is to be made, thinking what I ought to say to the three Divine Persons, or to the Eternal Word Incarnate, or to the Mother and our Lady, asking according as one feels in oneself in view of better following and imitating our Lord, so newly, Incarnate, saying Our Father.",
+"pages": [
+85,
+87
+]
+},
+{
+"n": 110,
+"en": "The Second Contemplation is ofthe Nativity. The usual preparatory prayer.",
+"pages": [
+90,
+91
+]
+},
+{
+"n": 111,
+"en": "The first prelude is the history; and it will be here how there went forth from Nazareth our Lady, about nine months with child, as we may piously meditate, sitting on a she-ass, and Joseph and a handmaid, leading an ox, to go to Bethlehem to pay the tribute which Cæsar had imposed on all those countries.",
+"pages": [
+90,
+91
+]
+},
+{
+"n": 112,
+"en": "The second, the composition, seeing the place. It will be here with the sight of the imagination to see the way from Nazareth to Bethlehem, considering length, width, and whether such way be flat or whether through valleys or up hills; likewise looking at the place or cave of the Nativity, how large, how tiny; how low, how high, and how it was furnished.",
+"pages": [
+90,
+91
+]
+},
+{
+"n": 113,
+"en": "The third will be the same and of the same form that was in the previous contemplation.",
+"pages": [
+90,
+91
+]
+},
+{
+"n": 114,
+"en": "The first point is to see the persons, that is, to see our Lady, and Joseph, and the handmaid, and the Infant Jesus after He is born, making myself a poor bit of a body and an unworthy little servant, looking at them, studying them, and serving them in their needs, as if I were there present, with all possible readiness to serve and all possible reverence; and then to reflect on myself to gather some profit.",
+"pages": [
+90,
+91
+]
+},
+{
+"n": 115,
+"en": "The second, to look, observe, and study what they say, and reflecting on myself to gather some profit.",
+"pages": [
+90,
+91
+]
+},
+{
+"n": 116,
+"en": "The third, to look and study what they do, as their journeying and toiling, all that the Lord may be born in extreme poverty, and after those many labours, after hunger, after thirst, after heat and cold, after injuries and insults, may die on a cross, and all this for me. Then, reflecting, to gather some spiritual profit.",
+"pages": [
+90,
+91
+]
+},
+{
+"n": 117,
+"en": "To make an end by a colloquy, as in the previous contemplation, and with an Our Father.",
+"pages": [
+90,
+91
+]
+},
+{
+"n": 118,
+"en": "This day, all Nature greets with joy: The skies, the seas, the wintry. earth, Unwonted gladness wear, and hymn The morn which gave to them. Thy Birth. We likewise, whom Thy Sacred Blood Restores to grace and joyance free, On this Thy holy natal morn New strains of rapture sing to Thee. O Jesu, born of Virgin blest, To Thee by all be glory given, Who with the Father and the Spirit Enthroned, dost reign in highest heaven. … The Third Contemplation will be a repetition of the first and second Exercise. 'After the preparatory prayer and three preludes, there shall be made the repetition of the first and second Exercise, noting always some more striking portions in which the exercitant has felt some en- lightenment; consolation or desolation, making in like manner a colloquy at the end, and an Our Father.",
+"pages": [
+93,
+100
+]
+},
+{
+"n": 119,
+"en": "In this repetition, and in all following repetitions, the same order of procedure shall be observed that was observed in the repetitions of the First Week, changing the matter and keeping the form.",
+"pages": [
+93,
+100
+]
+},
+{
+"n": 120,
+"en": "The Fourth Contemplation will be a repetition of the first and second, in the same way as was done in the aforesaid repetition.",
+"pages": [
+93,
+100
+]
+},
+{
+"n": 121,
+"en": "The Fifth Contemplation will be to carry the five senses over the first and second contemplation. After the preparatory prayer and three preludes, it is profitable to pass the five senses of the imagination over the first and second contemplation in the following manner.",
+"pages": [
+93,
+100
+]
+},
+{
+"n": 122,
+"en": "The first point is to see the persons with the sight of the imagination, meditating and studying in particular their circumstances, and gathering some fruit from the sight.",
+"pages": [
+93,
+100
+]
+},
+{
+"n": 123,
+"en": "The second, to hear with the hearing the things that they say, or may say, and reflecting within oneself to gather thence some profit.",
+"pages": [
+93,
+100
+]
+},
+{
+"n": 124,
+"en": "The third, to smell and taste with the sense of smell and taste the infinite fragrance and sweetness of the Godhead, of the soul and its virtues, and of everything, according to the person one is contemplating, reflecting inwardly and gathering thence profit.",
+"pages": [
+93,
+100
+]
+},
+{
+"n": 125,
+"en": "The fourth, to touch with the touch, as for instance to embrace and kiss the place where such persons tread and sit, always contriving to gather profit thence.",
+"pages": [
+93,
+100
+]
+},
+{
+"n": 126,
+"en": "To terminate with a colloquy, as in the first and second contemplation, and with an Our Father.",
+"pages": [
+93,
+100
+]
+},
+{
+"n": 127,
+"en": "First Note. It is to be observed for the whole of this week and the rest that follow, that I ought only to read the Mystery of the contemplation which I am about immediately to make, so that for the time I should read no other Mystery which I am not about to do that day or that hour, so that the consideration of one Mystery, may not be in the way of the consideration of another.",
+"pages": [
+93,
+100
+]
+},
+{
+"n": 128,
+"en": "Second. The first Exercise on the Incarnation shall be made at midnight: the second at dawn: the third at the hour of Mass: the fourth at the hour of Vespers, and the fifth before the hour of supper, persevering for the space of one hour in each of the five Exercises; and the same order shall be observed in all the following.",
+"pages": [
+93,
+100
+]
+},
+{
+"n": 129,
+"en": "Third. It is to be observed that if he who is making the Exercises be an aged man, or weak; or even though he be strong, if he has remained somewhat weakened from the first Week, it is better for this second Week, at least sometimes, without rising at mid- night, to make in the morning one contemplation, and another at the hour of Mass, and another before the mid-day meal, and upon them one repetition at the hour of Vespers, and then to apply, the senses before supper.",
+"pages": [
+93,
+100
+]
+},
+{
+"n": 130,
+"en": "Fourth. In this Second Week, of all the ten Additions that are enunciated in the First Week, there are to be changed the second, the sixth, the seventh, and in part the tenth. In the second the change will be, immediately on awakening, to set before my eyes the contemplation which I am about to make, desiring more to know the Eternal Word made flesh, that I may the better serve Him and follow Him. And the sixth will be, frequently to recall to memory the Life and Mysteries of Christ our Lord, beginning from His Incarnation to the place or Mystery in the study of which I am engaged. And the seventh will be that the Exercitant should take care so far to keep his room dark or open to the light, to benefit by fine weather or the reverse, as far as he shall feel that it may profit and aid him to find what he desires. And in regard of the tenth Addition, the Exercitant should behave according to the Mysteries that he is studying, because some of them demand penance and others not. Thus let all the ten Additions be done with much care.",
+"pages": [
+93,
+100
+]
+},
+{
+"n": 131,
+"en": "Fifth Note. In all the Exercises except those that come at midnight and at dawn, some equivalent of the Second Addition must be taken as follows:-As soon as I remember that it is time for the Exercise which I have to make, before going to it, to set before my eyes where I am going and into whose presence, recapitulating for a little while the Exercise which I am about to make, and afterwards, making the third Addition, so to enter upon the Exercise.",
+"pages": [
+93,
+100
+]
+},
+{
+"n": 132,
+"en": "The Second Day, to take for the first and second contemplation the Presentation in the Temple, and the Flight, as into exile, into Egypt; and upon these two contemplations there shall be made two repetitions, and the application of the five senses upon them, in the same way as was done on the previous day.",
+"pages": [
+103,
+105
+]
+},
+{
+"n": 133,
+"en": "Thirdly (ver. 15). It is sometimes useful, even though the Exercitant be robust and well-disposed, for there to be some variation allowed from this second day to the fourth inclusively [read exclusively], that he may better find what he desires, taking only one contemplation first thing in the morning, and another at the hour of Mass, and to make a repetition upon them at the hour of Vespers, and to apply the senses before supper.",
+"pages": [
+103,
+105
+]
+},
+{
+"n": 134,
+"en": "The Third Day, how the Child Jesus was obedient to His parents in Nazareth, and how afterwards they found Him in the Temple; and so thereupon to make two repetitions, and apply the five senses.",
+"pages": [
+103,
+105
+]
+},
+{
+"n": 135,
+"en": "Preamble to the consideration of states of life. Having considered now the example which Christ our Lord has given us for the first state, which consists in the observance of the commandments, by being in obedience to His parents; and likewise for the second, which is the state of evangelical perfection, when He stayed behind in the Temple, leaving His foster-father and His natural mother, purely to devote Himself to the service of His eternal Father; we will begin, while going on with the study of His life, at the same time to investigate and beg grace to know in what life or state His Divine Majesty is pleased to make use of us. And therefore, by way of some introduction to this business, in the first following Exercise we will see the Idea of Christ our Lord, and contrariwise that of the Enemy of human nature, and how we ought to dispose ourselves to come to perfection in that state or life, whatever it be, which God our Lord shall grant us to choose.",
+"pages": [
+109,
+112
+]
+},
+{
+"n": 136,
+"en": "The Fourth Day, A meditation on Two Standards, the one of Christ our Sovereign Captain and Lord, the other of Lucifer, deadly enemy of our human nature. The usual preparatory prayer.",
+"pages": [
+109,
+112
+]
+},
+{
+"n": 137,
+"en": "The first prelude is the history. Here it will be how Christ calls and wishes for all men under His standard, and Lucifer contrariwise under his.",
+"pages": [
+109,
+112
+]
+},
+{
+"n": 138,
+"en": "The second, the composition, seeing the place. It will be here to see a great plain, táking in all that region of Jerusalem,where is the Captain- General-in-Chief of the good, Christ our Lord; another plain in the region of Babylonia, where is the bandit-chief of the enemies, Lucifer.",
+"pages": [
+109,
+112
+]
+},
+{
+"n": 139,
+"en": "The third, to ask for what I want, and it will be here to beg a knowledge of the machinations of the evil bandit-chief, and aid to be on my guard against them; and a knowledge of the true life which the Sovereign and True Captain shows forth, and grace to imitate Him",
+"pages": [
+109,
+112
+]
+},
+{
+"n": 140,
+"en": "The first point is to imagine the bandit-chief of all the enemies in that great plain of Babylonia, seated, as it were, in a sort of big chair of fire and smoke,-a horrid and terrible figure.",
+"pages": [
+109,
+112
+]
+},
+{
+"n": 141,
+"en": "The second, how he calls a convocation of countless demons, and how he scatters · them, these to such a city and those to another, and so all the world over, leaving out no provinces, V places, states, nor any private individuals.",
+"pages": [
+109,
+112
+]
+},
+{
+"n": 142,
+"en": "The third, to consider the address that he makes them; and how he urges them to cast III nets and chains, so that they should tempt men first with the desire of riches, as is his wont in most cases, to the end that they may more easily come on to the vain honour of the world, and thence to swollen pride. Thus the first stage is to be that of riches, the second of honours, the third of pride; and from these three stages he leads cn to all the other vices.",
+"pages": [
+109,
+112
+]
+},
+{
+"n": 143,
+"en": "In like manner contrariwise we must exercise the imagination on the Sovereign and True Captain, who is Christ our Lord. The first point is to consider how Christ our Lord takes His stand in a great plain of that region of Jerusalem, in a lowly place, fair and gracious.",
+"pages": [
+109,
+112
+]
+},
+{
+"n": 144,
+"en": "The second, to consider how the Lord of the whole world chooses ever so many persons, apostles, disciples, etc., and sends them all the world over, spreading His sacred doctrine through all sorts and conditions of men.",
+"pages": [
+109,
+112
+]
+},
+{
+"n": 145,
+"en": "The third, to consider the address which Christ our Lord delivers to all His servants and friends whom He sends on the said expedition, commending to them to be ready to help all, leading them first to the highest spiritual poverty, and, -if it shall please His Divine Majesty and He shall will to choose them,—not less to actual poverty; secondly, to the de- sire of reproaches and affronts, because out of these two things ensues humility. Thus there are three stages: the first, poverty against riches; the second, reproach or affront against worldly honour; the third, humility against pride; and by these three stages they are to lead men on to all the other virtues.",
+"pages": [
+109,
+112
+]
+},
+{
+"n": 146,
+"en": "A colloquy with our Lady, to obtain for me grace from Her Son and our Lord that I may be received under His standard; and first, in the highest spiritual poverty, and, if it shall please His Divine Majesty and He shall will to choose and receive me,-not less in actual poverty; secondly, in enduring insults and injuries, the better to imitate Him therein, provided I can bear them without sin of any person or displeasure of His Divine Majesty. And thereupon a Hail Mary.",
+"pages": [
+109,
+112
+]
+},
+{
+"n": 147,
+"en": "To ask the same of the Son, that He may obtain it for me from the Father, and thereupon say Anima Christi. To ask the same of the Father, that He would grant it to me, and say an Our Father.",
+"pages": [
+109,
+112
+]
+},
+{
+"n": 148,
+"en": "This Exercise shall be made at midnight, and then again in the morning. And there shall be made two repetitions of the same, at the hour of Mass and at the hour of Vespers, always ending with the three colloquies, with our Lady, with the Son, and with the Father. And",
+"pages": [
+109,
+112
+]
+},
+{
+"n": 149,
+"en": "The same Fourth Day there is made a meditation of three couples of men, that we may embrace the better. The usual preparatory prayer.",
+"pages": [
+117,
+119
+]
+},
+{
+"n": 150,
+"en": "The first prelude is the history, which is of three Couples of men, and each of them has acquired ten thousand ducats, not purely and duly for the love of God, and they want all to save themselves and find God our Lord in peace, removing from themselves the weight and obstacle which they have thereto in their attachment to the acquired thing.",
+"pages": [
+117,
+119
+]
+},
+{
+"n": 151,
+"en": "The second, the composition, seeing the place. 'It will be here to see myself, how I stand before God our Lord and all His Saints, to the end that I may desire and know what is more acceptable to His Divine Goodness.",
+"pages": [
+117,
+119
+]
+},
+{
+"n": 152,
+"en": "The third, to ask what I want. Here it will be to beg for grace to choose that which may be more to the glory of His Divine Majesty and the salvation of my soul.",
+"pages": [
+117,
+119
+]
+},
+{
+"n": 153,
+"en": "The first Couple would wish to remove the attachment which they have to the thing acquired, so that they might find God our Lord in peace and be able to save themselves,-and do not take the means thereto until the hour of death.",
+"pages": [
+117,
+119
+]
+},
+{
+"n": 154,
+"en": "The second wish to remove the attachment, but so wish to remove it as to remain with the thing acquired, so that God may come whither man wishes to go; and they are not resolute to leave the thing to go to God, no, though that state were to prove the better for them.",
+"pages": [
+117,
+119
+]
+},
+{
+"n": 155,
+"en": "The third wish to remove the attachment, but so wish to remove it as also not to be tied by any affection to the keeping of the thing acquired, or the not keeping of it; but wish solely to will that thing, or to will it not, according as God our Lord shall put into the will, and according as shall seem better to the person concerned for the service and praise of His Divine Divine Majesty; and meanwhile they wish to make account that they do actually leave all things in effect [read with Father Roothaan en efecto for en afecto], putting forth their strength not to wish that thing, or any other thing, except the sole service of God our Lord prompt it; so that the desire of being better able to serve God our Lord is their motive for taking that thing or leaving it.",
+"pages": [
+117,
+119
+]
+},
+{
+"n": 156,
+"en": "To make the same three colloquies that were made in the previous contemplation of the Two Standards.",
+"pages": [
+117,
+119
+]
+},
+{
+"n": 157,
+"en": "It is to be noted that when we feel an affection or repugnance against actual poverty,-when we are not indifferent to poverty or riches, it is very helpful for the extinguishing of such inordinate affection to ask in the colloquies, even though it be against the flesh, that our Lord would choose us for actual poverty, protesting that we wish, seek, and supplicate for it, provided only it be the service and praise of His Divine Goodness.",
+"pages": [
+117,
+119
+]
+},
+{
+"n": 158,
+"en": "This contemplation shall be made once at midnight, and again at dawn, and two repetitions upon the same at the hour of Mass and Vespers; and before supper one is to apply thereto the five senses; in each of these five Exercises prefixing the usual preparatory prayer, and three three preludes, preludes, according as all this has been declared in the contemplation of the Incarnation and the Nativity, and ending with the three colloquies of the three Couples, or according to the note which follows after the Couples. The particular examen after dinner and after supper shall be made on the faults and negligences regarding the Exercises and Additions of this day, and also on those that follow.",
+"pages": [
+121,
+130
+]
+},
+{
+"n": 159,
+"en": "The Sixth Day. A contemplation how Christ our Lord went from the river Jordan to the desert, inclusively; observing in all things the same form as in the fifth.",
+"pages": [
+121,
+130
+]
+},
+{
+"n": 160,
+"en": "Thirdly (ver. 11). The Seventh Day. How St. Andrew and others followed Christ our Lord.",
+"pages": [
+121,
+130
+]
+},
+{
+"n": 161,
+"en": "The Eighth.",
+"pages": [
+121,
+130
+]
+},
+{
+"n": 162,
+"en": "The first Note is that in the contemplations of this Second Week, according as each one wishes to spend time, or according to the progress that he makes, he can extend or shorten. If he wishes to extend, that can be done by taking the Mysteries of the Visitation of our Lady to St. Elisabeth, the Shepherds, the Circumcision of the Child Jesus, and the Three Kings, and so of the rest; and if to shorten, he can also subtract from the Mysteries set forth above: because this is meant only to supply some introduction and method towards a better and more complete contemplation afterwards. The second Note:",
+"pages": [
+136,
+138
+]
+},
+{
+"n": 163,
+"en": "the matter of the Elections shall be begun from the contemplation 'from Nazareth to Jordan inclusively,' that is, on the Fifth Day, as is declared presently.",
+"pages": [
+136,
+138
+]
+},
+{
+"n": 164,
+"en": "The third Note. Before entering on the Elections, the better to frame one's affections to the true doctrine of Christ our Lord, it is very helpful to study and attend to the three following Modes of Humility, both by considering them from time to time all day long, and likewise by making the Colloquies as shall be said below.",
+"pages": [
+136,
+138
+]
+},
+{
+"n": 165,
+"en": "The First Mode of Humility is necessary to eternal salvation: it is to this effect, that I should so far abase and humble myself, inasmuch as lies in my power, as in all things to obey the law of God our Lord, so that, though they offered to make me Lord of all created things in this world, or for the saving of my temporal life, I would not seriously entertain the thought of transgressing any commandment, divine or human, that binds me under mortal sin.",
+"pages": [
+136,
+138
+]
+},
+{
+"n": 166,
+"en": "The Second is a more perfect Humility than the First; that is to say, I have this Second Humility if I find myself in such posture of mind as not to wish nor be drawn to the having of riches rather than poverty, the coveting of honour rather than of dishonour, the desire of a long life rather than of a short life, where there is equal service of God our Lord and salvation of my soul; and withal that not for all creation, nor for a threat to take my life, would I seriously contemplate the commission of a venial sin.",
+"pages": [
+136,
+138
+]
+},
+{
+"n": 167,
+"en": "The Third is most perfect Humility, that is to say, when, including the First and Second, in a case where the praise and glory of the Divine Majesty, is equal, for the better imitation of Christ our Lord and the more actual likeness to Him, I wish and choose rather poverty with Christ poor than riches, reproaches, with Christ laden with reproaches than honours, and I desire to be accounted a good-for-nothing and a fool for Christ's sake,who before me was held for such, rather than wise and prudent in this world.",
+"pages": [
+136,
+138
+]
+},
+{
+"n": 168,
+"en": "Accordingly, for him who desires to obtain this Third Humility, it is very profitable to make the three colloquies of the Couples above mentioned, begging that our Lord would be pleased to choose him to this third, greater and better Humility, that he may the more imitate Him, if it be the equal or greater service and praise of His Divine Majesty.",
+"pages": [
+136,
+138
+]
+},
+{
+"n": 169,
+"en": "Preamble to the making ofthe Election. In every good Election, so far as it rests with us, the eye of our intention ought to be simple, solely regarding the end for which I am created, that is, to the praise of God our Lord and the salvation of my soul. And so, whatever I choose ought to be a means to aid me to the end for which I am created, not ordering or drawing the end to the means, but the means to the end. Thus it happens that many choose in the first place to marry, which is a means, and in the second place to serve God our Lord in the married state, which serving of God is the end. In like manner there are others who wish in the first place to have benefices, and afterwards to serve God in them. And so these persons do not go straight to God, but want God to come straight to their inordinate attachments; and consequently they make of the end a means, and of the means an end, in such way that what they ought to take in the first place, they take last: because in the first place we ought to set up for our object the will to serve God, which is the end; and in the second place the acceptance of a benefice, or marriage, if that is more suitable for me, which is a means to the end. Nothing therefore ought to move me to take these or those means, or to cut myself off from them, except the sole service of God our Lord and the eternal salvation of my soul.",
+"pages": [
+149,
+156
+]
+},
+{
+"n": 170,
+"en": "This by way of taking cognisance about what things an Election should be made; and it contains in itself four points and one note. The first point: it is necessary that all things about which we want to make an Election should be indifferent, or good in themselves, and such as to militate within Holy Mother the Hierarchical Church, and not evil nor repugnant thereto.",
+"pages": [
+149,
+156
+]
+},
+{
+"n": 171,
+"en": "Second: there are some things which fall under an immutable Election, as are priesthood, marriage, etc.; there are others which fall under a mutable Election, as acceptance of benefices or refusal of them, acceptance of temporal goods or letting them go.",
+"pages": [
+149,
+156
+]
+},
+{
+"n": 172,
+"en": "Third: in the immutable Election, in which, once the Election is made, there is no further choice, because it cannot be dissolved,—as are marriage, priesthood, and the rest, -the only thing to notice is this, that, if the person has not made his Election in a due and orderly way, apart from inordinate attachments, he should repent and aim at leading a good life in his Election: which Election does not seem to be a divine vocation, sceing that it is an inordinate and crooked Election; on which point many err, making of a crooked or evil Election a divine vocation; because every divine vocation is always pure and clean, without fleshly admixture or any other inordinate affection.",
+"pages": [
+149,
+156
+]
+},
+{
+"n": 173,
+"en": "Fourth: if any one has made an Election in due and orderly fashion of things that fall under mutable Election, and without going over to the flesh or to the world, there is no ground for a new Election, but only to render himself as perfect as possible where he is.",
+"pages": [
+149,
+156
+]
+},
+{
+"n": 174,
+"en": "Note. It should be noted that if the said mutable Election has been made, and it was not sincere and well-ordered, then any one so placed, being desirous of bringing forth signal fruits, very pleasing to God our Lord, will find it profitable to make the Election anew, this time in due manner.",
+"pages": [
+149,
+156
+]
+},
+{
+"n": 175,
+"en": "Three occasions for making a sound and good Election in each one of them. The first occasion is when God so moves and attracts the will that without doubt, or power of doubting, the devout soul follows what is shown her, as did St. Paul and St. Matthew in following Christ our Lord.",
+"pages": [
+149,
+156
+]
+},
+{
+"n": 176,
+"en": "The second, when there is gathered abundance of clear light and knowledge by experience of consolations and desolations, and by experience of discernment of various spirits.",
+"pages": [
+149,
+156
+]
+},
+{
+"n": 177,
+"en": "The third occasion is in time of calm, considering first to what purpose man is born, namely, to praise God our Lord and save his soul; and desiring this, he chooses as a means some life or state within the Church's bounds, that he may be aided in the service of God our Lord and in the salvation of his soul. I said ' a time of calm, ' when the soul is not agitated by diverse spirits, and uses its natural powers freely and calmly. If the Election does not come off on the first or second occasion, there follow as regards this third occasion two methods of making it.",
+"pages": [
+149,
+156
+]
+},
+{
+"n": 178,
+"en": "The first method for making a sound and good Election contains in itself six points. The first point is to put before myself the thing on which I wish to make Election, for example, an office or benefice to be accepted or refused, or any other thing whatever that falls under mutable Election.",
+"pages": [
+149,
+156
+]
+},
+{
+"n": 179,
+"en": "Secondly, it is necessary to have for object the end for which I am created, which is to praise God our Lord and save my soul; and withal to hold myself detached without any inordinate attachment, so that I am not more inclined or minded to take the thing proposed than to leave it, nor more to leave it than to take it; but that I hold myself as in the mean level of a balance to follow that course which I feel to be more to the glory and praise of God our Lord and the salvation of my own soul.",
+"pages": [
+149,
+156
+]
+},
+{
+"n": 180,
+"en": "Thirdly, to ask ask God our Lord to be pleased to move my will and put in my soul that which I ought to do regarding the thing proposed, that which may be more to His praise and glory,-arguing the matter out well and faithfully with my understanding, and choosing conformably to the will of His most holy good-pleasure.",
+"pages": [
+149,
+156
+]
+},
+{
+"n": 181,
+"en": "Fourthly, to consider by way of reasoning how many advantages or aids accrue to me, if I have the office or benefice proposed, in view solely of the praise of God our Lord and the salvation of my soul; and contrariwise to consider in like manner the disadvantages and dangers that there are in having it: doing the same on the other side, that is, looking at the advantages and aids that there are in not having it; and in like manner on the other hand looking at the disadvantages and dangers of not having the same.",
+"pages": [
+149,
+156
+]
+},
+{
+"n": 182,
+"en": "Fifthly, after having thus argued the matter out, and made my reckoning in every direction upon the thing proposed, to see to which side reason rather inclines; and so according to the stronger motion of reason, and not any motion of sense, a decision should be arrived at upon the thing proposed.",
+"pages": [
+149,
+156
+]
+},
+{
+"n": 183,
+"en": "Sixthly, when such Election or deliberate resolve has been made, the person who has made it ought to go with much diligence to prayer before the sight of God our Lord, and offer Him the said Election, that His Divine Majesty may be pleased to accept and confirm it, if it be His greater praise and glory.",
+"pages": [
+149,
+156
+]
+},
+{
+"n": 184,
+"en": "The second method of making a sound and good Election contains in itself four rules and one note. The first is that that love which moves me and makes me choose the said thing should come down from above, from the love of God, in such fashion as that he who chooses should feel first in himself that the love which he has, greater or less, for the thing which he chooses, is solely for the sake of His Creator and Lord.",
+"pages": [
+149,
+156
+]
+},
+{
+"n": 185,
+"en": "The second, to look at some man whom I have never seen nor known, and desiring his entire perfection, to consider what I should tell him to do and choose to the greater glory of God our Lord and the greater perfection of his own soul; and doing myself the same, to keep the rule that I lay down for another.",
+"pages": [
+149,
+156
+]
+},
+{
+"n": 186,
+"en": "The third, to consider as if I were on my death-bed the form and measure which I should then have wished to have kept in the conduct of the present Election; and, regulating myself by that, let me make up my mind on the whole issue.",
+"pages": [
+149,
+156
+]
+},
+{
+"n": 187,
+"en": "The fourth, looking and considering how I shall hold myself at the day of judgment, to think how then I should have wished to have resolved touching the present matter; and whatever rule I should then wish to have held, to adopt it now, that then I may find myself in entire satisfaction and joy.",
+"pages": [
+149,
+156
+]
+},
+{
+"n": 188,
+"en": "Taking the aforesaid rules for my salvation and eternal satisfaction, I will make my Election and oblation to God our Lord, conformably to the sixth point of the first mode of making Election.",
+"pages": [
+149,
+156
+]
+},
+{
+"n": 189,
+"en": "Forthe amendment and reformation of one's own life and estate. It is to be observed that regarding those who are settled in prelacy or in matrimony, whether they abound or do not abound much in temporal goods, in case they have no opening, or no very prompt will, for making the Election of things that fall under mutable election, it is very useful, instead of their making the Election, to give some form and method of amendment and reformation of their private life and estate individually. That is done by fixing on the truth that our creation, life and estate, are for the glory and praise of God our Lord and the salvation of our own souls. To come and attain to this end, we ought much to consider and ruminate, by means of the Exercises and methods of election, as has been declared, how large a house and establishment we ought to keep, how we should rule and govern it, how we should teach it by word and example; and likewise of our means, how much we ought to take for our household and house, and and how much to dispense to the poor and other pious purposes; not wishing nor seeking anything else but in all things and through all the greater glory and praise of God our Lord. For let each one reflect that his advancement in all spiritual things will be exactly in proportion to the degree in which he goes out from selflove, self-will, and selfinterest.",
+"pages": [
+160,
+164
+]
+},
+{
+"n": 190,
+"en": "THIRD WEEK The first contemplation at midnight is how Christ our Lord went from Bethany to Jerusalem, as far as the Last Supper inclusively, and contains in itself the preparatory prayer, three preludes, six points, and one colloquy. The usual preparatory prayer.",
+"pages": [
+169,
+174
+]
+},
+{
+"n": 191,
+"en": "The first prelude is to bring in the history, which is how Christ our Lord sent from Bethany two disciples to Jerusalem to prepare the supper; and then Himself went to it with His other disciples; and how after having eaten the paschal lamb, and after having supped, He washed their feet, and gave His most Holy Body and Precious Blood to His disciples, and made them a sermon, after which Judas went to sell His Lord.",
+"pages": [
+169,
+174
+]
+},
+{
+"n": 192,
+"en": "The second, a composition, seeing the place. It will be here to consider the road from Bethany to Jerusalem, whether it is wide, whether it is narrow, whether it is flat, and the rest. In like manner the place of the supper, whether large, whether small, whether in one style, or in another.",
+"pages": [
+169,
+174
+]
+},
+{
+"n": 193,
+"en": "The third, to ask for what I want, which will be grief, sensible affliction, and confusion, because for my sins our Saviour is going to His Passion.",
+"pages": [
+169,
+174
+]
+},
+{
+"n": 194,
+"en": "The first point is to see the persons of the Supper, and, reflecting on myself, to endeavour to gain some spiritual profit therefrom. The second, to hear what they say, and in like manner gain some profit therefrom. The third, to look at what they do, and gain some profit.",
+"pages": [
+169,
+174
+]
+},
+{
+"n": 195,
+"en": "The fourth, to consider what Christ our Lord suffers in His Humanity, or wills to suffer, according to the passage that is being contemplated; and thereupon to set to work with much energy and force myself to grieve, be sad and lament, labouring in like manner over the other points that follow.",
+"pages": [
+169,
+174
+]
+},
+{
+"n": 196,
+"en": "The fifth, to consider how the Divinity hides Itself, that is to say, how It could destroy Its enemies and does not do so; and how It leaves the most Sacred Humanity to suffer so cruelly.",
+"pages": [
+169,
+174
+]
+},
+{
+"n": 197,
+"en": "The sixth, to consider how all this is suffered for my sins, and what I ought to do and suffer for Him.",
+"pages": [
+169,
+174
+]
+},
+{
+"n": 198,
+"en": "To conclude with a colloquy to Christ our Lord, and at the end with an Our Father.",
+"pages": [
+169,
+174
+]
+},
+{
+"n": 199,
+"en": "It is to be observed, as has before been in part declared, that in the colloquies we ought to reason and petition according to the subject matter, that is to say, according as I find myself tempted or consoled, and according as I desire to have one virtue or another; ac- cording as I seek to dispose myself in one direction or another; according as I seek to grieve or to rejoice over the thing that contemplate; finally asking that which I most earnestly desire regarding certain particular things. And in this way I may make one colloquy only with Christ our Lord; or, if the matter or devotion moves me, I may make three colloquies, one with the Mother, one with the Son, one with the Father, of the same form that has been stated in the Second Week in the meditation on the Two Standards, with the note that follows on the Couples.",
+"pages": [
+169,
+174
+]
+},
+{
+"n": 200,
+"en": "After the supper, Judas went out to sell our Lord, The Second Contemplation in the morning shall be from the Supper to the Garden inclusively. The usual preparatory prayer.",
+"pages": [
+169,
+174
+]
+},
+{
+"n": 201,
+"en": "The first prelude is the history, which will be how Christ our Lord went down with His eleven disciples from the mountain of Sion, where he held the supper, by the valley of Josaphat, leaving the eight in one part of the valley, and the other three in one part of the garden; and, putting Himself in prayer, He sweat a sweat like drops of blood; and after three times making prayer to His Father, and rousing His three disciples from sleep, and after on hearing His voice the enemies fell down, and Judas gave Him the kiss of peace, and St. Peter cut off the ear of Malchus, and Christ put it back in its place; being arrested like a malefactor, they carry Him down the valley, and afterwards up the hill to the house of Annas.",
+"pages": [
+169,
+174
+]
+},
+{
+"n": 202,
+"en": "The second is to see the place: which will be to consider the way from Mount Sion to the valley of Josaphat, and likewise the garden, whether wide, whether large, whether of one style, whether of another.",
+"pages": [
+169,
+174
+]
+},
+{
+"n": 203,
+"en": "The third is to ask for what I want. That which is proper to ask in the Passion is grief with Christ grieving, heartbreaking with Christ heartbroken, tears, inward pain for that SO great pain which Christ suffered for me.",
+"pages": [
+169,
+174
+]
+},
+{
+"n": 204,
+"en": "In this Second Contemplation, after the preparatory prayer has been made, with the three preludes aforesaid, the same form of procedure is to be kept for the points and colloquy as is found in the First Contemplation on the Supper. And at the hour of Mass and Vespers two repetitions will be made on the First and Second Contemplation; and then, before supper, the senses will be applied to the aforesaid Contemplations, always prefixing the preparatory prayer and the three preludes according to the subject matter, of the same form as has been said and declared in the Second Week.",
+"pages": [
+169,
+174
+]
+},
+{
+"n": 205,
+"en": "According as age, disposition, and temperament aid the person who is making the Exercises, he shall make every day the five Exercises or less.",
+"pages": [
+169,
+174
+]
+},
+{
+"n": 206,
+"en": "In this Third Week are to be changed in part the Second and the Sixth Addition. The second shall be, as soon as I awake, putting before me whither I go and to what, resuming in short the contemplation that I want to make, according as the mystery shall be, I will do violence to myself, striving as I rise and dress to be sad and grieve at so inuch pain and suffering of Christ our Saviour. The sixth shall be changed in the way of not aiming at bringing on joyful thoughts, however good and holy, as are those of Resurrection and Glory, rather on the contrary inciting myself to grief, pain, and heart-rending, bringing into memory frequently the labours, fatigues, and pains of Christ our Lord, which He suffered from the moment of His birth to the mystery of the Passion at which I am now present.",
+"pages": [
+169,
+174
+]
+},
+{
+"n": 207,
+"en": "The particular examen on the Exercises and present Additions shall be made as it has been made in the past Week.",
+"pages": [
+169,
+174
+]
+},
+{
+"n": 208,
+"en": "On the Second Day, at midnight, the contemplation will be from the Garden to the house of Annas inclusive; and in the morning from the house of Annas to the house of Caiphas inclusive; and then the two repetitions, and the application of the senses, according as has been already said. Of the mysteries enacted from the Garden to the House of Annas inclusive.",
+"pages": [
+177,
+178
+]
+},
+{
+"n": 209,
+"en": "On the Seventh Day, contemplation of all the Passion together in the Exercise of midnight and of the morning; and, instead of the two repetitions and the senses, to consider all that day, as frequently as one can, how the most Sacred Body of Christ our Lord remained parted and separated from the Soul, and where and how It was buried; considering at the same time the solitude of our Lady with so much pain and weariness; then on the other hand that of the disciples. It is to be noted that he who wishes to dwell longer on the Passion should take in each contemplation fewer mysteries, that is to say, in the first con- templation only the Supper; in the second, the Washing of the Feet; in the third, the giving them the Sacrament; in the fourth, the sermon which Christ made to them; and so for the other contemplations and mysteries. In like manner, after finishing the Passion, let him take for one entire day the half of the whole Passion, and on the second day the other half, and on the third the whole Passion. On the contrary, whoever wishes rather to shorten his exercises on the Passion, let him take at midnight the Supper, and in the morning the Garden, and at the hour of Mass the House of Annas, at the hour of Vespers the House of Caiphas, for the hour before supper the House of Pilate; in such sort that by not making repetitions, nor applying the senses, he shall have every day five distinct Exercises, and in each Exercise a distinct mystery of Christ our Lord. And after thus finishing the whole Passion, he may take for another day the whole Passion together in one Exercise, or in several, as shall seem to him more calculated to enable him to make profit.",
+"pages": [
+184,
+185
+]
+},
+{
+"n": 210,
+"en": "Rules for the right conduct of oneself in eating for the future. The first rule is that it is less advisable to abstain from bread, because it is not a food over which the appetite is wont to be so inordinate, or over which temptation is so urgent as over other foods.",
+"pages": [
+189,
+189
+]
+},
+{
+"n": 211,
+"en": "The second, as regards drink, abstinence seems more appropriate than as regards the eating of bread. Therefore it ought much to be considered what does good, to take it, and what does harm, to refuse it.",
+"pages": [
+189,
+189
+]
+},
+{
+"n": 212,
+"en": "The third, about foods [eaten with bread to give it a relish],¹ the greatest and most entire abstinence ought to be observed, because in this matter the appetite is more apt to be inordinate, and temptation more apt to be provocative. And so abstinence in the matter of foods, to avoid disorder, may be observed in two ways: the one in habituating oneself to eat coarse foods; the other, if you do eat delicate foods, to eat them in small quantity.",
+"pages": [
+189,
+189
+]
+},
+{
+"n": 213,
+"en": "The fourth, while taking care not to fall into weak health, the more a man abstains from the quantity adapted to him, the sooner will he arrive at the mean that he ought to observe in eating and drinking, -for two reasons: the first, because thus helping and dis- … posing himself he will many times feel more the inward monitions, consolations, and divine inspirations needed to show him the mean that is adapted to him; the second, if the person sees himself in such abstinence not to have adequate bodily strength nor disposition for his spiritual exercises, he will readily come to judge of that which better is adapted for his bodily sustenance.",
+"pages": [
+189,
+191
+]
+},
+{
+"n": 214,
+"en": "The fifth, while the person eats, let him consider as though he saw Christ our Saviour eating with His Apostles, and how He drinks, and how He looks, and how He speaks, and endeavour to imitate Him, so that the principal part of the understanding be occupied in the consideration of our Saviour, and the less over the sustenance of the body, that thus he may adopt a better method and order with regard to how he ought to behave and govern himself.",
+"pages": [
+190,
+191
+]
+},
+{
+"n": 215,
+"en": "The sixth, at other times while eating he may take another consideration, either of the life of the Saints, or of some other pious contemplation, or of some spiritual business that he has to do, in order that, being intent on such matter, he may take less sensible pleasure in bodily food.",
+"pages": [
+190,
+191
+]
+},
+{
+"n": 216,
+"en": "The seventh, above all let him take care that his whole mind be not intent on what he eats, and that in eating he be not hurried by appetite, but that he be master of himself both in the manner of eating and in the quantity that he eats.",
+"pages": [
+190,
+191
+]
+},
+{
+"n": 217,
+"en": "The eighth, to escape disorder it is very profitable, after dinner, or after supper, or at another hour in which one feels no appetite for eating, to determine within oneself for the dinner or supper next to come, and so consecutively every day, the quantity proper for one to eat, beyond which for no appetite nor temptation is one to go; but on the contrary, the better to overcome all inordinate appetite and temptation of the enemy, if he is tempted to eat more, let him eat less.",
+"pages": [
+190,
+191
+]
+},
+{
+"n": 218,
+"en": "FOURTH WEEK The First Contemplation how Christ our Lord appeared to our Lady, The usual preparatory prayer.",
+"pages": [
+192,
+195
+]
+},
+{
+"n": 219,
+"en": "The first prelude is the history, which is here, how after Christ expired on the cross, and the Body remained separated from the Soul, and with it ever united the Godhead, the Blessed Soul descended to hell, likewise united with the Godhead; whence delivering the just souls, and coming to the sepulchre, and risen again, He appeared to His Blessed Mother in body and in soul.",
+"pages": [
+192,
+195
+]
+},
+{
+"n": 220,
+"en": "The second, a composition, seeing the place, which will be here to see the arrangement of the Holy Sepulchre, and the place or house of our Lady, looking at the parts thereof in particular, likewise the room, oratory, and the rest.",
+"pages": [
+192,
+195
+]
+},
+{
+"n": 221,
+"en": "The third, to ask for what I want, which will be here to ask for grace to be glad and rejoice intensely for this very great glory, and joy of Christ our Lord.",
+"pages": [
+192,
+195
+]
+},
+{
+"n": 222,
+"en": "The first, second, and third points are the same usual ones that we had in the Supper of Christ our Lord.",
+"pages": [
+192,
+195
+]
+},
+{
+"n": 223,
+"en": "The fourth, to consider how the Godhead, which seemed to hide itself in the Passion, appears and shows itself now so miraculously in the most holy Resurrection by its true and most holy effects.",
+"pages": [
+192,
+195
+]
+},
+{
+"n": 224,
+"en": "The fifth, to consider the office of consoler which Christ our Lord exercises, comparing how friends are wont one to console another.",
+"pages": [
+192,
+195
+]
+},
+{
+"n": 225,
+"en": "(Matt. xv. 16). To end with one or more colloquies according to the subject matter, and an Our Father.",
+"pages": [
+192,
+195
+]
+},
+{
+"n": 226,
+"en": "In the following contemplations the procedure is to be to go through all the mysteries of the Resurrection in the manner following below as far as the Ascension inclusive, applying and keeping for the rest the same form and manner in all the Week of the Resurrection that was kept in all the Week of the Passion; in such sort that for this first contemplation of the Resurrection the Exercitant should guide himself as regards the preludes according to the subject matter; and as regards the five points, let them be the same; and let the Additions that are below be the same; and thus in all the rest he can guide himself according to the manner of the Week of the Passion, as in repetitions, five senses, in shortening or lengthening the mysteries.",
+"pages": [
+192,
+195
+]
+},
+{
+"n": 227,
+"en": "The second observation: commonly in this Fourth Week it is more suitable than in the three previous to make four Exercises, and not five: the first as soon as you rise in the morning; the second at the hour of Mass, or before dinner, instead of the first repetition; the third at the hour of Vespers instead of the second repetition; the fourth before supper, applying the five senses to the three Exercises of the same day, noting and making pause on the principal parts and where you have felt stronger motions and spiritual satisfactions.",
+"pages": [
+192,
+195
+]
+},
+{
+"n": 228,
+"en": "The third, though in all the contemplations so many points are stated definitely, as for instance three, or five, etc., the person contemplating can put more or fewer points according as he shall find better: for which purpose it is very advantageous, before entering on the contemplation, to forecast and specify the particular number of points to be taken.",
+"pages": [
+192,
+195
+]
+},
+{
+"n": 229,
+"en": "In this fourth week, in all the Ten Additions there are to be changed the second, the sixth, the seventh, and the tenth. The second shall be, immediately on rising, to put before my eyes the contemplation that I have to make, wishing to feel emotion and great gladness over such very great joy and gladness of Christ our Lord. The sixth, to bring to memory and think over things moving to pleasure, cheerfulness, and spiritual joy, as for example the glory of heaven. The seventh, to use light or benefits of the seasons, as for example, in spring and summer, refreshing air, or in time of winter, sunlight or heat of fire, in so far as the soul thinks or conjectures that it may aid her to rejoice in her Creator and Redeemer. The tenth, instead of penance, let the soul look to temperance and all moderation, except in precepts of fasts and abstinences that the Church enjoins, because these have always to be observed unless there be some just impediment.",
+"pages": [
+192,
+195
+]
+},
+{
+"n": 230,
+"en": "A Contemplation to obtain Love. First, it is desirable to rote two things. The first is that love ought to be placed rather in works than in words.",
+"pages": [
+208,
+210
+]
+},
+{
+"n": 231,
+"en": "The second, love consists in mutual interchange on either side: that is to say, in the lover giving to and sharing with the loved one that which he has or can attain; and so, conversely, the loved one doing the like for the lover; so that if one has science, he gives to the other who has it not,-if honours, if riches;",
+"pages": [
+208,
+210
+]
+},
+{
+"n": 232,
+"en": "and so one to another. The usual prayer. First prelude is a composition, which is here to see how I stand before God our Lord, the angels, the saints interceding for me.",
+"pages": [
+208,
+210
+]
+},
+{
+"n": 233,
+"en": "The second, to ask for that which I want: it will be here to ask for an inward knowledge of so much good received, in order that I, being fully grateful for the same, may in all things love and serve His Divine Majesty.",
+"pages": [
+208,
+210
+]
+},
+{
+"n": 234,
+"en": "The first point is to bring into memory the benefits received of creation, redemption, and particular gifts, pondering with much affection how much God our Lord has done for me, and how much He has given me of what He has, and further the same Lord desires to give Himself to me so far as He can according to His divine ordinance; and therewithal to reflect within myself, considering with much reason and justice what I ought on my part to offer and give to His Divine Majesty, to wit, all my possessions and myself with them, as one who offers with much affection:-Take, O Lord, and receive all my liberty, my, memory, my understanding, and all my will, all I have and possess: you have given it me; to you, Lord, I return it; all is yours, dispose of it entirely according to your will. Give me your love and grace, because that is enough for me.",
+"pages": [
+208,
+210
+]
+},
+{
+"n": 235,
+"en": "The second, to look how God dwells in creatures, in the elements giving being, in the plants giving vegetation, in the animals giving sensation, in men giving understanding; and so in me giving me being, life, sensation, and making me understand; likewise making of me a temple, as I am created to the likeness and image of His Divine Majesty: in the same way reflecting on myself in the manner mentioned in the first point, or in some other way which I may deem better. In the same manner it shall be done over each point that follows.",
+"pages": [
+208,
+210
+]
+},
+{
+"n": 236,
+"en": "The third, to consider how God works and labours for me, in all things created on the face of the earth, that is, He holds Himself as one who labours,as in the heavens, elements, plants, fruits, flocks, etc., giving being, conservation, vegetable and sensitive life, etc. then to reflect on myself.",
+"pages": [
+208,
+210
+]
+},
+{
+"n": 237,
+"en": "The fourth, to look how all good things and gifts descend from above, as my limited powers from that power sovereign and infinite above, and so justice, goodness, pity, mercy, etc., as from the sun come down the rays, from the spring the waters, etc. Then to conclude, reflecting on myself, as has been said. To end with a colloquy, and an Our Father.",
+"pages": [
+208,
+210
+]
+},
+{
+"n": 238,
+"en": "Three Methods of Prayer, and the First on Commandments. The First Method of Prayer is about the ten commandments, and the seven deadly sins, the three powers of the soul, and the five senses of the body: the which method of prayer is to give form, manner, and exercises, how the soul should prepare herself and advance in them, and that the prayer may be acceptable, rather than to give any form and manner of praying.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 239,
+"en": "First let there be done something equivalent to the second Addition of the Second Week, namely, that before entering on prayer the spirit should rest a little by sitting or walking, as shall seem best, considering whither I go and to what. And this same Addition shall be made at the beginning of all methods of prayer.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 240,
+"en": "A preparatory prayer, as in this manner, to ask grace of God our Lord that I may know wherein I have failed regarding the ten commandments; and likewise to ask grace and aid to amend myself in future, begging for a perfect understanding of them, the better to keep them, to the greater glory and praise of His Divine Majesty.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 241,
+"en": "For the First Method of Prayer it is proper to consider and think on the first commandment how I have kept it, and wherein I have failed, remaining on it as a rule for the space in which one recites three times the Our Father and three times the Hail Mary: and if in this time I find faults of mine, to ask pardon and forgiveness of them and say one Our Father. And in this same way be it done on each one of all the ten commandments.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 242,
+"en": "It is to be observed that when a man comes to thinking of a commandment on which he finds that he has no habit of sinning, it is not necessary to stay on it so long; but according as the man finds that he offends more or less against a given commandment, SO he ought for more or less time to stay over the consideration and scrutiny of the same. And let the same be observed on the deadly sins.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 243,
+"en": "After finishing the aforesaid reflection on all the commandments, accusing myself on them, and asking grace and help to amend myself in future, an end should be made by a colloquy with God our Lord according to the subject matter.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 244,
+"en": "Secondly on the deadly sins. About the seven deadly sins, after the Addition let there be made the preparatory prayer in the manner already said, the only change being that the matter here is of sins, which are to be avoided, whereas it was be- fore of commandments, which are to be kept; and in like. manner let there be observed the order and rule already mentioned, and the colloquy.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 245,
+"en": "The better to know the faults committed on the seven deadly sins, let their contraries be considered, and so, the better to avoid them, let the person propose and take care with holy exercises to acquire and keep the seven virtues contrary to them.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 246,
+"en": "Thirdly, on the powers of the soul. On the three powers of the soul let there be kept the same order and rule as on the commandments, making the Addition, preparatory prayer, and colloquy.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 247,
+"en": "Fourthly on the five bodily senses. About the five bodily senses the same order shall always be observed, changing the matter thereof.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 248,
+"en": "Whoever wishes in the use of his senses to imitate Christ our Lord, let him commend himself in the preparatory prayer to His Divine Majesty; and after the consideration of each sense let him say one Hail Mary, or one Our Father. And whoever wishes in the use of his senses to imitate our Lady, let him commend himself to her in the preparatory prayer, that she may obtain him grace of her Son and Lord to this purpose; and after the consideration of each sense let him say one Hail Mary.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 249,
+"en": "The Second Method of Prayer is by studying the meaning of each word of the prayer.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 250,
+"en": "The same Addition that was in the First Method of Prayer shall be in this Second.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 251,
+"en": "The preparatory prayer shall be made conformably to the Person to whom the prayer is directed.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 252,
+"en": "The Second Method of Prayer is that the person, kneeling or sitting, as he may find himself more disposed and as greater devotion accompanies him,-keeping his eyes shut, or fixed on one place, without moving them hither and thither,—says Father, and rests on the consideration of this word for so long a time as he finds meanings, comparisons, relish and consolation in considerations belonging to such a word.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 253,
+"en": "And in like manner let him do with every word of the Our Father, or of other prayer whatsoever that he shall wish to pray in this way. The first rule is that he shall dwell in the manner already stated one hour on the whole Lord's Prayer; which being finished, he shall say one Hail Mary, Creed, Anima Christi, and Salve Regina, vocally or mentally, in the customary, manner.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 254,
+"en": "The second rule is that if the person who is studying the Our Father finds in one word or two very good matter of thought and relish and consolation, let him not trouble to go further on, even though the hour expires in what he finds: when it is over, he shall say the rest of the Our Father in the customary manner.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 255,
+"en": "The third is that if he has dwelt for one whole hour on one word or two of the Lord's Prayer, another day, when he shall wish to return to the Prayer, let him say the abovementioned word or two in the usual way, and on the word that next follows let him begin to contemplate in the manner that has been stated in the second rule.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 256,
+"en": "It is to be observed that when the Our Father has been finished in one or more days, the same has to be done with the Hail Mary, and afterwards with the other prayers, so that for some time he should always be exercising himself on one of them.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 257,
+"en": "The second observation is that, when when the prayer is finished, he should turn to the Person to whom he has prayed, and in a few words ask for the virtues or graces of which he feels himself to have greater need.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 258,
+"en": "A Third Method of Prayer will be by rhythmical beats. The Addition will be the same that was in the First and Second Method of Prayer. The preparatory prayer will be as in the Second Method of Prayer. The Third Method of Prayer is that with each breath or respiration one is to pray mentally, saying one word of the Our Father, or of any other prayer that is being recited, so that one word only is said between one breath and another; and, in the length of time between one breath and another, one is to look chiefly to the meaning of such word, or to the person to whom one recites it, or to one's own lowly estate, or to the difference between such high estate and such lowliness of my own. And by the same form and rule you shall proceed in the other words of the Our Father; and the other prayers, namely, Hail Mary, Anima Christi, Credo, and Salve Regina, you shall say in the usual way.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 259,
+"en": "The first rule is that another day, or another hour, when you want to pray, you shall say the Hail Mary by rhythmical beats, and the other prayers in the usual way, and so thereupon proceeding through the others.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 260,
+"en": "The second is that whoever wishes to stay longer at praying by rhythmical beats, can say all the aforementioned prayers, or part of them, observing the same order of rhythmical breathing as has been declared.",
+"pages": [
+213,
+218
+]
+},
+{
+"n": 261,
+"en": "The Mysteries of the Life of Christ our Lord. It is to be observed that in all the following Mysteries all the words that are included in parenthesis are from the text of the Gospel, not so those which are without; and in every Mystery for the most part readers will find three points to meditate and contemplate thereupon with greater facility.",
+"pages": [
+93,
+100
+]
+},
+{
+"n": 262,
+"en": "Of the Annunciation of our Lady. The first point is that the angel St. Gabriel, saluting our Lady, signifies to her the Conception of Christ our Lord (Luke i. 28—31). The second, the angel confirms what he had said to our Lady, signifying the conception of St. John Baptist, saying to her (ver. 36).. The third, our Lady replies to the angel (ver. 38).",
+"pages": [
+93,
+100
+]
+},
+{
+"n": 263,
+"en": "Of the Visitation of our Lady to Elisabeth. First, when our Lady visited Elisabeth, St. John Baptist, being in his mother's womb, felt the visit that our Lady paid (Luke i. 41, 42).. Secondly, our Lady sings the canticle, saying (vv. 46-55).",
+"pages": [
+93,
+100
+]
+},
+{
+"n": 264,
+"en": "Thirdly (ver. 56). Of the Nativity of Christ our Lord. First, our Lady and her Spouse Joseph go from Nazareth to Bethlehem, to own subjection to Cæsar (Luke ii. 4, 5).",
+"pages": [
+93,
+100
+]
+},
+{
+"n": 265,
+"en": "Secondly (ver. 7). Thirdly (vv. 13, 14). Of the Shepherds. First, the Nativity of Christ our Lord is manifested to the shepherds by an angel (Luke ii. 10, 11). Secondly, the Shepherds go to Bethlehem (ver. 16).",
+"pages": [
+93,
+100
+]
+},
+{
+"n": 266,
+"en": "Thirdly (ver. 20). Of the Circumcision. First, they circumcised the Child Jesus. Secondly (Luke ii. 21 ). Thirdly, they give back the Child to His Mother, who was compassionate for the blood which came forth from her Son.",
+"pages": [
+93,
+100
+]
+},
+{
+"n": 267,
+"en": "Of the Three Wise Men, Kings. First, the three Wise Men, Kings, following the star for guide, came to adore Jesus, saying (Matt. ii. 2). Secondly, they adored Him and offered Hini gifts (ver. 11). Thirdly, (ver. 12),",
+"pages": [
+93,
+100
+]
+},
+{
+"n": 268,
+"en": "Of the Purification of our Lady, and the Presentation ofthe Child Jesus. First, they carry the Child Jesus to the Temple to be presented to the Lord, as the firstborn, and they offer for Him (Luke ii. 24). Secondly, Simeon coming to the Temple (vv. 27, 28), saying (vv. 29-32). Thirdly, Anna (ver. 38).",
+"pages": [
+103,
+105
+]
+},
+{
+"n": 269,
+"en": "Of the Flight into Egypt. First, Herod wanted to kill the Child Jesus, and so he slew the Innocents; and before their slaughter the angel admonished Joseph to fly into Egypt (Matt. ii..13). Secondly, he set out for Egypt (ver. 14).",
+"pages": [
+103,
+105
+]
+},
+{
+"n": 270,
+"en": "How Christ our Lord returned from Egypt. First, the angel admonishes Joseph to return to Israel (Matt. ii. 20). Secondly (ver. 21 ). Thirdly, because Archelaus, son of Herod, was reigning in Judæa, he took refuge in Nazareth.",
+"pages": [
+103,
+105
+]
+},
+{
+"n": 271,
+"en": "Of the life of Christ our Lord from the twelfth to the thirtieth year of His age. First, He was obedient to His parents (Luke ii. 51, 52). Secondly, He seems to have exercised the art of a carpenter, as St. Mark seems to indicate (Mark vi. 3).",
+"pages": [
+103,
+105
+]
+},
+{
+"n": 272,
+"en": "Of the coming of Christ to the Temple, when He was twelve years old. First, Christ our Lord, when He was twelve years old, went up from Nazareth to Jerusalem. Secondly, Christ our Lord stayed behind in Jerusalem, and His parents knew it not. Thirdly, after the lapse of three days, they found Him in the Temple disputing and sitting in the midst of the Doctors; and when His parents asked Him where He had been, He replied (Luke ii. 49).",
+"pages": [
+103,
+105
+]
+},
+{
+"n": 273,
+"en": "The Fifth Day. A contemplation of the setting out of Christ our Lord from Nazareth to the river Jordan, and how He was baptized. How Christ was baptized. First, Christ our Lord, having said good-bye to His Mother, came from Nazareth to the river Jordan, where was St. John the Baptist. Secondly, St. John baptized Christ our Lord; and when he wanted to excuse himself, counting himself unworthy to baptize Him, Christ says to him (Matt. iii. 15). Thirdly, the Holy Ghost came down upon Him, and the voice of the Father from heaven, attesting (ver. 17).",
+"pages": [
+121,
+130
+]
+},
+{
+"n": 274,
+"en": "How Christ was tempted. First, after He had been baptized, He retired into the desert, where He fasted forty days and forty nights. Secondly, He was tempted by the enemy three times (Matt. iv. 3-10).",
+"pages": [
+121,
+130
+]
+},
+{
+"n": 275,
+"en": "Of the call of the Apostles. First, St. Peter and St. Andrew seem to have been called three times: the first time to some acquaintance; that is shown from St. John (i. 35- 42): the second time to some sort of following of Christ, with a purpose of returning to the possessions which they had left, as says St. Luke (v. 10; II): the third time to follow Christ our Lord in perpetuity (Matt. iv. 18-22: Mark i. 16 -20). Secondly, He called Philip, as we have in the first chapter of St. John (i. 43) and Matthew, as Matthew himself says (ix. 9-13). Thirdly, He called the rest of the Apostles, of whose particular vocation the Gospel does not make mention. And there are also other three things to consider. The first, how the Apostles were of rude and abject condition. The second, the dignity to which they were so sweetly called. The third, the gifts and graces whereby they were raised above all the Fathers of the Old and New Testament.",
+"pages": [
+121,
+130
+]
+},
+{
+"n": 276,
+"en": "Ofthe first miracle, done at the marriage at Cana in Galilee. First, Christ our Lord was invited with His disciples to the marriage. Secondly, the Mother points out to the Son the lack of wine, saying (John ii. 3). And she gave command to the attendants (ver. 5). Thirdly, He converted the water into wine (ver. 11 ).",
+"pages": [
+121,
+130
+]
+},
+{
+"n": 277,
+"en": "How Christ our Lord cast the Sellers out of the Temple. First, He cast all them that were selling out of the Temple with a scourge made of cords. Secondly, He overturned the tables and moneys of the wealthy money-changers, who were in the Temple. Thirdly, to the poor who were selling doves, He said mildly (John ii. 16).",
+"pages": [
+121,
+130
+]
+},
+{
+"n": 278,
+"en": "Of the Sermon on the Mount, which is on the Eight Beatitudes. Of the Sermon which Christ gave on the Mount. First, He speaks separately to His beloved disciples about the eight Beatitudes (Matt. v. 3-9).. Secondly, He exhorts them to use their talents well (ver. 16). Thirdly, He shows Himself not a transgressor of the law, but a fulfiller, explaining the precept of not killing, not committing adultery, nor perjury, and of loving enemies (ver. 44).",
+"pages": [
+121,
+130
+]
+},
+{
+"n": 279,
+"en": "How Christ appeased the storm at sea. First, while Christ our Lord was sleeping on sea, there arose a great storm. Secondly, His disciples in alarm roused Him, whom He reproved in respect of the little faith that they had, saying to them (Matt. viii. 26). Thirdly, He commanded the winds and the sea to cease; and they so ceasing, the sea became calm, at which men wondered, saying (ver. 27)..",
+"pages": [
+121,
+130
+]
+},
+{
+"n": 280,
+"en": "The Ninth. How Christ our Lord appeared to His disciples onthe waves ofthe sea. How Christ walked on the sea. First, when Christ our Lord was on the mountain, He ordered the disciples to go into the boat (Matt. xiv. 23). Secondly, the boat was tossed about with waves, to which Christ came walking upon the water; and the disciples thought it was an apparition. Thirdly, when Christ said to them, It is I, fear not, St. Peter by His command came to Him, walking upon the water, who doubting began to sink; but Christ our Lord delivered him, and reproved him for his little faith; and afterwards, as He came on board the boat, the wind ceased.",
+"pages": [
+121,
+130
+]
+},
+{
+"n": 281,
+"en": "Howthe Apostles were sent to preach. First, Christ calls His beloved disciples, and gives them power of casting out devils from the bodies of men, and curing all diseases. Secondly, He instructs them in prudence and patience (Matt. x. 16). Thirdly, He delivers to them the manner of their going (vv. 8,9). And He gives them matter of preaching (ver. 7)..",
+"pages": [
+121,
+130
+]
+},
+{
+"n": 282,
+"en": "Ofthe Conversion of Magdalen. First, Magdalen enters in where Christ our Lord is reclining at table in the house of the Pharisee, and she was carrying an alabaster vessel full of ointment. Secondly, being behind the Lord, near His feet, she began to moisten them with tears, and with the hairs of her head she was wiping them, and was kissing His feet, and anointing them with ointment. Thirdly, when the Pharisee had accused Magdalen, Christ speaks in her defence, saying (Luke vii. 47, 50).",
+"pages": [
+121,
+130
+]
+},
+{
+"n": 283,
+"en": "How Christ our Lord gave five thousand men to eat. First, the disciples, when it was getting late, ask Christ to dismiss the multitude of men that were with Him. Secondly, Christ our Lord bade them bring Him the loaves; and bade them sit down to table; and blessed and broke and gave to His disciples the loaves, and the disciples to the multitude.",
+"pages": [
+121,
+130
+]
+},
+{
+"n": 284,
+"en": "Thirdly (Matt. xiv. 20). Of the Transfiguration of Christ. First, Christ our Lord, taking for companions His beloved disciples, Peter, James, and John, was transfigured, and His face shone as the sun, and His garments like snow. Secondly, He was speaking with Moses and Elias. Thirdly, as St. Peter said that they should make three tabernacles, a voice sounded from heaven, saying (Matt. xvii. 5). When the disciples had heard this voice, they fell on their faces for fear; and Christ our Lord touched them, and said to them (vv. 7, 9).",
+"pages": [
+121,
+130
+]
+},
+{
+"n": 285,
+"en": "The Eleventh. Ofthe Resurrection of Lazarus. First, Martha and Mary inform Christ our Lord of the sickness of Lazarus: when He heard of it, He waited for two days, that the miracle might be more evident. Secondly, before raising him, He asks first of one sister, then of the other, that they should believe, saying (John xi. 25). Thirdly, He raises him after He had wept and made prayer; and the manner of raising him was by a command (ver. 43).",
+"pages": [
+121,
+130
+]
+},
+{
+"n": 286,
+"en": "Of the Supper in Bethany. First, the Lord sups in the house of Simon the Leper, along with Lazarus. Secondly, Mary pours ointment on the head of Christ. Thirdly, Judas murmurs, saying (Matt. xxvi. 8). But He excuses Magdalen again, saying (ver. 10).",
+"pages": [
+121,
+130
+]
+},
+{
+"n": 287,
+"en": "The Twelfth. Ofthe Day of Palms. Palm Sunday. First, our Lord sends to bring the she-ass and the colt, saying (Matt. xxi. 2, 3). Secondly, He mounts the she-ass, covered with the clothes of the Apostles. Thirdly, they go out to meet Him, strewing their garments in the way and branches of trees, and saying (ver. 9).",
+"pages": [
+121,
+130
+]
+},
+{
+"n": 288,
+"en": "The Tenth. Howthe Lord preached in the Temple. Ofthe preaching in the Temple. First, He was daily teaching in the Temple (Luke xix. 47). Secondly, when the preaching was over, because there was none to harbour Him at Jerusalem, He used to return to Bethany (Matt. xxi. 17).",
+"pages": [
+121,
+130
+]
+},
+{
+"n": 289,
+"en": "Of the Supper. First, He ate the paschal lamb with His twelve Apostles, to whom He foretold His death (Matt. xxvi. 21 ). Secondly, He washed the feet of the disciples, even those of Judas, starting with St. Peter, who, considering the Majesty of the Lord and his own lowliness, not wishing to consent, said (John xiii. 6). But St. Peter did not know that therein He was giving an example of humility; and therefore He said (John xiii. 15). Thirdly, He instituted the most Holy Sacrifice of the Eucharist as the grandest token of His love, saying (Matt. xxvi. 26).",
+"pages": [
+169,
+174
+]
+},
+{
+"n": 290,
+"en": "Of the mysteries enacted from the Supper to the Garden inclusively. First, the Lord, having finished the supper and sung the hymn, went to Mount Olivet with His disciples, who were full of fear; and leaving the eight at Gethsemane, saying (Matt. xxvi. 36). Secondly, accompanied by St. Peter, St. James, and St. John, the Lord prayed three times, saying (Matt. xxvi. 39: Luke xxii. 42). And being in agony, He prayed the longer..",
+"pages": [
+169,
+174
+]
+},
+{
+"n": 291,
+"en": "First, the Lord allows Himself to be kissed by Judas, and to be taken as a thief by those to whom He said (Matt. xxvi. 55). And as He said Quem quaeritis? His enemies fell to the ground. Secondly, St. Peter wounded a servant of the high-priest, to whom the mild Lord said (Matt. xxvi. 52); and He healed the wound of the servant. Thirdly, abandoned by His disciples, He is taken to An- nas, where St. Peter, who had followed Him from afar, denied Him once; and Christ was given a buffet, one saying to Him, Sic respondes Pontifici?",
+"pages": [
+177,
+178
+]
+},
+{
+"n": 292,
+"en": "Of the mysteries enacted from the House of Annas to the House of Caiphas inclusive. First, they drag Him bound from the house of Annas to the house of Caiphas, where St. Peter twice denied Him; and being looked upon by the Lord (Matt. xxvi. 75). Secondly, Jesus remained all that night bound. Thirdly, moreover those who held Him prisoner went on mocking Him, and they struck Him, and covered His face, and they went on giving buffets, and questioning Him (Matt. xxvi. 68). And the like blasphemies they uttered against Him.",
+"pages": [
+177,
+178
+]
+},
+{
+"n": 293,
+"en": "On the Third Day, at midnight, from the house of Caiphas to Pilate inclusive; and in the morning from Pilate to Herod inclusive; and then the repetitions and senses, in the same form as has been already said. Of the mysteries enacted from the House ofCaiphas to that of Pilate inclusive. First, the whole multitude of the Jews carry Him off to Pilate, and accuse Him before him, saying (Luke xxiii. 2). Secondly, after Pilate had examined Him once and a second time, Pilate said (Luke xxiii. 4, 14: John xviii. 38, xix. 4). Third, Barabbas the robber was preferred before Him (John xviii. 40).",
+"pages": [
+179,
+180
+]
+},
+{
+"n": 294,
+"en": "Of the mysteries enacted from the House of Pilate to that of Herod. First, Pilate sent Jesus, a Galilean, to Herod, Tetrarch of Galilee. Second, Herod, curious, questioned Him at large, and He answered him him nothing, though the Scribes and Pharisees went on accusing Him constantly. Third, Herod with his army made nought of Him, clothing Him in a white garment (Luke xxiii. 8—10).",
+"pages": [
+179,
+180
+]
+},
+{
+"n": 295,
+"en": "On the Fourth Day, at midnight, from Herod to Pilate, making and contemplating as far as the middle of the mysteries of that same house of Pilate; and then in the exercises of the morning the other mysteries which remained of the same house; and the repetitions, and the senses, as has been said. Of the mysteries enacted from the House of Herod to that of Pilate. First, Herod sends Him back to Pilate, on which account they were made friends, who previously were enemies (Luke xxiii. 12). Second, Pilate took Jesus and scourged Him (John xix. 1); and the soldiers made a crown of thorns and put it on His head, and they clothed Him in purple, and kept coming to Him and saying (God save Thee, King of the Jews); and they were giving Him buffets (John xix. 2, 3). Third, he led Him forth in presence of all (John xix. 5); and Pilate said to them (Ecce homo); and when the Chief Priests had seen Him, they uttered cries, saying (John xix. 6). On the Fifth Day, at midnight, from the house of Pilate until He was put on the cross;",
+"pages": [
+181,
+183
+]
+},
+{
+"n": 296,
+"en": "and in the morning from the time He was lifted up on the cross till when He expired; then the two repetitions, and the senses. Of the mysteries enacted from the House of Pilate to the Cross inclusive. First, Pilate sitting as judge gave Jesus over to them to crucify, after the Jews had denied Him for King, saying (John xix. 15). Secondly, He tried to carry His cross on His shoulders, and, He not being able to carry it, Simon of Cyrene was constrained to carry it after Jesus. Third, they crucified Him between two thieves, putting this title (Jesus Nazarenus Rex Judæorum). Of the mysteries enacted on the Cross.",
+"pages": [
+181,
+183
+]
+},
+{
+"n": 297,
+"en": "First, He spoke seven words on the Cross: He prayed for them that were crucifying Him (Luke xxiii. 34): He pardoned the thief (Luke xxiii. 43) He commended St. John to His Mother and His Mother to St. John (John xix. 26, 27): He said in a loud voice Sitio, and they gave Him gall and vinegar (John xix. 28, 29): 1 He said that He was forsaken (Mark xv. 33): He said (Consummatum est, John xix. 30): He said (Pater, in manus tuas commendo spiritum meum, Luke xxiii. 46). Secondly, the sun was darkened,the rocks split, the tombs opened, the veil of the Temple rent in twain from the top even to the bottom. Thirdly, they blaspheme Him, saying (Matt. xxvii. 40): His garments were divided: His side, pierced with a lance, gave forth blood and water.",
+"pages": [
+181,
+183
+]
+},
+{
+"n": 298,
+"en": "On the Sixth Day, at midnight, from the time of taking Him down from the cross as far as the tomb exclusive, and in the morning from the tomb inclusive, as far as the house where our Lady was after the burial of Her Son. Of the mysteries enacted from the Cross even to the Sepulchre inclusive. First, He was taken down from the Cross by Joseph and Nicodemus in presence of His sorrowing Mother. Secondly, the Body was carried to the Sepulchre, and anointed, and buried. Thirdly, guards were set.",
+"pages": [
+184,
+185
+]
+},
+{
+"n": 299,
+"en": "Ofthe Resurrection of Christ our Lord of His First Appearance. First He appeared to the Virgin Mary, which, though not said in Scripture, is taken as said in saying that He appeared to so many others, because the Scripture supposes that we have understanding, as is written, Adhuc et vos sine intellectu estis?",
+"pages": [
+192,
+195
+]
+},
+{
+"n": 300,
+"en": "Of the Second Appearance. First, there came very early, in the morning Mary Magdalen, she of James, and Salome, to the monument, saying (Mark xvi. 3). Secondly, they see the stone rolled back, and the angel, who says (ver. 6). Thirdly, He appeared to Mary, who remained near the sepulchre after the rest had gone away.",
+"pages": [
+200,
+204
+]
+},
+{
+"n": 301,
+"en": "Of the Third Appearance. First, these Maries go out from the sepulchre with fear and great joy, wishing to announce to the disciples the Resurrection of the Lord.. Secondly, Christ our Lord appeared to them on the way, saying to them, God save you; and they went up and prostrated themselves at His feet and adored Him.",
+"pages": [
+200,
+204
+]
+},
+{
+"n": 302,
+"en": "Thirdly, Jesus says to them (Matt. xxviii. 10) ❤ Of the Fourth Appearance. First, hearing from the women that Christ was risen, St. Peter went at once to the sepulchre. Secondly, entering into the sepulchre, he saw only the linen clothes wherewith the Body of Christ our Lord was covered, and nothing else. Thirdly, while St. Peter was thinking these things over, Christ appeared to him; and therefore the Apostles said (Luke xxiv. 34).",
+"pages": [
+200,
+204
+]
+},
+{
+"n": 303,
+"en": "Of the Fifth Appearance. First, He appeared to the disciples who were going to Emmaus, conversing about Christ. Secondly, He reproves them, showing by the Scriptures that Christ had to die and rise again (Luke xxiv. 25, 26). Thirdly, at their prayer He stays there, and was with them until in giving them Communion He disappeared; and they returning told the disciples how they had known Him in Communion.",
+"pages": [
+200,
+204
+]
+},
+{
+"n": 304,
+"en": "Of the Sixth Appearance. First, the disciples were gathered together for fear of the Jews, except St. Thomas. Secondly, Jesus appeared to them, the gates being shut; and being in the midst of them He says (Pax vobis). Thirdly, He gives them the Holy Ghost, saying to them (John xx. 22, 23).",
+"pages": [
+200,
+204
+]
+},
+{
+"n": 305,
+"en": "The Seventh Appearance. First, St. Thomas, incredulous, because he was absent from the last Appearance, says (John xx. 25). Secondly, Jesus appears to them, eight days after that time, the doors being shut, and says to St. Thomas (ver. 27). Thirdly, St. Thomas believed, saying (ver. 28):",
+"pages": [
+200,
+204
+]
+},
+{
+"n": 306,
+"en": "to whom says Christ (ver. 29). Of the Eighth Appearance. First, Jesus appears to seven of His disciples fishing, who all the night had taken nothing; and casting the net by His command (John xxi. 6). Secondly, by this miracle St. John knew Him, and said to St. Peter (Dominus est); who cast himself into the sea and came to Christ. Thirdly, He gave them to eat part of a broiled fish and a honey-comb; and commended the sheep to St. Peter, he having been examined first three times on charity, and He says to him (Pasce oves meas).",
+"pages": [
+200,
+204
+]
+},
+{
+"n": 307,
+"en": "Of the Ninth Appearance. First, the disciples by the Lord's command go to Mount Thabor. Secondly, Christ appears to them, and says (Matt. xxviii. 18). Thirdly, He sent them all over the world to preach, saying (ver. 19).",
+"pages": [
+200,
+204
+]
+},
+{
+"n": 308,
+"en": "Of the Tenth Appearance, I Cor. xv. 6.",
+"pages": [
+200,
+204
+]
+},
+{
+"n": 309,
+"en": "(Deinde visus est plus quam quingentis fratribus simul). Of the Eleventh Appearance, I Cor. XV.",
+"pages": [
+200,
+204
+]
+},
+{
+"n": 310,
+"en": "7. (Deinde visus est Jacobo). Of the Twelfth Appearance. He appeared to Joseph of Arimathea, as is piously meditated and is read in the Life of the Saints.",
+"pages": [
+200,
+204
+]
+},
+{
+"n": 311,
+"en": "Ofthe Thirteenth Appearance, I Cor. xv. 8. He appeared to St. Paul after the Ascension (Novissime tamquam abortivo visus est mihi). He appeared also in soul to the Holy Fathers of Limbo; and after He had led them out, and had again taken His Body, many times He appeared to His disciples and conversed with them.",
+"pages": [
+200,
+204
+]
+},
+{
+"n": 312,
+"en": "Ofthe Ascension of Christ our Lord. First, after for the space of forty days He had appeared to His Apostles, giving many proofs and signs, and speaking of the Kingdom of God, He bade them stay in Jerusalem awaiting the promised Holy Ghost. Secondly, He led them to Mount Olivet, and in their",
+"pages": [
+200,
+204
+]
+},
+{
+"n": 313,
+"en": "RULES for feeling and recognising in some sort the various motions that are excited in the soul,-the good that they may be taken up; the evil, that they may be rejected. And these Rules are more suited for the First Week.",
+"pages": [
+67,
+73
+]
+},
+{
+"n": 314,
+"en": "The first rule: in those persons who are going from mortal sin to mortal sin, the enemy is wont commonly to put before them apparent pleasures, causing them to imagine sensual delights and pleasures, the better to maintain and further them in their vices and sins. In the case of these persons the good spirit applies the contrary method, pricking their consciences and causing in them remorse by the self-accusation of reason.",
+"pages": [
+67,
+73
+]
+},
+{
+"n": 315,
+"en": "The second: in those persons who are proceeding earnestly with the work of clearing off their sins, and are mounting in the service of God our Lord from good to better, there obtains the contrary method to that in the first rule: for then it is the way of the evil spirit to sting, to sadden, and raise obstacles, making the soul restless by false reasonings that it may get on no further. And it is the way of the good spirit to give courage and strength, consolations, tears, inspirations, and repose of mind, making things easy and removing all obstacles to the end that the soul may go on further in doing good.",
+"pages": [
+67,
+73
+]
+},
+{
+"n": 316,
+"en": "The third, of spiritual consolation: I call it • consolation ' when there is set up in the soul some inward motion, whereby the soul begins to be on fire with the love of her Creator and Lord; and, consequently, when she can love no created thing on the face of the earth in itself, but only in the Creator of them all. Likewise when she bursts forth into tears out of love of her Lord, be it for grief over her sins, or over the Passion of Christ our Lord, or over other matters directly ordered to His service and praise. In short I call ' consolation ' any increase of hope, faith and charity, and any inward joy that calls and attracts to heavenly things and to the salvation of one's own soul, rendering her restful and pacifying her in her Creator and Lord.",
+"pages": [
+67,
+73
+]
+},
+{
+"n": 317,
+"en": "The fourth, of spiritual desolation: I call 'desolation everything that is contrary to the third rule,-as a darkening of the soul, trouble of mind, movement to base and earthly, things, restlessness of various agitations and temptations, moving to distrust, loss of hope, loss of love; when the soul feels herself thoroughly, apathetic, tepid, sad, and as it were separated from her Creator and Lord: because, as consolation is contrary to desolation, in the same way the thoughts that spring from consolation are contrary to the thoughts that spring from desolation.",
+"pages": [
+67,
+73
+]
+},
+{
+"n": 318,
+"en": "The fifth: in time of desolation one ought never to make a change, but to stand firm and steady in the resolutions and determination in which one was on the • day previous to such desolation, or in the determination in which one was in the previous consolation; because, as in consolation the good spirit rather leads us and directs us by his counsel, so in desolation does the evil spirit, by whose counsels we cannot find the way to any right resolve.",
+"pages": [
+67,
+73
+]
+},
+{
+"n": 319,
+"en": "The sixth though in desolation we ought not to change our previous purposes, it is very helpful heartily to change ourselves in the direction contrary to the said desolation, -for instance, by insisting more on prayer, meditation, much examination, and putting out our strength in some suitable manner of doing penance.",
+"pages": [
+67,
+73
+]
+},
+{
+"n": 320,
+"en": "The seventh; let him who is in desolation consider how God pichdariation is leaving him by way of probation to his natural powers, that he may stand out against consol the various agitations agitations and and temptations of the enemy: for he can stand out with the divine aid, which ever attends upon him, although he does not manifestly feel it, because the Lord has withdrawn from him His high fervour, strong love, and intense grace, yet leaving him grace enough for eternal salvation.",
+"pages": [
+67,
+73
+]
+},
+{
+"n": 321,
+"en": "The eighth: let him who is in desolation labour to hold on in patience, such patience as makes against the vexations that harass him: let him consider that soon he shall be consoled, using diligent efforts against such desolation, as is enjoined in the sixth rule.",
+"pages": [
+67,
+73
+]
+},
+{
+"n": 322,
+"en": "The ninth: there are three chief causes why we find ourselves in desolation. The first is, by reason of our being tepid, indolent, or negligent in our spiritual exercises; and so for our faults spiritual consolation goes away. The second, to prove us, what we are worth and how far we will hold on in His service and praise without so much remuneration of consolations and ample graces. The third, to give us a true knowledge and understanding whereby we may inwardly feel that it is not in our power to bring on or maintain a flood of devotion, intense love, tears, nor any other spiritual consolation, but that it is all a gift and grace of God our Lord; and that we may not build our nest in another man's house [arrogate to ourselves what belongs to another], lifting up our intellect to some pride or vain glory, attributing to ourselves devotion or other parts of spiritual consolation.",
+"pages": [
+67,
+73
+]
+},
+{
+"n": 323,
+"en": "The tenth let him who is in consolation think how he shall carry himself in the desolation that will come on afterwards, gathering new strength for that time.",
+"pages": [
+67,
+73
+]
+},
+{
+"n": 324,
+"en": "The eleventh: Let him who is in consolation take care to humble and abase himself as much as he can, thinking how little he is worth in time of desolation, without such grace or consolation. On the other hand, let him who is in desolation think that he can do much with the grace that he has, sufficient to withstand all his enemies, taking strength in His Creator and Lord.",
+"pages": [
+67,
+73
+]
+},
+{
+"n": 325,
+"en": "The twelfth: the enemy is as a woman in being weak perforce of circumstances, but strong of bent and purpose of will. For as it is the way of a woman in a broil with any man to lose heart and take to flight when the man shows her a bold face; and contrariwise, if the man begins to lose courage and take to his heels, the anger, vengeance, and ferocity of the woman runs very high and passes all measure; in like manner, it is the way of the enemy to flag and lose heart, his temptations taking flight, when the person who is exercising himself in * spiritual things shows a bold face against the temptations of the enemy and does the diametrical opposite to what they suggest. And contrariwise, if the person who is making his exercises begins to take fright and lose heart in suffering temptations, there is no wild beast so fierce on the face of the earth as is the enemy of human nature in the following out of his wicked intention with ever such enormous malice.",
+"pages": [
+67,
+73
+]
+},
+{
+"n": 326,
+"en": "The thirteenth: he also behaves like a false lover in wishing to lie low and not be discovered. For as such an empty fellow who is paying his addresses with evil intent to the daughter of a good father, or the wife of a good husband, wishes his words and entreaties to be secret; and, on the contrary, it is great displeasure to him when the daughter discloses to her father, or the wife to her husband his glozing words and wicked intention, because he readily gathers that he shall not be able to succeed with the enterprise commenced; in the same way, when the enemy of human nature brings in his cunning persuasions upon the just soul, he wishes and desires them to be received and kept secret; but when the person solicited discloses them to his good confessor, or other spiritual person, who knows his machinations and malicious intents, it displeases him vastly, because he gathers that he shall not be able to succeed with his malicious design which he had entered upon, seeing that his machinations are discovered manifestly.",
+"pages": [
+67,
+73
+]
+},
+{
+"n": 327,
+"en": "The 'fourteenth: in like manner he behaves as a brigand-chief to subdue and plunder what he desires: for as a captain and chief of an army pitches his camp and reconnoitres the strength and lines of defence of a fortification, and then attacks it on the weaker side; in like manner the enemy of human nature, going round, looks at every side of all our theological, cardinal and moral virtues; and on whatever side he finds us weaker and more ill off for our eternal salvation, on that side he attacks and endeavours to take us by storm.",
+"pages": [
+67,
+73
+]
+},
+{
+"n": 328,
+"en": "Rules tothe same effect with greater discernment of spirits, and they are suitable more for the Second Week.",
+"pages": [
+143,
+146
+]
+},
+{
+"n": 329,
+"en": "The first: it is the way of God and His angels in their motions to give true gladness and spiritual joy, removing all sadness and trouble which the enemy brings on, whose way it is to fight against such gladness and spiritual consolation, bringing up apparent reasons, subtleties, and never-ending fallacies.",
+"pages": [
+143,
+146
+]
+},
+{
+"n": 330,
+"en": "The second: it is of God our Lord alone to give consolation to the soul without previous cause: because it is proper to the Creator to come in, to go out, to set up a movement in the soul, drawing her wholly to the love of His Divine Majesty. I say, ' without cause,' without any previous sense or knowledge of any object, whereby any such consolation as that should come by her acts of understanding and will.",
+"pages": [
+143,
+146
+]
+},
+{
+"n": 331,
+"en": "The third: with a cause the good angel and the evil one equally may console the soul, to contrary ends: the good angel for the advancement of the soul, that she may grow and ascend from good to better; and the evil angel to the contrary effect, and thereafter to draw her to his own wicked intention and malice.",
+"pages": [
+143,
+146
+]
+},
+{
+"n": 332,
+"en": "The fourth it is the way of the evil angel, who transforms himself into an angel of light, to go in with the devout soul and come out with himself, that is to say, to bring in good and holy thoughts, conformable to the said just soul; and afterwards he gradually contrives to arrive at his own end, dragging on the soul to his secret machinations and perverse intentions.",
+"pages": [
+143,
+146
+]
+},
+{
+"n": 333,
+"en": "The fifth: we ought much to attend to the course or current of the thoughts; and if the beginning, middle, and end are all good, tending to entire good, it is a sign of the good angel: but if in the course of the thoughts that he suggests the thing comes to end in something evil, or distracting, or less good than what the soul had previously proposed to herself to do; or if it weakens her, or renders her restless, or troubles the soul, taking away from her that peace, tranquillity, and quiet which she had before, it is a clear sign that the thoughts proceed from the evil spirit, the enemy of our advancement and eternal salvation.",
+"pages": [
+143,
+146
+]
+},
+{
+"n": 334,
+"en": "The sixth when the enemy of human nature shall have been felt and recognised by his serpent's tail, and the evil end to which he leads on, it is useful for him who has been tempted by him to look afterwards at the course of the good thoughts that he suggested to him, and the beginning of them, and how he (the Evil One) gradually managed to make him come down from that sweetness and spiritual joy in which he was, till he led him on to his perverse intention,to the end that by such experience, observed and noted down, he may be on his guard in future against his customary machinations.",
+"pages": [
+143,
+146
+]
+},
+{
+"n": 335,
+"en": "The seventh: in those who are going forward from good to better, the good angel touches such a soul sweetly, lightly, and pleasantly, as a drop of water that enters into a sponge; and the evil angel touches so as to sting, and with a patter and disturbance, as when a drop of water falls upon a rock: but those who are going on from bad to worse the above-named spirits touch contrariwise. The cause of which is this, that the disposition of the soul is contrary to the said angels, or like: for when it is contrary, they enter with a din and sensational accompaniments, so that their entry may easily be perceived; but when it is like, the entry is in silence, as of one coming into his own house by an open door.",
+"pages": [
+143,
+146
+]
+},
+{
+"n": 336,
+"en": "The eighth when the consolation is without cause, though there be no deception in it, since it proceeds from God our Lord alone, as has been said, nevertheless the spiritual person, to whom God gives such consolation, ought to look with much watchfulness and attention to discern the proper time of such actual consolation from the following, in which the soul remains aglow and favoured with the favour and remnants of the consolation that is past: because often in this second period, by her own proper activity, working upon habits and consequences of concepts and judgments, she comes, either through the good spirit or through the evil spirit, to form various purposes and opinions, which are not given immediately by God our Lord; and therefore they must needs be very well discussed before entire credence is given to them and they are carried into effect.",
+"pages": [
+143,
+146
+]
+},
+{
+"n": 337,
+"en": "In the ministry of distributing alms the following rules ought to be kept.",
+"pages": [
+160,
+164
+]
+},
+{
+"n": 338,
+"en": "The first: if I make distribution to relations or friends, or to persons whom I love, four things I must consider, of which there has in part been mention in the matter of the Election. The first is that the love, which moves me and makes me give alms, should descend from above, from the love of God our Lord, in such sort that I feel from the outset in me that the love, greater or less, which I bear to such persons, is for God, and that in the cause for which I love them more there shines forth God.",
+"pages": [
+160,
+164
+]
+},
+{
+"n": 339,
+"en": "The second: I want to look at a man whom I have never seen or known; and I desiring his entire perfection in the ministry and state which he has, as I should wish him to find the golden mean in his manner of distributing for the greater glory of God our Lord and the greater perfection of his own. soul, in that way I should act also, neither more nor less, and keep the rule and measure which I should wish for another and judge to be that mean.",
+"pages": [
+160,
+164
+]
+},
+{
+"n": 340,
+"en": "The third: I want to consider, as if I were at the point of death, the form and measure that then I should wish to have kept in the office of my administration; and regulating myself thereby, to observe it in the acts of my distribution.",
+"pages": [
+160,
+164
+]
+},
+{
+"n": 341,
+"en": "The fourth looking how I shall find myself at the day of judgment, to think well how then I should have wished to have used this office and commission of administration;",
+"pages": [
+160,
+164
+]
+},
+{
+"n": 342,
+"en": "and the rule that then I should have wished to have held, to hold it now. The fifth: when any person finds himself inclined and affected to any persons to whom he wishes to distribute, let him hold back, and well ruminate the four rules above-stated, examining and testing his affection by aid of them; and let him not give the alms until, in accordance with them, he has got his inordinate attachment entirely given up and abandoned.",
+"pages": [
+160,
+164
+]
+},
+{
+"n": 343,
+"en": "The sixth: although there is no fault in taking the goods of God Our Lord to distribute them, when the person is called by our God and Lord to such a ministry, nevertheless in the amount and quantity which he ought to take and apply to his own benefit, out of what he holds for to give to others, there is fear of fault and excess therefore he may reform himself in his life and estate by the aforesaid rules.",
+"pages": [
+160,
+164
+]
+},
+{
+"n": 344,
+"en": "The seventh: for the reasons already stated and many others, it is always better and safer, in what touches one's own person and the up-keep of one's house, the more one circumscribes and diminishes oneself, and the nearer one approaches to our Great High Priest, our pattern and rule, who is Christ our Lord,-conformably to that which the Third Council of Carthage, at which St. Augustine was present, determines and commands, that a Bishop's furniture be cheap and poor. The same ought to be considered in all grades of life, regarding and making allowance for the condition and estate of the persons; as in matrimony we have an example of St. Joachim and St. Anne, who divided their possessions into three parts: the first they gave to the poor; the second to the ministry and service of the Temple; the third they took for the sustenance of themselves and their household.",
+"pages": [
+160,
+164
+]
+},
+{
+"n": 345,
+"en": "To feel and understand the scruples and instigations of our Enemy, the following Notes are helpful.",
+"pages": [
+160,
+164
+]
+},
+{
+"n": 346,
+"en": "The first in popular parlance they call that a scruple which proceeds from our own judgment and liberty: that is to say, when I freely take for a sin that which is not a sin, as when some one, having trodden on two crossed straws acciden- tally, forms the conclusion with his own judgment that he has sinned. This is, strictly speaking, an erroneous judgment, and not a real scruple.",
+"pages": [
+160,
+164
+]
+},
+{
+"n": 347,
+"en": "The second: after have trodden on the said cross, or after I have thought or said or done some other thing, there comes to me a thought from without that I have sinned, and on the other hand it seems to me that I have not sinned; still I feel misgiving¹ on the point, that is to say, inasmuch as I doubt and inasmuch as I do not doubt: that is properly a scruple and temptation that the enemy sets up.",
+"pages": [
+160,
+164
+]
+},
+{
+"n": 348,
+"en": "The third that first scruple of the first note is much to be abhorred, because it is sheer error. But the second of the second note is for some period of time not a little profitable to the soul that gives herself to spiritual exercises; nay it goes a long way to purge and cleanse the said soul, separating her far from all appearance of sin, according to that saying of Gregory: It is the part of good minds there to recognise fault where fault there is none.'",
+"pages": [
+160,
+164
+]
+},
+{
+"n": 349,
+"en": "The fourth: the Enemy looks hard to see if a soul is lax or delicate; and if she is delicate, he endeavours to make … her more delicate even to excess, the more to trouble and put her to rout. For example, if he sees that a soul does not consent to any sin, mortal or venial, nor any appearance of deliberate sin, then the Enemy, as he cannot make her fall into anything that has the appearance of sin, endeavours to make her imagine sin where sin there is none, as in a word or the slightest thought. If the soul is lax, the Enemy goes about to render her still more lax: for example, if before she took no account of venial sins, his endeavour will be that she shall take small heed of mortal sins; and if before she did care somewhat, that now she shall care much less, or absolutely not care at all.",
+"pages": [
+160,
+166
+]
+},
+{
+"n": 350,
+"en": "The fifth: the soul that desires to advance in spiritual life ought always to go the opposite way to what the Enemy goes: that is to say, if the Enemy seeks to make the soul lax, let her try to be more sensitive: in like manner, if the Enemy endeavours to narrow her bounds so as to carry her to an extreme, let the soul's endeavour be to plant herself firmly in the middle position so as wholly to quiet herself.",
+"pages": [
+165,
+166
+]
+},
+{
+"n": 351,
+"en": "The sixth when such a good soul wants to say or do something within the Church, within the understanding of our Elders, something to the glory of God our Lord, and there comes to her a thought or temptation from without not to say or do the said thing, alleging apparent reasons of vain glory, or of something else, etc., then she ought to raise her understanding to her Creator and Lord; and if she sees that it is His due service, or at least not contrary, she ought to act diametrically contrary to the said temptation, according to Bernard answering the same: ' Did not begin for you, and won't leave off for",
+"pages": [
+165,
+166
+]
+},
+{
+"n": 352,
+"en": "For the true sentiments which we ought to hold in the Church Militant, let the following rules be kept.",
+"pages": [
+220,
+220
+]
+},
+{
+"n": 353,
+"en": "The first laying aside all criticism, we ought to hold our mind ready and prompt to obey in all things the true Spouse of Christ our Lord, which is our holy Mother the Hierarchical Church.",
+"pages": [
+220,
+220
+]
+},
+{
+"n": 354,
+"en": "The second: to praise confession to a priest, and the reception of the Most Holy Holy Sacrament once a year, and much more every month, and much better once a week, with the requisite and due conditions.1",
+"pages": [
+220,
+220
+]
+},
+{
+"n": 355,
+"en": "The third: to praise the frequent hearing of Mass, likewise chants, psalms, and long prayers in church and out of church: likewise the hours ordained at an appointed time for all Divine Office and for all prayer and all canonical Hours.",
+"pages": [
+220,
+220
+]
+},
+{
+"n": 356,
+"en": "The fourth: much to praise Religious Orders, virginity, and continence; and matrimony not so much as any of the above.",
+"pages": [
+220,
+220
+]
+},
+{
+"n": 357,
+"en": "The fifth to praise vows of religion, of obedience, of poverty, of chastity, and of other perfections of supererogation. And it is to be noticed that, whereas a vow is concerning things that approach to evangelical perfection, so in things that are removed from such perfection there ought not. to be made a vow, for example, of engaging in trade, of getting married, etc.",
+"pages": [
+221,
+225
+]
+},
+{
+"n": 358,
+"en": "The sixth to praise relics of Saints, paying veneration to the one, and making prayer to the other praising stations, pilgrimages, indulgences, jubilees, Bulas Crusadas, and lighted candles in the churches.",
+"pages": [
+221,
+225
+]
+},
+{
+"n": 359,
+"en": "The seventh: to praise Constitutions concerning fasts and abstinences, as of Lent, Ember Days, Vigils, Friday and Satur-day likewis/ penances, not only internal, but also external.",
+"pages": [
+221,
+225
+]
+},
+{
+"n": 360,
+"en": "The eighth: to praise decorations and buildings of churches, likewise images, and to venerate them according to what they represent.",
+"pages": [
+221,
+225
+]
+},
+{
+"n": 361,
+"en": "The ninth to praise in fineall precepts of the Church, holding the mind ready to find reasons in her defence and nowise in her offence.",
+"pages": [
+221,
+225
+]
+},
+{
+"n": 362,
+"en": "The tenth we ought to be more ready to approve and praise as well the Constitutions and Ordinances as also the personal conduct of our Superiors; because, granting that they are not or were not such as to merit praise, to speak against them, whether by preaching in public or in conversation with men of the common sort, would engender rather murmuring and scandal than spiritual profit; and thereby the people would grow indignant against their rulers, whether temporal or spiritual. Thus as it is hurtful, in the absence of Superiors, to speak ill of them to people of no position, so it may be profitable to speak of their evil behaviour to those same persons who can remedy the evil.",
+"pages": [
+221,
+225
+]
+},
+{
+"n": 363,
+"en": "The eleventh: to praise Positive and Scholastic doctrine; because as it is more proper to the Positive Doctors, as for instance St. Jerome, St. Augustine, and St. Gregory, etc., to move the affections in all things to love and serve God our Lord, so it is more proper to the Scholastics, as St. Thomas, St. Bonaventure, and the Master of the Sentences, etc., to define or explain for our times the things necessary for eternal salvation, and further to impugn and expose all errors and all fallacies: because the Scholastic Doctors, as being more modern, not only profit by the true understanding of Holy Scripture and by the Positive and Holy Doctors, but also, being themselves illuminated and enlightened by the divine power, are aided by the Councils, Canons and Constitutions of our Holy Mother Church.",
+"pages": [
+221,
+225
+]
+},
+{
+"n": 364,
+"en": "The twelfth: we ought to bcware of making comparisons between those who, like ourselves, are still living and the Blessed of olden time, because no little error is committed on this point: I mean by saying that \" So and So knows more than St. Augustine ': ' this is another St. Francis, or greater ': ' this is another St. Paul in goodness, holiness, etc.",
+"pages": [
+221,
+225
+]
+},
+{
+"n": 365,
+"en": "' The thirteenth: to make sure of being right in all things, we ought always to hold by the principle that the white that I see I would believe to be black, if the Hierarchical Church were so to rule it,-believing that between Christ our Lord the Bridegroom and the Church His Bride there is the same Spirit that governs and guides us to the salvation of our souls; because by the same Spirit and our Lord who gave the ten commandments our Holy Mother Church is guided and governed.",
+"pages": [
+221,
+225
+]
+},
+{
+"n": 366,
+"en": "The fourteenth: allowing that it is very true that none can be saved, unless he be predestinate, and without having faith and grace, there is much to attend to in the manner of speaking and conversing on all these topics.",
+"pages": [
+221,
+225
+]
+},
+{
+"n": 367,
+"en": "The fifteenth: we ought not to speak much of predestina- tion by way of an habitual topic; but if in any manner or at any times there is talk of it, it should be so spoken of that the common sort may not come into any error, as is wont to be the case at times, by saying: If I am bound to be saved or damned, the thing is already settled, and for all my good or evil works it cannot now be otherwise '; and so falling into a torpor they grow slack in the works that conduce to the salvation and spiritual profit of their souls.",
+"pages": [
+221,
+225
+]
+},
+{
+"n": 368,
+"en": "The sixteenth: in the same way it is a thing to attend to that by speaking of faith at great length and with much earnestness, without any distinction and explanation, cccasion be not given to the people to grow remiss and lazy in works, whether before faith informed with charity or after it.",
+"pages": [
+221,
+225
+]
+},
+{
+"n": 369,
+"en": "The seventeenth: likewise we ought not to speak at so much length, insisting so much upon grace, as that there be engendered the poisonous error whereby liberty is taken away. Thus about faith and grace we may speak as much as possible by means of the divine assistance for the greater praise of His Divine Majesty, but not in such sort, nor in such fashions, especially in our so dangerous times, as that works and free will may receive any prejudice or be held for nought.",
+"pages": [
+221,
+225
+]
+},
+{
+"n": 370,
+"en": "The eighteenth: though it be a thing to esteem above all, much to serve God our Lord out of pure love, we ought much to praise the fear of His Divine Majesty because not only is filial fear a pious and most holy, thing, but even servile fear, where the man does not attain to anything better or more profitable, is a great help towards getting out of mortal sin; and after a man has got out of that, he easily comes to filial fear, which is wholly acceptable and grateful to God our Lord as it is at one with divine love,",
+"pages": [
+221,
+225
+]
+}
+]
+}

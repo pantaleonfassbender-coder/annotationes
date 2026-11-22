@@ -80,7 +80,7 @@ footer a{color:var(--fg3);text-decoration:underline}
 .density button:hover{outline:1px solid var(--fg2);outline-offset:-1px}
 .textcol{min-width:0}
 .toolbar{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin-bottom:1rem}
-.seg{display:inline-flex;border:1px solid var(--line2);border-radius:7px;overflow:hidden}
+.seg{display:inline-flex;flex-wrap:wrap;max-width:100%;border:1px solid var(--line2);border-radius:7px;overflow:hidden}
 .seg button{background:none;border:0;color:var(--fg2);padding:.22rem .6rem;cursor:pointer;font-size:.85rem}
 .seg button.on{background:var(--accbg);color:var(--acc)}
 .seg button:disabled{opacity:.4;cursor:not-allowed}

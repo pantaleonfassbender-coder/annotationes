@@ -274,6 +274,15 @@ points that are not Ignatius' text), which the glosses say where it matters.
 ## 11. Open questions
 
 - End date 1978 or 2000?
+- Second English layer: done (22 November 2026), Rickaby 1923, from the column text already extracted for
+  his notes (`tools/cache/rickaby_raw.json`). His English has no paragraph numbers; `tools/rickaby_text.py`
+  orders each run of text by the openings matched in his Spanish column (openings matched at the same place,
+  short runs far from their neighbours and openings out of order are distrusted), slots the rest where the
+  cut fits best, and divides the English by dynamic programming on word overlap with Mullan 1914. All 370
+  paragraphs have text; spot checks show cuts off by a clause here and there, and where Rickaby divides a
+  paragraph (the days of the Third Week in [208]) parts stand with neighbours. Mysteries are shorter than
+  Mullan's because Rickaby gives Scripture references where Mullan quotes. Page ranges are those of the run of
+  text, not of the paragraph.
 - German translation layer: done (stage 1b, 21 November 2026), Feder 1922, paragraph-exact. Open: the
   residual reading errors of the microfilm OCR (a better scan of the 1921/22 editions would help) and
   Feder's italics (translator's additions). His endnotes are in (108 notes, `tools/feder_notes.py`),

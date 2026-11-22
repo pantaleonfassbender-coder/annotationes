@@ -28,7 +28,7 @@
    "lang": "en",
    "genre": "commentary",
    "tier": "A",
-   "status": "in the apparatus: his notes, from the second edition of 1923",
+   "status": "in the apparatus: his notes and, as a second English text in the reader, his translation (second edition, 1923)",
    "imprint": "First edition 1915; second edition London: Burns Oates & Washbourne, 1923, which is the text used here. Page numbers are those of 1923",
    "rights": "US public domain (both editions published before 1931).",
    "sources": [
@@ -41,7 +41,7 @@
      "url": "https://babel.hathitrust.org/cgi/pt?id=uiug.30112000597846"
     }
    ],
-   "note": "Rickaby prints the Spanish autograph and his translation in two columns, with notes across the page after each piece. He rearranges the book for use in a retreat: the Presupposition stands before the Annotations, the Examens follow the Additions, each set of rules for discernment follows its Week, the Mysteries of the Life of Christ are worked into the days of the Second Week, the rules on alms and scruples follow the Election. His notes are placed on the paragraphs whose text they follow, found by matching his Spanish column against the autograph (tools/rickaby_extract.py); a set of notes that follows text from two places of his order is shown at both. The text is Google's machine reading, not corrected by hand; the translation is not yet shown."
+   "note": "Rickaby prints the Spanish autograph and his translation in two columns, with notes across the page after each piece. He rearranges the book for use in a retreat: the Presupposition stands before the Annotations, the Examens follow the Additions, each set of rules for discernment follows its Week, the Mysteries of the Life of Christ are worked into the days of the Second Week, the rules on alms and scruples follow the Election. His notes are placed on the paragraphs whose text they follow, found by matching his Spanish column against the autograph (tools/rickaby_extract.py); a set of notes that follows text from two places of his order is shown at both. The text is Google's machine reading, not corrected by hand. His translation is shown in the reader as a layer of its own (\"en · Rickaby\"), cut onto the paragraph grid between the openings found in his Spanish column, with Mullan's English as a guide for the cuts (tools/rickaby_text.py)."
   },
   {
    "id": "feder-1922",

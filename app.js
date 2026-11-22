@@ -155,7 +155,7 @@ function viewReader(n) {
     <div class="textcol">
       <div class="toolbar">
         <div class="seg" role="group" aria-label="Language of the text">
-          ${["es", "la", "en", "de", "all"].map(l => `<button type="button" data-l="${l}" ${l === "de" ? 'title="German: Feder 1922"' : ""}>${l === "all" ? "all" : l}</button>`).join("")}
+          ${["es", "la", "en", "rk", "de", "all"].map(l => `<button type="button" data-l="${l}" ${l === "de" ? 'title="German: Feder 1922"' : l === "rk" ? 'title="English: Rickaby 1923"' : l === "en" ? 'title="English: Mullan 1914"' : ""}>${l === "rk" ? "en · Rickaby" : l}</button>`).join("")}
         </div>
         <div class="secnav">
           ${si > 0 ? `<a href="#/spex/${D.sections[si - 1].von}">← ${esc(short(D.sections[si - 1]))}</a>` : ""}
@@ -169,6 +169,8 @@ function viewReader(n) {
       ${(exLang === "de" || exLang === "all") && D.feder ? `<p class="fine">German: ${esc(D.feder.quelle)} ${esc(D.feder.vorlage_status)} ${esc(D.feder.hinweis)}
         Its paragraphs were put on the 1928 grid with the editorial anchor table in <span class="mono">tools/feder_anchors.json</span>.
         <a href="#/works/feder-1922">About this translation</a>.</p>` : ""}
+      ${(exLang === "rk" || exLang === "all") && D.rick ? `<p class="fine">English (Rickaby): ${esc(D.rick.quelle)} ${esc(D.rick.hinweis)}
+        <a href="#/works/rickaby-1915">About this edition</a>.</p>` : ""}
     </div>
     <aside class="margin" aria-label="Glosses"></aside>
   </div>`);
@@ -182,6 +184,14 @@ function viewReader(n) {
   if ((exLang === "de" || exLang === "all") && !D.feder) {
     getJSON("data/feder.json").then(f => {
       D.feder = f; D.federUnits = {}; f.units.forEach(u => D.federUnits[u.n] = u);
+      if (location.hash.startsWith("#/spex")) route();
+    }).catch(() => {});
+  }
+
+  // Rickaby's translation likewise.
+  if ((exLang === "rk" || exLang === "all") && !D.rick) {
+    getJSON("data/rickaby_text.json").then(f => {
+      D.rick = f; D.rickUnits = {}; f.units.forEach(u => D.rickUnits[u.n] = u);
       if (location.hash.startsWith("#/spex")) route();
     }).catch(() => {});
   }
@@ -209,14 +219,22 @@ function paraText(p) {
     const pg = u.pages.length > 1 ? `pp. ${u.pages[0]}–${u.pages[u.pages.length - 1]}` : `p. ${u.pages[0]}`;
     return esc(u.de) + ` <span class="fine">(Feder 1922, ${pg})</span>`;
   };
+  const rk = () => {
+    if (!D.rickUnits) return `<span class="fine">Loading Rickaby's English…</span>`;
+    const u = D.rickUnits[p.n];
+    if (!u || !u.en) return `<span class="fine">Not in Rickaby's text as read.</span>`;
+    const pg = u.pages[0] === u.pages[1] ? `p. ${u.pages[0]}` : `pp. ${u.pages[0]}–${u.pages[1]}`;
+    return esc(u.en) + ` <span class="fine">(Rickaby 1923, ${pg})</span>`;
+  };
   const one = l => {
     if (l === "de") return de();
+    if (l === "rk") return rk();
     const t = p[l] || "", L = p["label_" + l];
     const norm = s => s.toLowerCase().replace(/[^a-záéíóúñ0-9]/g, "");
     const lab = L && !norm(t).startsWith(norm(L)) ? `<span class="plabel">${esc(L)}</span>` : "";
     return lab + esc(t);
   };
-  if (exLang === "all") return ["es", "la", "en", "de"].map(l => `<span class="lang">${l}</span>${one(l)}`).join("");
+  if (exLang === "all") return ["es", "la", "en", "rk", "de"].map(l => `<span class="lang">${l === "rk" ? "en · Rickaby" : l}</span>${one(l)}`).join("");
   return one(exLang);
 }
 function select(n) {
@@ -565,8 +583,10 @@ function viewMethod() {
         in Rickaby's second edition); Spanish and Italian before 1931: eleven articles of <em>Razón y Fe</em>
         (1904–1919, found by searching vols. 1–61), Codina's <em>Los orígenes de los Ejercicios</em> (1926) by its
         own subject index, Torti's Italian commentary (1909) by its section heads, and Benjamín Marcos, <em>San Ignacio
-        de Loyola</em> (1923), read in full in Project Gutenberg.</li>
-        <li>Pending: Rickaby's translation; Spanish and Italian work after 1930 (Casanovas, Calveras, Iparraguirre,
+        de Loyola</em> (1923), read in full in Project Gutenberg; Rickaby's English translation as a second English
+        text in the reader ("en · Rickaby"), cut onto the grid between the openings found in his Spanish column, with
+        Mullan's English steering the cuts (machine-read, cuts can be off by a clause).</li>
+        <li>Pending: Spanish and Italian work after 1930 (Casanovas, Calveras, Iparraguirre,
         the review <em>Manresa</em>), still to be searched; a hand transcription of Przywara's own index of Exercises numbers
         (vol. III, pp. 438–440).</li>
       </ul></div>
