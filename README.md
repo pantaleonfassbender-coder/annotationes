@@ -79,8 +79,12 @@ Any static server, e.g. `python -m http.server 9051` in this folder, then open
 
 ## How to cite
 
-See [CITATION.cff](CITATION.cff). Archived releases go to Zenodo through the GitHub integration
-(metadata in `.zenodo.json`, release notes in `docs/`); the DOI will be added here once v1.0.0 is archived.
+Fassbender, P. (2026). *Annotationes: The Spiritual Exercises in the Twentieth Century. A reception
+apparatus* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24447236
+
+Concept DOI (always the latest version): [10.5281/zenodo.24447235](https://doi.org/10.5281/zenodo.24447235).
+See also [CITATION.cff](CITATION.cff). Releases are archived on Zenodo through the GitHub integration
+(metadata in `.zenodo.json`, release notes in `docs/`).
 Cite the Exercises by paragraph number ([23]) and each work by its own pages.
 
 ## Licences

@@ -853,6 +853,12 @@ function viewMethod() {
         <li>Pending: Spanish and Italian work after 1930 (Casanovas, Calveras, Iparraguirre,
         the review <em>Manresa</em>), still to be searched.</li>
       </ul></div>
+    <div class="panel"><h2>How to cite</h2>
+      <p class="readable">Fassbender, P. (2026). <i>Annotationes: The Spiritual Exercises in the Twentieth Century. A reception
+      apparatus</i> (Version 1.0.0) [Data set]. Zenodo. <a href="https://doi.org/10.5281/zenodo.24447236" target="_blank" rel="noopener">https://doi.org/10.5281/zenodo.24447236</a></p>
+      <p class="fine">Concept DOI, which always resolves to the latest version:
+      <a href="https://doi.org/10.5281/zenodo.24447235" target="_blank" rel="noopener">10.5281/zenodo.24447235</a>.
+      Cite the Exercises by paragraph number ([23]) and each work by its own pages.</p></div>
     <div class="panel"><h2>Licences and data</h2>
       <p class="readable">Code MIT; editorial texts (notes, summaries, introductions) CC BY 4.0; derived data (gloss
       index, coverage, anchor tables) CC0. The public-domain texts are public domain. No protected text is in the

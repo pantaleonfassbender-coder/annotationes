@@ -26,4 +26,6 @@ Code MIT; editorial texts (notes, summaries, introductions, paths) CC BY 4.0; de
 
 ## How to cite
 
-Fassbender, P. (2026). *Annotationes: The Spiritual Exercises in the Twentieth Century. A reception apparatus* (Version 1.0.0) [Data set]. Zenodo. (DOI to follow on archiving.)
+Fassbender, P. (2026). *Annotationes: The Spiritual Exercises in the Twentieth Century. A reception apparatus* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24447236
+
+Concept DOI (always the latest version): https://doi.org/10.5281/zenodo.24447235
