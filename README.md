@@ -30,7 +30,9 @@ Live at <https://annotationes.netlify.app/> (deployed from `main`). The design d
 - Pius XI, *Summorum Pontificum* (1922) and *Mens nostra* (1929): key passages from the Acta
   Apostolicae Sedis.
 - Przywara, *Deus semper maior* (1938–40): a page anchor table for all three volumes, 148 anchors,
-  read in the lending scans (`data/src/przywara_anchors.json`).
+  read in the lending scans (`data/src/przywara_anchors.json`); and his own index of the numbers of the
+  Exercises (vol. III, pp. 438–440), transcribed by hand (`data/src/przywara_register.txt`, parsed by
+  `tools/przywara_register.py`): the 130 entries that reach beyond the anchor table are glosses of their own.
 - Jung, *Collected Works*: 28 passages on Ignatius and the Exercises, read and placed by paragraph,
   summaries only (`data/src/jung_cw.json`). Jung quotes the Exercises in Rickaby's second edition.
 - 75 articles of the *Zeitschrift für Aszese und Mystik* (1926–1944) and *Geist und Leben*

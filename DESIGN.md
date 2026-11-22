@@ -155,6 +155,11 @@ a copy; the page count is checked against the reference edition, with a warning 
 - Przywara, *Deus semper maior* (1938–40): IA lending scans of all three volumes
   (`deussempermaiort0001eric`, `…0000eric` = vol. II by date, `…0003eric`); KU Leuven PDF (three
   files, sign-in only). **First tier-C work.**
+  Przywara's own index of the numbers of the Exercises (vol. III, pp. 438–440) was transcribed by hand
+  on 22 November 2026 from the borrowed scan (`data/src/przywara_register.txt`; italics marked `*…*`; 281
+  entries, 354 paragraphs named; not named: [33], [99]–[101], [117], [127], [132], [134], [143], [149], [160],
+  [192], [198], [200], [207], [225]). 130 entries send a paragraph beyond the sections the tables of contents
+  give it and are glosses of their own (basis `index`); the rest confirm the anchor table.
 - Hugo Rahner, *Ignatius von Loyola und das geschichtliche Werden seiner Frömmigkeit* (1947).
 - Karl Rahner, "Die Logik der existentiellen Erkenntnis bei Ignatius von Loyola" (1956);
   *Betrachtungen zum ignatianischen Exerzitienbuch* (1965).

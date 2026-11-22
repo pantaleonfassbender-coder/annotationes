@@ -26,7 +26,7 @@ const BASIS = {
   matched: "placed by matching the author's Spanish text to the autograph",
   page: "placed by the page that carries the note's call (page-exact, not paragraph-exact)",
   toc: "assigned from the table of contents",
-  index: "assigned from the book's own subject index",
+  index: "assigned from the book's own index",
   title: "assigned from the article title",
 };
 
@@ -585,10 +585,11 @@ function viewMethod() {
         own subject index, Torti's Italian commentary (1909) by its section heads, and Benjamín Marcos, <em>San Ignacio
         de Loyola</em> (1923), read in full in Project Gutenberg; Rickaby's English translation as a second English
         text in the reader ("en · Rickaby"), cut onto the grid between the openings found in his Spanish column, with
-        Mullan's English steering the cuts (machine-read, cuts can be off by a clause).</li>
+        Mullan's English steering the cuts (machine-read, cuts can be off by a clause); Przywara's own index of the numbers
+        of the Exercises (vol. III, pp. 438–440), transcribed by hand: 281 entries, of which the 130 that send a paragraph
+        beyond the sections his tables of contents give it stand as glosses of their own.</li>
         <li>Pending: Spanish and Italian work after 1930 (Casanovas, Calveras, Iparraguirre,
-        the review <em>Manresa</em>), still to be searched; a hand transcription of Przywara's own index of Exercises numbers
-        (vol. III, pp. 438–440).</li>
+        the review <em>Manresa</em>), still to be searched.</li>
       </ul></div>
     <div class="panel"><h2>Licences and data</h2>
       <p class="readable">Code MIT; editorial texts (notes, summaries, introductions) CC BY 4.0; derived data (gloss

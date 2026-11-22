@@ -86,6 +86,44 @@ for i, a in enumerate(PZ['anchors']):
         'anchor': {'vol': a['vol'], 'pp': a['pp']},
     })
 
+# Przywara's own index of the numbers of the Exercises (vol. III, pp. 438-440, transcribed by hand,
+# tools/przywara_register.py). An entry becomes a gloss only where it adds to the anchor table: where it
+# sends a paragraph to pages outside the sections the tables of contents assign to it.
+def _ref(r):
+    if r['open']:
+        return f'{r["from"]} ff.'
+    if r['to'] == r['from']:
+        return str(r['from'])
+    if r['to'] == r['from'] + 1:
+        return f'{r["from"]} f.'
+    return f'{r["from"]}–{r["to"]}'
+
+def _refs(rs):
+    by = {}
+    for r in rs:
+        by.setdefault(r['vol'], []).append(_ref(r))
+    return '; '.join(f'{ROMAN[v]} {", ".join(p)}' for v, p in sorted(by.items()))
+
+_ov = lambda a, b, c, d: a <= d and c <= b
+for e in load(D('src', 'przywara_register.json'))['entries']:
+    s0, s1 = e['spex']
+    anc = [a for a in PZ['anchors'] if a['spex'] and _ov(a['spex'][0], a['spex'][1], s0, s1)]
+    covered = lambda r: any(a['vol'] == r['vol'] and _ov(a['pp'][0], a['pp'][1], r['from'], r['to']) for a in anc)
+    if all(covered(r) for r in e['refs']):
+        continue
+    main = [r for r in e['refs'] if r['main']]
+    rest = [r for r in e['refs'] if not r['main']]
+    rng = f'[{s0}]' if s0 == s1 else f'[{s0}]–[{s1}]'
+    note = f"Przywara's own index of the numbers of the Exercises sends {rng} to "
+    note += (f'{_refs(main)} (in italics in the index)' + (f', and to {_refs(rest)}' if rest else '')) if main else _refs(rest)
+    note += '' if note.endswith('.') else '.'
+    first = (main or e['refs'])[0]
+    out.append({
+        'id': f'przywara-r{s0}' + (f'-{s1}' if s1 != s0 else ''), 'work': 'przywara-dsm', 'spex': [s0, s1],
+        'loc': 'vol. III, pp. 438–440 (index of numbers)', 'basis': 'index', 'note': note,
+        'anchor': {'vol': first['vol'], 'pp': [first['from'], first['to']]},
+    })
+
 out += load(D('src', 'glosses_curated.json'))['glosses']
 out += load(D('src', 'es_it.json'))['glosses']   # Spanish and Italian, before 1931 (tools/es_it.py)
 # Jung: each passage links to its volume in the operator's Collected Works apparatus, which

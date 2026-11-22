@@ -1,0 +1,7217 @@
+{
+ "_note": "Erich Przywara, Deus semper maior III (Freiburg: Herder, 1940), pp. 438-440, 'Nummern des Exerzitientextes': transcribed by hand from the borrowed Internet Archive scan (deussempermaiort0003eric) on 22 November 2026, as no usable OCR exists. A register of page numbers (CC0). 'main' marks pages the index sets in italics. 'f.' is read as two pages, 'ff.' as three with 'open' set, since the index gives no end.",
+ "entries": [
+  {
+   "spex": [
+    1,
+    1
+   ],
+   "printed": "I *15-20* 77 88 93 111; II 170; III 153 ff. 363.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 15,
+     "to": 20,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 77,
+     "to": 77,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 88,
+     "to": 88,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 93,
+     "to": 93,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 111,
+     "to": 111,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 170,
+     "to": 170,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 153,
+     "to": 155,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 363,
+     "to": 363,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    2,
+    2
+   ],
+   "printed": "I 3 *21-24* 146 186 193; II 133; III *337* bis *342* *383*.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 3,
+     "to": 3,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 21,
+     "to": 24,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 146,
+     "to": 146,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 186,
+     "to": 186,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 193,
+     "to": 193,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 133,
+     "to": 133,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 337,
+     "to": 342,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 383,
+     "to": 383,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    3,
+    3
+   ],
+   "printed": "I *26* 184.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 26,
+     "to": 26,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 184,
+     "to": 184,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    4,
+    4
+   ],
+   "printed": "I *26* f. 245; III 165 ff.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 26,
+     "to": 27,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 245,
+     "to": 245,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 165,
+     "to": 167,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    5,
+    5
+   ],
+   "printed": "I *27* f. 93 144 183; II 134 141; III 155 ff. 165 ff. 209 215 338 ff. 343 349 357 f. 363 f. *383* f. 389.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 27,
+     "to": 28,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 93,
+     "to": 93,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 144,
+     "to": 144,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 183,
+     "to": 183,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 134,
+     "to": 134,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 141,
+     "to": 141,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 155,
+     "to": 157,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 165,
+     "to": 167,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 209,
+     "to": 209,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 215,
+     "to": 215,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 338,
+     "to": 340,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 343,
+     "to": 343,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 349,
+     "to": 349,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 357,
+     "to": 358,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 363,
+     "to": 364,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 383,
+     "to": 384,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 389,
+     "to": 389,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    6,
+    6
+   ],
+   "printed": "I 29 f. 245; III 364.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 29,
+     "to": 30,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 245,
+     "to": 245,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 364,
+     "to": 364,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    7,
+    7
+   ],
+   "printed": "I 30.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 30,
+     "to": 30,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    8,
+    8
+   ],
+   "printed": "I 31 245.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 31,
+     "to": 31,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 245,
+     "to": 245,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    9,
+    9
+   ],
+   "printed": "I 31 245.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 31,
+     "to": 31,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 245,
+     "to": 245,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    10,
+    10
+   ],
+   "printed": "I 29 31; II 3 ff.; III 3 ff. 363.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 29,
+     "to": 29,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 31,
+     "to": 31,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 3,
+     "to": 5,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 3,
+     "to": 5,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 363,
+     "to": 363,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    11,
+    11
+   ],
+   "printed": "I 31.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 31,
+     "to": 31,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    12,
+    12
+   ],
+   "printed": "I 31 32 171.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 31,
+     "to": 31,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 32,
+     "to": 32,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 171,
+     "to": 171,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    13,
+    13
+   ],
+   "printed": "I 32.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 32,
+     "to": 32,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    14,
+    14
+   ],
+   "printed": "I 30 32.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 30,
+     "to": 30,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 32,
+     "to": 32,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    15,
+    15
+   ],
+   "printed": "I *33* f. 146 162; II 133 141; III 153 ff. 363 ff.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 33,
+     "to": 34,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 146,
+     "to": 146,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 162,
+     "to": 162,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 133,
+     "to": 133,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 141,
+     "to": 141,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 153,
+     "to": 155,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 363,
+     "to": 365,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    16,
+    16
+   ],
+   "printed": "I *34* f. 147 f. 165.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 34,
+     "to": 35,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 147,
+     "to": 148,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 165,
+     "to": 165,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    17,
+    17
+   ],
+   "printed": "I 36.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 36,
+     "to": 36,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    18,
+    19
+   ],
+   "printed": "I 37 ff. 141 162.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 37,
+     "to": 39,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 1,
+     "from": 141,
+     "to": 141,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 162,
+     "to": 162,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    20,
+    20
+   ],
+   "printed": "I *37-41* 77 93 146; II 141 f.; III *152* ff. 363 365 373 ff.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 37,
+     "to": 41,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 77,
+     "to": 77,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 93,
+     "to": 93,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 146,
+     "to": 146,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 141,
+     "to": 142,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 152,
+     "to": 154,
+     "main": true,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 363,
+     "to": 363,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 365,
+     "to": 365,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 373,
+     "to": 375,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    21,
+    21
+   ],
+   "printed": "I 41 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 41,
+     "to": 42,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    22,
+    22
+   ],
+   "printed": "I 42 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 42,
+     "to": 43,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    23,
+    23
+   ],
+   "printed": "I 23 f. *47-138* 141 f. 181 196; II 6 127; III 102 ff. 342 *367* f. 385 391 *407* *420*.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 23,
+     "to": 24,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 47,
+     "to": 138,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 141,
+     "to": 142,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 181,
+     "to": 181,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 196,
+     "to": 196,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 6,
+     "to": 6,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 127,
+     "to": 127,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 102,
+     "to": 104,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 342,
+     "to": 342,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 367,
+     "to": 368,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 385,
+     "to": 385,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 391,
+     "to": 391,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 407,
+     "to": 407,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 420,
+     "to": 420,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    24,
+    24
+   ],
+   "printed": "I 148.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 148,
+     "to": 148,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    25,
+    25
+   ],
+   "printed": "I 148 149 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 148,
+     "to": 148,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 149,
+     "to": 150,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    26,
+    26
+   ],
+   "printed": "I 148.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 148,
+     "to": 148,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    27,
+    27
+   ],
+   "printed": "I 149.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 149,
+     "to": 149,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    28,
+    28
+   ],
+   "printed": "I 148.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 148,
+     "to": 148,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    29,
+    29
+   ],
+   "printed": "I 148.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 148,
+     "to": 148,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    30,
+    30
+   ],
+   "printed": "I 148.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 148,
+     "to": 148,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    31,
+    31
+   ],
+   "printed": "I 148 f. 162.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 148,
+     "to": 149,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 162,
+     "to": 162,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    32,
+    32
+   ],
+   "printed": "I 150 f. 152.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 150,
+     "to": 151,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 152,
+     "to": 152,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    34,
+    34
+   ],
+   "printed": "I 153 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 153,
+     "to": 154,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    35,
+    35
+   ],
+   "printed": "I 154.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 154,
+     "to": 154,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    36,
+    37
+   ],
+   "printed": "I 154 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 154,
+     "to": 155,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    38,
+    38
+   ],
+   "printed": "I 157.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 157,
+     "to": 157,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    39,
+    39
+   ],
+   "printed": "I 48 *155* 157 180 192.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 48,
+     "to": 48,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 155,
+     "to": 155,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 157,
+     "to": 157,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 180,
+     "to": 180,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 192,
+     "to": 192,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    40,
+    40
+   ],
+   "printed": "I *155* 156.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 155,
+     "to": 155,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 156,
+     "to": 156,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    41,
+    41
+   ],
+   "printed": "I 155 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 155,
+     "to": 156,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    42,
+    42
+   ],
+   "printed": "I 158.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 158,
+     "to": 158,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    43,
+    43
+   ],
+   "printed": "I 158 ff.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 158,
+     "to": 160,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    44,
+    44
+   ],
+   "printed": "I 146 *160* f. 162.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 146,
+     "to": 146,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 160,
+     "to": 161,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 162,
+     "to": 162,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    45,
+    45
+   ],
+   "printed": "I *187*; III 386 ff.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 187,
+     "to": 187,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 386,
+     "to": 388,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    46,
+    46
+   ],
+   "printed": "I 182; III 380 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 182,
+     "to": 182,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 380,
+     "to": 381,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    47,
+    47
+   ],
+   "printed": "I 182 f. 195.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 182,
+     "to": 183,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 195,
+     "to": 195,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    48,
+    48
+   ],
+   "printed": "I 183 195 197; III 5.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 183,
+     "to": 183,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 195,
+     "to": 195,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 197,
+     "to": 197,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 5,
+     "to": 5,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    49,
+    49
+   ],
+   "printed": "I 182.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 182,
+     "to": 182,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    50,
+    50
+   ],
+   "printed": "I 187 *197-204*.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 187,
+     "to": 187,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 197,
+     "to": 204,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    51,
+    51
+   ],
+   "printed": "I *204-209*.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 204,
+     "to": 209,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    52,
+    52
+   ],
+   "printed": "I *209-213*.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 209,
+     "to": 213,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    53,
+    53
+   ],
+   "printed": "I 197 *213-216*; II 7; III 111 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 197,
+     "to": 197,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 213,
+     "to": 216,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 7,
+     "to": 7,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 111,
+     "to": 112,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    54,
+    54
+   ],
+   "printed": "I 186 *216*.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 186,
+     "to": 186,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 216,
+     "to": 216,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    55,
+    55
+   ],
+   "printed": "I 195 *216*.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 195,
+     "to": 195,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 216,
+     "to": 216,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    56,
+    56
+   ],
+   "printed": "I 217 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 217,
+     "to": 218,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    57,
+    57
+   ],
+   "printed": "I 218 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 218,
+     "to": 219,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    58,
+    58
+   ],
+   "printed": "I 219 f.; III 390 396 400 403.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 219,
+     "to": 220,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 390,
+     "to": 390,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 396,
+     "to": 396,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 400,
+     "to": 400,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 403,
+     "to": 403,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    59,
+    59
+   ],
+   "printed": "I 220-222.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 220,
+     "to": 222,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    60,
+    60
+   ],
+   "printed": "I 223 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 223,
+     "to": 224,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    61,
+    61
+   ],
+   "printed": "I 224 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 224,
+     "to": 225,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    62,
+    62
+   ],
+   "printed": "I 184 188 193 *225* f. 246; III 35 189 198 f. *337-342* *355* ff. 383 384.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 184,
+     "to": 184,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 188,
+     "to": 188,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 193,
+     "to": 193,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 225,
+     "to": 226,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 246,
+     "to": 246,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 35,
+     "to": 35,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 189,
+     "to": 189,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 198,
+     "to": 199,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 337,
+     "to": 342,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 355,
+     "to": 357,
+     "main": true,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 383,
+     "to": 383,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 384,
+     "to": 384,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    63,
+    63
+   ],
+   "printed": "I 196 *227-236* 246; III 338 384.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 196,
+     "to": 196,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 227,
+     "to": 236,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 246,
+     "to": 246,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 338,
+     "to": 338,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 384,
+     "to": 384,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    64,
+    64
+   ],
+   "printed": "I 185 188 *225* f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 185,
+     "to": 185,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 188,
+     "to": 188,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 225,
+     "to": 226,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    65,
+    65
+   ],
+   "printed": "I 195 *237* ff. 246; III 196 363 369.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 195,
+     "to": 195,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 237,
+     "to": 239,
+     "main": true,
+     "open": true
+    },
+    {
+     "vol": 1,
+     "from": 246,
+     "to": 246,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 196,
+     "to": 196,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 363,
+     "to": 363,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 369,
+     "to": 369,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    66,
+    70
+   ],
+   "printed": "I *238-240*; III 67 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 238,
+     "to": 240,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 67,
+     "to": 68,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    71,
+    71
+   ],
+   "printed": "I 240-244.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 240,
+     "to": 244,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    72,
+    72
+   ],
+   "printed": "I 169 f. 171.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 169,
+     "to": 170,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 171,
+     "to": 171,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    73,
+    73
+   ],
+   "printed": "I 169.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 169,
+     "to": 169,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    74,
+    74
+   ],
+   "printed": "I 170 194 f. 196; II 6.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 170,
+     "to": 170,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 194,
+     "to": 195,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 196,
+     "to": 196,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 6,
+     "to": 6,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    75,
+    75
+   ],
+   "printed": "I 182.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 182,
+     "to": 182,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    76,
+    76
+   ],
+   "printed": "I 162 *185*.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 162,
+     "to": 162,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 185,
+     "to": 185,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    77,
+    77
+   ],
+   "printed": "I 180.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 180,
+     "to": 180,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    78,
+    81
+   ],
+   "printed": "I 163 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 163,
+     "to": 164,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    82,
+    87
+   ],
+   "printed": "I 166-168.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 166,
+     "to": 168,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    88,
+    88
+   ],
+   "printed": "I 169.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 169,
+     "to": 169,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    89,
+    89
+   ],
+   "printed": "I 162 *168*.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 162,
+     "to": 162,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 168,
+     "to": 168,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    90,
+    90
+   ],
+   "printed": "I 150.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 150,
+     "to": 150,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    91,
+    91
+   ],
+   "printed": "II *7-8* 29; III 344 349.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 7,
+     "to": 8,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 29,
+     "to": 29,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 344,
+     "to": 344,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 349,
+     "to": 349,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    92,
+    92
+   ],
+   "printed": "II *9-10*; III 385.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 9,
+     "to": 10,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 385,
+     "to": 385,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    93,
+    93
+   ],
+   "printed": "II *11-12* 265; III 28 ff.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 11,
+     "to": 12,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 265,
+     "to": 265,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 28,
+     "to": 30,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    94,
+    94
+   ],
+   "printed": "II *13-14*.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 13,
+     "to": 14,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    95,
+    95
+   ],
+   "printed": "I 163; II *14-16*; III 28 ff. 341 342 391 396.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 163,
+     "to": 163,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 14,
+     "to": 16,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 28,
+     "to": 30,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 341,
+     "to": 341,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 342,
+     "to": 342,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 391,
+     "to": 391,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 396,
+     "to": 396,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    96,
+    96
+   ],
+   "printed": "II 17.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 17,
+     "to": 17,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    97,
+    97
+   ],
+   "printed": "I 78 108 112 114 ff.; II *17-18*; III 363.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 78,
+     "to": 78,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 108,
+     "to": 108,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 112,
+     "to": 112,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 114,
+     "to": 116,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 2,
+     "from": 17,
+     "to": 18,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 363,
+     "to": 363,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    98,
+    98
+   ],
+   "printed": "II 18 ff.; III 338 344.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 18,
+     "to": 20,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 338,
+     "to": 338,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 344,
+     "to": 344,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    102,
+    102
+   ],
+   "printed": "I 182 188; II *21*.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 182,
+     "to": 182,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 188,
+     "to": 188,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 21,
+     "to": 21,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    103,
+    103
+   ],
+   "printed": "I 188; II *103*.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 188,
+     "to": 188,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 103,
+     "to": 103,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    104,
+    104
+   ],
+   "printed": "I 188; II 22; III 338 ff. 342 384.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 188,
+     "to": 188,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 22,
+     "to": 22,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 338,
+     "to": 340,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 342,
+     "to": 342,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 384,
+     "to": 384,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    105,
+    105
+   ],
+   "printed": "II 28.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 28,
+     "to": 28,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    106,
+    106
+   ],
+   "printed": "I 189; II *22-24*.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 189,
+     "to": 189,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 22,
+     "to": 24,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    107,
+    107
+   ],
+   "printed": "II 24-26.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 24,
+     "to": 26,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    108,
+    108
+   ],
+   "printed": "II 26-27.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 26,
+     "to": 27,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    109,
+    109
+   ],
+   "printed": "II 28.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 28,
+     "to": 28,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    110,
+    113
+   ],
+   "printed": "II 36 f.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 36,
+     "to": 37,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    114,
+    114
+   ],
+   "printed": "I 189; II *37* f. 195; III 363 390 393 395 400 403.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 189,
+     "to": 189,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 37,
+     "to": 38,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 195,
+     "to": 195,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 363,
+     "to": 363,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 390,
+     "to": 390,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 393,
+     "to": 393,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 395,
+     "to": 395,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 400,
+     "to": 400,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 403,
+     "to": 403,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    115,
+    115
+   ],
+   "printed": "II 38 f.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 38,
+     "to": 39,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    116,
+    116
+   ],
+   "printed": "II 40 f. 111; III 423.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 40,
+     "to": 41,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 111,
+     "to": 111,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 423,
+     "to": 423,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    118,
+    118
+   ],
+   "printed": "I 184 189; II 32.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 184,
+     "to": 184,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 189,
+     "to": 189,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 32,
+     "to": 32,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    119,
+    119
+   ],
+   "printed": "I 162.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 162,
+     "to": 162,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    120,
+    120
+   ],
+   "printed": "II 33.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 33,
+     "to": 33,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    121,
+    126
+   ],
+   "printed": "I 189; II *33* bis *35*; III 34 ff. 195 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 189,
+     "to": 189,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 33,
+     "to": 35,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 34,
+     "to": 36,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 195,
+     "to": 196,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    128,
+    128
+   ],
+   "printed": "I 171.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 171,
+     "to": 171,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    129,
+    129
+   ],
+   "printed": "I 171 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 171,
+     "to": 172,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    130,
+    130
+   ],
+   "printed": "I 164 f. 169 170.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 164,
+     "to": 165,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 169,
+     "to": 169,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 170,
+     "to": 170,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    131,
+    131
+   ],
+   "printed": "I 170.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 170,
+     "to": 170,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    133,
+    133
+   ],
+   "printed": "I 172.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 172,
+     "to": 172,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    135,
+    135
+   ],
+   "printed": "II 20 *83* f. *96-100* 102 ff. 106 f. 151 169 f.; III 347.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 20,
+     "to": 20,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 83,
+     "to": 84,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 96,
+     "to": 100,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 102,
+     "to": 104,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 2,
+     "from": 106,
+     "to": 107,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 151,
+     "to": 151,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 169,
+     "to": 170,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 347,
+     "to": 347,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    136,
+    136
+   ],
+   "printed": "II 105 107 f.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 105,
+     "to": 105,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 107,
+     "to": 108,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    137,
+    137
+   ],
+   "printed": "II *106* 265.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 106,
+     "to": 106,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 265,
+     "to": 265,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    138,
+    138
+   ],
+   "printed": "II 106.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 106,
+     "to": 106,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    139,
+    139
+   ],
+   "printed": "II 106 114 f.; III 385.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 106,
+     "to": 106,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 114,
+     "to": 115,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 385,
+     "to": 385,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    140,
+    140
+   ],
+   "printed": "II 108 ff.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 108,
+     "to": 110,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    141,
+    141
+   ],
+   "printed": "II 110 ff.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 110,
+     "to": 112,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    142,
+    142
+   ],
+   "printed": "II 112 ff.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 112,
+     "to": 114,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    144,
+    144
+   ],
+   "printed": "II 110 *115* f.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 110,
+     "to": 110,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 115,
+     "to": 116,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    145,
+    145
+   ],
+   "printed": "II 112 *117* ff.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 112,
+     "to": 112,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 117,
+     "to": 119,
+     "main": true,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    146,
+    146
+   ],
+   "printed": "I 163; II 113 f. *119* bis *124*.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 163,
+     "to": 163,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 113,
+     "to": 114,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 119,
+     "to": 124,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    147,
+    147
+   ],
+   "printed": "II 105 *124* ff.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 105,
+     "to": 105,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 124,
+     "to": 126,
+     "main": true,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    148,
+    148
+   ],
+   "printed": "II 105.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 105,
+     "to": 105,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    150,
+    150
+   ],
+   "printed": "II 127; III 363 381.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 127,
+     "to": 127,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 363,
+     "to": 363,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 381,
+     "to": 381,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    151,
+    151
+   ],
+   "printed": "II 127; III 381.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 127,
+     "to": 127,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 381,
+     "to": 381,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    152,
+    152
+   ],
+   "printed": "II 127 f.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 127,
+     "to": 128,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    153,
+    153
+   ],
+   "printed": "II 129 f.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 129,
+     "to": 130,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    154,
+    154
+   ],
+   "printed": "II *130* ff.; III 79 ff. *84* ff. 95 ff. *420* f.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 130,
+     "to": 132,
+     "main": true,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 79,
+     "to": 81,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 84,
+     "to": 86,
+     "main": true,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 95,
+     "to": 97,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 420,
+     "to": 421,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    155,
+    155
+   ],
+   "printed": "II *132-136*; III 372 380 385 420 f.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 132,
+     "to": 136,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 372,
+     "to": 372,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 380,
+     "to": 380,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 385,
+     "to": 385,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 420,
+     "to": 421,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    156,
+    156
+   ],
+   "printed": "II 136.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 136,
+     "to": 136,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    157,
+    157
+   ],
+   "printed": "II 136 f.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 136,
+     "to": 137,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    158,
+    158
+   ],
+   "printed": "II 149 f. 164 ff.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 149,
+     "to": 150,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 164,
+     "to": 166,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    159,
+    159
+   ],
+   "printed": "I 173; II 149 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 173,
+     "to": 173,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 149,
+     "to": 150,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    161,
+    161
+   ],
+   "printed": "I 173.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 173,
+     "to": 173,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    162,
+    162
+   ],
+   "printed": "I 190; II 5.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 190,
+     "to": 190,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 5,
+     "to": 5,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    163,
+    163
+   ],
+   "printed": "II 102 169.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 102,
+     "to": 102,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 169,
+     "to": 169,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    164,
+    164
+   ],
+   "printed": "I 181; II 170.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 181,
+     "to": 181,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 170,
+     "to": 170,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    165,
+    167
+   ],
+   "printed": "I 91 112 137 226; II 6 ff.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 91,
+     "to": 91,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 112,
+     "to": 112,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 137,
+     "to": 137,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 226,
+     "to": 226,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 6,
+     "to": 8,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    165,
+    165
+   ],
+   "printed": "II 173-176.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 173,
+     "to": 176,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    166,
+    166
+   ],
+   "printed": "II 131 *176-180*.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 131,
+     "to": 131,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 176,
+     "to": 180,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    167,
+    167
+   ],
+   "printed": "I 116 f. 189; II *180-184*; III *13* ff. 83 91 f. 363 369 ff. 378 381 385 392 f. 397.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 116,
+     "to": 117,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 189,
+     "to": 189,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 180,
+     "to": 184,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 13,
+     "to": 15,
+     "main": true,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 83,
+     "to": 83,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 91,
+     "to": 92,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 363,
+     "to": 363,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 369,
+     "to": 371,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 378,
+     "to": 378,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 381,
+     "to": 381,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 385,
+     "to": 385,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 392,
+     "to": 393,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 397,
+     "to": 397,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    168,
+    168
+   ],
+   "printed": "II 184 f.; III 385.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 184,
+     "to": 185,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 385,
+     "to": 385,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    169,
+    169
+   ],
+   "printed": "II 20 105 *185* f.; III 79 ff. *84* ff. 95 ff.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 20,
+     "to": 20,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 105,
+     "to": 105,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 185,
+     "to": 186,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 79,
+     "to": 81,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 84,
+     "to": 86,
+     "main": true,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 95,
+     "to": 97,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    170,
+    170
+   ],
+   "printed": "II 186.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 186,
+     "to": 186,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    171,
+    172
+   ],
+   "printed": "II *187*.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 187,
+     "to": 187,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    173,
+    174
+   ],
+   "printed": "II 187.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 187,
+     "to": 187,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    175,
+    178
+   ],
+   "printed": "II 142 *188* f.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 142,
+     "to": 142,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 188,
+     "to": 189,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    179,
+    183
+   ],
+   "printed": "II 189 f.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 189,
+     "to": 190,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    184,
+    184
+   ],
+   "printed": "II 190; III 363 369.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 190,
+     "to": 190,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 363,
+     "to": 363,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 369,
+     "to": 369,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    185,
+    185
+   ],
+   "printed": "II 191.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 191,
+     "to": 191,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    186,
+    186
+   ],
+   "printed": "II 191.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 191,
+     "to": 191,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    187,
+    187
+   ],
+   "printed": "II 191.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 191,
+     "to": 191,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    188,
+    188
+   ],
+   "printed": "II 191.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 191,
+     "to": 191,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    189,
+    189
+   ],
+   "printed": "I 78 88 104 105 109 111 112 114 ff. 106; II 170 *192*; III 92 167 f. 338 345 352 *363* 379 380 385.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 78,
+     "to": 78,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 88,
+     "to": 88,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 104,
+     "to": 104,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 105,
+     "to": 105,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 109,
+     "to": 109,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 111,
+     "to": 111,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 112,
+     "to": 112,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 114,
+     "to": 116,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 1,
+     "from": 106,
+     "to": 106,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 170,
+     "to": 170,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 192,
+     "to": 192,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 92,
+     "to": 92,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 167,
+     "to": 168,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 338,
+     "to": 338,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 345,
+     "to": 345,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 352,
+     "to": 352,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 363,
+     "to": 363,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 379,
+     "to": 379,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 380,
+     "to": 380,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 385,
+     "to": 385,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    190,
+    190
+   ],
+   "printed": "III 10.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 10,
+     "to": 10,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    191,
+    191
+   ],
+   "printed": "III 10 ff.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 10,
+     "to": 12,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    193,
+    193
+   ],
+   "printed": "III 5 28 ff.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 5,
+     "to": 5,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 28,
+     "to": 30,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    194,
+    194
+   ],
+   "printed": "III 37.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 37,
+     "to": 37,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    195,
+    195
+   ],
+   "printed": "III 4 5 f. 28.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 4,
+     "to": 4,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 5,
+     "to": 6,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 28,
+     "to": 28,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    196,
+    196
+   ],
+   "printed": "III 4 8 26 f. 35 96 100 109 f. 166 f.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 4,
+     "to": 4,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 8,
+     "to": 8,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 26,
+     "to": 27,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 35,
+     "to": 35,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 96,
+     "to": 96,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 100,
+     "to": 100,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 109,
+     "to": 110,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 166,
+     "to": 167,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    197,
+    197
+   ],
+   "printed": "III 5 f.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 5,
+     "to": 6,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    199,
+    199
+   ],
+   "printed": "I 186.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 186,
+     "to": 186,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    201,
+    201
+   ],
+   "printed": "III 18 ff.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 18,
+     "to": 20,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    202,
+    202
+   ],
+   "printed": "III 18 f.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 18,
+     "to": 19,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    203,
+    203
+   ],
+   "printed": "I 3; III 5 *19* 32.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 3,
+     "to": 3,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 5,
+     "to": 5,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 19,
+     "to": 19,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 32,
+     "to": 32,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    204,
+    204
+   ],
+   "printed": "I 163; III 28 f. 34 ff.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 163,
+     "to": 163,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 28,
+     "to": 29,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 34,
+     "to": 36,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    205,
+    205
+   ],
+   "printed": "I 172.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 172,
+     "to": 172,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    206,
+    206
+   ],
+   "printed": "I 170; III 5.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 170,
+     "to": 170,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 5,
+     "to": 5,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    208,
+    208
+   ],
+   "printed": "I 165; III 140 bis 145 152-161.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 165,
+     "to": 165,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 140,
+     "to": 145,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 152,
+     "to": 161,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    209,
+    209
+   ],
+   "printed": "I 173.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 173,
+     "to": 173,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    210,
+    217
+   ],
+   "printed": "III 38 ff. *40* ff.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 38,
+     "to": 40,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 40,
+     "to": 42,
+     "main": true,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    218,
+    220
+   ],
+   "printed": "III 172-181 189 ff.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 172,
+     "to": 181,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 189,
+     "to": 191,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    221,
+    221
+   ],
+   "printed": "III 166 ff.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 166,
+     "to": 168,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    222,
+    222
+   ],
+   "printed": "III 166.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 166,
+     "to": 166,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    223,
+    223
+   ],
+   "printed": "III 166 ff. 187 ff. 189 ff. 211 ff. 232 ff. 268 ff. 293 ff. 310 f. 317 322 ff. 342 ff.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 166,
+     "to": 168,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 187,
+     "to": 189,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 189,
+     "to": 191,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 211,
+     "to": 213,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 232,
+     "to": 234,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 268,
+     "to": 270,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 293,
+     "to": 295,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 310,
+     "to": 311,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 317,
+     "to": 317,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 322,
+     "to": 324,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 342,
+     "to": 344,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    224,
+    224
+   ],
+   "printed": "III 166 ff. 187 ff. 189 ff. 211 ff. 232 ff. 268 ff. 322 ff. 354 ff. 377 ff.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 166,
+     "to": 168,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 187,
+     "to": 189,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 189,
+     "to": 191,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 211,
+     "to": 213,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 232,
+     "to": 234,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 268,
+     "to": 270,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 322,
+     "to": 324,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 354,
+     "to": 356,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 377,
+     "to": 379,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    226,
+    226
+   ],
+   "printed": "III 165 ff. 187 ff.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 165,
+     "to": 167,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 187,
+     "to": 189,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    227,
+    227
+   ],
+   "printed": "I 172; III 165 ff. 187 ff. 195 ff.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 172,
+     "to": 172,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 165,
+     "to": 167,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 187,
+     "to": 189,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 195,
+     "to": 197,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    228,
+    228
+   ],
+   "printed": "I 185; III 165 ff.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 185,
+     "to": 185,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 165,
+     "to": 167,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    229,
+    229
+   ],
+   "printed": "I 165 169 170; III 165 ff.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 165,
+     "to": 165,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 169,
+     "to": 169,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 170,
+     "to": 170,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 165,
+     "to": 167,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    230,
+    230
+   ],
+   "printed": "I 190; III *363-377* 391 f. 396 f. 401 f. 421.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 190,
+     "to": 190,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 363,
+     "to": 377,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 391,
+     "to": 392,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 396,
+     "to": 397,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 401,
+     "to": 402,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 421,
+     "to": 421,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    231,
+    231
+   ],
+   "printed": "III *377-381* 391 396 f. 401 f. 405 f.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 377,
+     "to": 381,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 391,
+     "to": 391,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 396,
+     "to": 397,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 401,
+     "to": 402,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 405,
+     "to": 406,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    232,
+    232
+   ],
+   "printed": "III 381.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 381,
+     "to": 381,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    233,
+    233
+   ],
+   "printed": "I 102; III 367 370 f. *382* ff.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 102,
+     "to": 102,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 367,
+     "to": 367,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 370,
+     "to": 371,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 382,
+     "to": 384,
+     "main": true,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    234,
+    237
+   ],
+   "printed": "I 137 f.; III 367 f. 382 386 ff.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 137,
+     "to": 138,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 367,
+     "to": 368,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 382,
+     "to": 382,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 386,
+     "to": 388,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    234,
+    234
+   ],
+   "printed": "I 93 111; III 15 19 382 386 *389-393* 397 f. 402 407.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 93,
+     "to": 93,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 111,
+     "to": 111,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 15,
+     "to": 15,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 19,
+     "to": 19,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 382,
+     "to": 382,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 386,
+     "to": 386,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 389,
+     "to": 393,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 397,
+     "to": 398,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 402,
+     "to": 402,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 407,
+     "to": 407,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    235,
+    235
+   ],
+   "printed": "III *393-398* 399 ff.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 393,
+     "to": 398,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 399,
+     "to": 401,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    236,
+    236
+   ],
+   "printed": "III 398-402.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 398,
+     "to": 402,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    237,
+    237
+   ],
+   "printed": "I 106; III 29 36 f. 42 62 89 f. 170 381 382 386 387 *402-407* 419.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 106,
+     "to": 106,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 29,
+     "to": 29,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 36,
+     "to": 37,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 42,
+     "to": 42,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 62,
+     "to": 62,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 89,
+     "to": 90,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 170,
+     "to": 170,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 381,
+     "to": 381,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 382,
+     "to": 382,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 386,
+     "to": 386,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 387,
+     "to": 387,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 402,
+     "to": 407,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 419,
+     "to": 419,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    238,
+    238
+   ],
+   "printed": "I 173 174.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 173,
+     "to": 173,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 174,
+     "to": 174,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    239,
+    239
+   ],
+   "printed": "I 173 174 177 179 f. 180.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 173,
+     "to": 173,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 174,
+     "to": 174,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 177,
+     "to": 177,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 179,
+     "to": 180,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 180,
+     "to": 180,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    240,
+    240
+   ],
+   "printed": "I 173 f. 175.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 173,
+     "to": 174,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 175,
+     "to": 175,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    241,
+    241
+   ],
+   "printed": "I 174.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 174,
+     "to": 174,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    242,
+    242
+   ],
+   "printed": "I 174 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 174,
+     "to": 175,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    243,
+    243
+   ],
+   "printed": "I 174.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 174,
+     "to": 174,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    244,
+    244
+   ],
+   "printed": "I 174 175.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 174,
+     "to": 174,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 175,
+     "to": 175,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    245,
+    245
+   ],
+   "printed": "I *175*.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 175,
+     "to": 175,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    246,
+    246
+   ],
+   "printed": "I 174 *175*.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 174,
+     "to": 174,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 175,
+     "to": 175,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    247,
+    247
+   ],
+   "printed": "I 174.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 174,
+     "to": 174,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    248,
+    248
+   ],
+   "printed": "I *176* f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 176,
+     "to": 177,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    249,
+    249
+   ],
+   "printed": "I 177.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 177,
+     "to": 177,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    250,
+    250
+   ],
+   "printed": "I 173.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 173,
+     "to": 173,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    251,
+    251
+   ],
+   "printed": "I 174 *178*.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 174,
+     "to": 174,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 178,
+     "to": 178,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    252,
+    252
+   ],
+   "printed": "I 177 *178*.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 177,
+     "to": 177,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 178,
+     "to": 178,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    253,
+    253
+   ],
+   "printed": "I 178.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 178,
+     "to": 178,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    254,
+    254
+   ],
+   "printed": "I 178.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 178,
+     "to": 178,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    255,
+    255
+   ],
+   "printed": "I 177.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 177,
+     "to": 177,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    256,
+    256
+   ],
+   "printed": "I 177.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 177,
+     "to": 177,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    257,
+    257
+   ],
+   "printed": "I 174 *178*.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 174,
+     "to": 174,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 178,
+     "to": 178,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    258,
+    258
+   ],
+   "printed": "I *178* f. 191 f. 253; III *13* ff. 293 ff. 363 366 *372* 373 *378* f. 381 382 392 f. 397 f. 401 f. 405 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 178,
+     "to": 179,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 191,
+     "to": 192,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 1,
+     "from": 253,
+     "to": 253,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 13,
+     "to": 15,
+     "main": true,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 293,
+     "to": 295,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 363,
+     "to": 363,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 366,
+     "to": 366,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 372,
+     "to": 372,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 373,
+     "to": 373,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 378,
+     "to": 379,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 381,
+     "to": 381,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 382,
+     "to": 382,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 392,
+     "to": 393,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 397,
+     "to": 398,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 401,
+     "to": 402,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 405,
+     "to": 406,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    259,
+    259
+   ],
+   "printed": "I *179*.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 179,
+     "to": 179,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    260,
+    260
+   ],
+   "printed": "I 179.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 179,
+     "to": 179,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    261,
+    261
+   ],
+   "printed": "I 184.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 184,
+     "to": 184,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    262,
+    262
+   ],
+   "printed": "II 21-28.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 21,
+     "to": 28,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    263,
+    263
+   ],
+   "printed": "II 28-30.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 28,
+     "to": 30,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    264,
+    264
+   ],
+   "printed": "II 36-41.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 36,
+     "to": 41,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    265,
+    265
+   ],
+   "printed": "II 41-44.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 41,
+     "to": 44,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    266,
+    266
+   ],
+   "printed": "II 48-53.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 48,
+     "to": 53,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    267,
+    267
+   ],
+   "printed": "II 53-57.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 53,
+     "to": 57,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    268,
+    268
+   ],
+   "printed": "II 65-71.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 65,
+     "to": 71,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    269,
+    269
+   ],
+   "printed": "II 72-75.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 72,
+     "to": 75,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    270,
+    270
+   ],
+   "printed": "II 75-78.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 75,
+     "to": 78,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    271,
+    271
+   ],
+   "printed": "II 85-90.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 85,
+     "to": 90,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    272,
+    272
+   ],
+   "printed": "II 90-96.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 90,
+     "to": 96,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    273,
+    273
+   ],
+   "printed": "II *152-158* 209.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 152,
+     "to": 158,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 209,
+     "to": 209,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    274,
+    274
+   ],
+   "printed": "II 158-163.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 158,
+     "to": 163,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    275,
+    275
+   ],
+   "printed": "II *196-209*; III 241 ff.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 196,
+     "to": 209,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 241,
+     "to": 243,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    276,
+    276
+   ],
+   "printed": "II 209-214.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 209,
+     "to": 214,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    277,
+    277
+   ],
+   "printed": "II 220-227.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 220,
+     "to": 227,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    278,
+    278
+   ],
+   "printed": "II 227-239.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 227,
+     "to": 239,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    279,
+    279
+   ],
+   "printed": "II 245-251.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 245,
+     "to": 251,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    280,
+    280
+   ],
+   "printed": "II 251-257.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 251,
+     "to": 257,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    281,
+    281
+   ],
+   "printed": "II 264-270.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 264,
+     "to": 270,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    282,
+    282
+   ],
+   "printed": "II 270-278.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 270,
+     "to": 278,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    283,
+    283
+   ],
+   "printed": "II 286-292.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 286,
+     "to": 292,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    284,
+    284
+   ],
+   "printed": "II 292-300; III 23 f.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 292,
+     "to": 300,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 23,
+     "to": 24,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    285,
+    285
+   ],
+   "printed": "II 309-317.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 309,
+     "to": 317,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    286,
+    286
+   ],
+   "printed": "II 317-323.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 317,
+     "to": 323,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    287,
+    287
+   ],
+   "printed": "II 336-342.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 336,
+     "to": 342,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    288,
+    288
+   ],
+   "printed": "II 342-350.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 342,
+     "to": 350,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    289,
+    289
+   ],
+   "printed": "III *10-18* 39.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 10,
+     "to": 18,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 39,
+     "to": 39,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    290,
+    290
+   ],
+   "printed": "III 18-27.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 18,
+     "to": 27,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    291,
+    291
+   ],
+   "printed": "III 48-55.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 48,
+     "to": 55,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    292,
+    292
+   ],
+   "printed": "III 55-62.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 55,
+     "to": 62,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    293,
+    293
+   ],
+   "printed": "III 69-77.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 69,
+     "to": 77,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    294,
+    294
+   ],
+   "printed": "III 77-83.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 77,
+     "to": 83,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    295,
+    295
+   ],
+   "printed": "III 91-100.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 91,
+     "to": 100,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    296,
+    296
+   ],
+   "printed": "III 112-120.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 112,
+     "to": 120,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    297,
+    297
+   ],
+   "printed": "III 120-130.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 120,
+     "to": 130,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    298,
+    298
+   ],
+   "printed": "III 140-145.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 140,
+     "to": 145,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    299,
+    299
+   ],
+   "printed": "III 172-181 199.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 172,
+     "to": 181,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 199,
+     "to": 199,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    300,
+    300
+   ],
+   "printed": "III 181-187.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 181,
+     "to": 187,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    301,
+    301
+   ],
+   "printed": "III 200-205.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 200,
+     "to": 205,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    302,
+    302
+   ],
+   "printed": "III 205-211.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 205,
+     "to": 211,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    303,
+    303
+   ],
+   "printed": "III 219-224.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 219,
+     "to": 224,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    304,
+    304
+   ],
+   "printed": "III 225-228.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 225,
+     "to": 228,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    305,
+    305
+   ],
+   "printed": "III 228-232.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 228,
+     "to": 232,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    306,
+    306
+   ],
+   "printed": "III 241-255.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 241,
+     "to": 255,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    307,
+    307
+   ],
+   "printed": "III 255-268.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 255,
+     "to": 268,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    308,
+    311
+   ],
+   "printed": "III 290 bis 311.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 290,
+     "to": 311,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    312,
+    312
+   ],
+   "printed": "III 311-322.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 311,
+     "to": 322,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    313,
+    313
+   ],
+   "printed": "I *245* f.; II 138.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 245,
+     "to": 246,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 138,
+     "to": 138,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    314,
+    314
+   ],
+   "printed": "I *247*; II 139.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 247,
+     "to": 247,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 139,
+     "to": 139,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    315,
+    315
+   ],
+   "printed": "I *247* f.; II 139.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 247,
+     "to": 248,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 139,
+     "to": 139,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    316,
+    316
+   ],
+   "printed": "I *249* f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 249,
+     "to": 250,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    317,
+    317
+   ],
+   "printed": "I *250* f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 250,
+     "to": 251,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    318,
+    320
+   ],
+   "printed": "I *251* f.; III 339 363.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 251,
+     "to": 252,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 339,
+     "to": 339,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 363,
+     "to": 363,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    321,
+    322
+   ],
+   "printed": "I 252 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 252,
+     "to": 253,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    323,
+    324
+   ],
+   "printed": "I 253 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 253,
+     "to": 254,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    325,
+    325
+   ],
+   "printed": "I 254 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 254,
+     "to": 255,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    326,
+    327
+   ],
+   "printed": "I 255 f.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 255,
+     "to": 256,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    328,
+    328
+   ],
+   "printed": "II 138 f.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 138,
+     "to": 139,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    329,
+    329
+   ],
+   "printed": "II *139* f.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 139,
+     "to": 140,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    330,
+    330
+   ],
+   "printed": "II 140 f.; III 398.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 140,
+     "to": 141,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 398,
+     "to": 398,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    331,
+    331
+   ],
+   "printed": "II 141 f.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 141,
+     "to": 142,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    332,
+    332
+   ],
+   "printed": "II 107 *143* f.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 107,
+     "to": 107,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 143,
+     "to": 144,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    333,
+    333
+   ],
+   "printed": "II 144.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 144,
+     "to": 144,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    334,
+    334
+   ],
+   "printed": "II 145.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 145,
+     "to": 145,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    335,
+    335
+   ],
+   "printed": "II 145 f.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 145,
+     "to": 146,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    336,
+    336
+   ],
+   "printed": "II 147 f.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 147,
+     "to": 148,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    337,
+    344
+   ],
+   "printed": "III 38 ff. *42* ff. 363 369.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 38,
+     "to": 40,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 42,
+     "to": 44,
+     "main": true,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 363,
+     "to": 363,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 369,
+     "to": 369,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    345,
+    351
+   ],
+   "printed": "III 38 ff. *45* ff.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 38,
+     "to": 40,
+     "main": false,
+     "open": true
+    },
+    {
+     "vol": 3,
+     "from": 45,
+     "to": 47,
+     "main": true,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    352,
+    352
+   ],
+   "printed": "II 170 195; III *337-342*.",
+   "refs": [
+    {
+     "vol": 2,
+     "from": 170,
+     "to": 170,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 2,
+     "from": 195,
+     "to": 195,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 337,
+     "to": 342,
+     "main": true,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    353,
+    353
+   ],
+   "printed": "I 158; III *342* bis *345* 364 366 425 ff.",
+   "refs": [
+    {
+     "vol": 1,
+     "from": 158,
+     "to": 158,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 342,
+     "to": 345,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 364,
+     "to": 364,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 366,
+     "to": 366,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 425,
+     "to": 427,
+     "main": false,
+     "open": true
+    }
+   ]
+  },
+  {
+   "spex": [
+    354,
+    364
+   ],
+   "printed": "III *346* bis *353* 366.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 346,
+     "to": 353,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 366,
+     "to": 366,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    365,
+    365
+   ],
+   "printed": "III *353-356* 364 366.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 353,
+     "to": 356,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 364,
+     "to": 364,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 366,
+     "to": 366,
+     "main": false,
+     "open": false
+    }
+   ]
+  },
+  {
+   "spex": [
+    366,
+    370
+   ],
+   "printed": "III *356* bis *360* 366 369 372.",
+   "refs": [
+    {
+     "vol": 3,
+     "from": 356,
+     "to": 360,
+     "main": true,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 366,
+     "to": 366,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 369,
+     "to": 369,
+     "main": false,
+     "open": false
+    },
+    {
+     "vol": 3,
+     "from": 372,
+     "to": 372,
+     "main": false,
+     "open": false
+    }
+   ]
+  }
+ ]
+}
