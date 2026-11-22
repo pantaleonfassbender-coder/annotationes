@@ -454,9 +454,11 @@ function viewMethod() {
         <li>Since then: Feder's endnotes (108 notes, pp. 164–185) as a German commentary layer, placed by the page
         that carries each call; a page anchor table for all three volumes of Przywara's <em>Deus semper maior</em>
         (148 anchors, read in the lending scans); selected articles of the <em>Revue d'ascétique et de mystique</em>
-        vols. 1–4 and of <em>Studies in the Spirituality of Jesuits</em>, read and assigned.</li>
+        vols. 1–4 and of <em>Studies in the Spirituality of Jesuits</em>, read and assigned; 28 passages of
+        Jung's <em>Collected Works</em>, read and placed by paragraph (summaries only; Jung quotes the Exercises
+        in Rickaby's second edition).</li>
         <li>Pending: Rickaby's translation; a hand transcription of Przywara's own index of Exercises numbers
-        (vol. III, pp. 438–440); the Jung passages, which have been located but not yet read.</li>
+        (vol. III, pp. 438–440).</li>
       </ul></div>
     <div class="panel"><h2>Licences and data</h2>
       <p class="readable">Code MIT; editorial texts (notes, summaries, introductions) CC BY 4.0; derived data (gloss

@@ -212,9 +212,13 @@ Two layers, both linked rather than reproduced:
    - CW 11: several places between §779 and §958
    - CW 13 §293
    - CW 18 §1536–1549
-   Each becomes a gloss with a deep link into the Jung site, which keeps its own copy-based method.
-   The scan's raw list is not in this folder; it has to be rerun and the passages read before any
-   paragraph mapping is fixed.
+   Done (22 November 2026): the scan was rerun and the passages read; 28 glosses in
+   `data/src/jung_cw.json`, paragraph numbers read from the page, summaries only. Passages where
+   "spiritual exercises" is generic are left out. Findings: Jung quotes the Exercises in Rickaby's
+   second edition (1923) throughout (CW 9ii, 13, 14); the stations cluster on the Foundation [23],
+   the colloquy [53–54], the hell meditation and the senses [65–71, 121–126, 247–248], and, by way
+   of the serpent vision of the Autobiography, on discernment. The deep link into the Jung site
+   waits for the address of the operator's own deploy.
 2. **ETH lectures 1939–40** (Liebscher 2023), tier C. Like Przywara's first volume, they take up the
    *Anima Christi*; whether Jung knew Przywara's work is to be checked in Liebscher's apparatus.
 

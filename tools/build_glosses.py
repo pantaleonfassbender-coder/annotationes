@@ -8,6 +8,7 @@ Sources:
                                    file and is loaded when a card is opened.
   data/feder_notes.json            Feder 1922's endnotes (tools/feder_notes.py).
   data/src/glosses_curated.json    hand-written glosses (notes CC BY 4.0).
+  data/src/jung_cw.json            Jung's Collected Works, passages read (tier C: summaries only).
   data/src/journals.json           Zeitschrift für Aszese und Mystik and
                                    Geist und Leben articles, assigned from
                                    their titles (built by tools/journals.py).
@@ -86,6 +87,7 @@ for i, a in enumerate(PZ['anchors']):
     })
 
 out += load(D('src', 'glosses_curated.json'))['glosses']
+out += load(D('src', 'jung_cw.json'))['glosses']
 if os.path.exists(D('src', 'journals.json')):
     out += load(D('src', 'journals.json'))['glosses']
 
