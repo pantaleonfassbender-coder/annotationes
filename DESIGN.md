@@ -203,6 +203,10 @@ a rights check before anything beyond tier D (UK rule for works first published 
   highest (smoothed; the commentaries give 2,389 of the units). The panel gives the strongest neighbours,
   the spread over the parts of the book and over decades, the paragraphs where a concept is most frequent,
   and the glosses that use it.
+- **Timeline** (`#/timeline`), after Ignatiana's (22 November 2026): 34 stations in five lines (popes,
+  commentaries and translations, journals, history and sources, psychology/philosophy/literature), four eras
+  split at 1928, 1946 and 1965, six dashed crossings that glosses or records document. Two stations are
+  events of the grid, not works: the Monumenta text of 1919 and the numbering of 1928.
 - **Bibliography** (`#/bibliography`, `tools/build_bibliography.py`): the editions behind the text, the
   works, every journal article in the margin (104), the journals, and three studies named in the notes,
   in APA 7 style, filterable, with BibTeX and RIS export built in the browser.

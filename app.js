@@ -85,7 +85,7 @@ function route() {
   view.innerHTML = "";
   const fn = { "": viewHome, spex: () => viewReader(+a || 23), book: viewBook, works: () => a ? viewWork(decodeURIComponent(a)) : viewWorks,
     paths: () => viewPaths(a && decodeURIComponent(a)), intro: viewIntro,
-    atlas: () => viewAtlas(a && decodeURIComponent(a)), bibliography: viewBibliography,
+    atlas: () => viewAtlas(a && decodeURIComponent(a)), bibliography: viewBibliography, timeline: viewTimeline,
     method: viewMethod, imprint: viewImprint, privacy: viewPrivacy }[r];
   if (!fn) { viewHome(); return; }
   const res = fn();
@@ -427,6 +427,114 @@ function viewWork(id) {
   view.append(box);
   const list = box.querySelector(".list");
   gs.slice(0, 400).forEach(g => list.append(glossCard(g, { showRange: true })));
+}
+
+/* ============================================================ TIMELINE */
+/* After the timeline of Ignatiana: the works of the apparatus in time, in five lines, with the
+   crossings the apparatus itself documents. Dates are editorial anchors: the year of the work,
+   spans where it appeared over years. Editorial matter, CC BY 4.0. */
+const TL_LINES = [
+  ["church", "The popes", "--fam-church"],
+  ["comm", "Commentaries and translations", "--fam-commentary"],
+  ["journ", "Journals", "--fam-journal"],
+  ["hist", "History and sources", "--fam-history"],
+  ["thought", "Psychology, philosophy, literature", "--fam-psychology"],
+];
+const TL = [
+  { id: "ryf", l: "journ", y: 1901, jahr: "1901–", kurz: "Razón y Fe" },
+  { id: "watrigant", l: "hist", y: 1906, jahr: "1906–", kurz: "Bibliothèque des Exercices" },
+  { id: "torti-1909", l: "comm", y: 1909, jahr: "1909", kurz: "Torti" },
+  { id: "rickaby-1915", l: "comm", y: 1915, jahr: "1915/1923", kurz: "Rickaby" },
+  { id: "joyce-1916", l: "thought", y: 1916, jahr: "1916", kurz: "Joyce, Portrait" },
+  { id: "monumenta", l: "hist", y: 1919, jahr: "1919", kurz: "Monumenta: the critical text", href: "#/method" },
+  { id: "longridge-1919", l: "comm", y: 1919.5, jahr: "1919", kurz: "Longridge" },
+  { id: "ram", l: "journ", y: 1920, jahr: "1920–", kurz: "Revue d'ascétique" },
+  { id: "feder-1922", l: "comm", y: 1922, jahr: "1922", kurz: "Feder" },
+  { id: "pius11-1922", l: "church", y: 1922.5, jahr: "1922", kurz: "Summorum Pontificum" },
+  { id: "marcos-1923", l: "thought", y: 1923, jahr: "1923", kurz: "Marcos" },
+  { id: "przywara-1925", l: "comm", y: 1925, jahr: "1925", kurz: "Przywara, Majestas Divina" },
+  { id: "codina-1926", l: "hist", y: 1926, jahr: "1926", kurz: "Codina, Orígenes" },
+  { id: "zam", l: "journ", y: 1926.5, jahr: "1926–1944", kurz: "Zeitschrift für Aszese und Mystik" },
+  { id: "numbering", l: "hist", y: 1928, jahr: "1928", kurz: "The numbers [1]–[370]", href: "#/method" },
+  { id: "pius11-1929", l: "church", y: 1929, jahr: "1929", kurz: "Mens nostra" },
+  { id: "przywara-dsm", l: "comm", y: 1938, jahr: "1938–1940", kurz: "Przywara, Deus semper maior" },
+  { id: "jung-eth", l: "thought", y: 1939, jahr: "1939–40", kurz: "Jung, ETH lectures" },
+  { id: "balthasar-1946", l: "comm", y: 1946, jahr: "1946", kurz: "Balthasar" },
+  { id: "iparraguirre", l: "hist", y: 1946.5, jahr: "1946–1973", kurz: "Iparraguirre, Historia" },
+  { id: "gul", l: "journ", y: 1947, jahr: "1947–", kurz: "Geist und Leben" },
+  { id: "hrahner-1947", l: "hist", y: 1947.5, jahr: "1947", kurz: "Hugo Rahner" },
+  { id: "puhl-1951", l: "comm", y: 1951, jahr: "1951", kurz: "Puhl" },
+  { id: "jung-cw", l: "thought", y: 1953, jahr: "1935–57", kurz: "Jung, Collected Works" },
+  { id: "krahner-1956", l: "thought", y: 1956, jahr: "1956", kurz: "Karl Rahner, Logik" },
+  { id: "fessard-1956", l: "thought", y: 1956.5, jahr: "1956–1966", kurz: "Fessard, Dialectique" },
+  { id: "hopkins", l: "thought", y: 1959, jahr: "1880–81 (pr. 1959)", kurz: "Hopkins" },
+  { id: "theway", l: "journ", y: 1961, jahr: "1961–", kurz: "The Way" },
+  { id: "krahner-1965", l: "comm", y: 1965, jahr: "1965", kurz: "Karl Rahner, Betrachtungen" },
+  { id: "peters-1967", l: "comm", y: 1967, jahr: "1967", kurz: "Peters" },
+  { id: "studies", l: "journ", y: 1969, jahr: "1969–", kurz: "Studies" },
+  { id: "barthes-1971", l: "thought", y: 1971, jahr: "1971", kurz: "Barthes" },
+  { id: "certeau-1973", l: "thought", y: 1973, jahr: "1973", kurz: "Certeau" },
+  { id: "fleming-1978", l: "comm", y: 1978, jahr: "1978", kurz: "Fleming" },
+];
+const TL_ERAS = [
+  { until: 1928, titel: "Before the numbering (to 1927)" },
+  { until: 1946, titel: "The interwar journals and the war (1928–1945)" },
+  { until: 1965, titel: "After the war (1946–1964)" },
+  { until: 9999, titel: "The Council and after (1965–1978)" },
+];
+/* Crossings the apparatus documents; each names the gloss or record that carries it. */
+const TL_CROSS = [
+  { from: "watrigant", to: "ryf", href: "#/works/ryf", titel: "Razón y Fe (1909) reports on Watrigant's library of the Exercises at Enghien" },
+  { from: "monumenta", to: "ram", href: "#/works/ram", titel: "The Revue d'ascétique (1920) greets the critical edition of the Exercises" },
+  { from: "ryf", to: "codina-1926", href: "#/paths/sources", titel: "Arturo Codina writes on the sources in Razón y Fe (1915–17) before his book on the origins of 1926" },
+  { from: "rickaby-1915", to: "jung-cw", href: "#/works/jung-cw", titel: "Jung quotes the Exercises in Rickaby's second edition (1923)" },
+  { from: "pius11-1929", to: "zam", href: "#/paths/king", titel: "Mens nostra translated and introduced in the Zeitschrift (Bleienstein, 1930)" },
+  { from: "przywara-dsm", to: "zam", href: "#/works/przywara-dsm", titel: "Engert discusses Przywara's Theologie der Exerzitien in the Zeitschrift (1941)" },
+];
+function viewTimeline() {
+  const CX = { church: 140, comm: 300, journ: 470, hist: 640, thought: 820 };
+  const W = 960, ROW = 40, ERAROW = 42, TOP = 46;
+  const rows = [...TL].sort((a, b) => a.y - b.y);
+  let yy = TOP, eraIdx = -1;
+  const bands = [], pos = {};
+  for (const r of rows) {
+    const e = TL_ERAS.findIndex(x => r.y < x.until);
+    if (e !== eraIdx) { eraIdx = e; bands.push({ y: yy, titel: TL_ERAS[e].titel }); yy += ERAROW; }
+    pos[r.id] = { x: CX[r.l], y: yy + ROW / 2 };
+    yy += ROW;
+  }
+  const H = yy + 16;
+  const colour = Object.fromEntries(TL_LINES.map(([l, , c]) => [l, c]));
+  const spines = TL_LINES.map(([l]) => { const ys = rows.filter(r => r.l === l).map(r => pos[r.id].y);
+    return `<line x1="${CX[l]}" x2="${CX[l]}" y1="${Math.min(...ys)}" y2="${Math.max(...ys)}" stroke="var(${colour[l]})" stroke-width="2" stroke-opacity=".3"/>`; }).join("");
+  const bandSvg = bands.map(b => `<text x="20" y="${b.y + 28}" font-family="var(--serif)" font-size="14" font-style="italic" fill="var(--fg3)">${esc(b.titel)}</text>
+    <line x1="20" x2="${W - 20}" y1="${b.y + 36}" y2="${b.y + 36}" stroke="var(--line)"/>`).join("");
+  const crossSvg = TL_CROSS.map(c => { const a = pos[c.from], b = pos[c.to];
+    const bow = a.x === b.x ? a.x - 78 : (a.x + b.x) / 2;
+    return `<a href="${c.href}"><path d="M ${a.x} ${a.y} C ${bow} ${a.y + (b.y - a.y) * .25}, ${bow} ${a.y + (b.y - a.y) * .75}, ${b.x} ${b.y}"
+      fill="none" stroke="var(--fg3)" stroke-width="1.4" stroke-dasharray="4 4" stroke-opacity=".75"><title>${esc(c.titel)}</title></path></a>`; }).join("");
+  const dotSvg = rows.map(r => { const p = pos[r.id], right = r.l !== "thought", w = D.byWork[r.id] || {};
+    return `<a href="${r.href || "#/works/" + r.id}"><title>${esc(w.author ? w.author + " — " : "")}${esc(w.title || r.kurz)}</title>
+      <text x="96" y="${p.y + 4}" text-anchor="end" font-family="var(--mono)" font-size="11" fill="var(--fg3)">${esc(r.jahr)}</text>
+      <circle cx="${p.x}" cy="${p.y}" r="5.5" fill="var(${colour[r.l]})" stroke="var(--bg)" stroke-width="1.5"/>
+      <text x="${p.x + (right ? 14 : -14)}" y="${p.y + 4.5}" text-anchor="${right ? "start" : "end"}" font-family="var(--serif)" font-size="13.5"
+        fill="var(--fg)" paint-order="stroke" stroke="var(--bg)" stroke-width="4" stroke-linejoin="round">${esc(r.kurz)}</text></a>`; }).join("");
+  const headSvg = TL_LINES.map(([l, t]) => `<text x="${CX[l]}" y="24" text-anchor="middle" font-size="12" font-weight="600" fill="var(--fg2)">${esc(t)}</text>`).join("");
+  view.append(el(`<div>
+    <div class="viewhead"><span class="tag">Chronology</span><h1>Timeline — five lines, 1901–1978</h1>
+      <p class="lede">The apparatus in time, after the timeline of Ignatiana. The century opens with journals and commentaries written
+      without paragraph numbers; the critical text of 1919 and the numbering of 1928 give the readings a common grid; the German journal
+      carries the interwar years and the war; after 1945 the Exercises pass to theology, psychology and the critics. Dashed arcs mark
+      crossings the apparatus itself documents; every station opens its record.</p></div>
+    <div class="tlwrap panel" style="padding:1rem .4rem">
+      <svg class="tl" viewBox="0 0 ${W} ${H}" role="img" aria-label="Chronological chart of the works of the apparatus in five lines, 1901 to 1978">
+        ${headSvg}${bandSvg}${spines}${crossSvg}${dotSvg}</svg></div>
+    <div class="panel"><h2 style="margin-top:0">The documented crossings</h2>
+      <ul style="margin:.4rem 0 0;padding-left:1.2rem">${TL_CROSS.map(c => `<li style="margin-bottom:.45rem"><a href="${c.href}">${esc(TL.find(x => x.id === c.from).kurz)}
+        → ${esc(TL.find(x => x.id === c.to).kurz)}</a>: ${esc(c.titel)}.</li>`).join("")}</ul>
+      <p class="fine" style="margin:.8rem 0 0">Dates are editorial anchors: the year of a work, a span where it appeared over years, the
+      founding year of a journal. The chart spaces stations by order, not by elapsed time. Two stations are not works but events of the
+      grid: the critical text of the Monumenta (1919) and the paragraph numbers of 1928.</p></div></div>`));
 }
 
 /* ============================================================ ATLAS */

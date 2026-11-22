@@ -211,3 +211,12 @@ table.dist td.barcell{width:38%}
 .biblist .tier{display:inline-block;font-size:.7rem;font-weight:600;border-radius:4px;padding:0 .3rem;border:1px solid currentColor}
 .biblist .tA{color:var(--tA)} .biblist .tB{color:var(--tB)} .biblist .tC{color:var(--tC)} .biblist .tD{color:var(--tD)}
 @media (max-width:600px){.biblist li{padding-left:0;text-indent:0} table.dist td.barcell{width:30%}}
+
+/* ---------- timeline (after Ignatiana) ---------- */
+:root{--fam-church:#b28fb0}
+html[data-theme="light"]{--fam-church:#7a4f73}
+.tlwrap{overflow-x:auto}
+.tl{width:100%;min-width:740px;display:block}
+.tl a{cursor:pointer}
+.tl a circle{transition:r .12s}
+.tl a:hover circle{r:8px}
