@@ -133,7 +133,7 @@ function viewHome() {
       </ol>
     </div>
     <h2 style="margin-top:1.6rem">Plates</h2>
-    <div class="plates">${["spex", "rickaby-1915", "joyce-1916", "longridge-1919", "pius11-1922", "pius11-1929"].map(plateFig).join("")}</div>
+    <div class="plates">${["spex", "rickaby-1915", "joyce-1916", "longridge-1919", "pius11-1922", "pius11-1929", "ryf", "codina-1926", "torti-1909", "marcos-1923"].map(plateFig).join("")}</div>
   </div>`));
 }
 
@@ -455,6 +455,7 @@ function viewPaths(id) {
       <div class="viewhead"><span class="tag"><a href="#/paths">Reading paths</a> · ${i + 1} of ${P.length}</span>
         <h1>${esc(p.title)}</h1><p class="lede">${esc(p.question)}</p></div>
       <div class="panel"><p class="readable">${esc(p.intro)}</p></div>
+      ${p.plate && (D.plates || {})[p.plate] ? `<div style="max-width:30rem">${plateFig(p.plate)}</div>` : ""}
       <ol class="stations"></ol>
       <p class="fine">${i > 0 ? `← <a href="#/paths/${esc(P[i - 1].id)}">${esc(P[i - 1].title)}</a>` : ""}
         ${i < P.length - 1 ? ` &nbsp; <a href="#/paths/${esc(P[i + 1].id)}">${esc(P[i + 1].title)}</a> →` : ""}</p></div>`);

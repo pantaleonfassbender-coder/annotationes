@@ -7,9 +7,9 @@ licensable; every plate names its source, scan and leaf.
 
 The 1548 title page is taken over from Ignatiana (same source, same leaf).
 
-Usage: python tools/build_plates.py          (needs the network and Pillow)
+Usage: python tools/build_plates.py [id ...]  (needs the network and Pillow; with ids, only those)
 """
-import io, json, os, urllib.request
+import io, json, os, sys, urllib.request
 from PIL import Image
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -39,6 +39,27 @@ PLATES = [
   'caption': "The first page of the encyclical Mens nostra on the Spiritual Exercises, 20 December 1929.",
   'credit': "Acta Apostolicae Sedis 21 (1929), p. 689. Internet Archive sim_acta-apostolicae-sedis_1929-12-31_21_16, "
             "leaf 10. Public domain."},
+ {'id': 'ryf', 'url': ia('raznyfe41madruoft', 480, 1100),
+  'caption': "The first page of Arturo Codina's article on the Two Standards in Razón y Fe (1915): the opening of "
+             "the sources debate in Spanish.",
+  'credit': "Razón y Fe 41 (1915), p. 474. Internet Archive raznyfe41madruoft (University of Toronto), leaf 480. "
+            "Public domain."},
+ {'id': 'codina-1926', 'url': ia('losorigenesdelos0000part', 9, 1100),
+  'caption': "Title page of Arturo Codina's Los orígenes de los Ejercicios espirituales, the first volume of the "
+             "historical library of the Biblioteca Balmes, Barcelona 1926.",
+  'credit': "Arturo Codina, Los orígenes de los Ejercicios espirituales de S. Ignacio de Loyola (Barcelona: "
+            "Biblioteca Balmes, 1926). Internet Archive losorigenesdelos0000part, leaf 9. Public domain."},
+ {'id': 'torti-1909', 'url': ia('esercizispiritua0000pcar', 5, 1100),
+  'caption': "Title page of Carlo Torti's Esercizi spirituali, the four weeks 'ristretti nello spazio di otto "
+             "giorni', 1909.",
+  'credit': "Carlo Torti, Esercizi spirituali di Sant'Ignazio di Loiola ristretti nello spazio di otto giorni "
+            "(1909). Internet Archive esercizispiritua0000pcar, leaf 5. Public domain."},
+ {'id': 'marcos-1923',
+  'url': 'https://gutenberg.pglaf.org/6/3/3/5/63359/63359-h/images/ill_004.jpg',
+  'caption': "'La Vírgen Santísima dictando a San Ignacio los «Ejercicios»': the tradition that the Virgin dictated "
+             "the book at Manresa, in a painting Marcos reproduces in 1923 (artist not named); he reports the tradition as probable.",
+  'credit': "Benjamín Marcos, San Ignacio de Loyola (Madrid: Caro Raggio, 1923), illustration at p. 73, a halftone of a painting. Project "
+            "Gutenberg 63359, image ill_004 (from the gutenberg.pglaf.org mirror). US public domain (published 1923)."},
 ]
 SPEX = {'id': 'spex',
         'caption': "The editio princeps: Exercitia spiritualia, Rome 1548, the Vulgate's title page with the IHS "
@@ -68,6 +89,8 @@ except FileNotFoundError:
     reg = {}
 reg[SPEX['id']] = {'caption': SPEX['caption'], 'credit': SPEX['credit']}
 for p in PLATES:
+    if sys.argv[1:] and p['id'] not in sys.argv[1:]:
+        continue
     im = fetch(p['url'])
     im.save(os.path.join(OUT, p['id'] + '.jpg'), quality=82, optimize=True, progressive=True)
     t = im.copy(); t.thumbnail((360, 360))

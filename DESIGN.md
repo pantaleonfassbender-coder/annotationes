@@ -217,6 +217,11 @@ a rights check before anything beyond tier D (UK rule for works first published 
   the running commentaries the Two Standards, the Three Classes and the thirteenth rule are thinly glossed.
 - **Plates from the start** (public domain): title pages of the Vulgate 1548, Rickaby 1915, Longridge
   1919, Joyce 1916; AAS pages of 1922 and 1929; retreat houses before 1931 (verify images).
+  Added 22 November 2026 (`tools/build_plates.py ryf codina-1926 torti-1909 marcos-1923`): the first page
+  of Codina's Two Standards article in Razón y Fe (1915), the title pages of Codina 1926 and Torti 1909, and
+  the illustration in Marcos 1923 of the Virgin dictating the Exercises, which also heads the sources path
+  (a path may name a `plate`). Feder 1922 has none: the title page of the only free scan (University of
+  Chicago microfilm) is overexposed.
 - **Data download** as one archive with manifest, as in Ignatiana.
 
 ## 7. The Jung line
