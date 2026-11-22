@@ -1,0 +1,2782 @@
+{
+"_note": "Bibliography of the apparatus (tools/build_bibliography.py). APA 7 style; *…* marks italics. CC0.",
+"groups": {
+"text": "The text at the centre",
+"works": "Works in the apparatus",
+"articles": "Journal articles in the margin",
+"journals": "Journals",
+"cited": "Studies named in the notes"
+},
+"entries": [
+{
+"group": "text",
+"sort": "exercitia 1919",
+"apa": "*Exercitia spiritualia S. Ignatii de Loyola et eorum directoria* (1919). Monumenta Historica Societatis Iesu, Monumenta Ignatiana, ser. II. Madrid. The Autograph and the Vulgate of 1548 as edited there.",
+"note": "Textus hispanus (Autographum), Monumenta Ignatiana ser. II (Madrid 1919), pp. 220 sqq. Vulgata versio (Romae 1548), ex eadem editione Monumenta Ignatiana (Madrid 1919).",
+"url": "",
+"tier": "A",
+"here": "#/spex/1",
+"bib": {
+"type": "book",
+"title": "Exercitia spiritualia S. Ignatii de Loyola et eorum directoria",
+"year": "1919",
+"address": "Madrid",
+"series": "Monumenta Historica Societatis Iesu, Monumenta Ignatiana, ser. II"
+}
+},
+{
+"group": "text",
+"sort": "ignatius feder-1922",
+"apa": "Feder, A. (1922). *Ignatius von Loyola, Geistliche Übungen. Nach dem spanischen Urtext übertragen, eingeleitet und mit Anmerkungen versehen*. 2nd, improved and enlarged edition (3rd–5th thousand). Regensburg: Verlagsanstalt vorm. G. J. Manz, 1922.",
+"note": "German text in the reader",
+"url": "https://archive.org/details/MN5044ucmf_5",
+"tier": "A",
+"here": "#/works/feder-1922",
+"bib": {
+"type": "book",
+"author": [
+"Alfred Feder"
+],
+"title": "Ignatius von Loyola, Geistliche Übungen. Nach dem spanischen Urtext übertragen, eingeleitet und mit Anmerkungen versehen",
+"year": "1922",
+"note": "2nd, improved and enlarged edition (3rd–5th thousand). Regensburg: Verlagsanstalt vorm. G. J. Manz, 1922"
+}
+},
+{
+"group": "text",
+"sort": "ignatius mullan 1914",
+"apa": "Ignatius of Loyola. (1914). *The Spiritual Exercises of St. Ignatius of Loyola* (E. Mullan, Trans.). P. J. Kenedy.",
+"note": "The Spiritual Exercises of St. Ignatius of Loyola, translated from the Autograph by Elder Mullan, S.J. (New York: P. J. Kenedy, 1914), text of the Christian Classics Ethereal Library, checked against the 1914 printing.",
+"url": "",
+"tier": "A",
+"here": "#/spex/1",
+"bib": {
+"type": "book",
+"author": [
+"Ignatius of Loyola"
+],
+"title": "The Spiritual Exercises of St. Ignatius of Loyola",
+"year": "1914",
+"publisher": "P. J. Kenedy",
+"address": "New York",
+"note": "Translated by Elder Mullan"
+}
+},
+{
+"group": "text",
+"sort": "ignatius rickaby-1915",
+"apa": "Rickaby, J. (1915). *The Spiritual Exercises of St. Ignatius Loyola: Spanish and English, with a Continuous Commentary*. First edition 1915; second edition London: Burns Oates & Washbourne, 1923, which is the text used here. Page numbers are those of 1923.",
+"note": "second English text in the reader",
+"url": "https://books.google.com/books?id=F7kHAQAAIAAJ",
+"tier": "A",
+"here": "#/works/rickaby-1915",
+"bib": {
+"type": "book",
+"author": [
+"Joseph Rickaby"
+],
+"title": "The Spiritual Exercises of St. Ignatius Loyola: Spanish and English, with a Continuous Commentary",
+"year": "1915",
+"note": "First edition 1915; second edition London: Burns Oates & Washbourne, 1923, which is the text used here. Page numbers are those of 1923"
+}
+},
+{
+"group": "works",
+"sort": "balthasar, h. u. von 1946",
+"apa": "Balthasar, H. U. von (Trans.). (1946). *Ignatius von Loyola, Die Exerzitien*. Luzern 1946; later Einsiedeln: Johannes Verlag (Sigillum 1), 4th ed. 1962.",
+"note": "reference; translation-atlas candidate",
+"url": "",
+"tier": "C",
+"here": "#/works/balthasar-1946",
+"bib": {
+"type": "book",
+"author": [
+"Hans Urs von Balthasar"
+],
+"title": "Ignatius von Loyola, Die Exerzitien",
+"year": "1946",
+"note": "Luzern 1946; later Einsiedeln: Johannes Verlag (Sigillum 1), 4th ed. 1962"
+}
+},
+{
+"group": "works",
+"sort": "barthes, r. 1971",
+"apa": "Barthes, R. (1971). *Sade, Fourier, Loyola*. Paris: Seuil, 1971.",
+"note": "reference",
+"url": "",
+"tier": "C",
+"here": "#/works/barthes-1971",
+"bib": {
+"type": "book",
+"author": [
+"Roland Barthes"
+],
+"title": "Sade, Fourier, Loyola",
+"year": "1971",
+"note": "Paris: Seuil, 1971"
+}
+},
+{
+"group": "works",
+"sort": "certeau, m. de 1973",
+"apa": "Certeau, M. de. (1973). *L'espace du désir ou le « fondement » des Exercices spirituels*. Christus, 1973.",
+"note": "reference",
+"url": "",
+"tier": "C",
+"here": "#/works/certeau-1973",
+"bib": {
+"type": "book",
+"author": [
+"Michel de Certeau"
+],
+"title": "L'espace du désir ou le « fondement » des Exercices spirituels",
+"year": "1973",
+"note": "Christus, 1973"
+}
+},
+{
+"group": "works",
+"sort": "codina, a. 1926",
+"apa": "Codina, A. (1926). *Los orígenes de los Ejercicios espirituales de San Ignacio de Loyola. Estudio histórico*. Barcelona: Biblioteca Balmes, 1926 (its historical library, vol. 1).",
+"note": "in the apparatus by the book's own subject index (18 anchors)",
+"url": "https://archive.org/details/losorigenesdelos0000part",
+"tier": "A",
+"here": "#/works/codina-1926",
+"bib": {
+"type": "book",
+"author": [
+"Arturo Codina"
+],
+"title": "Los orígenes de los Ejercicios espirituales de San Ignacio de Loyola. Estudio histórico",
+"year": "1926",
+"note": "Barcelona: Biblioteca Balmes, 1926 (its historical library, vol. 1)"
+}
+},
+{
+"group": "works",
+"sort": "feder, a. 1922",
+"apa": "Feder, A. (1922). *Ignatius von Loyola, Geistliche Übungen. Nach dem spanischen Urtext übertragen, eingeleitet und mit Anmerkungen versehen*. 2nd, improved and enlarged edition (3rd–5th thousand). Regensburg: Verlagsanstalt vorm. G. J. Manz, 1922.",
+"note": "in the apparatus: German layer of the centre text, paragraph-exact on [1]–[370]; his 108 endnotes (pp. 164–185) as glosses, placed by the page of the call",
+"url": "https://archive.org/details/MN5044ucmf_5",
+"tier": "A",
+"here": "#/works/feder-1922",
+"bib": {
+"type": "book",
+"author": [
+"Alfred Feder"
+],
+"title": "Ignatius von Loyola, Geistliche Übungen. Nach dem spanischen Urtext übertragen, eingeleitet und mit Anmerkungen versehen",
+"year": "1922",
+"note": "2nd, improved and enlarged edition (3rd–5th thousand). Regensburg: Verlagsanstalt vorm. G. J. Manz, 1922"
+}
+},
+{
+"group": "works",
+"sort": "fessard, g. 1956",
+"apa": "Fessard, G. (1956–1966). *La dialectique des Exercices spirituels de saint Ignace de Loyola*. Vol. 1 1956, vol. 2 1966 (vol. 3 1984).",
+"note": "reference",
+"url": "",
+"tier": "C",
+"here": "#/works/fessard-1956",
+"bib": {
+"type": "book",
+"author": [
+"Gaston Fessard"
+],
+"title": "La dialectique des Exercices spirituels de saint Ignace de Loyola",
+"year": "1956",
+"note": "Vol. 1 1956, vol. 2 1966 (vol. 3 1984)"
+}
+},
+{
+"group": "works",
+"sort": "fleming, d. l. 1978",
+"apa": "Fleming, D. L. (1978). *The Spiritual Exercises of St. Ignatius: A Literal Translation and a Contemporary Reading*. St. Louis: Institute of Jesuit Sources, 1978.",
+"note": "reference; closes the working frame",
+"url": "",
+"tier": "C",
+"here": "#/works/fleming-1978",
+"bib": {
+"type": "book",
+"author": [
+"David L. Fleming"
+],
+"title": "The Spiritual Exercises of St. Ignatius: A Literal Translation and a Contemporary Reading",
+"year": "1978",
+"note": "St. Louis: Institute of Jesuit Sources, 1978"
+}
+},
+{
+"group": "works",
+"sort": "hopkins, g. m. 1959",
+"apa": "Hopkins, G. M. (1959). *Notes on the Spiritual Exercises*. Written 1880–81; first published in The Sermons and Devotional Writings, ed. Christopher Devlin (1959).",
+"note": "reference; rights check needed",
+"url": "",
+"tier": "D",
+"here": "#/works/hopkins",
+"bib": {
+"type": "book",
+"author": [
+"Gerard Manley Hopkins"
+],
+"title": "Notes on the Spiritual Exercises",
+"year": "1959",
+"note": "Written 1880–81; first published in The Sermons and Devotional Writings, ed. Christopher Devlin (1959)"
+}
+},
+{
+"group": "works",
+"sort": "iparraguirre, i. 1946",
+"apa": "Iparraguirre, I. (1946–1973). *Historia de los Ejercicios de San Ignacio*. 3 vols., 1946–1973.",
+"note": "reference",
+"url": "",
+"tier": "C",
+"here": "#/works/iparraguirre",
+"bib": {
+"type": "book",
+"author": [
+"Ignacio Iparraguirre"
+],
+"title": "Historia de los Ejercicios de San Ignacio",
+"year": "1946",
+"note": "3 vols., 1946–1973"
+}
+},
+{
+"group": "works",
+"sort": "joyce, j. 1916",
+"apa": "Joyce, J. (1916). *A Portrait of the Artist as a Young Man, chapter III (the retreat)*. New York: B. W. Huebsch, 1916. Page numbers follow the copy scanned, the fifth printing of the Huebsch edition (September 1922).",
+"note": "in the apparatus (key passages)",
+"url": "https://archive.org/details/aportraitartist00joycgoog",
+"tier": "A",
+"here": "#/works/joyce-1916",
+"bib": {
+"type": "book",
+"author": [
+"James Joyce"
+],
+"title": "A Portrait of the Artist as a Young Man, chapter III (the retreat)",
+"year": "1916",
+"note": "New York: B. W. Huebsch, 1916. Page numbers follow the copy scanned, the fifth printing of the Huebsch edition (September 1922)"
+}
+},
+{
+"group": "works",
+"sort": "jung, c. g. 1939",
+"apa": "Jung, C. G. (1939–1940). *Lectures on the Exercitia spiritualia, ETH Zurich, winter 1939–40*. Published as: Jung on Ignatius of Loyola's Spiritual Exercises. Lectures Delivered at ETH Zurich, Volume 7: 1939–1940, ed. Martin Liebscher (Princeton University Press, 2023).",
+"note": "reference; coverage to be mapped",
+"url": "https://press.princeton.edu/books/ebook/9780691244600/jung-on-ignatius-of-loyolas-spiritual-exercises-pdf",
+"tier": "C",
+"here": "#/works/jung-eth",
+"bib": {
+"type": "book",
+"author": [
+"C. G. Jung"
+],
+"title": "Lectures on the Exercitia spiritualia, ETH Zurich, winter 1939–40",
+"year": "1939",
+"note": "Published as: Jung on Ignatius of Loyola's Spiritual Exercises. Lectures Delivered at ETH Zurich, Volume 7: 1939–1940, ed. Martin Liebscher (Princeton University Press, 2023)"
+}
+},
+{
+"group": "works",
+"sort": "jung, c. g. 1953",
+"apa": "Jung, C. G. (1953). *Collected Works: passages on Ignatius and the Exercises*. Bollingen Series XX, 1953–1979; cited by volume and paragraph.",
+"note": "in the apparatus: 28 passages read and placed (paragraph numbers from the page); Jung quotes the Exercises in Rickaby's second edition, 1923",
+"url": "https://analysis-works-jung.netlify.app/",
+"tier": "C",
+"here": "#/works/jung-cw",
+"bib": {
+"type": "book",
+"author": [
+"C. G. Jung"
+],
+"title": "Collected Works: passages on Ignatius and the Exercises",
+"year": "1953",
+"note": "Bollingen Series XX, 1953–1979; cited by volume and paragraph"
+}
+},
+{
+"group": "works",
+"sort": "longridge, w. h. 1919",
+"apa": "Longridge, W. H. (1919). *The Spiritual Exercises of Saint Ignatius of Loyola. Translated from the Spanish with a Commentary and a Translation of the Directorium in Exercitia*. London: Robert Scott, 1919.",
+"note": "in the apparatus",
+"url": "https://archive.org/details/spiritualexercis00igna_4",
+"tier": "A",
+"here": "#/works/longridge-1919",
+"bib": {
+"type": "book",
+"author": [
+"W. H. Longridge"
+],
+"title": "The Spiritual Exercises of Saint Ignatius of Loyola. Translated from the Spanish with a Commentary and a Translation of the Directorium in Exercitia",
+"year": "1919",
+"note": "London: Robert Scott, 1919"
+}
+},
+{
+"group": "works",
+"sort": "marcos, b. 1923",
+"apa": "Marcos, B. (1923). *San Ignacio de Loyola. Biografía, bibliografía, su doctrina filosófica expuesta en los «Ejercicios espirituales», influencia de ésta en el mundo*. Madrid: Imprenta de Caro Raggio, 1923 (Biblioteca filosófica: Los grandes filósofos españoles); prologue by Enrique Vázquez Camarasa.",
+"note": "read in full; 13 glosses by page",
+"url": "https://www.gutenberg.org/ebooks/63359",
+"tier": "A",
+"here": "#/works/marcos-1923",
+"bib": {
+"type": "book",
+"author": [
+"Benjamín Marcos"
+],
+"title": "San Ignacio de Loyola. Biografía, bibliografía, su doctrina filosófica expuesta en los «Ejercicios espirituales», influencia de ésta en el mundo",
+"year": "1923",
+"note": "Madrid: Imprenta de Caro Raggio, 1923 (Biblioteca filosófica: Los grandes filósofos españoles); prologue by Enrique Vázquez Camarasa"
+}
+},
+{
+"group": "works",
+"sort": "peters, w. a. m. 1967",
+"apa": "Peters, W. A. M. (1967). *The Spiritual Exercises of St. Ignatius: Exposition and Interpretation*.",
+"note": "reference",
+"url": "",
+"tier": "C",
+"here": "#/works/peters-1967",
+"bib": {
+"type": "book",
+"author": [
+"William A. M. Peters"
+],
+"title": "The Spiritual Exercises of St. Ignatius: Exposition and Interpretation",
+"year": "1967",
+"note": ""
+}
+},
+{
+"group": "works",
+"sort": "pius xi 1922",
+"apa": "Pius XI. (1922). *Constitutio apostolica Summorum Pontificum: S. Ignatius de Loyola caelestis Exercitiorum spiritualium patronus declaratur*. 25 July 1922. Acta Apostolicae Sedis 14 (1922), pp. 420–422.",
+"note": "in the apparatus (key passages)",
+"url": "https://archive.org/details/sim_acta-apostolicae-sedis_1922-07-25_14_12",
+"tier": "A",
+"here": "#/works/pius11-1922",
+"bib": {
+"type": "book",
+"author": [
+"Pius XI"
+],
+"title": "Constitutio apostolica Summorum Pontificum: S. Ignatius de Loyola caelestis Exercitiorum spiritualium patronus declaratur",
+"year": "1922",
+"note": "25 July 1922. Acta Apostolicae Sedis 14 (1922), pp. 420–422"
+}
+},
+{
+"group": "works",
+"sort": "pius xi 1929",
+"apa": "Pius XI. (1929). *Litterae encyclicae Mens nostra: de usu Exercitiorum spiritualium magis magisque promovendo*. 20 December 1929. Acta Apostolicae Sedis 21 (1929), pp. 689–706.",
+"note": "in the apparatus (key passages)",
+"url": "https://archive.org/details/sim_acta-apostolicae-sedis_1929-12-31_21_16",
+"tier": "A",
+"here": "#/works/pius11-1929",
+"bib": {
+"type": "book",
+"author": [
+"Pius XI"
+],
+"title": "Litterae encyclicae Mens nostra: de usu Exercitiorum spiritualium magis magisque promovendo",
+"year": "1929",
+"note": "20 December 1929. Acta Apostolicae Sedis 21 (1929), pp. 689–706"
+}
+},
+{
+"group": "works",
+"sort": "przywara, e. 1925",
+"apa": "Przywara, E. (1925). *Majestas Divina. Ignatianische Frömmigkeit*.",
+"note": "reference only; no free scan found",
+"url": "",
+"tier": "D",
+"here": "#/works/przywara-1925",
+"bib": {
+"type": "book",
+"author": [
+"Erich Przywara"
+],
+"title": "Majestas Divina. Ignatianische Frömmigkeit",
+"year": "1925",
+"note": ""
+}
+},
+{
+"group": "works",
+"sort": "przywara, e. 1938",
+"apa": "Przywara, E. (1938–1940). *Deus semper maior. Theologie der Exerzitien*. 3 vols. Freiburg im Breisgau: Herder, 1938–1940; 2nd ed. Wien/München: Herold, 1964.",
+"note": "all three volumes anchored page by page from their tables of contents (148 anchors), and his own index of the numbers of the Exercises transcribed (130 further glosses)",
+"url": "https://archive.org/details/deussempermaiort0001eric",
+"tier": "C",
+"here": "#/works/przywara-dsm",
+"bib": {
+"type": "book",
+"author": [
+"Erich Przywara"
+],
+"title": "Deus semper maior. Theologie der Exerzitien",
+"year": "1938",
+"note": "3 vols. Freiburg im Breisgau: Herder, 1938–1940; 2nd ed. Wien/München: Herold, 1964"
+}
+},
+{
+"group": "works",
+"sort": "puhl, l. j. 1951",
+"apa": "Puhl, L. J. (Trans.). (1951). *The Spiritual Exercises of St. Ignatius. Based on Studies in the Language of the Autograph*.",
+"note": "reference; translation-atlas candidate",
+"url": "",
+"tier": "C",
+"here": "#/works/puhl-1951",
+"bib": {
+"type": "book",
+"author": [
+"Louis J. Puhl"
+],
+"title": "The Spiritual Exercises of St. Ignatius. Based on Studies in the Language of the Autograph",
+"year": "1951",
+"note": ""
+}
+},
+{
+"group": "works",
+"sort": "rahner, h. 1947",
+"apa": "Rahner, H. (1947). *Ignatius von Loyola und das geschichtliche Werden seiner Frömmigkeit*.",
+"note": "reference",
+"url": "",
+"tier": "C",
+"here": "#/works/hrahner-1947",
+"bib": {
+"type": "book",
+"author": [
+"Hugo Rahner"
+],
+"title": "Ignatius von Loyola und das geschichtliche Werden seiner Frömmigkeit",
+"year": "1947",
+"note": ""
+}
+},
+{
+"group": "works",
+"sort": "rahner, k. 1956",
+"apa": "Rahner, K. (1956). *Die Logik der existentiellen Erkenntnis bei Ignatius von Loyola*.",
+"note": "reference",
+"url": "",
+"tier": "C",
+"here": "#/works/krahner-1956",
+"bib": {
+"type": "book",
+"author": [
+"Karl Rahner"
+],
+"title": "Die Logik der existentiellen Erkenntnis bei Ignatius von Loyola",
+"year": "1956",
+"note": ""
+}
+},
+{
+"group": "works",
+"sort": "rahner, k. 1965",
+"apa": "Rahner, K. (1965). *Betrachtungen zum ignatianischen Exerzitienbuch*.",
+"note": "reference",
+"url": "",
+"tier": "C",
+"here": "#/works/krahner-1965",
+"bib": {
+"type": "book",
+"author": [
+"Karl Rahner"
+],
+"title": "Betrachtungen zum ignatianischen Exerzitienbuch",
+"year": "1965",
+"note": ""
+}
+},
+{
+"group": "works",
+"sort": "rickaby, j. 1915",
+"apa": "Rickaby, J. (1915). *The Spiritual Exercises of St. Ignatius Loyola: Spanish and English, with a Continuous Commentary*. First edition 1915; second edition London: Burns Oates & Washbourne, 1923, which is the text used here. Page numbers are those of 1923.",
+"note": "in the apparatus: his notes and, as a second English text in the reader, his translation (second edition, 1923)",
+"url": "https://books.google.com/books?id=F7kHAQAAIAAJ",
+"tier": "A",
+"here": "#/works/rickaby-1915",
+"bib": {
+"type": "book",
+"author": [
+"Joseph Rickaby"
+],
+"title": "The Spiritual Exercises of St. Ignatius Loyola: Spanish and English, with a Continuous Commentary",
+"year": "1915",
+"note": "First edition 1915; second edition London: Burns Oates & Washbourne, 1923, which is the text used here. Page numbers are those of 1923"
+}
+},
+{
+"group": "works",
+"sort": "torti, c. 1909",
+"apa": "Torti, C. (1909). *Esercizi spirituali di Sant'Ignazio di Loiola ristretti nello spazio di otto giorni, dichiarati e brevemente commentati*. Issued in fascicles, 1909 (licence of the Turin province, 29 June 1909; imprimatur Turin, 10 July 1909).",
+"note": "in the apparatus by its section heads (18 anchors)",
+"url": "https://archive.org/details/esercizispiritua0000pcar",
+"tier": "A",
+"here": "#/works/torti-1909",
+"bib": {
+"type": "book",
+"author": [
+"Carlo Torti"
+],
+"title": "Esercizi spirituali di Sant'Ignazio di Loiola ristretti nello spazio di otto giorni, dichiarati e brevemente commentati",
+"year": "1909",
+"note": "Issued in fascicles, 1909 (licence of the Turin province, 29 June 1909; imprimatur Turin, 10 July 1909)"
+}
+},
+{
+"group": "works",
+"sort": "watrigant, h. 1906",
+"apa": "Watrigant, H. (Ed.). (1906). *Collection de la Bibliothèque des Exercices de saint Ignace*. Tournai, from 1906; later Enghien (e.g. nos. 52–53, 1914).",
+"note": "series confirmed; no run found online",
+"url": "",
+"tier": "D",
+"here": "#/works/watrigant",
+"bib": {
+"type": "book",
+"author": [
+"Henri Watrigant"
+],
+"title": "Collection de la Bibliothèque des Exercices de saint Ignace",
+"year": "1906",
+"note": "Tournai, from 1906; later Enghien (e.g. nos. 52–53, 1914)"
+}
+},
+{
+"group": "articles",
+"sort": "arbeitskreis von exerzitienleitern 1956",
+"apa": "Arbeitskreis von Exerzitienleitern. (1956). „Exerzitien“, wie Ignatius sie gemeint hat. *Geist und Leben*, *29*, 370–373.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-29-1956/heft-5-september-oktober-40/im-spiegel-der-zeit-arbeitskreis-von-exerzitienleitern-%E2%80%9Eexerzitien%E2%80%9C%2C-wie-ignatius-sie-gemeint-hat-370%E2%88%92373-statistik-370/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Arbeitskreis von Exerzitienleitern"
+],
+"title": "„Exerzitien“, wie Ignatius sie gemeint hat",
+"journal": "Geist und Leben",
+"volume": "29",
+"pages": "370--373",
+"year": "1956"
+}
+},
+{
+"group": "articles",
+"sort": "astrain, a. 1916",
+"apa": "Astrain, A. (1916). San Ignacio de Loyola y la Liturgia. *Razón y Fe*, *44*, 35–46.",
+"note": "read",
+"url": "https://archive.org/details/raznyfe44madruoft/raznyfe44madruoft/page/n40",
+"tier": "A",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Antonio Astrain"
+],
+"title": "San Ignacio de Loyola y la Liturgia",
+"journal": "Razón y Fe",
+"volume": "44",
+"pages": "35--46",
+"year": "1916"
+}
+},
+{
+"group": "articles",
+"sort": "bacht, h. 1956",
+"apa": "Bacht, H. (1956). Der heutige Stand der Forschung über die Entstehung des Exerzitienbuches des hl. Ignatius von Loyola. *Geist und Leben*, *29*, 327–338.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-29-1956/heft-5-september-oktober-40/abhandlungen-heinrich-bacht-der-heutige-stand-der-forschung-%C3%BCber-die-entstehung-des-exerzitienbuches-des-hl-ignatius-von-loyola-327%E2%88%92338/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Heinrich Bacht"
+],
+"title": "Der heutige Stand der Forschung über die Entstehung des Exerzitienbuches des hl. Ignatius von Loyola",
+"journal": "Geist und Leben",
+"volume": "29",
+"pages": "327--338",
+"year": "1956"
+}
+},
+{
+"group": "articles",
+"sort": "bakker, l. 1967",
+"apa": "Bakker, L. (1967). Ignatianische Exerzitien in einer veränderten Welt. *Geist und Leben*, *40*, 286–300.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-40-1967/heft-4-juli-august-53/abhandlungen-leo-bakker-ignatianische-exerzitien-in-einer-ver%C3%A4nderten-welt-286%E2%88%92300/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Leo Bakker"
+],
+"title": "Ignatianische Exerzitien in einer veränderten Welt",
+"journal": "Geist und Leben",
+"volume": "40",
+"pages": "286--300",
+"year": "1967"
+}
+},
+{
+"group": "articles",
+"sort": "baumann, f. 1939",
+"apa": "Baumann, F. (1939). Weisungen und Weisheit in den Vorbemerkungen des Exerzitienbüchleins. *Zeitschrift für Aszese und Mystik*, *14*, 61–68.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-14-1939/heft-1-11/abhandlungen-ferdinand-baumann-weisungen-und-weisheit-in-den-vorbemerkungen-des-exerzitienb%C3%BCchleins-61%E2%88%9268/",
+"tier": "B",
+"here": "#/spex/1",
+"bib": {
+"type": "article",
+"author": [
+"Ferdinand Baumann"
+],
+"title": "Weisungen und Weisheit in den Vorbemerkungen des Exerzitienbüchleins",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "14",
+"pages": "61--68",
+"year": "1939"
+}
+},
+{
+"group": "articles",
+"sort": "bengsch, a. 1969",
+"apa": "Bengsch, A. (1969). Einübung in die Unterscheidung der Geister heute. *Geist und Leben*, *42*, 241–243.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-42-1969/heft-4-juli-august-55/abhandlungen-alfred-bengsch-ein%C3%BCbung-in-die-unterscheidung-der-geister-heute-241%E2%88%92243/",
+"tier": "B",
+"here": "#/spex/313",
+"bib": {
+"type": "article",
+"author": [
+"Alfred Bengsch"
+],
+"title": "Einübung in die Unterscheidung der Geister heute",
+"journal": "Geist und Leben",
+"volume": "42",
+"pages": "241--243",
+"year": "1969"
+}
+},
+{
+"group": "articles",
+"sort": "bernhardt, w. 1932",
+"apa": "Bernhardt, W. (1932). Wiederholungs-Exerzitien. *Zeitschrift für Aszese und Mystik*, *7*, 271–272.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-07-1932/heft-3-10/kleine-beitr%C3%A4ge-wilhelm-bernhardt-wiederholungs-exerzitien-271%E2%88%92272/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Wilhelm Bernhardt"
+],
+"title": "Wiederholungs-Exerzitien",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "7",
+"pages": "271--272",
+"year": "1932"
+}
+},
+{
+"group": "articles",
+"sort": "bernhardt, w. 1934",
+"apa": "Bernhardt, W. (1934). Die Maior Dei Gloria im Exerzitienbuch des hl. Ignatius. *Zeitschrift für Aszese und Mystik*, *9*, 337–348.",
+"note": "read",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-09-1934/heft-4-6/abhandlungen-wilhelm-bernhardt-die-maior-dei-gloria-im-exerzitienbuch-des-hl-ignatius-337%E2%88%92348/",
+"tier": "B",
+"here": "#/spex/23",
+"bib": {
+"type": "article",
+"author": [
+"Wilhelm Bernhardt"
+],
+"title": "Die Maior Dei Gloria im Exerzitienbuch des hl. Ignatius",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "9",
+"pages": "337--348",
+"year": "1934"
+}
+},
+{
+"group": "articles",
+"sort": "bleienstein, h. 1929",
+"apa": "Bleienstein, H. (1929). Eine Synopse zum Exerzitienbuch des heiligen Ignatius. *Zeitschrift für Aszese und Mystik*, *4*, 77–78.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-04-1929/heft-1-15/umschau-h-bleienstein-eine-synopse-zum-exerzitienbuch-des-heiligen-ignatius-77%E2%88%9278/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"H. Bleienstein"
+],
+"title": "Eine Synopse zum Exerzitienbuch des heiligen Ignatius",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "4",
+"pages": "77--78",
+"year": "1929"
+}
+},
+{
+"group": "articles",
+"sort": "bleienstein, h. 1930",
+"apa": "Bleienstein, H. (1930). Das Exerzitien-Rundschreiben unseres Hl. Vaters Papst Pius’ XI. *Zeitschrift für Aszese und Mystik*, *5*, 97–120.",
+"note": "read",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-05-1930/heft-2-11/abhandlungen-heinrich-bleienstein-das-exerzitien-rundschreiben-unseres-hl-vaters-papst-pius%E2%80%99-xi-97%E2%88%92120-deutsche-%C3%BCbersetzung-der-enzyklika-%E2%80%9Emens-nostra%E2%80%9C-vom-20-dez-1929-103%E2%88%92120/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Heinrich Bleienstein"
+],
+"title": "Das Exerzitien-Rundschreiben unseres Hl. Vaters Papst Pius’ XI.",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "5",
+"pages": "97--120",
+"year": "1930"
+}
+},
+{
+"group": "articles",
+"sort": "bominghaus, e. 1926",
+"apa": "Böminghaus, E. (1926). Die Jesusfrömmigkeit nach den Ignatianischen Exerzitien. *Zeitschrift für Aszese und Mystik*, *1*, 323–337.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-01-1926/heft-4-14/abhandlungen-ernst-b%C3%B6minghaus-die-jesusfr%C3%B6mmigkeit-nach-den-ignatianischen-exerzitien-323%E2%88%92337/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Ernst Böminghaus"
+],
+"title": "Die Jesusfrömmigkeit nach den Ignatianischen Exerzitien",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "1",
+"pages": "323--337",
+"year": "1926"
+}
+},
+{
+"group": "articles",
+"sort": "bover, j. m. 1914",
+"apa": "Bover, J. M. (1914). El Reino de Dios y el Reino de Cristo, o el Evangelio y los Ejercicios de San Ignacio. *Razón y Fe*, *39*, 433–442.",
+"note": "read",
+"url": "https://archive.org/details/raznyfe39madruoft/raznyfe39madruoft/page/n440",
+"tier": "A",
+"here": "#/spex/91",
+"bib": {
+"type": "article",
+"author": [
+"José M. Bover"
+],
+"title": "El Reino de Dios y el Reino de Cristo, o el Evangelio y los Ejercicios de San Ignacio",
+"journal": "Razón y Fe",
+"volume": "39",
+"pages": "433--442",
+"year": "1914"
+}
+},
+{
+"group": "articles",
+"sort": "bover, j. m. 1919",
+"apa": "Bover, J. M. (1919). El «Principio y Fundamento» de los «Ejercicios» a la luz de las Epístolas de San Pablo. *Razón y Fe*, *54*, 343–355.",
+"note": "read",
+"url": "https://archive.org/details/raznyfe54madruoft/raznyfe54madruoft/page/n350",
+"tier": "A",
+"here": "#/spex/23",
+"bib": {
+"type": "article",
+"author": [
+"José M. Bover"
+],
+"title": "El «Principio y Fundamento» de los «Ejercicios» a la luz de las Epístolas de San Pablo",
+"journal": "Razón y Fe",
+"volume": "54",
+"pages": "343--355",
+"year": "1919"
+}
+},
+{
+"group": "articles",
+"sort": "bremond, h., & cavallera, f. 1922",
+"apa": "Bremond, H., & Cavallera, F. (1922). École ignatienne et école bérullienne. *Revue d'ascétique et de mystique*, *3*, 420–431.",
+"note": "listed by title",
+"url": "https://archive.org/details/revuedasctique03toul/page/n425",
+"tier": "A",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"H. Bremond and F. Cavallera"
+],
+"title": "École ignatienne et école bérullienne",
+"journal": "Revue d'ascétique et de mystique",
+"volume": "3",
+"pages": "420--431",
+"year": "1922"
+}
+},
+{
+"group": "articles",
+"sort": "brunner, a. 1957",
+"apa": "Brunner, A. (1957). Die Erkenntnis des Willens Gottes nach den Geistlichen Übungen des hl. Ignatius von Loyola. *Geist und Leben*, *30*, 199–212.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-30-1957/heft-3-mai-juni-40/abhandlungen-august-brunner-die-erkenntnis-des-willens-gottes-nach-den-geistlichen-%C3%BCbungen-des-hl-ignatius-von-loyola-199%E2%88%92212/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"August Brunner"
+],
+"title": "Die Erkenntnis des Willens Gottes nach den Geistlichen Übungen des hl. Ignatius von Loyola",
+"journal": "Geist und Leben",
+"volume": "30",
+"pages": "199--212",
+"year": "1957"
+}
+},
+{
+"group": "articles",
+"sort": "cathrein, v. 1930",
+"apa": "Cathrein, V. (1930). Die Anleitung zur Demut in den Exerzitien des heiligen Ignatius. *Zeitschrift für Aszese und Mystik*, *5*, 361–366.",
+"note": "read",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-05-1930/heft-4-10/kleine-beitr%C3%A4ge-viktor-cathrein-die-anleitung-zur-demut-in-den-exerzitien-des-heiligen-ignatius-361%E2%88%92366/",
+"tier": "B",
+"here": "#/spex/165",
+"bib": {
+"type": "article",
+"author": [
+"Viktor Cathrein"
+],
+"title": "Die Anleitung zur Demut in den Exerzitien des heiligen Ignatius",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "5",
+"pages": "361--366",
+"year": "1930"
+}
+},
+{
+"group": "articles",
+"sort": "cavallera, f. 1922",
+"apa": "Cavallera, F. (1922). La spiritualité des Exercices. *Revue d'ascétique et de mystique*, *3*, 357–380.",
+"note": "listed by title",
+"url": "https://archive.org/details/revuedasctique03toul/page/n362",
+"tier": "A",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"F. Cavallera"
+],
+"title": "La spiritualité des Exercices",
+"journal": "Revue d'ascétique et de mystique",
+"volume": "3",
+"pages": "357--380",
+"year": "1922"
+}
+},
+{
+"group": "articles",
+"sort": "chastonay, p. von 1929",
+"apa": "Chastonay, P. von. (1929). Henri Bremonds Auffassung der Ignatianischen Exerzitien. *Zeitschrift für Aszese und Mystik*, *4*, 252–263.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-04-1929/heft-3-13/abhandlungen-paul-von-chastonay-henri-bremonds-auffassung-der-ignatianischen-exerzitien-252%E2%88%92263/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Paul von Chastonay"
+],
+"title": "Henri Bremonds Auffassung der Ignatianischen Exerzitien",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "4",
+"pages": "252--263",
+"year": "1929"
+}
+},
+{
+"group": "articles",
+"sort": "codina, a. 1915",
+"apa": "Codina, A. (1915). ¿La meditación de «Dos Banderas» es de San Ignacio o de un anónimo? *Razón y Fe*, *41*, 474–487.",
+"note": "read",
+"url": "https://archive.org/details/raznyfe41madruoft/raznyfe41madruoft/page/n479",
+"tier": "A",
+"here": "#/spex/136",
+"bib": {
+"type": "article",
+"author": [
+"Arturo Codina"
+],
+"title": "¿La meditación de «Dos Banderas» es de San Ignacio o de un anónimo?",
+"journal": "Razón y Fe",
+"volume": "41",
+"pages": "474--487",
+"year": "1915"
+}
+},
+{
+"group": "articles",
+"sort": "codina, a. 1915",
+"apa": "Codina, A. (1915). ¿En Manresa o en París? *Razón y Fe*, *43*, 202–219.",
+"note": "read",
+"url": "https://archive.org/details/raznyfe43madruoft/raznyfe43madruoft/page/n207",
+"tier": "A",
+"here": "#/spex/136",
+"bib": {
+"type": "article",
+"author": [
+"Arturo Codina"
+],
+"title": "¿En Manresa o en París?",
+"journal": "Razón y Fe",
+"volume": "43",
+"pages": "202--219",
+"year": "1915"
+}
+},
+{
+"group": "articles",
+"sort": "codina, a. 1917",
+"apa": "Codina, A. (1917). Los «Ejercicios» de San Ignacio y el «Ejercitatorio» de Cisneros. *Razón y Fe*, *48*, 286–299.",
+"note": "read",
+"url": "https://archive.org/details/raznyfe48madruoft/raznyfe48madruoft/page/n291",
+"tier": "A",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Arturo Codina"
+],
+"title": "Los «Ejercicios» de San Ignacio y el «Ejercitatorio» de Cisneros",
+"journal": "Razón y Fe",
+"volume": "48",
+"pages": "286--299",
+"year": "1917"
+}
+},
+{
+"group": "articles",
+"sort": "codina, a. 1917",
+"apa": "Codina, A. (1917). Los «Ejercicios» de San Ignacio y el «Ejercitatorio» de Cisneros (conclusion). *Razón y Fe*, *49*, 16–29.",
+"note": "read",
+"url": "https://archive.org/details/raznyfe49madruoft/raznyfe49madruoft/page/n21",
+"tier": "A",
+"here": "#/spex/47",
+"bib": {
+"type": "article",
+"author": [
+"Arturo Codina"
+],
+"title": "Los «Ejercicios» de San Ignacio y el «Ejercitatorio» de Cisneros (conclusion)",
+"journal": "Razón y Fe",
+"volume": "49",
+"pages": "16--29",
+"year": "1917"
+}
+},
+{
+"group": "articles",
+"sort": "codina, m. 1904",
+"apa": "Codina, M. (1904). Una solución del problema social. *Razón y Fe*, *9*, 426–442.",
+"note": "read",
+"url": "https://archive.org/details/raznyfe09madruoft/raznyfe09madruoft/page/n431",
+"tier": "A",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Matías Codina"
+],
+"title": "Una solución del problema social",
+"journal": "Razón y Fe",
+"volume": "9",
+"pages": "426--442",
+"year": "1904"
+}
+},
+{
+"group": "articles",
+"sort": "communaute de taize 1960",
+"apa": "Communauté de Taizé. (1960). Einführung in die Exerzitien. *Geist und Leben*, *33*, 37–48.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-33-1960/heft-1-januar-februar-43/abhandlungen-communaut%C3%A9-de-taiz%C3%A9-einf%C3%BChrung-in-die-exerzitien-37%E2%88%9248-anmerkung-der-schriftleitung-37/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Communauté de Taizé"
+],
+"title": "Einführung in die Exerzitien",
+"journal": "Geist und Leben",
+"volume": "33",
+"pages": "37--48",
+"year": "1960"
+}
+},
+{
+"group": "articles",
+"sort": "crumbach, k. 1969",
+"apa": "Crumbach, K. (1969). Ein ignatianisches Wort als Frage an unseren Glauben. *Geist und Leben*, *42*, 321–328.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-42-1969/heft-5-september-oktober-53/abhandlungen-karl-heinz-crumbach-ein-ignatianisches-wort-als-frage-an-unseren-glauben-321%E2%88%92328/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Karl-Heinz Crumbach"
+],
+"title": "Ein ignatianisches Wort als Frage an unseren Glauben",
+"journal": "Geist und Leben",
+"volume": "42",
+"pages": "321--328",
+"year": "1969"
+}
+},
+{
+"group": "articles",
+"sort": "debuchy, p. 1920",
+"apa": "Debuchy, P. (1920). Review of Monumenta Historica S.J., Exercitia spiritualia (Madrid 1919). *Revue d'ascétique et de mystique*, *1*, 87–91.",
+"note": "listed by title",
+"url": "https://archive.org/details/revuedasctique01toul/page/n92",
+"tier": "A",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"P. Debuchy"
+],
+"title": "Review of Monumenta Historica S.J., Exercitia spiritualia (Madrid 1919)",
+"journal": "Revue d'ascétique et de mystique",
+"volume": "1",
+"pages": "87--91",
+"year": "1920"
+}
+},
+{
+"group": "articles",
+"sort": "deneffe, a. 1931",
+"apa": "Deneffe, A. (1931). Wie Maria die Exerzitien lebte. *Zeitschrift für Aszese und Mystik*, *6*, 279–280.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-06-1931/heft-3-11/kleine-beitr%C3%A4ge-august-deneffe-wie-maria-die-exerzitien-lebte-279%E2%88%92280/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"August Deneffe"
+],
+"title": "Wie Maria die Exerzitien lebte",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "6",
+"pages": "279--280",
+"year": "1931"
+}
+},
+{
+"group": "articles",
+"sort": "die deutschen bischofe 1956",
+"apa": "Die deutschen Bischöfe. (1956). Hirtenwort der Bischöfe Deutschlands über die Notwendigkeit und den Segen der Exerzitien. *Geist und Leben*, *29*, 379–382.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-29-1956/heft-5-september-oktober-40/aus-dem-leben-der-kirche-die-deutschen-bisch%C3%B6fe-hirtenwort-der-bisch%C3%B6fe-deutschlands-%C3%BCber-die-notwendigkeit-und-den-segen-der-exerzitien-379%E2%88%92382/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Die deutschen Bischöfe"
+],
+"title": "Hirtenwort der Bischöfe Deutschlands über die Notwendigkeit und den Segen der Exerzitien",
+"journal": "Geist und Leben",
+"volume": "29",
+"pages": "379--382",
+"year": "1956"
+}
+},
+{
+"group": "articles",
+"sort": "dorr, k. r. 1958",
+"apa": "Dorr, K. R. (1958). Vorexerzitien. *Geist und Leben*, *31*, 64–74.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-31-1958/heft-1-januar-februar-41/ein%C3%BCbung-und-weisung-karl-r-dorr-vorexerzitien-64%E2%88%9274/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Karl R. Dorr"
+],
+"title": "Vorexerzitien",
+"journal": "Geist und Leben",
+"volume": "31",
+"pages": "64--74",
+"year": "1958"
+}
+},
+{
+"group": "articles",
+"sort": "endean, p. 2002",
+"apa": "Endean, P. (2002). The Concept of Ignatian Mysticism: Beyond Rahner and de Guibert. *The Way Supplement*, *103*.",
+"note": "read",
+"url": "https://www.theway.org.uk/back/s103Endean.pdf",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Philip Endean"
+],
+"title": "The Concept of Ignatian Mysticism: Beyond Rahner and de Guibert",
+"journal": "The Way Supplement",
+"volume": "103",
+"pages": "",
+"year": "2002"
+}
+},
+{
+"group": "articles",
+"sort": "engert, j. 1941",
+"apa": "Engert, J. (1941). GOTT UND WELT. Bemerkungen zu E. Przywara’s „Theologie der Exerzitien“. *Zeitschrift für Aszese und Mystik*, *16*, 147–163.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-16-1941/heft-3-1/abhandlungen-josef-engert-gott-und-welt-bemerkungen-zu-e-przywara%E2%80%99s-%E2%80%9Etheologie-der-exerzitien%E2%80%9C-147%E2%88%92163/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Josef Engert"
+],
+"title": "GOTT UND WELT. Bemerkungen zu E. Przywara’s „Theologie der Exerzitien“",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "16",
+"pages": "147--163",
+"year": "1941"
+}
+},
+{
+"group": "articles",
+"sort": "erasmi, b. 1949",
+"apa": "Erasmi, B. (1949). Die „Unterscheidung der Geister“ als Grundbedingung christlicher Mündigkeit. *Geist und Leben*, *22*, 204–216.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-22-1949/heft-3-mai-juni-31/abhandlungen-bernhard-erasmi-die-%E2%80%9Eunterscheidung-der-geister%E2%80%9C-als-grundbedingung-christlicher-m%C3%BCndigkeit-204%E2%88%92216/",
+"tier": "B",
+"here": "#/spex/313",
+"bib": {
+"type": "article",
+"author": [
+"Bernhard Erasmi"
+],
+"title": "Die „Unterscheidung der Geister“ als Grundbedingung christlicher Mündigkeit",
+"journal": "Geist und Leben",
+"volume": "22",
+"pages": "204--216",
+"year": "1949"
+}
+},
+{
+"group": "articles",
+"sort": "faber, e. 1993",
+"apa": "Faber, E. (1993). Deus semper maior. Erich Przywaras Theologie der Exerzitien. *Geist und Leben*, *66*, 208–227.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-66-1993/heft-3-mai-juni-16/abhandlungen-eva-maria-faber-deus-semper-maior-erich-przywaras-theologie-der-exerzitien-208%E2%88%92227/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Eva-Maria Faber"
+],
+"title": "Deus semper maior. Erich Przywaras Theologie der Exerzitien",
+"journal": "Geist und Leben",
+"volume": "66",
+"pages": "208--227",
+"year": "1993"
+}
+},
+{
+"group": "articles",
+"sort": "fraling, b. 1974",
+"apa": "Fraling, B. (1974). Gruppenexerzitien – ein Versuch. *Geist und Leben*, *47*, 468–473.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-47-1974/heft-6-november-dezember-38/ein%C3%BCbung-und-weisung-bernhard-fraling-gruppenexerzitien-%E2%80%93-ein-versuch-468%E2%88%92473/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Bernhard Fraling"
+],
+"title": "Gruppenexerzitien – ein Versuch",
+"journal": "Geist und Leben",
+"volume": "47",
+"pages": "468--473",
+"year": "1974"
+}
+},
+{
+"group": "articles",
+"sort": "futrell, j. c. 1970",
+"apa": "Futrell, J. C. (1970). Ignatian Discernment. *Studies in the Spirituality of Jesuits*, *II/2*.",
+"note": "listed by title",
+"url": "https://web.bc.edu/jsdc/jsl/ssj_19700401.pdf",
+"tier": "B",
+"here": "#/spex/313",
+"bib": {
+"type": "article",
+"author": [
+"John Carroll Futrell"
+],
+"title": "Ignatian Discernment",
+"journal": "Studies in the Spirituality of Jesuits",
+"volume": "II/2",
+"pages": "",
+"year": "1970"
+}
+},
+{
+"group": "articles",
+"sort": "futrell, j. c. 1972",
+"apa": "Futrell, J. C. (1972). Communal Discernment: Reflections on Experience. *Studies in the Spirituality of Jesuits*, *IV/5*.",
+"note": "listed by title",
+"url": "https://web.bc.edu/jsdc/jsl/ssj_19721101.pdf",
+"tier": "B",
+"here": "#/spex/169",
+"bib": {
+"type": "article",
+"author": [
+"John Carroll Futrell"
+],
+"title": "Communal Discernment: Reflections on Experience",
+"journal": "Studies in the Spirituality of Jesuits",
+"volume": "IV/5",
+"pages": "",
+"year": "1972"
+}
+},
+{
+"group": "articles",
+"sort": "ganss, g. e. 1969",
+"apa": "Ganss, G. E. (1969). The Authentic Spiritual Exercises of St. Ignatius: Some Facts of History and Terminology Basic to Their Functional Efficacy Today. *Studies in the Spirituality of Jesuits*, *I/2*.",
+"note": "listed by title",
+"url": "https://web.bc.edu/jsdc/jsl/ssj_19691101.pdf",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"George E. Ganss"
+],
+"title": "The Authentic Spiritual Exercises of St. Ignatius: Some Facts of History and Terminology Basic to Their Functional Efficacy Today",
+"journal": "Studies in the Spirituality of Jesuits",
+"volume": "I/2",
+"pages": "",
+"year": "1969"
+}
+},
+{
+"group": "articles",
+"sort": "ganss,, j. h. w. g. e., & orsy, l. 1975",
+"apa": "Ganss,, J. H. W. G. E., & Orsy, L. (1975). On Thinking with the Church Today. *Studies in the Spirituality of Jesuits*, *VII/1*.",
+"note": "listed by title",
+"url": "https://web.bc.edu/jsdc/jsl/ssj_19750101.pdf",
+"tier": "B",
+"here": "#/spex/352",
+"bib": {
+"type": "article",
+"author": [
+"John H. Wright, George E. Ganss, and Ladislas Orsy"
+],
+"title": "On Thinking with the Church Today",
+"journal": "Studies in the Spirituality of Jesuits",
+"volume": "VII/1",
+"pages": "",
+"year": "1975"
+}
+},
+{
+"group": "articles",
+"sort": "gestel, p. van 1959",
+"apa": "Gestel, P. van. (1959). Worin besteht das Wesen der Ignatianischen Exerzitien und sind sie heute noch zeitgemäß? *Geist und Leben*, *32*, 246–260.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-32-1959/heft-4-juli-august-45/abhandlungen-petrus-van-gestel-worin-besteht-das-wesen-der-ignatianischen-exerzitien-und-sind-sie-heute-noch-zeitgem%C3%A4%C3%9F-246%E2%88%92260/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Petrus van Gestel"
+],
+"title": "Worin besteht das Wesen der Ignatianischen Exerzitien und sind sie heute noch zeitgemäß?",
+"journal": "Geist und Leben",
+"volume": "32",
+"pages": "246--260",
+"year": "1959"
+}
+},
+{
+"group": "articles",
+"sort": "grom, b. 1974",
+"apa": "Grom, B. (1974). Das Angebot der Meditationsbewegung, die „Lebensbetrachtung“ und die ignatianischen Exerzitien. *Geist und Leben*, *47*, 352–371.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-47-1974/heft-5-september-oktober-58/abhandlungen-bernhard-grom-das-angebot-der-meditationsbewegung%2C-die-%E2%80%9Elebensbetrachtung%E2%80%9C-und-die-ignatianischen-exerzitien-352%E2%88%92371/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Bernhard Grom"
+],
+"title": "Das Angebot der Meditationsbewegung, die „Lebensbetrachtung“ und die ignatianischen Exerzitien",
+"journal": "Geist und Leben",
+"volume": "47",
+"pages": "352--371",
+"year": "1974"
+}
+},
+{
+"group": "articles",
+"sort": "harrasser, g. 1926",
+"apa": "Harrasser, G. (1926). Zur Exerzitienbewegung. *Zeitschrift für Aszese und Mystik*, *1*, 91–92.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-01-1926/heft-1-18/kleine-beitr%C3%A4ge-g-harrasser-zur-exerzitienbewegung-91%E2%88%9292/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"G. Harrasser"
+],
+"title": "Zur Exerzitienbewegung",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "1",
+"pages": "91--92",
+"year": "1926"
+}
+},
+{
+"group": "articles",
+"sort": "hertling, l. 1931",
+"apa": "Hertling, L. (1931). Exerzitienbücher für deutsche Benediktinerklöster im 17. und 18. Jahrhundert. *Zeitschrift für Aszese und Mystik*, *6*, 170–173.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-06-1931/heft-2-10/kleine-beitr%C3%A4ge-ludwig-hertling-exerzitienb%C3%BCcher-f%C3%BCr-deutsche-benediktinerkl%C3%B6ster-im-17-und-18-jahrhundert-170%E2%88%92173/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Ludwig Hertling"
+],
+"title": "Exerzitienbücher für deutsche Benediktinerklöster im 17. und 18. Jahrhundert",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "6",
+"pages": "170--173",
+"year": "1931"
+}
+},
+{
+"group": "articles",
+"sort": "huonder, a. 1930",
+"apa": "Huonder, A. (1930). Aus dem Gebetsleben des hl. Ignatius von Loyola. Nach einem nachgelassenen Werke des P. Anton Huonder S.J. (†1926), dessen Veröffentlichung P. B. Wilhelm S.J. vorbereitet. *Zeitschrift für Aszese und Mystik*, *5*, 1–16.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-05-1930/heft-1-14/abhandlungen-anton-huonder-aus-dem-gebetsleben-des-hl-ignatius-von-loyola-nach-einem-nachgelassenen-werke-des-p-anton-huonder-s-j-%E2%80%A01926-%2C-dessen-ver%C3%B6ffentlichung-p-b-wilhelm-s-j-vorbereitet-1%E2%88%9216/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Anton Huonder"
+],
+"title": "Aus dem Gebetsleben des hl. Ignatius von Loyola. Nach einem nachgelassenen Werke des P. Anton Huonder S.J. (†1926), dessen Veröffentlichung P. B. Wilhelm S.J. vorbereitet",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "5",
+"pages": "1--16",
+"year": "1930"
+}
+},
+{
+"group": "articles",
+"sort": "keller, a. 1978",
+"apa": "Keller, A. (1978). Zur „Unterscheidung der Geister“ in den Ignatianischen Exerzitien. *Geist und Leben*, *51*, 38–54.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-51-1978/heft-1-januar-februar-61/abhandlungen-albert-keller-zur-%E2%80%9Eunterscheidung-der-geister%E2%80%9C-in-den-ignatianischen-exerzitien-38%E2%88%9254/",
+"tier": "B",
+"here": "#/spex/313",
+"bib": {
+"type": "article",
+"author": [
+"Albert Keller"
+],
+"title": "Zur „Unterscheidung der Geister“ in den Ignatianischen Exerzitien",
+"journal": "Geist und Leben",
+"volume": "51",
+"pages": "38--54",
+"year": "1978"
+}
+},
+{
+"group": "articles",
+"sort": "kellerwessel, p. 1932",
+"apa": "Kellerwessel, P. (1932). Geschichtliches zur Königsbetrachtung des hl. Ignatius. *Zeitschrift für Aszese und Mystik*, *7*, 70–79.",
+"note": "read",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-07-1932/heft-1-12/abhandlungen-paul-kellerwessel-geschichtliches-zur-k%C3%B6nigsbetrachtung-des-hl-ignatius-70%E2%88%9279/",
+"tier": "B",
+"here": "#/spex/91",
+"bib": {
+"type": "article",
+"author": [
+"Paul Kellerwessel"
+],
+"title": "Geschichtliches zur Königsbetrachtung des hl. Ignatius",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "7",
+"pages": "70--79",
+"year": "1932"
+}
+},
+{
+"group": "articles",
+"sort": "kempf, c. 1942",
+"apa": "Kempf, C. (1942). Wesensmerkmale ignatianischer Heiligkeit. *Zeitschrift für Aszese und Mystik*, *17*, 181–198.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-17-1942/heft-4/abhandlungen-constantin-kempf-wesensmerkmale-ignatianischer-heiligkeit-181%E2%88%92198/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Constantin Kempf"
+],
+"title": "Wesensmerkmale ignatianischer Heiligkeit",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "17",
+"pages": "181--198",
+"year": "1942"
+}
+},
+{
+"group": "articles",
+"sort": "kroppenberg, h. 1932",
+"apa": "Kroppenberg, H. (1932). Nochmals: Geschichtliches zur Königsbetrachtung des hl. Ignatius. *Zeitschrift für Aszese und Mystik*, *7*, 364–366.",
+"note": "read",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-07-1932/heft-4-8/kleine-beitr%C3%A4ge-hubert-kroppenberg-nochmals-geschichtliches-zur-k%C3%B6nigsbetrachtung-des-hl-ignatius-364%E2%88%92366/",
+"tier": "B",
+"here": "#/spex/91",
+"bib": {
+"type": "article",
+"author": [
+"Hubert Kroppenberg"
+],
+"title": "Nochmals: Geschichtliches zur Königsbetrachtung des hl. Ignatius",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "7",
+"pages": "364--366",
+"year": "1932"
+}
+},
+{
+"group": "articles",
+"sort": "kunz, e. 1969",
+"apa": "Kunz, E. (1969). Die drei Weisen der Demut in den Exerzitien des hl. Ignatius von Loyola. *Geist und Leben*, *42*, 280–301.",
+"note": "read",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-42-1969/heft-4-juli-august-55/abhandlungen-erhard-kunz-die-drei-weisen-der-demut-in-den-exerzitien-des-hl-ignatius-von-loyola-280%E2%88%92301/",
+"tier": "B",
+"here": "#/spex/164",
+"bib": {
+"type": "article",
+"author": [
+"Erhard Kunz"
+],
+"title": "Die drei Weisen der Demut in den Exerzitien des hl. Ignatius von Loyola",
+"journal": "Geist und Leben",
+"volume": "42",
+"pages": "280--301",
+"year": "1969"
+}
+},
+{
+"group": "articles",
+"sort": "loser, w. 1978",
+"apa": "Löser, W. (1978). Konturen ignatianischer Spiritualität. Zur Exerzitienbetrachtung „um Liebe zu erlangen“. *Geist und Leben*, *51*, 261–269.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-51-1978/heft-4-juli-august-64/abhandlungen-werner-l%C3%B6ser-konturen-ignatianischer-spiritualit%C3%A4t-zur-exerzitienbetrachtung-%E2%80%9Eum-liebe-zu-erlangen%E2%80%9C-261%E2%88%92269/",
+"tier": "B",
+"here": "#/spex/230",
+"bib": {
+"type": "article",
+"author": [
+"Werner Löser"
+],
+"title": "Konturen ignatianischer Spiritualität. Zur Exerzitienbetrachtung „um Liebe zu erlangen“",
+"journal": "Geist und Leben",
+"volume": "51",
+"pages": "261--269",
+"year": "1978"
+}
+},
+{
+"group": "articles",
+"sort": "lotz, joh. bapt. 1935",
+"apa": "Lotz, Joh. Bapt. (1935). Die ignatianische Betrachtungsmethode im Lichte einer gesunden Wertlehre [Teil II]. *Zeitschrift für Aszese und Mystik*, *10*, 112–123.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-10-1935/heft-2-6/abhandlungen-joh-bapt-lotz-die-ignatianische-betrachtungsmethode-im-lichte-einer-gesunden-wertlehre-teil-ii-112%E2%88%92123/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Joh. Bapt. Lotz"
+],
+"title": "Die ignatianische Betrachtungsmethode im Lichte einer gesunden Wertlehre [Teil II]",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "10",
+"pages": "112--123",
+"year": "1935"
+}
+},
+{
+"group": "articles",
+"sort": "manresa, f. de 1918",
+"apa": "Manresa, F. de. (1918). Suárez, asceta: Suárez y el libro de los «Ejercicios». *Razón y Fe*, *51*, 277–290.",
+"note": "read",
+"url": "https://archive.org/details/raznyfe51madruoft/raznyfe51madruoft/page/n282",
+"tier": "A",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"F. de Manresa"
+],
+"title": "Suárez, asceta: Suárez y el libro de los «Ejercicios»",
+"journal": "Razón y Fe",
+"volume": "51",
+"pages": "277--290",
+"year": "1918"
+}
+},
+{
+"group": "articles",
+"sort": "marchetti, o. 1920",
+"apa": "Marchetti, O. (1920). Le seuil de l'ascétique. *Revue d'ascétique et de mystique*, *1*, 40–41.",
+"note": "read",
+"url": "https://archive.org/details/revuedasctique01toul/page/n45",
+"tier": "A",
+"here": "#/spex/1",
+"bib": {
+"type": "article",
+"author": [
+"O. Marchetti"
+],
+"title": "Le seuil de l'ascétique",
+"journal": "Revue d'ascétique et de mystique",
+"volume": "1",
+"pages": "40--41",
+"year": "1920"
+}
+},
+{
+"group": "articles",
+"sort": "martinez, j. a. 1909",
+"apa": "Martínez, J. A. (1909). La Biblioteca de los Ejercicios de San Ignacio de Loyola. *Razón y Fe*, *24*, 277–288.",
+"note": "read",
+"url": "https://archive.org/details/raznyfe24madruoft/raznyfe24madruoft/page/n282",
+"tier": "A",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Juan Antonio Martínez"
+],
+"title": "La Biblioteca de los Ejercicios de San Ignacio de Loyola",
+"journal": "Razón y Fe",
+"volume": "24",
+"pages": "277--288",
+"year": "1909"
+}
+},
+{
+"group": "articles",
+"sort": "merk, a. 1932",
+"apa": "Merk, A. (1932). Gottesliebe und Gottesdienst in den Exerzitien des hl. Ignatius. *Zeitschrift für Aszese und Mystik*, *7*, 117–134.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-07-1932/heft-2-9/abhandlungen-august-merk-gottesliebe-und-gottesdienst-in-den-exerzitien-des-hl-ignatius-117%E2%88%92134/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"August Merk"
+],
+"title": "Gottesliebe und Gottesdienst in den Exerzitien des hl. Ignatius",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "7",
+"pages": "117--134",
+"year": "1932"
+}
+},
+{
+"group": "articles",
+"sort": "meßner, m. 1974",
+"apa": "Meßner, M. (1974). Die ewige Unruhe zum je größeren Gott. Zur Theologie des Gebetes und ihrem ignatianischen Hintergrund nach Karl Rahner. *Geist und Leben*, *47*, 244–256.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-47-1974/heft-4-juli-august-60/abhandlungen-michael-me%C3%9Fner-die-ewige-unruhe-zum-je-gr%C3%B6%C3%9Feren-gott-zur-theologie-des-gebetes-und-ihrem-ignatianischen-hintergrund-nach-karl-rahner-244%E2%88%92256/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Michael Meßner"
+],
+"title": "Die ewige Unruhe zum je größeren Gott. Zur Theologie des Gebetes und ihrem ignatianischen Hintergrund nach Karl Rahner",
+"journal": "Geist und Leben",
+"volume": "47",
+"pages": "244--256",
+"year": "1974"
+}
+},
+{
+"group": "articles",
+"sort": "mulde, n. 1966",
+"apa": "Mulde, N. (1966). Exerzitien in der heutigen Glaubenssituation. *Geist und Leben*, *39*, 143–147.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-39-1966/heft-2-m%C3%A4rz-april-50/im-spiegel-der-zeit-norbert-mulde-exerzitien-in-der-heutigen-glaubenssituation-143%E2%88%92147/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Norbert Mulde"
+],
+"title": "Exerzitien in der heutigen Glaubenssituation",
+"journal": "Geist und Leben",
+"volume": "39",
+"pages": "143--147",
+"year": "1966"
+}
+},
+{
+"group": "articles",
+"sort": "neuner, j. 1952",
+"apa": "Neuner, J. (1952). Indischer und christlicher Gleichmut. Eine vergleichende Studie der Bhagavadgîtâ und der Ignatianischen Exerzitien. *Geist und Leben*, *25*, 439–457.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-25-1952/heft-6-november-dezember-60/abhandlungen-josef-neuner-indischer-und-christlicher-gleichmut-eine-vergleichende-studie-der-bhagavadg%C3%AEt%C3%A2-und-der-ignatianischen-exerzitien-439%E2%80%93457/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Josef Neuner"
+],
+"title": "Indischer und christlicher Gleichmut. Eine vergleichende Studie der Bhagavadgîtâ und der Ignatianischen Exerzitien",
+"journal": "Geist und Leben",
+"volume": "25",
+"pages": "439--457",
+"year": "1952"
+}
+},
+{
+"group": "articles",
+"sort": "neuner, j. 1971",
+"apa": "Neuner, J. (1971). Die kirchliche Dimension der ignatianischen Exerzitien. *Geist und Leben*, *44*, 211–224.",
+"note": "read",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-44-1971/heft-3-mai-juni-54/abhandlungen-josef-neuner-die-kirchliche-dimension-der-ignatianischen-exerzitien-211%E2%88%92224/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Josef Neuner"
+],
+"title": "Die kirchliche Dimension der ignatianischen Exerzitien",
+"journal": "Geist und Leben",
+"volume": "44",
+"pages": "211--224",
+"year": "1971"
+}
+},
+{
+"group": "articles",
+"sort": "noguer, n. 1908",
+"apa": "Noguer, N. (1908). Casas de Ejercicios para obreros en España. *Razón y Fe*, *21*, 197–200.",
+"note": "read",
+"url": "https://archive.org/details/raznyfe21madruoft/raznyfe21madruoft/page/n200",
+"tier": "A",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Narciso Noguer"
+],
+"title": "Casas de Ejercicios para obreros en España",
+"journal": "Razón y Fe",
+"volume": "21",
+"pages": "197--200",
+"year": "1908"
+}
+},
+{
+"group": "articles",
+"sort": "orsy, l. 1973",
+"apa": "Orsy, L. (1973). Toward a Theological Evaluation of Communal Discernment. *Studies in the Spirituality of Jesuits*, *V/5*.",
+"note": "listed by title",
+"url": "https://web.bc.edu/jsdc/jsl/ssj_19731001.pdf",
+"tier": "B",
+"here": "#/spex/169",
+"bib": {
+"type": "article",
+"author": [
+"Ladislas Orsy"
+],
+"title": "Toward a Theological Evaluation of Communal Discernment",
+"journal": "Studies in the Spirituality of Jesuits",
+"volume": "V/5",
+"pages": "",
+"year": "1973"
+}
+},
+{
+"group": "articles",
+"sort": "padberg, j. w. 1978",
+"apa": "Padberg, J. W. (1978). Personal Experience and the Spiritual Exercises: The Example of Saint Ignatius. *Studies in the Spirituality of Jesuits*, *X/5*.",
+"note": "listed by title",
+"url": "https://web.bc.edu/jsdc/jsl/ssj_19781101.pdf",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"John W. Padberg"
+],
+"title": "Personal Experience and the Spiritual Exercises: The Example of Saint Ignatius",
+"journal": "Studies in the Spirituality of Jesuits",
+"volume": "X/5",
+"pages": "",
+"year": "1978"
+}
+},
+{
+"group": "articles",
+"sort": "prat, f. 1921",
+"apa": "Prat, F. (1921). Sur les « trois degrés d'humilité » d'après S. Ignace. *Revue d'ascétique et de mystique*, *2*, 248–255.",
+"note": "listed by title",
+"url": "https://archive.org/details/revuedasctique01toul/page/n673",
+"tier": "A",
+"here": "#/spex/165",
+"bib": {
+"type": "article",
+"author": [
+"F. Prat"
+],
+"title": "Sur les « trois degrés d'humilité » d'après S. Ignace",
+"journal": "Revue d'ascétique et de mystique",
+"volume": "2",
+"pages": "248--255",
+"year": "1921"
+}
+},
+{
+"group": "articles",
+"sort": "przywara, e. 1938",
+"apa": "Przywara, E. (1938). Deus semper maior. Theologie der Exerzitien. *Zeitschrift für Aszese und Mystik*, *13*, 81–94.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-13-1938/heft-2-4/abhandlungen-erich-przywara-deus-semper-maior-theologie-der-exerzitien-81%E2%88%9294/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Erich Przywara"
+],
+"title": "Deus semper maior. Theologie der Exerzitien",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "13",
+"pages": "81--94",
+"year": "1938"
+}
+},
+{
+"group": "articles",
+"sort": "rahner, h. 1942",
+"apa": "Rahner, H. (1942). Ignatius von Loyola und die aszetische Tradition der Kirchenväter. *Zeitschrift für Aszese und Mystik*, *17*, 61–77.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-17-1942/heft-2-1/abhandlungen-hugo-rahner-ignatius-von-loyola-und-die-aszetische-tradition-der-kirchenv%C3%A4ter-61%E2%88%9277/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Hugo Rahner"
+],
+"title": "Ignatius von Loyola und die aszetische Tradition der Kirchenväter",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "17",
+"pages": "61--77",
+"year": "1942"
+}
+},
+{
+"group": "articles",
+"sort": "rahner, h. 1958",
+"apa": "Rahner, H. (1958). Geist und Kirche. Ein Kapitel aus der Theologie des hl. Ignatius von Loyola. *Geist und Leben*, *31*, 117–131.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-31-1958/heft-2-m%C3%A4rz-april-39/abhandlungen-hugo-rahner-geist-und-kirche-ein-kapitel-aus-der-theologie-des-hl-ignatius-von-loyola-117%E2%88%92131/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Hugo Rahner"
+],
+"title": "Geist und Kirche. Ein Kapitel aus der Theologie des hl. Ignatius von Loyola",
+"journal": "Geist und Leben",
+"volume": "31",
+"pages": "117--131",
+"year": "1958"
+}
+},
+{
+"group": "articles",
+"sort": "rahner, h. 1962",
+"apa": "Rahner, H. (1962). Zur Christologie der Exerzitien (Teil II). *Geist und Leben*, *35*, 115–140.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-35-1962/heft-2-m%C3%A4rz-april-46/abhandlungen-hugo-rahner-zur-christologie-der-exerzitien-teil-ii-115%E2%88%92140/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Hugo Rahner"
+],
+"title": "Zur Christologie der Exerzitien (Teil II)",
+"journal": "Geist und Leben",
+"volume": "35",
+"pages": "115--140",
+"year": "1962"
+}
+},
+{
+"group": "articles",
+"sort": "rahner, k. 1937",
+"apa": "Rahner, K. (1937). Die ignatianische Mystik der Weltfreudigkeit. *Zeitschrift für Aszese und Mystik*, *12*, 121–137.",
+"note": "read",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-12-1937/heft-3-5/abhandlungen-karl-rahner-die-ignatianische-mystik-der-weltfreudigkeit-121%E2%88%92137/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Karl Rahner"
+],
+"title": "Die ignatianische Mystik der Weltfreudigkeit",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "12",
+"pages": "121--137",
+"year": "1937"
+}
+},
+{
+"group": "articles",
+"sort": "rahner, k. 1974",
+"apa": "Rahner, K. (1974). Über den geistesgeschichtlichen Ort der ignatianischen Exerzitien heute. *Geist und Leben*, *47*, 430–449.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-47-1974/heft-6-november-dezember-38/abhandlungen-karl-rahner-%C3%BCber-den-geistesgeschichtlichen-ort-der-ignatianischen-exerzitien-heute-430%E2%88%92449/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Karl Rahner"
+],
+"title": "Über den geistesgeschichtlichen Ort der ignatianischen Exerzitien heute",
+"journal": "Geist und Leben",
+"volume": "47",
+"pages": "430--449",
+"year": "1974"
+}
+},
+{
+"group": "articles",
+"sort": "raitz von frentz, e. 1926",
+"apa": "Raitz von Frentz, E. (1926). Exerzitienfragen. *Zeitschrift für Aszese und Mystik*, *1*, 63–69.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-01-1926/heft-1-18/abhandlungen-e-raitz-von-frentz-exerzitienfragen-63%E2%88%9269/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"E. Raitz von Frentz"
+],
+"title": "Exerzitienfragen",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "1",
+"pages": "63--69",
+"year": "1926"
+}
+},
+{
+"group": "articles",
+"sort": "raitz von frentz, e. 1927",
+"apa": "Raitz von Frentz, E. (1927). Sollen die Exerzitien immer Ignatianisch sein? *Zeitschrift für Aszese und Mystik*, *2*, 142–154.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-02-1927/heft-2-14/abhandlungen-e-raitz-v-frentz-sollen-die-exerzitien-immer-ignatianisch-sein-142%E2%88%92154/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"E. Raitz v. Frentz"
+],
+"title": "Sollen die Exerzitien immer Ignatianisch sein?",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "2",
+"pages": "142--154",
+"year": "1927"
+}
+},
+{
+"group": "articles",
+"sort": "raitz von frentz, e. 1931",
+"apa": "Raitz von Frentz, E. (1931). Eine Exerzitienbibliographie. *Zeitschrift für Aszese und Mystik*, *6*, 72–84.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-06-1931/heft-1-13/abhandlungen-e-raitz-v-frentz-eine-exerzitienbibliographie-72%E2%88%9284/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"E. Raitz v. Frentz"
+],
+"title": "Eine Exerzitienbibliographie",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "6",
+"pages": "72--84",
+"year": "1931"
+}
+},
+{
+"group": "articles",
+"sort": "rommerskirch, e. 1947",
+"apa": "Rommerskirch, E. (1947). Der vollkommene Mensch. Gedanken zum vierten Punkt der „Betrachtung zur Erlangung der Liebe“ in den Exerzitien des hl. Ignatius. *Geist und Leben*, *20*, 170–174.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-20-1947/heft-3-oktober/abhandlungen-erich-rommerskirch-der-vollkommene-mensch-gedanken-zum-vierten-punkt-der-%E2%80%9Ebetrachtung-zur-erlangung-der-liebe%E2%80%9C-in-den-exerzitien-des-hl-ignatius-170%E2%88%92174/",
+"tier": "B",
+"here": "#/spex/230",
+"bib": {
+"type": "article",
+"author": [
+"Erich Rommerskirch"
+],
+"title": "Der vollkommene Mensch. Gedanken zum vierten Punkt der „Betrachtung zur Erlangung der Liebe“ in den Exerzitien des hl. Ignatius",
+"journal": "Geist und Leben",
+"volume": "20",
+"pages": "170--174",
+"year": "1947"
+}
+},
+{
+"group": "articles",
+"sort": "schierse, f. j. 1952",
+"apa": "Schierse, F. J. (1952). Übung und Ernstfall in den ignatianischen Exerzitien. *Geist und Leben*, *25*, 305–313.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-25-1952/heft-4-juli-august-38/ein%C3%BCbung-und-weisung-franz-joseph-schierse-%C3%BCbung-und-ernstfall-in-den-ignatianischen-exerzitien-305%E2%80%93313/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Franz Joseph Schierse"
+],
+"title": "Übung und Ernstfall in den ignatianischen Exerzitien",
+"journal": "Geist und Leben",
+"volume": "25",
+"pages": "305--313",
+"year": "1952"
+}
+},
+{
+"group": "articles",
+"sort": "schilgen, h. 1933",
+"apa": "Schilgen, H. (1933). Die Bedeutung der Betrachtung über die Liebe in den Exerzitien des hl. Ignatius. *Zeitschrift für Aszese und Mystik*, *8*, 329–335.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-08-1933/heft-4-7/abhandlungen-hardy-schilgen-die-bedeutung-der-betrachtung-%C3%BCber-die-liebe-in-den-exerzitien-des-hl-ignatius-329%E2%88%92335/",
+"tier": "B",
+"here": "#/spex/230",
+"bib": {
+"type": "article",
+"author": [
+"Hardy Schilgen"
+],
+"title": "Die Bedeutung der Betrachtung über die Liebe in den Exerzitien des hl. Ignatius",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "8",
+"pages": "329--335",
+"year": "1933"
+}
+},
+{
+"group": "articles",
+"sort": "schmitt, r. l. 1974",
+"apa": "Schmitt, R. L. (1974). The Christ-Experience and Relationship Fostered in the Spiritual Exercises of St. Ignatius of Loyola. *Studies in the Spirituality of Jesuits*, *VI/5*.",
+"note": "listed by title",
+"url": "https://web.bc.edu/jsdc/jsl/ssj_19741001.pdf",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Robert L. Schmitt"
+],
+"title": "The Christ-Experience and Relationship Fostered in the Spiritual Exercises of St. Ignatius of Loyola",
+"journal": "Studies in the Spirituality of Jesuits",
+"volume": "VI/5",
+"pages": "",
+"year": "1974"
+}
+},
+{
+"group": "articles",
+"sort": "schuster, joh. b. 1937",
+"apa": "Schuster, Joh. B. (1937). Das Menschenbild der Christ-Königs-Betrachtung des hl. Ignatius und die Forderung des agere contra. *Zeitschrift für Aszese und Mystik*, *12*, 172–177.",
+"note": "read",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-12-1937/heft-3-5/abhandlungen-joh-b-schuster-das-menschenbild-der-christ-k%C3%B6nigs-betrachtung-des-hl-ignatius-und-die-forderung-des-agere-contra-172%E2%88%92177/",
+"tier": "B",
+"here": "#/spex/91",
+"bib": {
+"type": "article",
+"author": [
+"Joh. B. Schuster"
+],
+"title": "Das Menschenbild der Christ-Königs-Betrachtung des hl. Ignatius und die Forderung des agere contra",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "12",
+"pages": "172--177",
+"year": "1937"
+}
+},
+{
+"group": "articles",
+"sort": "schwager, r. 1978",
+"apa": "Schwager, R. (1978). Geisterfahrung am Cardoner – Geisterfahrung in den Exerzitien. *Geist und Leben*, *51*, 444–460.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-51-1978/heft-6-november-dezember-32/abhandlungen-raymund-schwager-geisterfahrung-am-cardoner-%E2%80%93-geisterfahrung-in-den-exerzitien-444%E2%88%92460/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Raymund Schwager"
+],
+"title": "Geisterfahrung am Cardoner – Geisterfahrung in den Exerzitien",
+"journal": "Geist und Leben",
+"volume": "51",
+"pages": "444--460",
+"year": "1978"
+}
+},
+{
+"group": "articles",
+"sort": "severus, e. v. 1956",
+"apa": "Severus, E. v. (1956). Der heilige Ignatius als Lehrer des betrachtenden Gebetes. *Geist und Leben*, *29*, 277–283.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-29-1956/heft-4-juli-august-42/abhandlungen-emmanuel-v-severus-der-heilige-ignatius-als-lehrer-des-betrachtenden-gebetes-277%E2%88%92283/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Emmanuel v. Severus"
+],
+"title": "Der heilige Ignatius als Lehrer des betrachtenden Gebetes",
+"journal": "Geist und Leben",
+"volume": "29",
+"pages": "277--283",
+"year": "1956"
+}
+},
+{
+"group": "articles",
+"sort": "sierp, w. 1927",
+"apa": "Sierp, W. (1927). Der Heilsgedanke im Fundament der Ignatianischen Exerzitien. *Zeitschrift für Aszese und Mystik*, *2*, 279–294.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-02-1927/heft-4-13/abhandlungen-walter-sierp-der-heilsgedanke-im-fundament-der-ignatianischen-exerzitien-279%E2%88%92294/",
+"tier": "B",
+"here": "#/spex/23",
+"bib": {
+"type": "article",
+"author": [
+"Walter Sierp"
+],
+"title": "Der Heilsgedanke im Fundament der Ignatianischen Exerzitien",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "2",
+"pages": "279--294",
+"year": "1927"
+}
+},
+{
+"group": "articles",
+"sort": "sierp, w. 1927",
+"apa": "Sierp, W. (1927). Das Fundament der Ignatianischen Exerzitien. Ein Beitrag zu seiner Erklärung. *Zeitschrift für Aszese und Mystik*, *2*, 93–112.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-02-1927/heft-2-14/abhandlungen-walter-sierp-das-fundament-der-ignatianischen-exerzitien-ein-beitrag-zu-seiner-erkl%C3%A4rung-93%E2%88%92112/",
+"tier": "B",
+"here": "#/spex/23",
+"bib": {
+"type": "article",
+"author": [
+"Walter Sierp"
+],
+"title": "Das Fundament der Ignatianischen Exerzitien. Ein Beitrag zu seiner Erklärung",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "2",
+"pages": "93--112",
+"year": "1927"
+}
+},
+{
+"group": "articles",
+"sort": "sierp, w. 1928",
+"apa": "Sierp, W. (1928). Die Wegweisung zur Höhe im Fundament der Ignatianischen Exerzitien. *Zeitschrift für Aszese und Mystik*, *3*, 316–332.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-03-1928/heft-4-12/abhandlungen-walter-sierp-die-wegweisung-zur-h%C3%B6he-im-fundament-der-ignatianischen-exerzitien-316%E2%88%92332/",
+"tier": "B",
+"here": "#/spex/23",
+"bib": {
+"type": "article",
+"author": [
+"Walter Sierp"
+],
+"title": "Die Wegweisung zur Höhe im Fundament der Ignatianischen Exerzitien",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "3",
+"pages": "316--332",
+"year": "1928"
+}
+},
+{
+"group": "articles",
+"sort": "sierp, w. 1928",
+"apa": "Sierp, W. (1928). Welt und Leben im Lichte des Fundamentes der Ignatianischen Exerzitien. *Zeitschrift für Aszese und Mystik*, *3*, 206–220.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-03-1928/heft-3-14/abhandlungen-walter-sierp-welt-und-leben-im-lichte-des-fundamentes-der-ignatianischen-exerzitien-206%E2%88%92220/",
+"tier": "B",
+"here": "#/spex/23",
+"bib": {
+"type": "article",
+"author": [
+"Walter Sierp"
+],
+"title": "Welt und Leben im Lichte des Fundamentes der Ignatianischen Exerzitien",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "3",
+"pages": "206--220",
+"year": "1928"
+}
+},
+{
+"group": "articles",
+"sort": "sierp, w. 1930",
+"apa": "Sierp, W. (1930). Einige Gedanken zur Christkönigsbetrachtung der Ignatianischen Exerzitien. *Zeitschrift für Aszese und Mystik*, *5*, 324–334.",
+"note": "read",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-05-1930/heft-4-10/abhandlungen-walter-sierp-einige-gedanken-zur-christk%C3%B6nigsbetrachtung-der-ignatianischen-exerzitien-324%E2%88%92334/",
+"tier": "B",
+"here": "#/spex/91",
+"bib": {
+"type": "article",
+"author": [
+"Walter Sierp"
+],
+"title": "Einige Gedanken zur Christkönigsbetrachtung der Ignatianischen Exerzitien",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "5",
+"pages": "324--334",
+"year": "1930"
+}
+},
+{
+"group": "articles",
+"sort": "sierp, w. 1931",
+"apa": "Sierp, W. (1931). Das Vorbereitungsgebet für alle Betrachtungen der großen Exerzitien. *Zeitschrift für Aszese und Mystik*, *6*, 266–275.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-06-1931/heft-3-11/abhandlungen-walter-sierp-das-vorbereitungsgebet-f%C3%BCr-alle-betrachtungen-der-gro%C3%9Fen-exerzitien-266%E2%88%92275/",
+"tier": "B",
+"here": "#/spex/46",
+"bib": {
+"type": "article",
+"author": [
+"Walter Sierp"
+],
+"title": "Das Vorbereitungsgebet für alle Betrachtungen der großen Exerzitien",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "6",
+"pages": "266--275",
+"year": "1931"
+}
+},
+{
+"group": "articles",
+"sort": "sierp, w. 1933",
+"apa": "Sierp, W. (1933). Die Christkönigs-Betrachtung in den Exerzitien. *Zeitschrift für Aszese und Mystik*, *8*, 211–229.",
+"note": "read",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-08-1933/heft-3-9/abhandlungen-walter-sierp-die-christk%C3%B6nigs-betrachtung-in-den-exerzitien-211%E2%88%92229/",
+"tier": "B",
+"here": "#/spex/91",
+"bib": {
+"type": "article",
+"author": [
+"Walter Sierp"
+],
+"title": "Die Christkönigs-Betrachtung in den Exerzitien",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "8",
+"pages": "211--229",
+"year": "1933"
+}
+},
+{
+"group": "articles",
+"sort": "steger, a. 1948",
+"apa": "Steger, A. (1948). Der Primat der göttlichen Gnadenführung im geistlichen Leben nach dem heiligen Ignatius v. Loyola. *Geist und Leben*, *21*, 94–108.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-21-1948/heft-2-m%C3%A4rz-april-29/abhandlungen-albert-steger-der-primat-der-g%C3%B6ttlichen-gnadenf%C3%BChrung-im-geistlichen-leben-nach-dem-heiligen-ignatius-v-loyola-94%E2%88%92108/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Albert Steger"
+],
+"title": "Der Primat der göttlichen Gnadenführung im geistlichen Leben nach dem heiligen Ignatius v. Loyola",
+"journal": "Geist und Leben",
+"volume": "21",
+"pages": "94--108",
+"year": "1948"
+}
+},
+{
+"group": "articles",
+"sort": "sudbrack, j. 1966",
+"apa": "Sudbrack, J. (1966). Die Rolle des Exerzitiengebers. *Geist und Leben*, *39*, 288–300.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-39-1966/heft-4-juli-august-52/abhandlungen-josef-sudbrack-die-rolle-des-exerzitiengebers-288%E2%88%92300/",
+"tier": "B",
+"here": "#/spex/1",
+"bib": {
+"type": "article",
+"author": [
+"Josef Sudbrack"
+],
+"title": "Die Rolle des Exerzitiengebers",
+"journal": "Geist und Leben",
+"volume": "39",
+"pages": "288--300",
+"year": "1966"
+}
+},
+{
+"group": "articles",
+"sort": "sudbrack, j. 1970",
+"apa": "Sudbrack, J. (1970). Fragestellung und Infragestellung der ignatianischen Exerzitien. *Geist und Leben*, *43*, 206–226.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-43-1970/heft-3-mai-juni-53/abhandlungen-josef-sudbrack-fragestellung-und-infragestellung-der-ignatianischen-exerzitien-206%E2%88%92226/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Josef Sudbrack"
+],
+"title": "Fragestellung und Infragestellung der ignatianischen Exerzitien",
+"journal": "Geist und Leben",
+"volume": "43",
+"pages": "206--226",
+"year": "1970"
+}
+},
+{
+"group": "articles",
+"sort": "toner, j. j. 1971",
+"apa": "Toner, J. J. (1971). A Method for Communal Discernment of God’s Will. *Studies in the Spirituality of Jesuits*, *III/4*.",
+"note": "listed by title",
+"url": "https://web.bc.edu/jsdc/jsl/ssj_19710901.pdf",
+"tier": "B",
+"here": "#/spex/169",
+"bib": {
+"type": "article",
+"author": [
+"Jules J. Toner"
+],
+"title": "A Method for Communal Discernment of God’s Will",
+"journal": "Studies in the Spirituality of Jesuits",
+"volume": "III/4",
+"pages": "",
+"year": "1971"
+}
+},
+{
+"group": "articles",
+"sort": "umberg, j. b. 1926",
+"apa": "Umberg, J. B. (1926). Exerzitienfundament und Taufe. *Zeitschrift für Aszese und Mystik*, *1*, 143–155.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-01-1926/heft-2-15/abhandlungen-johann-b-umberg-exerzitienfundament-und-taufe-143%E2%88%92155/",
+"tier": "B",
+"here": "#/spex/23",
+"bib": {
+"type": "article",
+"author": [
+"Johann B. Umberg"
+],
+"title": "Exerzitienfundament und Taufe",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "1",
+"pages": "143--155",
+"year": "1926"
+}
+},
+{
+"group": "articles",
+"sort": "unsigned 1914",
+"apa": "unsigned. (1914). Nuevos ataques a los «Ejercicios espirituales» de San Ignacio. *Razón y Fe*, *39*, 280–297.",
+"note": "read",
+"url": "https://archive.org/details/raznyfe39madruoft/raznyfe39madruoft/page/n285",
+"tier": "A",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"unsigned"
+],
+"title": "Nuevos ataques a los «Ejercicios espirituales» de San Ignacio",
+"journal": "Razón y Fe",
+"volume": "39",
+"pages": "280--297",
+"year": "1914"
+}
+},
+{
+"group": "articles",
+"sort": "vogt, p. 1932",
+"apa": "Vogt, P. (1932). Die Grundwahrheiten der Exerzitien im Vaterunser. *Zeitschrift für Aszese und Mystik*, *7*, 318–334.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-07-1932/heft-4-8/abhandlungen-peter-vogt-die-grundwahrheiten-der-exerzitien-im-vaterunser-318%E2%88%92334/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Peter Vogt"
+],
+"title": "Die Grundwahrheiten der Exerzitien im Vaterunser",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "7",
+"pages": "318--334",
+"year": "1932"
+}
+},
+{
+"group": "articles",
+"sort": "watrigant, h. 1922",
+"apa": "Watrigant, H. (1922). La méditation méthodique et l'école des Frères de la vie commune. *Revue d'ascétique et de mystique*, *3*, 134–155.",
+"note": "listed by title",
+"url": "https://archive.org/details/revuedasctique03toul/page/n139",
+"tier": "A",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"H. Watrigant"
+],
+"title": "La méditation méthodique et l'école des Frères de la vie commune",
+"journal": "Revue d'ascétique et de mystique",
+"volume": "3",
+"pages": "134--155",
+"year": "1922"
+}
+},
+{
+"group": "articles",
+"sort": "watrigant, h. 1923",
+"apa": "Watrigant, H. (1923). La méditation méthodique et Jean Mauburnus. *Revue d'ascétique et de mystique*, *4*, 12.",
+"note": "listed by title",
+"url": "https://archive.org/details/revuedasctique03toul/page/n489",
+"tier": "A",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"H. Watrigant"
+],
+"title": "La méditation méthodique et Jean Mauburnus",
+"journal": "Revue d'ascétique et de mystique",
+"volume": "4",
+"pages": "12",
+"year": "1923"
+}
+},
+{
+"group": "articles",
+"sort": "wessely, f. 1956",
+"apa": "Wessely, F. (1956). Die spirituelle Grundhaltung des heiligen Ignatius von Loyola und der heiligen Theresia von Avila. *Geist und Leben*, *29*, 289–299.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-29-1956/heft-4-juli-august-42/abhandlungen-friedrich-wessely-die-spirituelle-grundhaltung-des-heiligen-ignatius-von-loyola-und-der-heiligen-theresia-von-avila-289%E2%88%92299/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Friedrich Wessely"
+],
+"title": "Die spirituelle Grundhaltung des heiligen Ignatius von Loyola und der heiligen Theresia von Avila",
+"journal": "Geist und Leben",
+"volume": "29",
+"pages": "289--299",
+"year": "1956"
+}
+},
+{
+"group": "articles",
+"sort": "wilhelm, b. 1933",
+"apa": "Wilhelm, B. (1933). Die Ignatianische Gebetsweise. Aus dem Nachlasse des P. Anton Huonder S.J. *Zeitschrift für Aszese und Mystik*, *8*, 1–8.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-08-1933/heft-1-10/abhandlungen-b-wilhelm-die-ignatianische-gebetsweise-aus-dem-nachlasse-des-p-anton-huonder-s-j-1%E2%88%928/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"B. Wilhelm"
+],
+"title": "Die Ignatianische Gebetsweise. Aus dem Nachlasse des P. Anton Huonder S.J.",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "8",
+"pages": "1--8",
+"year": "1933"
+}
+},
+{
+"group": "articles",
+"sort": "wilhelm, balth. 1938",
+"apa": "Wilhelm, Balth. (1938). Der ehrwürdige Diener Gottes A.R.P. Joh. Roothaan S.J. in den hl. Exerzitien. *Zeitschrift für Aszese und Mystik*, *13*, 148–151.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-13-1938/heft-2-4/kleine-beitr%C3%A4ge-balth-wilhelm-der-ehrw%C3%BCrdige-diener-gottes-a-r-p-joh-roothaan-s-j-in-den-hl-exerzitien-148%E2%88%92151/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Balth. Wilhelm"
+],
+"title": "Der ehrwürdige Diener Gottes A.R.P. Joh. Roothaan S.J. in den hl. Exerzitien",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "13",
+"pages": "148--151",
+"year": "1938"
+}
+},
+{
+"group": "articles",
+"sort": "wimmer, j. b. 1931",
+"apa": "Wimmer, J. B. (1931). Wiederholungs-Exerzitien. *Zeitschrift für Aszese und Mystik*, *6*, 47–61.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-06-1931/heft-1-13/abhandlungen-johann-b-wimmer-wiederholungs-exerzitien-47%E2%88%9261/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Johann B. Wimmer"
+],
+"title": "Wiederholungs-Exerzitien",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "6",
+"pages": "47--61",
+"year": "1931"
+}
+},
+{
+"group": "articles",
+"sort": "wulf, f. 1949",
+"apa": "Wulf, F. (1949). Die Bedeutung der schöpferischen Phantasie für die Betrachtung nach Ignatius von Loyola. *Geist und Leben*, *22*, 461–467.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-22-1949/heft-6-november-dezember-63/im-spiegel-der-zeit-friedrich-wulf-die-bedeutung-der-sch%C3%B6pferischen-phantasie-f%C3%BCr-die-betrachtung-nach-ignatius-von-loyola-461%E2%88%92467/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Friedrich Wulf"
+],
+"title": "Die Bedeutung der schöpferischen Phantasie für die Betrachtung nach Ignatius von Loyola",
+"journal": "Geist und Leben",
+"volume": "22",
+"pages": "461--467",
+"year": "1949"
+}
+},
+{
+"group": "articles",
+"sort": "wulf, f. 1952",
+"apa": "Wulf, F. (1952). Grundzüge ignatianischer Frömmigkeit. *Geist und Leben*, *25*, 167–184.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-25-1952/heft-3-mai-juni-34/abhandlungen-friedrich-wulf-grundz%C3%BCge-ignatianischer-fr%C3%B6mmigkeit-167%E2%88%92184-1/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Friedrich Wulf"
+],
+"title": "Grundzüge ignatianischer Frömmigkeit",
+"journal": "Geist und Leben",
+"volume": "25",
+"pages": "167--184",
+"year": "1952"
+}
+},
+{
+"group": "articles",
+"sort": "wulf, f. 1956",
+"apa": "Wulf, F. (1956). Was macht die „Exerzitien“ heute aktuell? *Geist und Leben*, *29*, 338–346.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-29-1956/heft-5-september-oktober-40/abhandlungen-friedrich-wulf-was-macht-die-%E2%80%9Eexerzitien%E2%80%9C-heute-aktuell-338%E2%88%92346/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Friedrich Wulf"
+],
+"title": "Was macht die „Exerzitien“ heute aktuell?",
+"journal": "Geist und Leben",
+"volume": "29",
+"pages": "338--346",
+"year": "1956"
+}
+},
+{
+"group": "articles",
+"sort": "wulf, f. 1967",
+"apa": "Wulf, F. (1967). Neuinterpretation der ignatianischen Exerzitien. Zu einer Tagung deutscher und niederländischer Jesuiten. *Geist und Leben*, *40*, 218–223.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-40-1967/heft-3-mai-juni-50/im-spiegel-der-zeit-friedrich-wulf-neuinterpretation-der-ignatianischen-exerzitien-zu-einer-tagung-deutscher-und-niederl%C3%A4ndischer-jesuiten-218%E2%88%92223/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Friedrich Wulf"
+],
+"title": "Neuinterpretation der ignatianischen Exerzitien. Zu einer Tagung deutscher und niederländischer Jesuiten",
+"journal": "Geist und Leben",
+"volume": "40",
+"pages": "218--223",
+"year": "1967"
+}
+},
+{
+"group": "articles",
+"sort": "wutz, h. 1968",
+"apa": "Wutz, H. (1968). Schweigen und Reden in den Exerzitien des heiligen Ignatius. *Geist und Leben*, *41*, 266–285.",
+"note": "listed by title",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-41-1968/heft-4-juli-august-54/abhandlungen-herbert-wutz-schweigen-und-reden-in-den-exerzitien-des-heiligen-ignatius-266%E2%88%92285/",
+"tier": "B",
+"here": "#/book",
+"bib": {
+"type": "article",
+"author": [
+"Herbert Wutz"
+],
+"title": "Schweigen und Reden in den Exerzitien des heiligen Ignatius",
+"journal": "Geist und Leben",
+"volume": "41",
+"pages": "266--285",
+"year": "1968"
+}
+},
+{
+"group": "articles",
+"sort": "zeiger, i. 1942",
+"apa": "Zeiger, I. (1942). Gefolgschaft des Herrn. Ein rechtsgeschichtlicher Beitrag zu den Exerzitien des hl. Ignatius. *Zeitschrift für Aszese und Mystik*, *17*, 1–16.",
+"note": "read",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/zam-17-1942/heft-1-1/abhandlungen-ivo-zeiger-gefolgschaft-des-herrn-ein-rechtsgeschichtlicher-beitrag-zu-den-exerzitien-des-hl-ignatius-1%E2%88%9216/",
+"tier": "B",
+"here": "#/spex/91",
+"bib": {
+"type": "article",
+"author": [
+"Ivo Zeiger"
+],
+"title": "Gefolgschaft des Herrn. Ein rechtsgeschichtlicher Beitrag zu den Exerzitien des hl. Ignatius",
+"journal": "Zeitschrift für Aszese und Mystik",
+"volume": "17",
+"pages": "1--16",
+"year": "1942"
+}
+},
+{
+"group": "journals",
+"sort": "geist und leben. zeitschrift fur christliche spiritualitat",
+"apa": "*Geist und Leben. Zeitschrift für christliche Spiritualität* (1947). Würzburg: Echter, from 1947.",
+"note": "linked, article by article (1947–1978, plus single later articles)",
+"url": "https://www.geist-und-leben.de/archiv/archiv-gul/",
+"tier": "B",
+"here": "#/works/gul",
+"bib": {
+"type": "periodical",
+"title": "Geist und Leben. Zeitschrift für christliche Spiritualität",
+"year": "1947",
+"note": "Würzburg: Echter, from 1947"
+}
+},
+{
+"group": "journals",
+"sort": "razon y fe",
+"apa": "Jesuits of the Spanish provinces. (1901). *Razón y Fe*. Madrid, monthly, from 1901 (three volumes a year).",
+"note": "volumes 1–61 (1901–1921) searched; eleven articles on the Exercises, 1904–1919, linked to their first page",
+"url": "https://archive.org/details/raznyfe39madruoft",
+"tier": "A",
+"here": "#/works/ryf",
+"bib": {
+"type": "periodical",
+"title": "Razón y Fe",
+"year": "1901",
+"note": "Madrid, monthly, from 1901 (three volumes a year)"
+}
+},
+{
+"group": "journals",
+"sort": "revue d'ascetique et de mystique",
+"apa": "Guibert, J. de (Ed.). (1920). *Revue d'ascétique et de mystique*. Toulouse, from 1920.",
+"note": "volumes 1–4 (1920–1923) searched; seven articles and reviews on the Exercises linked to their pages",
+"url": "https://archive.org/details/revuedasctique01toul",
+"tier": "A",
+"here": "#/works/ram",
+"bib": {
+"type": "periodical",
+"title": "Revue d'ascétique et de mystique",
+"year": "1920",
+"note": "Toulouse, from 1920"
+}
+},
+{
+"group": "journals",
+"sort": "studies in the spirituality of jesuits",
+"apa": "*Studies in the Spirituality of Jesuits* (1969). St. Louis, later Boston College, from 1969.",
+"note": "linked, issue by issue (1969–1978: eight essays on the Exercises, discernment, election and thinking with the Church)",
+"url": "https://jesuitsourcesdigital.bc.edu/",
+"tier": "B",
+"here": "#/works/studies",
+"bib": {
+"type": "periodical",
+"title": "Studies in the Spirituality of Jesuits",
+"year": "1969",
+"note": "St. Louis, later Boston College, from 1969"
+}
+},
+{
+"group": "journals",
+"sort": "the way and the way supplement",
+"apa": "*The Way and The Way Supplement* (1961). London, from 1961.",
+"note": "selected articles linked",
+"url": "https://www.theway.org.uk/",
+"tier": "B",
+"here": "#/works/theway",
+"bib": {
+"type": "periodical",
+"title": "The Way and The Way Supplement",
+"year": "1961",
+"note": "London, from 1961"
+}
+},
+{
+"group": "journals",
+"sort": "zeitschrift fur aszese und mystik",
+"apa": "*Zeitschrift für Aszese und Mystik* (1926–1944). Würzburg, 1925/26–1944; continued from 1947 as Geist und Leben.",
+"note": "linked, article by article",
+"url": "https://www.geist-und-leben.de/archiv/archiv-zam/",
+"tier": "B",
+"here": "#/works/zam",
+"bib": {
+"type": "periodical",
+"title": "Zeitschrift für Aszese und Mystik",
+"year": "1926",
+"note": "Würzburg, 1925/26–1944; continued from 1947 as Geist und Leben"
+}
+},
+{
+"group": "cited",
+"sort": "kreiten, w. 1882",
+"apa": "Kreiten, W. (1882). Zur Entstehung des Exerzitienbüchleins. *Stimmen aus Maria-Laach*, *23*, 32–55, 154–171.",
+"note": "cited by Zeiger 1942",
+"url": "",
+"tier": "",
+"here": "",
+"bib": {
+"type": "article",
+"author": [
+"Kreiten, W."
+],
+"title": "Zur Entstehung des Exerzitienbüchleins",
+"journal": "Stimmen aus Maria-Laach",
+"volume": "23",
+"pages": "32--55, 154--171",
+"year": "1882"
+}
+},
+{
+"group": "cited",
+"sort": "leturia, p. 1928",
+"apa": "Leturia, P. (1928). El \"Reino de Cristo\" y los prólogos del Flos Sanctorum de Loyola. *Manresa*, *4*, 334–349.",
+"note": "cited by Kellerwessel 1932 and Zeiger 1942 for the Flos Sanctorum as a source of the Kingdom",
+"url": "",
+"tier": "",
+"here": "",
+"bib": {
+"type": "article",
+"author": [
+"Leturia, P."
+],
+"title": "El \"Reino de Cristo\" y los prólogos del Flos Sanctorum de Loyola",
+"journal": "Manresa",
+"volume": "4",
+"pages": "334--349",
+"year": "1928"
+}
+},
+{
+"group": "cited",
+"sort": "tournier, f. 1910",
+"apa": "Tournier, F. (1910). Les \"deux cités\" dans la littérature chrétienne. *Études*, *123*, 644–665.",
+"note": "the thesis Codina answers in Razón y Fe 1915 (cited by Zeiger 1942)",
+"url": "",
+"tier": "",
+"here": "",
+"bib": {
+"type": "article",
+"author": [
+"Tournier, F."
+],
+"title": "Les \"deux cités\" dans la littérature chrétienne",
+"journal": "Études",
+"volume": "123",
+"pages": "644--665",
+"year": "1910"
+}
+}
+]
+}

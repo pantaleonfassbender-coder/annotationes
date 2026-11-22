@@ -44,6 +44,10 @@ Live at <https://annotationes.netlify.app/> (deployed from `main`). The design d
   los Ejercicios* (1926), placed by its own subject index, and Carlo Torti's Italian commentary (1909),
   placed by its section heads; Benjamín Marcos, *San Ignacio de Loyola* (1923, Project Gutenberg), read in full.
 - Eight reading paths (`data/paths.json`, `#/paths`) and an introduction essay (`#/intro`).
+- A concept atlas (`#/atlas`, `tools/build_atlas.py`, `net.js` from the Woodstock Letters edition): 68 concepts
+  in six languages, joined by co-occurrence in glosses and commentary paragraphs.
+- A bibliography of the whole apparatus (`#/bibliography`, `tools/build_bibliography.py`), APA 7, with
+  BibTeX and RIS export.
 - Bibliographic records of the protected core of the century (Rahner, Fessard, Balthasar, Barthes,
   Certeau, Jung and others), marked as such.
 - Public-domain plates.

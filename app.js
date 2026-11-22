@@ -85,11 +85,13 @@ function route() {
   view.innerHTML = "";
   const fn = { "": viewHome, spex: () => viewReader(+a || 23), book: viewBook, works: () => a ? viewWork(decodeURIComponent(a)) : viewWorks,
     paths: () => viewPaths(a && decodeURIComponent(a)), intro: viewIntro,
+    atlas: () => viewAtlas(a && decodeURIComponent(a)), bibliography: viewBibliography,
     method: viewMethod, imprint: viewImprint, privacy: viewPrivacy }[r];
   if (!fn) { viewHome(); return; }
   const res = fn();
   if (typeof res === "function") res();
-  if (r !== "spex") window.scrollTo(0, 0);
+  if (r !== "spex" && !(r === "atlas" && a)) window.scrollTo(0, 0);
+  if (r !== "atlas" && NET) { NET.stop(); NET = null; }
 }
 
 /* ============================================================ HOME */
@@ -427,6 +429,150 @@ function viewWork(id) {
   gs.slice(0, 400).forEach(g => list.append(glossCard(g, { showRange: true })));
 }
 
+/* ============================================================ ATLAS */
+/* After the atlas of the Woodstock Letters edition: a co-occurrence network, here of a fixed
+   lexicon of concepts (tools/build_atlas.py), drawn by net.js. */
+const FAMILY_LABEL = { commentary: "commentaries", journal: "journals and papal documents", history: "history and philosophy", psychology: "psychology and literature" };
+let NET = null;
+function viewAtlas(sel) {
+  view.append(el(`<p class="fine">Loading…</p>`));
+  (D.atlas ? Promise.resolve(D.atlas) : getJSON("data/atlas.json")).then(A => {
+    D.atlas = A;
+    view.innerHTML = "";
+    const node = new Map(A.nodes.map(n => [n.id, n]));
+    const nb = new Map(A.nodes.map(n => [n.id, []]));
+    for (const e of A.edges) if (nb.has(e.s) && nb.has(e.t)) { nb.get(e.s).push([e.t, e]); nb.get(e.t).push([e.s, e]); }
+    const short = n => n.label.replace(/\s*\(.*\)$/, "");
+    const bridges = A.nodes.map(n => ({ id: n.id, span: new Set(nb.get(n.id).map(([m]) => node.get(m).sec)).size, deg: nb.get(n.id).length }))
+      .filter(b => b.deg >= 4).sort((a, b) => b.span - a.span || b.deg - a.deg).slice(0, 16);
+    const bars = (vals, labels, href) => { const mx = Math.max(1, ...vals);
+      return `<table class="dist">${vals.map((v, i) => `<tr><td>${href ? `<a href="${href(i)}">${esc(labels[i])}</a>` : esc(labels[i])}</td>
+        <td class="num">${v}</td><td class="barcell"><div class="bar"><i style="width:${Math.round(100 * v / mx)}%"></i></div></td></tr>`).join("")}</table>`; };
+    function panel(id) {
+      const n = node.get(id);
+      if (!n) return `<h3>Selection</h3><p class="fine">Click a concept for its neighbours, its place in the book and the glosses that use it.</p>`;
+      const gl = n.glosses.map(g => D.glosses.find(x => x.id === g)).filter(Boolean);
+      const wname = g => { const w = workOf(g); return `${esc(g.author || (w.author || "").replace(/,.*$/, ""))} ${esc(g.year || w.year || "")}`; };
+      return `<h3>${esc(n.label)}</h3>
+        <p class="fine">${n.f} units · most at home in the ${FAMILY_LABEL[n.sec]}</p>
+        <h4>Strongest neighbours</h4>
+        <p>${nb.get(id).sort((a, b) => b[1].pmi * Math.log(1 + b[1].f) - a[1].pmi * Math.log(1 + a[1].f)).slice(0, 14)
+          .map(([m, e]) => `<button class="achip" type="button" data-n="${esc(m)}" title="${e.f} shared units · PMI ${e.pmi}">${esc(short(node.get(m)))}</button>`).join("")}</p>
+        <h4>Where in the book</h4>
+        ${bars(n.sdist, A.sections.map(s => `[${s.von}]–[${s.bis}] ${s.title.split(/[,:;]/)[0]}`), i => `#/spex/${A.sections[i].von}`)}
+        <p class="fine">Units that touch each part of the book. Most often at:
+          ${n.paras.map(p => `<a href="#/spex/${p}">[${p}]</a>`).join(" ")}</p>
+        <h4>By decade</h4>
+        ${bars(n.ddist, A.decades.map(d => d + "s"))}
+        <h4>Glosses</h4>
+        <ul class="aglist">${gl.slice(0, 12).map(g => `<li><a href="${g.spex ? "#/spex/" + g.spex[0] : "#/works/" + g.work}">${wname(g)}</a>
+          <span class="fine">${esc(g.title || g.note || "").slice(0, 110)}</span></li>`).join("")}</ul>
+        ${gl.length > 12 ? `<p class="fine">and ${gl.length - 12} more; the commentaries held in full (Longridge, Rickaby, Feder's notes) count by paragraph and are not listed.</p>` : ""}
+        <p class="fine">Looked for as: <span class="mono">${esc(A.lexicon[id].patterns.join(" · "))}</span></p>`;
+    }
+    const wrap = el(`<div>
+      <div class="viewhead"><span class="tag">Atlas</span><h1>What stands next to what</h1>
+        <p class="lede">Two concepts are joined when they occur in the same gloss, or the same paragraph of a commentary, more often than
+        chance allows. The concepts are a fixed lexicon of the Exercises and their reception, each looked for in six languages.
+        Colour marks the family of works in which a concept is most at home. Scroll or double-click to zoom, drag to pan.</p></div>
+      <div class="panel chartbox">
+        <div class="atools">
+          <button class="btn" id="reheat" type="button">Re-arrange</button>
+          <button class="btn" id="zin" type="button" aria-label="Zoom in">+</button>
+          <button class="btn" id="zout" type="button" aria-label="Zoom out">−</button>
+          <button class="btn" id="zreset" type="button">Reset</button>
+        </div>
+        <canvas id="net" aria-label="Co-occurrence network of the concepts of the apparatus"></canvas>
+        <div class="alegend">${A.families.map((f, i) => `<span><i style="background:var(--fam-${f})"></i>${FAMILY_LABEL[f]} (${A.famUnits[i]} units)</span>`).join("")}</div>
+      </div>
+      <div class="grid2">
+        <div class="panel" id="sel">${panel(sel)}</div>
+        <div class="panel"><h3>Concepts that bridge the families</h3>
+          <p class="fine">Concepts whose neighbours are at home in the most families of works: the vocabulary that holds the century's readings together.</p>
+          <p>${bridges.map(b => `<button class="achip" type="button" data-n="${esc(b.id)}">${esc(short(node.get(b.id)))}<span class="n">${b.deg}</span></button>`).join("")}</p></div>
+      </div>
+      <p class="fine">${A.nodes.length} concepts and ${A.edges.length} links from ${A.units.toLocaleString("en")} units. Built by
+        <span class="mono">tools/build_atlas.py</span>; the network code is that of the Woodstock Letters edition. The lexicon is editorial:
+        it shows what was looked for, not everything the century said. Derived data, CC0.</p></div>`);
+    view.append(wrap);
+    const show = id => { const s = wrap.querySelector("#sel"); s.innerHTML = panel(id); bind(s);
+      history.replaceState(null, "", id ? "#/atlas/" + id : "#/atlas"); };
+    const bind = root => root.querySelectorAll("[data-n]").forEach(b => b.onclick = () => { NET && NET.select(b.dataset.n); show(b.dataset.n); });
+    NET && NET.stop();
+    NET = network(wrap.querySelector("#net"), { nodes: A.nodes.map(n => ({ ...n, name: short(n) })), edges: A.edges },
+      { h: Math.min(620, Math.max(380, innerHeight * .62)), onSelect: show, color: n => "--fam-" + n.sec, labelCap: 34 });
+    if (sel) NET.select(sel);
+    wrap.querySelector("#reheat").onclick = () => NET.reheat();
+    wrap.querySelector("#zin").onclick = () => NET.zoomBy(1.4);
+    wrap.querySelector("#zout").onclick = () => NET.zoomBy(1 / 1.4);
+    wrap.querySelector("#zreset").onclick = () => NET.resetView();
+    bind(wrap);
+  }).catch(e => { view.innerHTML = `<div class="panel"><p>${esc(e.message)}</p></div>`; });
+}
+
+/* ============================================================ BIBLIOGRAPHY */
+function viewBibliography() {
+  view.append(el(`<p class="fine">Loading…</p>`));
+  (D.bib ? Promise.resolve(D.bib) : getJSON("data/bibliography.json")).then(B => {
+    D.bib = B;
+    view.innerHTML = "";
+    const it = s => esc(s).replace(/\*([^*]+)\*/g, "<i>$1</i>");
+    const wrap = el(`<div>
+      <div class="viewhead"><span class="tag">Bibliography</span><h1>Everything in the apparatus</h1>
+        <p class="lede">The editions behind the text, every work and every journal article in the margin, and the studies the notes name,
+        in APA style. Each entry links to its source and to its place in the apparatus.</p></div>
+      <div class="panel bibtools">
+        <input type="search" id="bq" placeholder="Filter by author, title, journal, year…" aria-label="Filter the bibliography">
+        <button class="btn" id="bbib" type="button">Download BibTeX</button>
+        <button class="btn" id="bris" type="button">Download RIS</button>
+        <span class="fine" id="bcount"></span>
+      </div>
+      <div id="blist"></div>
+      <p class="fine">Built by <span class="mono">tools/build_bibliography.py</span> from the works list and the glosses. Access tiers: A full text here,
+        B linked, C read in a copy and summarized, D recorded. Bibliographic data, CC0.</p></div>`);
+    view.append(wrap);
+    const list = wrap.querySelector("#blist");
+    const draw = q => {
+      const qq = q.toLowerCase().trim();
+      const es = B.entries.filter(e => !qq || (e.apa + " " + e.note).toLowerCase().includes(qq));
+      wrap.querySelector("#bcount").textContent = `${es.length} of ${B.entries.length}`;
+      list.innerHTML = Object.entries(B.groups).map(([g, title]) => {
+        const xs = es.filter(e => e.group === g);
+        if (!xs.length) return "";
+        return `<section class="panel"><h2>${esc(title)} <span class="fine">(${xs.length})</span></h2><ol class="biblist">${xs.map(e => `<li>
+          <span class="ref">${it(e.apa)}</span>
+          <span class="bmeta">${e.tier ? `<span class="tier t${e.tier}">${e.tier}</span>` : ""}${e.note ? `<span class="fine">${esc(e.note).slice(0, 160)}</span>` : ""}
+          ${e.url ? `<a href="${esc(e.url)}" target="_blank" rel="noopener">source ↗</a>` : ""}
+          ${e.here ? `<a href="${esc(e.here)}">in the apparatus →</a>` : ""}</span></li>`).join("")}</ol></section>`;
+      }).join("");
+    };
+    const q = wrap.querySelector("#bq");
+    q.oninput = () => draw(q.value);
+    draw("");
+    const save = (name, text, type) => { const a = document.createElement("a");
+      a.href = URL.createObjectURL(new Blob([text], { type })); a.download = name; a.click(); setTimeout(() => URL.revokeObjectURL(a.href), 2000); };
+    const shown = () => B.entries.filter(e => !q.value.trim() || (e.apa + " " + e.note).toLowerCase().includes(q.value.toLowerCase().trim()));
+    const surname = a => a.includes(",") ? a.split(",")[0] : a.split(/\s+/).filter(Boolean).pop();
+    const key = (e, i) => (surname(e.bib.author && e.bib.author[0] || e.bib.title || "x") || "x")
+      .normalize("NFD").replace(/[^A-Za-z]/g, "").toLowerCase() + (e.bib.year || "") + "_" + i;
+    wrap.querySelector("#bbib").onclick = () => save("annotationes.bib", shown().map((e, i) => {
+      const b = e.bib, f = { author: (b.author || []).join(" and "), title: b.title, journal: b.journal, volume: b.volume,
+        pages: b.pages, year: b.year, publisher: b.publisher, address: b.address, series: b.series, note: b.note, url: e.url };
+      return `@${b.type === "article" ? "article" : b.type === "periodical" ? "misc" : "book"}{${key(e, i)},\n` +
+        Object.entries(f).filter(([, v]) => v).map(([k, v]) => `  ${k} = {${String(v).replace(/[{}]/g, "")}}`).join(",\n") + "\n}";
+    }).join("\n\n"), "application/x-bibtex");
+    wrap.querySelector("#bris").onclick = () => save("annotationes.ris", shown().map(e => {
+      const b = e.bib, L = [["TY", b.type === "article" ? "JOUR" : b.type === "periodical" ? "JFULL" : "BOOK"]];
+      (b.author || []).forEach(a => L.push(["AU", a]));
+      L.push(["TI", b.title]); if (b.journal) L.push(["JO", b.journal]); if (b.volume) L.push(["VL", b.volume]);
+      if (b.pages) { const [sp, ep] = b.pages.split(",")[0].split("--"); L.push(["SP", sp.trim()]); if (ep) L.push(["EP", ep.trim()]); }
+      if (b.year) L.push(["PY", b.year]); if (b.publisher) L.push(["PB", b.publisher]); if (b.address) L.push(["CY", b.address]);
+      if (b.note) L.push(["N1", b.note]); if (e.url) L.push(["UR", e.url]); L.push(["ER", ""]);
+      return L.map(([k, v]) => `${k}  - ${v}`).join("\n");
+    }).join("\n\n"), "application/x-research-info-systems");
+  }).catch(e => { view.innerHTML = `<div class="panel"><p>${esc(e.message)}</p></div>`; });
+}
+
 /* ============================================================ METHOD */
 /* ============================================================ PATHS */
 async function paths() {
@@ -529,7 +675,9 @@ function viewIntro() {
       <h2>How to use it</h2>
       <p>Open the <a href="#/spex/23">reader</a> on any paragraph and look to the margin; the strip beside the text shows
       where glosses gather under the current filters, and the decade filter shows attention moving through the book.
-      The <a href="#/paths">reading paths</a> follow single passages through the century. The <a href="#/works">works
+      The <a href="#/paths">reading paths</a> follow single passages through the century; the <a href="#/atlas">atlas</a>
+      shows which concepts the readings join; the <a href="#/bibliography">bibliography</a> lists everything in the
+      apparatus. The <a href="#/works">works
       list</a> gives each work's record, rights and coverage, and the <a href="#/method">method page</a> says how the
       apparatus was built and where it is uncertain.</p>
     </div></div>`));

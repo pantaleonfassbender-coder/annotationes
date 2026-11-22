@@ -176,3 +176,38 @@ figure.plate figcaption .fine{display:block;margin-top:.2rem}
 .essay{max-width:760px;font-family:var(--serif);font-size:1.02rem;line-height:1.65}
 .essay h2{font-size:1.15rem;margin:1.4rem 0 .4rem}
 .essay h2:first-child{margin-top:0}
+
+/* ---------- atlas (after the Woodstock Letters edition) ---------- */
+:root{--fam-commentary:#c9a227;--fam-journal:#7ea6c9;--fam-history:#c07a5a;--fam-psychology:#9db8a4}
+html[data-theme="light"]{--fam-commentary:#8a6b10;--fam-journal:#3c6488;--fam-history:#9c4f30;--fam-psychology:#42604d}
+.chartbox canvas{display:block;width:100%;border-radius:8px;background:var(--bg2);cursor:grab}
+.atools{display:flex;flex-wrap:wrap;gap:.4rem;margin-bottom:.6rem}
+.btn{background:var(--panel2);border:1px solid var(--line2);color:var(--fg2);border-radius:7px;padding:.25rem .7rem;font-size:.85rem;cursor:pointer;font-family:inherit}
+.btn:hover{color:var(--fg);border-color:var(--acc)}
+.alegend{display:flex;flex-wrap:wrap;gap:.4rem 1rem;margin-top:.6rem;font-size:.8rem;color:var(--fg2)}
+.alegend i{display:inline-block;width:.75rem;height:.75rem;border-radius:50%;margin-right:.35rem;vertical-align:-1px}
+.achip{display:inline-block;background:var(--panel2);border:1px solid var(--line2);color:var(--fg2);border-radius:99px;padding:.05rem .6rem;margin:0 .3rem .35rem 0;font-size:.82rem;cursor:pointer;font-family:inherit}
+.achip:hover{color:var(--fg);border-color:var(--acc)}
+.achip .n{color:var(--fg3);margin-left:.35rem;font-size:.72rem}
+#sel h4{font-family:var(--sans);font-size:.85rem;text-transform:uppercase;letter-spacing:.04em;color:var(--fg3);margin:1rem 0 .4rem}
+table.dist{width:100%;border-collapse:collapse;font-size:.8rem}
+table.dist td{padding:.08rem .3rem;vertical-align:middle}
+table.dist td.num{text-align:right;color:var(--fg3);width:2.5rem}
+table.dist td.barcell{width:38%}
+.bar{height:.5rem;background:var(--bg2);border-radius:3px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--acc)}
+.aglist{padding-left:1.1rem;margin:.2rem 0 .6rem;font-size:.88rem}
+.aglist li{margin-bottom:.25rem}
+.aglist .fine{display:block}
+/* ---------- bibliography ---------- */
+.bibtools{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center}
+.bibtools input{flex:1 1 16rem;min-width:0;background:var(--bg2);border:1px solid var(--line2);color:var(--fg);border-radius:7px;padding:.35rem .6rem;font-family:inherit;font-size:.92rem}
+.biblist{list-style:none;padding:0;margin:0}
+.biblist li{padding:.55rem 0;border-top:1px solid var(--line);padding-left:2rem;text-indent:-2rem}
+.biblist li:first-child{border-top:0}
+.biblist .ref{font-family:var(--serif);font-size:1rem}
+.biblist .bmeta{display:block;text-indent:0;font-size:.8rem;margin-top:.15rem}
+.biblist .bmeta > *{margin-right:.6rem}
+.biblist .tier{display:inline-block;font-size:.7rem;font-weight:600;border-radius:4px;padding:0 .3rem;border:1px solid currentColor}
+.biblist .tA{color:var(--tA)} .biblist .tB{color:var(--tB)} .biblist .tC{color:var(--tC)} .biblist .tD{color:var(--tD)}
+@media (max-width:600px){.biblist li{padding-left:0;text-indent:0} table.dist td.barcell{width:30%}}

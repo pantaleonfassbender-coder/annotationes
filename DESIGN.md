@@ -194,7 +194,18 @@ a rights check before anything beyond tier D (UK rule for works first published 
 - **Reception curve** per paragraph group and decade (§3.2).
 - **Citation network:** who answers whom. Candidate edges to verify: Przywara → Balthasar; Hugo
   Rahner ↔ Jung (Eranos); Fessard → Certeau → Barthes; Karl Rahner on the logic of election.
-- **Concept atlas** after the Jung-site model, over tier A plus opened copies.
+- **Concept atlas**: built 22 November 2026 after the atlas of the Woodstock Letters edition (`#/atlas`,
+  `tools/build_atlas.py`, `net.js` copied from there). Woodstock picks its terms by keyness in one language;
+  the margin here is multilingual and mostly short glosses, so the terms are a fixed, editorial lexicon of
+  70 concepts with spellings in six languages (68 occur at least four times). Units are glosses and the
+  paragraphs of the commentaries held in full (Longridge, Rickaby's notes, Feder's notes): 2,559 units,
+  297 links by PMI over shared units. Colour is the family of works in which a concept's share of units is
+  highest (smoothed; the commentaries give 2,389 of the units). The panel gives the strongest neighbours,
+  the spread over the parts of the book and over decades, the paragraphs where a concept is most frequent,
+  and the glosses that use it.
+- **Bibliography** (`#/bibliography`, `tools/build_bibliography.py`): the editions behind the text, the
+  works, every journal article in the margin (104), the journals, and three studies named in the notes,
+  in APA 7 style, filterable, with BibTeX and RIS export built in the browser.
 - **Reading paths**, each station with a reason and a guiding question. Drafts:
   1. The Foundation [23] in the twentieth century.
   2. The thirteenth rule [365] as a scandal and its readers.
