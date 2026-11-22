@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: "Annotationes: The Spiritual Exercises in the Twentieth Century. A Reception Apparatus"
+message: "If you use this apparatus, please cite it as below, and cite the Exercises by paragraph number ([23]) and each work by its own pages."
+type: dataset
+authors:
+  - family-names: Fassbender
+    given-names: Pantaleon
+    orcid: "https://orcid.org/0000-0002-6683-3617"
+repository-code: "https://github.com/pantaleonfassbender-coder/annotationes"
+url: "https://annotationes.netlify.app/"
+abstract: >-
+  A reception apparatus for the Spiritual Exercises of Ignatius of Loyola in
+  the twentieth century, continuing the author's Ignatiana edition. The text
+  stands at the centre on the paragraph grid [1]-[370] (Autograph and Vulgate
+  after the Monumenta Ignatiana 1919, Mullan 1914, Rickaby 1923, Feder 1922);
+  the century's readings stand in the margin as 757 glosses from 32 works and
+  104 journal articles in six languages, each with the basis of its placement
+  and its access tier. Public-domain texts are quoted and linked to their
+  scans; protected works are represented by anchors and summaries only. With
+  eight reading paths, an introductory essay, a timeline, a concept atlas, a
+  bibliography with BibTeX and RIS export, and public-domain plates.
+keywords:
+  - Ignatius of Loyola
+  - Spiritual Exercises
+  - reception history
+  - Society of Jesus
+  - Jesuit studies
+  - history of spirituality
+  - digital edition
+license: MIT
+version: 1.0.0
+date-released: 2026-11-22
+references:
+  - type: dataset
+    title: "Ignatiana: A Research Apparatus for Ignatian Spirituality"
+    authors:
+      - family-names: Fassbender
+        given-names: Pantaleon
+    identifiers:
+      - type: doi
+        value: 10.5281/zenodo.22682750

@@ -77,6 +77,12 @@ Live at <https://annotationes.netlify.app/> (deployed from `main`). The design d
 Any static server, e.g. `python -m http.server 9051` in this folder, then open
 `http://localhost:9051/`.
 
+## How to cite
+
+See [CITATION.cff](CITATION.cff). Archived releases go to Zenodo through the GitHub integration
+(metadata in `.zenodo.json`, release notes in `docs/`); the DOI will be added here once v1.0.0 is archived.
+Cite the Exercises by paragraph number ([23]) and each work by its own pages.
+
 ## Licences
 
 Code [MIT](LICENSE). Editorial texts (notes, summaries, introductions) [CC BY 4.0](LICENSE-CONTENT).

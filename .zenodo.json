@@ -1,0 +1,26 @@
+{
+  "upload_type": "dataset",
+  "title": "Annotationes: The Spiritual Exercises in the Twentieth Century. A Reception Apparatus",
+  "creators": [
+    {"name": "Fassbender, Pantaleon", "orcid": "0000-0002-6683-3617"}
+  ],
+  "description": "<p>A reception apparatus for the <em>Spiritual Exercises</em> of Ignatius of Loyola in the twentieth century, continuing the author's Ignatiana edition. The text stands at the centre on the paragraph grid [1]&ndash;[370]: the Spanish Autograph and the Latin Vulgate after the Monumenta Ignatiana (Madrid 1919), Elder Mullan's English (1914), Joseph Rickaby's English (2nd ed. 1923) and Alfred Feder's German (1922). The century's readings stand in the margin as 757 glosses from 32 works and 104 journal articles in six languages, among them Longridge (1919), Rickaby, Feder and his endnotes, Przywara's <em>Deus semper maior</em> (1938&ndash;40) with his own index of the numbers of the Exercises transcribed by hand, Jung's <em>Collected Works</em>, Joyce's retreat sermons, the encyclical <em>Mens nostra</em>, the Spanish and Italian reception before 1931 (<em>Raz&oacute;n y Fe</em>, Codina 1926, Torti 1909, Marcos 1923) and the <em>Zeitschrift f&uuml;r Aszese und Mystik</em>, <em>Geist und Leben</em>, <em>Studies in the Spirituality of Jesuits</em> and <em>The Way</em>. Every gloss states the basis of its placement (passage read, table of contents, the book's own index, page, title) and its access tier: public-domain texts are quoted and linked to their scans; protected works are represented by anchors and summaries only.</p><p>With eight reading paths (among them the sources debate 1909&ndash;1956 and the Christ-King meditation 1929&ndash;1942), an introductory essay, a timeline of the works in five lines (1901&ndash;1978), a concept atlas of 68 concepts joined by co-occurrence, a bibliography of the whole apparatus in APA style with BibTeX and RIS export, and public-domain plates.</p><p>Licensing: source code MIT; editorial texts CC BY 4.0; derived data CC0 1.0; the public-domain texts and plates are in the public domain; no protected text is included. Live site: https://annotationes.netlify.app</p>",
+  "license": "MIT",
+  "keywords": [
+    "Ignatius of Loyola",
+    "Spiritual Exercises",
+    "reception history",
+    "Society of Jesus",
+    "Jesuit studies",
+    "history of spirituality",
+    "Erich Przywara",
+    "C. G. Jung",
+    "digital edition",
+    "commentary"
+  ],
+  "related_identifiers": [
+    {"identifier": "10.5281/zenodo.22682750", "relation": "continues", "resource_type": "dataset"},
+    {"identifier": "10.5281/zenodo.22967521", "relation": "references", "resource_type": "dataset"},
+    {"identifier": "https://annotationes.netlify.app/", "relation": "isDocumentedBy", "resource_type": "publication-other"}
+  ]
+}
