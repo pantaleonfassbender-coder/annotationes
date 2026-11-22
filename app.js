@@ -410,7 +410,7 @@ function viewMethod() {
   const tierRows = Object.keys(TIERS).map(t => `<tr><td><span class="tier ${t}">${t}</span></td><td>${esc(TIERS[t])}</td><td>${{
     A: "The text is public domain in the United States (published before 1931) and is shown here: in full, or as the passages a gloss quotes.",
     B: "The text is free to read on its publisher's site. The apparatus records where it touches the book and links there; it copies nothing.",
-    C: "The text is protected. The apparatus will ship only an anchor table (which page treats which paragraph), derived data without text, and the full-text functions open on a copy the reader owns. Stage 1 has no anchor tables yet.",
+    C: "The text is protected. The apparatus will ship only an anchor table (which page treats which paragraph), derived data without text, and the full-text functions open on a copy the reader owns. The first table, for Przywara's Deus semper maior vol. I, is in (read from its table of contents).",
     D: "Known and recorded, not obtainable or not yet cleared. Listed so that the gaps are visible.",
   }[t]}</td></tr>`).join("");
   view.append(el(`<div>

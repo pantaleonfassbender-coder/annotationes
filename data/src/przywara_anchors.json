@@ -1,0 +1,495 @@
+{
+ "_note": "Anchor table for Erich Przywara, Deus semper maior (Freiburg: Herder, 1938-40): where each part of the Exercises is treated, by volume and page, read from the tables of contents of the volumes as scanned at the Internet Archive (borrowed copies, read on 21 November 2026). Derived data without text (CC0). 'what' is my own English description, not Przywara's heading. Volumes II and III still carry only the coarse assignment of glosses_curated.json.",
+ "edition": "Herder 1938-1940, first edition",
+ "anchors": [
+  {
+   "vol": 1,
+   "pp": [
+    1,
+    10
+   ],
+   "spex": null,
+   "what": "Anima Christi, line by line (soul, body, blood, water; passion; 'hide me', 'call me')"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    11,
+    14
+   ],
+   "spex": [
+    1,
+    20
+   ],
+   "what": "Annotations: introduction"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    15,
+    20
+   ],
+   "spex": [
+    1,
+    1
+   ],
+   "what": "First Annotation: 'exercise' and 'disposition'"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    21,
+    28
+   ],
+   "spex": [
+    2,
+    5
+   ],
+   "what": "Annotations 2-5: giver and receiver, binding and freedom"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    29,
+    35
+   ],
+   "spex": [
+    6,
+    17
+   ],
+   "what": "Annotations 6-17: movements of spirits, the giver's help and distance"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    37,
+    43
+   ],
+   "spex": [
+    18,
+    22
+   ],
+   "what": "Annotations 18-20, the title and the Presupposition: kinds of Exercises, withdrawal"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    45,
+    138
+   ],
+   "spex": [
+    23,
+    23
+   ],
+   "what": "Principle and Foundation (man; the other things; indifference)"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    141,
+    144
+   ],
+   "spex": [
+    24,
+    90
+   ],
+   "what": "First Week: introduction"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    145,
+    146
+   ],
+   "spex": [
+    24,
+    44
+   ],
+   "what": "Examens: introduction"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    146,
+    150
+   ],
+   "spex": [
+    24,
+    31
+   ],
+   "what": "Particular Examen"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    150,
+    161
+   ],
+   "spex": [
+    32,
+    43
+   ],
+   "what": "General Examen: thought, word, deed, method"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    160,
+    161
+   ],
+   "spex": [
+    44,
+    44
+   ],
+   "what": "General confession with communion"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    162,
+    169
+   ],
+   "spex": [
+    73,
+    87
+   ],
+   "what": "Additions and penance, treated before the exercises as the order of prayer"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    169,
+    173
+   ],
+   "spex": [
+    72,
+    90
+   ],
+   "what": "Order of the day of prayer: framing and distribution of the hours"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    173,
+    180
+   ],
+   "spex": [
+    238,
+    260
+   ],
+   "what": "The three methods of prayer, read as an introduction to the rhythm of the Exercises"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    180,
+    193
+   ],
+   "spex": [
+    45,
+    49
+   ],
+   "what": "The form of prayer: consideration, meditation, contemplation; preludes, points, colloquy"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    191,
+    191
+   ],
+   "spex": [
+    258,
+    260
+   ],
+   "what": "The third method of prayer as a symbol of rhythm"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    195,
+    196
+   ],
+   "spex": [
+    45,
+    71
+   ],
+   "what": "Sin: introduction to the five exercises"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    196,
+    197
+   ],
+   "spex": [
+    45,
+    49
+   ],
+   "what": "First Exercise: introduction (the three powers, the Cross)"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    197,
+    204
+   ],
+   "spex": [
+    50,
+    50
+   ],
+   "what": "The sin of the angels: memory, understanding, will"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    204,
+    209
+   ],
+   "spex": [
+    51,
+    51
+   ],
+   "what": "The sin of Adam and Eve"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    209,
+    213
+   ],
+   "spex": [
+    52,
+    52
+   ],
+   "what": "The particular sin of one person"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    213,
+    216
+   ],
+   "spex": [
+    53,
+    54
+   ],
+   "what": "Colloquy with Christ crucified"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    216,
+    217
+   ],
+   "spex": [
+    55,
+    55
+   ],
+   "what": "Second Exercise: one's own sins"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    217,
+    217
+   ],
+   "spex": [
+    56,
+    56
+   ],
+   "what": "The process of the sins"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    218,
+    218
+   ],
+   "spex": [
+    57,
+    57
+   ],
+   "what": "The weight of the sins"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    219,
+    219
+   ],
+   "spex": [
+    58,
+    58
+   ],
+   "what": "Who I am"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    220,
+    222
+   ],
+   "spex": [
+    59,
+    59
+   ],
+   "what": "Who God is"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    223,
+    223
+   ],
+   "spex": [
+    60,
+    60
+   ],
+   "what": "The exclamation of wonder, read as the contradiction of justice and grace"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    224,
+    225
+   ],
+   "spex": [
+    61,
+    61
+   ],
+   "what": "Colloquy of mercy"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    225,
+    226
+   ],
+   "spex": [
+    62,
+    64
+   ],
+   "what": "Third and Fourth Exercises: the triple colloquy as ground of the three kinds of humility"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    227,
+    236
+   ],
+   "spex": [
+    63,
+    63
+   ],
+   "what": "The three colloquies: to Our Lady, to the Son, to the Father"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    236,
+    238
+   ],
+   "spex": [
+    65,
+    65
+   ],
+   "what": "Fifth Exercise: hell, introduction"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    238,
+    240
+   ],
+   "spex": [
+    66,
+    70
+   ],
+   "what": "Hell through the senses"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    240,
+    244
+   ],
+   "spex": [
+    71,
+    71
+   ],
+   "what": "Colloquy with Christ"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    245,
+    246
+   ],
+   "spex": [
+    313,
+    313
+   ],
+   "what": "Rules for discernment, first set: their place in the First Week"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    246,
+    248
+   ],
+   "spex": [
+    314,
+    315
+   ],
+   "what": "Good and evil spirit in the two kinds of persons"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    249,
+    251
+   ],
+   "spex": [
+    316,
+    317
+   ],
+   "what": "Consolation and desolation"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    251,
+    253
+   ],
+   "spex": [
+    318,
+    322
+   ],
+   "what": "Conduct in desolation"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    253,
+    254
+   ],
+   "spex": [
+    323,
+    324
+   ],
+   "what": "Conduct in consolation"
+  },
+  {
+   "vol": 1,
+   "pp": [
+    254,
+    256
+   ],
+   "spex": [
+    325,
+    327
+   ],
+   "what": "The enemy's wiles"
+  }
+ ]
+}

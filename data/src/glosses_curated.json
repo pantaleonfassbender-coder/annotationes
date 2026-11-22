@@ -1,54 +1,161 @@
 {
-  "_note": "Hand-written glosses. spex: [from, to] on the 1928 grid, or null for the book as a whole. basis says how the assignment was made: read (passage read and mapped), toc (from a table of contents), title (from an article title). note is editorial (CC BY 4.0); quote only from public-domain texts. Pages refer to the edition named in works.json.",
-  "glosses": [
-    { "id": "pius11-1922-a", "work": "pius11-1922", "spex": null, "loc": "AAS 14 (1922), p. 422", "basis": "read",
-      "note": "Ignatius is declared heavenly patron of all Spiritual Exercises and of every institute, sodality and group that serves those who make them. The constitution dates itself to the third centenary of his canonisation and the fourth of the 'golden booklet'.",
-      "quote": "S. Ignatium de Loyola omnium Exercitiorum Spiritualium ideoque institutorum, sodalitiorum, coetuum cuiusvis generis, iis qui Exercitia Spiritualia obeunt, operam studiumque navantium, Patronum Caelestem declaramus, constituimus, renuntiamus." },
-
-    { "id": "pius11-1929-a", "work": "pius11-1929", "spex": null, "loc": "AAS 21 (1929), pp. 703–704", "basis": "read",
-      "note": "Among all methods of retreat one has always held first place: that of Ignatius, 'chief and particular master of the Spiritual Exercises'. The encyclical quotes Pius XI's own words from before his election calling the book a code of norms 'wholly universal'.",
-      "quote": "methodum intelligimus invectam a sancto Ignatio de Loyola, quem praecipuum et peculiarem Magistrum Exercitiorum spiritualium appellare placet" },
-
-    { "id": "pius11-1929-b", "work": "pius11-1929", "spex": [18, 20], "loc": "AAS 21 (1929), p. 704", "basis": "read",
-      "note": "Among the book's excellences the encyclical names its 'admirable ease' of adaptation to every order and state of life, contemplatives and people in secular business alike: the theme of the last three Annotations. In the same sentence the doctrine is called free of the dangers of 'false mysticism', a phrase that belongs to the ascetical–mystical debate of the 1920s.",
-      "quote": "admirabilis facilitas Exercitia haec ad quemvis hominum ordinem ac statum accommodandi, sive ii in coenobiis contemplationi incumbunt, sive in saecularibus negotiis actuosam vitam traducunt" },
-
-    { "id": "joyce-1916-a", "work": "joyce-1916", "spex": [20, 20], "loc": "pp. 121–124", "basis": "read",
-      "note": "The rector announces a three-day school retreat in honour of Francis Xavier; the preacher defines a retreat as withdrawal from ordinary cares for self-examination, the separation the twentieth Annotation asks of the one who makes the Exercises.",
-      "quote": "A retreat, my dear boys, signifies a withdrawal for a while from the cares of our life, the cares of this workaday world, in order to examine the state of our conscience, to reflect on the mysteries of holy religion and to understand better why we are here in this world." },
-
-    { "id": "joyce-1916-b", "work": "joyce-1916", "spex": [78, 78], "loc": "pp. 124–130", "basis": "read",
-      "note": "The retreat is preached on the four last things, beginning with death and judgment. Ignatius names death and judgment in the sixth Addition as what to keep before oneself in the First Week; the retreat tradition turned them into sermons of their own.",
-      "quote": "During these few days I intend to put before you some thoughts concerning the four last things. They are, as you know from your catechism, death, judgment, hell and heaven." },
-
-    { "id": "joyce-1916-c", "work": "joyce-1916", "spex": [65, 71], "loc": "pp. 134–148", "basis": "read",
-      "note": "The two hell sermons follow the fifth exercise of the First Week through the five senses, sight, smell, hearing, taste and touch, and then through the 'worm of conscience' that Ignatius puts under taste. Joyce's reader receives the meditation as rhetoric aimed at a boy.",
-      "quote": "Every sense of the flesh is tortured and every faculty of the soul therewith: the eyes with impenetrable utter darkness, the nose with noisome odours, the ears with yells and howls and execrations, the taste with foul matter, leprous corruption, nameless suffocating filth, the touch with redhot goads and spikes, with cruel tongues of flame." },
-
-    { "id": "joyce-1916-d", "work": "joyce-1916", "spex": [47, 47], "loc": "p. 145", "basis": "read",
-      "note": "The preacher names the method he has been using: the composition of place, with Ignatius as 'our holy founder'. The one explicit reference to the book in the novel.",
-      "quote": "This morning we endeavoured, in our reflection upon hell, to make what our holy founder calls in his book of spiritual exercises, the composition of place." },
-
-    { "id": "przywara-dsm-0", "work": "przywara-dsm", "spex": null, "loc": "vol. I", "basis": "toc",
-      "note": "Volume I opens with the Anima Christi, the prayer printed before the Exercises in many editions but not part of the numbered text." },
-    { "id": "przywara-dsm-1", "work": "przywara-dsm", "spex": [1, 20], "loc": "vol. I", "basis": "toc", "note": "Annotationen." },
-    { "id": "przywara-dsm-2", "work": "przywara-dsm", "spex": [23, 23], "loc": "vol. I", "basis": "toc", "note": "Fundament." },
-    { "id": "przywara-dsm-3", "work": "przywara-dsm", "spex": [24, 90], "loc": "vol. I", "basis": "toc", "note": "Erste Woche." },
-    { "id": "przywara-dsm-4", "work": "przywara-dsm", "spex": [91, 189], "loc": "vol. II", "basis": "toc", "note": "Zweite Woche." },
-    { "id": "przywara-dsm-5", "work": "przywara-dsm", "spex": [190, 217], "loc": "vol. III", "basis": "toc", "note": "Dritte Woche." },
-    { "id": "przywara-dsm-6", "work": "przywara-dsm", "spex": [218, 229], "loc": "vol. III", "basis": "toc", "note": "Vierte Woche." },
-    { "id": "przywara-dsm-7", "work": "przywara-dsm", "spex": [230, 237], "loc": "vol. III", "basis": "toc", "note": "Liebe: the Contemplation to Attain Love." },
-    { "id": "przywara-dsm-8", "work": "przywara-dsm", "spex": null, "loc": "vol. III", "basis": "toc",
-      "note": "Nachwort: Gott in allen Dingen. The table of contents names no separate part for the methods of prayer, the mysteries or the rules [238]–[370]." },
-
-    { "id": "endean-s103", "work": "theway", "spex": null, "basis": "read", "scholarship": true,
-      "author": "Philip Endean, SJ", "title": "The Concept of Ignatian Mysticism: Beyond Rahner and de Guibert", "year": 2002, "loc": "The Way Supplement 103 (issue number from the file name; year inferred, the notes cite work of 2001)",
-      "url": "https://www.theway.org.uk/back/s103Endean.pdf",
-      "note": "Dates the very phrase 'Ignatian mysticism' to the 1930s, with Karl Rahner's essay of 1937 and Joseph de Guibert's work as the poles. Later scholarship on the reception, linked for orientation." },
-
-    { "id": "faber-1993", "work": "gul", "spex": null, "basis": "title", "scholarship": true,
-      "author": "Eva-Maria Faber", "title": "Deus semper maior. Erich Przywaras Theologie der Exerzitien", "year": 1993, "loc": "Geist und Leben 66 (1993), pp. 208–227",
-      "url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-66-1993/heft-3-mai-juni-16/abhandlungen-eva-maria-faber-deus-semper-maior-erich-przywaras-theologie-der-exerzitien-208%E2%88%92227/",
-      "note": "The German introduction to Przywara's commentary. Later scholarship, linked for orientation." }
-  ]
+ "_note": "Hand-written glosses. spex: [from, to] on the 1928 grid, or null for the book as a whole. basis says how the assignment was made: read (passage read and mapped), toc (from a table of contents), title (from an article title). note is editorial (CC BY 4.0); quote only from public-domain texts. Pages refer to the edition named in works.json.",
+ "glosses": [
+  {
+   "id": "pius11-1922-a",
+   "work": "pius11-1922",
+   "spex": null,
+   "loc": "AAS 14 (1922), p. 422",
+   "basis": "read",
+   "note": "Ignatius is declared heavenly patron of all Spiritual Exercises and of every institute, sodality and group that serves those who make them. The constitution dates itself to the third centenary of his canonisation and the fourth of the 'golden booklet'.",
+   "quote": "S. Ignatium de Loyola omnium Exercitiorum Spiritualium ideoque institutorum, sodalitiorum, coetuum cuiusvis generis, iis qui Exercitia Spiritualia obeunt, operam studiumque navantium, Patronum Caelestem declaramus, constituimus, renuntiamus."
+  },
+  {
+   "id": "pius11-1929-a",
+   "work": "pius11-1929",
+   "spex": null,
+   "loc": "AAS 21 (1929), pp. 703–704",
+   "basis": "read",
+   "note": "Among all methods of retreat one has always held first place: that of Ignatius, 'chief and particular master of the Spiritual Exercises'. The encyclical quotes Pius XI's own words from before his election calling the book a code of norms 'wholly universal'.",
+   "quote": "methodum intelligimus invectam a sancto Ignatio de Loyola, quem praecipuum et peculiarem Magistrum Exercitiorum spiritualium appellare placet"
+  },
+  {
+   "id": "pius11-1929-b",
+   "work": "pius11-1929",
+   "spex": [
+    18,
+    20
+   ],
+   "loc": "AAS 21 (1929), p. 704",
+   "basis": "read",
+   "note": "Among the book's excellences the encyclical names its 'admirable ease' of adaptation to every order and state of life, contemplatives and people in secular business alike: the theme of the last three Annotations. In the same sentence the doctrine is called free of the dangers of 'false mysticism', a phrase that belongs to the ascetical–mystical debate of the 1920s.",
+   "quote": "admirabilis facilitas Exercitia haec ad quemvis hominum ordinem ac statum accommodandi, sive ii in coenobiis contemplationi incumbunt, sive in saecularibus negotiis actuosam vitam traducunt"
+  },
+  {
+   "id": "joyce-1916-a",
+   "work": "joyce-1916",
+   "spex": [
+    20,
+    20
+   ],
+   "loc": "pp. 121–124",
+   "basis": "read",
+   "note": "The rector announces a three-day school retreat in honour of Francis Xavier; the preacher defines a retreat as withdrawal from ordinary cares for self-examination, the separation the twentieth Annotation asks of the one who makes the Exercises.",
+   "quote": "A retreat, my dear boys, signifies a withdrawal for a while from the cares of our life, the cares of this workaday world, in order to examine the state of our conscience, to reflect on the mysteries of holy religion and to understand better why we are here in this world."
+  },
+  {
+   "id": "joyce-1916-b",
+   "work": "joyce-1916",
+   "spex": [
+    78,
+    78
+   ],
+   "loc": "pp. 124–130",
+   "basis": "read",
+   "note": "The retreat is preached on the four last things, beginning with death and judgment. Ignatius names death and judgment in the sixth Addition as what to keep before oneself in the First Week; the retreat tradition turned them into sermons of their own.",
+   "quote": "During these few days I intend to put before you some thoughts concerning the four last things. They are, as you know from your catechism, death, judgment, hell and heaven."
+  },
+  {
+   "id": "joyce-1916-c",
+   "work": "joyce-1916",
+   "spex": [
+    65,
+    71
+   ],
+   "loc": "pp. 134–148",
+   "basis": "read",
+   "note": "The two hell sermons follow the fifth exercise of the First Week through the five senses, sight, smell, hearing, taste and touch, and then through the 'worm of conscience' that Ignatius puts under taste. Joyce's reader receives the meditation as rhetoric aimed at a boy.",
+   "quote": "Every sense of the flesh is tortured and every faculty of the soul therewith: the eyes with impenetrable utter darkness, the nose with noisome odours, the ears with yells and howls and execrations, the taste with foul matter, leprous corruption, nameless suffocating filth, the touch with redhot goads and spikes, with cruel tongues of flame."
+  },
+  {
+   "id": "joyce-1916-d",
+   "work": "joyce-1916",
+   "spex": [
+    47,
+    47
+   ],
+   "loc": "p. 145",
+   "basis": "read",
+   "note": "The preacher names the method he has been using: the composition of place, with Ignatius as 'our holy founder'. The one explicit reference to the book in the novel.",
+   "quote": "This morning we endeavoured, in our reflection upon hell, to make what our holy founder calls in his book of spiritual exercises, the composition of place."
+  },
+  {
+   "id": "przywara-dsm-4",
+   "work": "przywara-dsm",
+   "spex": [
+    91,
+    189
+   ],
+   "loc": "vol. II",
+   "basis": "toc",
+   "note": "Zweite Woche."
+  },
+  {
+   "id": "przywara-dsm-5",
+   "work": "przywara-dsm",
+   "spex": [
+    190,
+    217
+   ],
+   "loc": "vol. III",
+   "basis": "toc",
+   "note": "Dritte Woche."
+  },
+  {
+   "id": "przywara-dsm-6",
+   "work": "przywara-dsm",
+   "spex": [
+    218,
+    229
+   ],
+   "loc": "vol. III",
+   "basis": "toc",
+   "note": "Vierte Woche."
+  },
+  {
+   "id": "przywara-dsm-7",
+   "work": "przywara-dsm",
+   "spex": [
+    230,
+    237
+   ],
+   "loc": "vol. III",
+   "basis": "toc",
+   "note": "Liebe: the Contemplation to Attain Love."
+  },
+  {
+   "id": "przywara-dsm-8",
+   "work": "przywara-dsm",
+   "spex": null,
+   "loc": "vol. III",
+   "basis": "toc",
+   "note": "Nachwort: Gott in allen Dingen. The table of contents names no separate part for the methods of prayer, the mysteries or the rules [238]–[370]."
+  },
+  {
+   "id": "endean-s103",
+   "work": "theway",
+   "spex": null,
+   "basis": "read",
+   "scholarship": true,
+   "author": "Philip Endean, SJ",
+   "title": "The Concept of Ignatian Mysticism: Beyond Rahner and de Guibert",
+   "year": 2002,
+   "loc": "The Way Supplement 103 (issue number from the file name; year inferred, the notes cite work of 2001)",
+   "url": "https://www.theway.org.uk/back/s103Endean.pdf",
+   "note": "Dates the very phrase 'Ignatian mysticism' to the 1930s, with Karl Rahner's essay of 1937 and Joseph de Guibert's work as the poles. Later scholarship on the reception, linked for orientation."
+  },
+  {
+   "id": "faber-1993",
+   "work": "gul",
+   "spex": null,
+   "basis": "title",
+   "scholarship": true,
+   "author": "Eva-Maria Faber",
+   "title": "Deus semper maior. Erich Przywaras Theologie der Exerzitien",
+   "year": 1993,
+   "loc": "Geist und Leben 66 (1993), pp. 208–227",
+   "url": "https://www.geist-und-leben.de/archiv/archiv-gul/gul-66-1993/heft-3-mai-juni-16/abhandlungen-eva-maria-faber-deus-semper-maior-erich-przywaras-theologie-der-exerzitien-208%E2%88%92227/",
+   "note": "The German introduction to Przywara's commentary. Later scholarship, linked for orientation."
+  }
+ ]
 }

@@ -61,6 +61,17 @@ for i, e in enumerate(RK['entries']):
             'note': '', 'ref': {'file': 'rickaby_exx.json', 'index': i},
         })
 
+# Przywara: the page anchor table (volume and pages where each part of the Exercises is treated).
+PZ = load(D('src', 'przywara_anchors.json'))
+ROMAN = {1: 'I', 2: 'II', 3: 'III'}
+for i, a in enumerate(PZ['anchors']):
+    pp = f'pp. {a["pp"][0]}–{a["pp"][1]}' if a['pp'][0] != a['pp'][1] else f'p. {a["pp"][0]}'
+    out.append({
+        'id': f'przywara-a{i}', 'work': 'przywara-dsm', 'spex': a['spex'],
+        'loc': f'vol. {ROMAN[a["vol"]]}, {pp}', 'basis': 'toc', 'note': a['what'],
+        'anchor': {'vol': a['vol'], 'pp': a['pp']},
+    })
+
 out += load(D('src', 'glosses_curated.json'))['glosses']
 if os.path.exists(D('src', 'journals.json')):
     out += load(D('src', 'journals.json'))['glosses']
