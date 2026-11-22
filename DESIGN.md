@@ -222,10 +222,14 @@ Two layers, both linked rather than reproduced:
    "spiritual exercises" is generic are left out. Findings: Jung quotes the Exercises in Rickaby's
    second edition (1923) throughout (CW 9ii, 13, 14); the stations cluster on the Foundation [23],
    the colloquy [53–54], the hell meditation and the senses [65–71, 121–126, 247–248], and, by way
-   of the serpent vision of the Autobiography, on discernment. The deep link into the Jung site
-   waits for the address of the operator's own deploy.
+   of the serpent vision of the Autobiography, on discernment. The operator's Jung site is the Netlify
+   project `analysis-works-jung` (repo `collected-works`); it was disabled on Netlify as of 22 November
+   2026, so the glosses carry no link yet. Its router has no paragraph address; the deepest link is
+   `#/volumes/{n}`.
 2. **ETH lectures 1939–40** (Liebscher 2023), tier C. Like Przywara's first volume, they take up the
    *Anima Christi*; whether Jung knew Przywara's work is to be checked in Liebscher's apparatus.
+   No copy is available to the operator (22 November 2026), so this layer stays a bibliographic
+   record (tier D in practice) and the *Anima Christi* path is shelved.
 
 ## 8. Relation to the sister sites
 
