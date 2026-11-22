@@ -246,8 +246,10 @@ gloss index) CC0; public-domain texts as such. No copyrighted text in the reposi
 
 - End date 1978 or 2000?
 - German translation layer: done (stage 1b, 21 November 2026), Feder 1922, paragraph-exact. Open: the
-  residual reading errors of the microfilm OCR (a better scan of the 1921/22 editions would help), Feder's
-  italics (translator's additions) and his endnotes as a commentary layer.
+  residual reading errors of the microfilm OCR (a better scan of the 1921/22 editions would help) and
+  Feder's italics (translator's additions). His endnotes are in (108 notes, `tools/feder_notes.py`),
+  placed page-exact by the page of the call, since the calls were not kept in the text; a paragraph-exact
+  placement would need the call marks read from the page images.
 - Should the 1928 numbering be told as its own story (who introduced it, in which edition)? It would
   make claim 2 of §1 checkable.
 - Name: *Annotationes* is a working title.

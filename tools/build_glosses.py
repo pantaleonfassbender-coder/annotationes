@@ -6,6 +6,7 @@ Sources:
                                    one gloss per commentary block and per
                                    Additional Note; the text stays in that
                                    file and is loaded when a card is opened.
+  data/feder_notes.json            Feder 1922's endnotes (tools/feder_notes.py).
   data/src/glosses_curated.json    hand-written glosses (notes CC BY 4.0).
   data/src/journals.json           Zeitschrift für Aszese und Mystik and
                                    Geist und Leben articles, assigned from
@@ -60,6 +61,18 @@ for i, e in enumerate(RK['entries']):
             'label': f'Notes on [{a}]–[{b}]' if a != b else f'Notes on [{a}]',
             'note': '', 'ref': {'file': 'rickaby_exx.json', 'index': i},
         })
+
+# Feder 1922: his endnotes, placed by the page that carries the call (data/feder_notes.json,
+# built by tools/feder_notes.py). The card shows the opening; the whole note loads on demand.
+FN = load(D('feder_notes.json'))
+for i, e in enumerate(FN['entries']):
+    t = e['paras'][0]
+    cut = t if len(t) <= 260 else t[:t.rfind(' ', 0, 240)] + ' …'
+    g = {'id': f'feder-note-{i}', 'work': 'feder-1922', 'spex': e['spex'], 'loc': f'note on p. {e["page"]}',
+         'basis': 'page', 'note': '', 'quote': cut}
+    if cut != t:
+        g['ref'] = {'file': 'feder_notes.json', 'index': i}
+    out.append(g)
 
 # Przywara: the page anchor table (volume and pages where each part of the Exercises is treated).
 PZ = load(D('src', 'przywara_anchors.json'))

@@ -24,6 +24,7 @@ const BASIS = {
   read: "passage read and assigned",
   section: "the commentary's own section, mapped onto the grid",
   matched: "placed by matching the author's Spanish text to the autograph",
+  page: "placed by the page that carries the note's call (page-exact, not paragraph-exact)",
   toc: "assigned from the table of contents",
   title: "assigned from the article title",
 };
@@ -321,7 +322,7 @@ function glossCard(g, opts = {}) {
   };
   return card;
 }
-const moreLabel = g => g.work === "rickaby-1915" ? "Show Rickaby's notes" : "Show Longridge's text";
+const moreLabel = g => ({ "rickaby-1915": "Show Rickaby's notes", "feder-1922": "Show the whole note" })[g.work] || "Show Longridge's text";
 function notesHTML(doc, ref) {
   const e = doc.entries[ref.index];
   return e ? e.paras.map(p => `<p>${esc(p)}</p>`).join("") + `<p class="fine">${esc(doc.hinweis)}</p>` : "";
@@ -450,10 +451,12 @@ function viewMethod() {
         their titles.</li>
         <li>In since stage 1b: Feder 1922 as German layer of the centre text, paragraph-exact; Rickaby's notes
         (second edition, 1923) as a commentary layer, placed by matching his Spanish column to the autograph.</li>
-        <li>Pending: Rickaby's translation; Feder's endnotes as a commentary layer; the articles of
-        the <em>Revue d'ascétique et de mystique</em> vols. 1–4; <em>Studies in the Spirituality of Jesuits</em>; page
-        anchor tables for the tier-C works, Przywara first; the Jung passages, which have been located but not yet
-        read.</li>
+        <li>Since then: Feder's endnotes (108 notes, pp. 164–185) as a German commentary layer, placed by the page
+        that carries each call; a page anchor table for all three volumes of Przywara's <em>Deus semper maior</em>
+        (148 anchors, read in the lending scans); selected articles of the <em>Revue d'ascétique et de mystique</em>
+        vols. 1–4 and of <em>Studies in the Spirituality of Jesuits</em>, read and assigned.</li>
+        <li>Pending: Rickaby's translation; a hand transcription of Przywara's own index of Exercises numbers
+        (vol. III, pp. 438–440); the Jung passages, which have been located but not yet read.</li>
       </ul></div>
     <div class="panel"><h2>Licences and data</h2>
       <p class="readable">Code MIT; editorial texts (notes, summaries, introductions) CC BY 4.0; derived data (gloss
