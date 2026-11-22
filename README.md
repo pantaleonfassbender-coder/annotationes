@@ -17,6 +17,10 @@ Stage 1 of the build. The design document is [DESIGN.md](DESIGN.md).
   corrections, log in `data/src/feder_corrections.json`), `tools/feder_align.py` with the editorial anchor
   table `tools/feder_anchors.json`, and `tools/feder_check.py` (length check against the Spanish).
 - Longridge 1919 as a commentary layer (taken over from Ignatiana; text loaded on demand).
+- Rickaby's notes (*Spanish and English, with a Continuous Commentary*, 2nd ed. 1923; first ed. 1915) as a
+  second English commentary layer (`data/rickaby_exx.json`), built by `tools/rickaby_extract.py` from the
+  Google Books PDF (F7kHAQAAIAAJ, not in the repository): columns and notes separated, each set of notes
+  placed on the paragraphs whose Spanish it follows. Rickaby rearranges the book; the work page says how.
 - Joyce, *A Portrait of the Artist as a Young Man* (1916), the retreat chapter: four passages.
 - Pius XI, *Summorum Pontificum* (1922) and *Mens nostra* (1929): key passages from the Acta
   Apostolicae Sedis.

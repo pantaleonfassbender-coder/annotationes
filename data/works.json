@@ -9,10 +9,12 @@
       "note": "An Anglican religious of the Society of St John the Evangelist, not a Jesuit: four years after Rickaby, a full commentary from outside the Society. His commentary is cut at his own headings into blocks and mapped editorially onto the paragraph grid, which his book predates; taken over from Ignatiana." },
 
     { "id": "rickaby-1915", "author": "Joseph Rickaby, SJ", "title": "The Spiritual Exercises of St. Ignatius Loyola: Spanish and English, with a Continuous Commentary",
-      "year": 1915, "lang": "en", "genre": "commentary", "tier": "A", "status": "source located, not yet in the apparatus",
-      "rights": "US public domain (HathiTrust rights code pd).",
-      "sources": [ { "label": "HathiTrust uiug.30112000597846", "url": "https://babel.hathitrust.org/cgi/pt?id=uiug.30112000597846" } ],
-      "note": "Not on the Internet Archive. HathiTrust serves the scan behind a bot check; extraction has to go through the browser." },
+      "year": 1915, "lang": "en", "genre": "commentary", "tier": "A", "status": "in the apparatus: his notes, from the second edition of 1923",
+      "imprint": "First edition 1915; second edition London: Burns Oates & Washbourne, 1923, which is the text used here. Page numbers are those of 1923",
+      "rights": "US public domain (both editions published before 1931).",
+      "sources": [ { "label": "Google Books F7kHAQAAIAAJ (2nd ed. 1923, Stanford copy)", "url": "https://books.google.com/books?id=F7kHAQAAIAAJ" },
+                   { "label": "HathiTrust uiug.30112000597846 (1923)", "url": "https://babel.hathitrust.org/cgi/pt?id=uiug.30112000597846" } ],
+      "note": "Rickaby prints the Spanish autograph and his translation in two columns, with notes across the page after each piece. He rearranges the book for use in a retreat: the Presupposition stands before the Annotations, the Examens follow the Additions, each set of rules for discernment follows its Week, the Mysteries of the Life of Christ are worked into the days of the Second Week, the rules on alms and scruples follow the Election. His notes are placed on the paragraphs whose text they follow, found by matching his Spanish column against the autograph (tools/rickaby_extract.py); a set of notes that follows text from two places of his order is shown at both. The text is Google's machine reading, not corrected by hand; the translation is not yet shown." },
 
     { "id": "feder-1922", "author": "Alfred Feder, SJ (1872–1927)", "title": "Ignatius von Loyola, Geistliche Übungen. Nach dem spanischen Urtext übertragen, eingeleitet und mit Anmerkungen versehen",
       "year": 1922, "lang": "de", "genre": "translation", "tier": "A", "status": "in the apparatus: German layer of the centre text, paragraph-exact on [1]–[370]",

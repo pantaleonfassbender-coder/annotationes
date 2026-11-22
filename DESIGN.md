@@ -118,7 +118,7 @@ Checked 21 November 2026; the status column says what was confirmed and what is 
 
 | Work | Year | Language | Source | Status |
 |---|---|---|---|---|
-| Rickaby, *The Spiritual Exercises … Spanish and English, with a Continuous Commentary* | 1915 | en | HathiTrust `uiug.30112000597846` (rights `pd`, full view; Cloudflare bot check, see Ignatiana memory) | confirmed |
+| Rickaby, *The Spiritual Exercises … Spanish and English, with a Continuous Commentary* | 1915 (2nd ed. 1923) | en | Google Books F7kHAQAAIAAJ (2nd ed. 1923, PDF downloaded by hand: captcha); HathiTrust `uiug.30112000597846` (1923) sits behind a Cloudflare check | **in (stage 1b): notes as commentary layer** |
 | Longridge, *The Spiritual Exercises … translated … with commentary and the Directorium* | 1919 | en | IA `spiritualexercis00igna_4`; already segmented in Ignatiana (`longridge_exx.json`) | reuse |
 | Pius XI, apostolic constitution *Summorum Pontificum*, 25 July 1922: "S. Ignatius de Loyola caelestis Exercitiorum spiritualium patronus" | 1922 | la | AAS 14 (1922), issue 12 of 25 July 1922: IA `sim_acta-apostolicae-sedis_1922-07-25_14_12`, not restricted, OCR available; Latin also on vatican.va | confirmed |
 | Pius XI, encyclical *Mens nostra*, 20 December 1929 | 1929 | la | AAS 21 (1929), issue 16 of 31 December 1929: IA `sim_acta-apostolicae-sedis_1929-12-31_21_16`, not restricted, OCR available; vatican.va has la/en/es/it (check whether the modern translations are protected; the Latin is not) | confirmed |

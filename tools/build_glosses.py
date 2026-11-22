@@ -48,6 +48,19 @@ for n in L['notes']:
         'note': '', 'ref': {'file': 'longridge_exx.json', 'note': n['id']},
     })
 
+# Rickaby 1923: one gloss per run of paragraphs a set of his notes follows (a set that
+# follows text from two places of his rearranged book gives two glosses, same text).
+RK = load(D('rickaby_exx.json'))
+for i, e in enumerate(RK['entries']):
+    pg = f'pp. {e["pages"][0]}–{e["pages"][1]}' if e['pages'][0] != e['pages'][1] else f'p. {e["pages"][0]}'
+    for k, (a, b) in enumerate(e['runs']):
+        out.append({
+            'id': f'rickaby-{i}-{k}', 'work': 'rickaby-1915', 'year': 1923,
+            'spex': [a, b], 'loc': pg, 'basis': 'matched',
+            'label': f'Notes on [{a}]–[{b}]' if a != b else f'Notes on [{a}]',
+            'note': '', 'ref': {'file': 'rickaby_exx.json', 'index': i},
+        })
+
 out += load(D('src', 'glosses_curated.json'))['glosses']
 if os.path.exists(D('src', 'journals.json')):
     out += load(D('src', 'journals.json'))['glosses']

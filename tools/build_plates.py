@@ -59,7 +59,14 @@ def fetch(url, tries=5):
             print('  retry', url.split('/iiif/')[1].split('/')[0], e)
             time.sleep(10 * (k + 1))
 
-reg = {SPEX['id']: {'caption': SPEX['caption'], 'credit': SPEX['credit']}}
+# Plates made by hand stay in the registry: rickaby-1915 is page 10 of the Google Books PDF
+# (F7kHAQAAIAAJ), rendered at 220 dpi with PyMuPDF; Google Books serves that PDF only after a
+# captcha, so it cannot be fetched here.
+try:
+    reg = json.load(open(os.path.join(REPO, 'data', 'plates.json'), encoding='utf-8'))
+except FileNotFoundError:
+    reg = {}
+reg[SPEX['id']] = {'caption': SPEX['caption'], 'credit': SPEX['credit']}
 for p in PLATES:
     im = fetch(p['url'])
     im.save(os.path.join(OUT, p['id'] + '.jpg'), quality=82, optimize=True, progressive=True)

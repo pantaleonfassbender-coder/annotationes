@@ -23,6 +23,7 @@ const GENRES = {
 const BASIS = {
   read: "passage read and assigned",
   section: "the commentary's own section, mapped onto the grid",
+  matched: "placed by matching the author's Spanish text to the autograph",
   toc: "assigned from the table of contents",
   title: "assigned from the article title",
 };
@@ -128,7 +129,7 @@ function viewHome() {
       </ol>
     </div>
     <h2 style="margin-top:1.6rem">Plates</h2>
-    <div class="plates">${["spex", "joyce-1916", "longridge-1919", "pius11-1922", "pius11-1929"].map(plateFig).join("")}</div>
+    <div class="plates">${["spex", "rickaby-1915", "joyce-1916", "longridge-1919", "pius11-1922", "pius11-1929"].map(plateFig).join("")}</div>
   </div>`));
 }
 
@@ -292,7 +293,7 @@ function drawMargin(box, n) {
 function glossCard(g, opts = {}) {
   const w = workOf(g);
   const who = g.author || w.author || "";
-  const wt = String(w.title || "").split(/\. |: /)[0];   // short title on cards; the full one is on the work page
+  const wt = String(w.title || "").split(/(?<!\bSt)\. |: /)[0];   // short title on cards; the full one is on the work page
   const head = g.title ? `${esc(g.title)} <span class="fine">in <a href="#/works/${esc(w.id)}">${esc(wt)}</a></span>`
                        : `<a href="#/works/${esc(w.id)}">${esc(wt)}</a>`;
   const card = el(`<article class="gloss ${esc(w.tier)}">
@@ -304,23 +305,29 @@ function glossCard(g, opts = {}) {
     ${g.note ? `<p class="note">${esc(g.note)}</p>` : ""}
     ${g.quote ? `<blockquote>${esc(g.quote)}</blockquote>` : ""}
     ${g.url ? `<p class="note"><a href="${esc(g.url)}" target="_blank" rel="noopener">Read on the publisher's site ↗</a></p>` : ""}
-    ${g.ref ? `<button type="button" class="more">Show Longridge's text</button><div class="body" hidden></div>` : ""}
+    ${g.ref ? `<button type="button" class="more">${esc(moreLabel(g))}</button><div class="body" hidden></div>` : ""}
   </article>`);
   const more = card.querySelector(".more");
   if (more) more.onclick = async () => {
     const body = card.querySelector(".body");
-    if (!body.hidden) { body.hidden = true; more.textContent = "Show Longridge's text"; return; }
+    if (!body.hidden) { body.hidden = true; more.textContent = moreLabel(g); return; }
     more.textContent = "Loading…";
     try {
-      if (!D.longridge) D.longridge = await getJSON("data/longridge_exx.json");
-      body.innerHTML = longridgeHTML(g.ref);
+      D.files = D.files || {};
+      if (!D.files[g.ref.file]) D.files[g.ref.file] = await getJSON("data/" + g.ref.file);
+      body.innerHTML = g.ref.file === "longridge_exx.json" ? longridgeHTML(g.ref) : notesHTML(D.files[g.ref.file], g.ref);
       body.hidden = false; more.textContent = "Hide text";
     } catch (e) { more.textContent = "Could not load the text"; }
   };
   return card;
 }
+const moreLabel = g => g.work === "rickaby-1915" ? "Show Rickaby's notes" : "Show Longridge's text";
+function notesHTML(doc, ref) {
+  const e = doc.entries[ref.index];
+  return e ? e.paras.map(p => `<p>${esc(p)}</p>`).join("") + `<p class="fine">${esc(doc.hinweis)}</p>` : "";
+}
 function longridgeHTML(ref) {
-  const L = D.longridge;
+  const L = D.files["longridge_exx.json"];
   if (ref.note) {
     const n = L.notes.find(x => x.id === ref.note);
     return n ? n.paras.map(p => `<p>${esc(p)}</p>`).join("") : "";
@@ -441,8 +448,9 @@ function viewMethod() {
         <em>Deus semper maior</em> by its table of contents; journal articles from the free archives of the
         <em>Zeitschrift für Aszese und Mystik</em> (1926–1944) and <em>Geist und Leben</em> (1947–1978), assigned from
         their titles.</li>
-        <li>In since stage 1b: Feder 1922 as German layer of the centre text, paragraph-exact.</li>
-        <li>Pending: Rickaby 1915 (HathiTrust); Feder's endnotes as a commentary layer; the articles of
+        <li>In since stage 1b: Feder 1922 as German layer of the centre text, paragraph-exact; Rickaby's notes
+        (second edition, 1923) as a commentary layer, placed by matching his Spanish column to the autograph.</li>
+        <li>Pending: Rickaby's translation; Feder's endnotes as a commentary layer; the articles of
         the <em>Revue d'ascétique et de mystique</em> vols. 1–4; <em>Studies in the Spirituality of Jesuits</em>; page
         anchor tables for the tier-C works, Przywara first; the Jung passages, which have been located but not yet
         read.</li>
